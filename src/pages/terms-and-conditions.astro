@@ -1,0 +1,40 @@
+---
+import Base from '../layouts/Base.astro';
+import Hero from '../components/sections/Hero.astro';
+import SocialProofBar from '../components/sections/SocialProofBar.astro';
+import TermsAndConditionsContent from '../content/pages/terms-and-conditions.md';
+
+// SEO
+const title = "Terms and Conditions | Rebel Ape Marketing";
+const description = "Terms and Conditions for Rebel Ape Marketing services and website.";
+const canonical = "https://www.therebelape.com/terms-and-conditions";
+const image = "https://RebelApeCDN.b-cdn.net/Rebel%20Website/Homepage/bg-gorilla-direct.webp";
+const type = "website";
+const robots = "index, follow";
+---
+
+<Base {title} {description} {canonical} {image} {type} {robots}>
+  <section>
+    <Hero 
+      title="We Built <span class='text-rebel-green'>Rebel Ape Marketing</span> For <span class='text-rebel-green'>Home Services</span> Companies."
+      subtitle="Focused On What <span class='text-rebel-green'>Actually Gets Leads.</span> You Focus On Closing Them."
+      description="We help <strong>home services companies</strong> get more <strong>qualified leads.</strong> We don't just build websites and run ads—we identify what's <strong>actually blocking your growth</strong> and fix it. That's how you get the clarity, confidence, and <strong>leads you deserve.</strong>"
+      features={[
+        'Identify Bottlenecks',
+        'Strategic Clarity. Transparent Results.',
+        'We Win When You Close Deals.'
+      ]}
+      buttonText="Schedule a Call"
+      buttonIcon="calendar"
+      buttonHref="https://schedule.therebelape.com"
+    />
+    <SocialProofBar />
+  </section>
+
+  <section class={`py-6 md:py-8 section-checkers`}>
+    <article class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 prose prose-slate">
+      <TermsAndConditionsContent />
+    </article>
+  </section>
+
+</Base>

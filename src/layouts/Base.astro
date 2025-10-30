@@ -1,0 +1,72 @@
+---
+import '../styles/global.css';
+import Header from '../components/layout/Header.astro';
+import CTAfooter from '../components/sections/CTAfooter.astro';
+import Footer from '../components/layout/Footer.astro';
+
+// SEO
+interface Props {
+  title?: string;
+  description?: string;
+  canonical?: string;
+  image?: string;
+  type?: string;
+  robots?: string;
+  schema?: Record<string, any> | Record<string, any>[];
+  publishedTime?: string;
+  modifiedTime?: string;
+  locale?: string;
+  bodyClass?: string;
+  notes?: Record<string, string>;
+}
+
+const {
+  title = "Rebel Ape Marketing",
+  description,
+  canonical,
+  image,
+  type,
+  robots = "index, follow",
+  schema,
+  publishedTime,
+  modifiedTime,
+  locale,
+  bodyClass = "",
+} = Astro.props as Props;
+---
+
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <meta name="viewport" content="width=device-width" />
+
+    <script is:inline>
+      // @ts-ignore
+      (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+      new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+      j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+      'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+      })(window,document,'script','dataLayer','GTM-TS9DGRQB');
+    </script>
+
+    <meta name="robots" content={robots}>
+    {description && <meta name="description" content={description} />}
+    {canonical && <link rel="canonical" href={canonical} />}
+
+    <meta name="generator" content={Astro.generator} />
+    <title>{title}</title>
+  </head> 
+  <body>
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TS9DGRQB"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    
+    <Header />
+    <slot />
+    <CTAfooter />
+    <Footer />
+
+    <script src="https://backend.leadconnectorhq.com/appengine/loc/TGPU5CMnjHbilJg0GZCr/pool/ewMyjx3lE0CdAgaLTWCh/number_pool.js"></script>
+    <script src="https://backend.leadconnectorhq.com/appengine/js/user_session.js"></script>
+  </body>
+</html>

@@ -1,0 +1,265 @@
+/* ========================================
+   LANDING PAGES & SUBDOMAIN REDIRECTS
+   ======================================== */
+
+/* SUBS */
+http://leads.therebelape.com/ https://uomc.therebelape.com 301!
+https://leads.therebelape.com/ https://uomc.therebelape.com 301!
+https://go.therebelape.com/checklist/ https://uomc.therebelape.com 301!
+https://go.therebelape.com/ https://uomc.therebelape.com 301!
+
+/* SCHEDULE */
+http://therebelape.com/schedule schedule.therebelape.com 301!
+https://therebelape.com/schedule/ schedule.therebelape.com 301!
+https://go.therebelape.com/schedule schedule.therebelape.com 301!
+https://go.therebelape.com/schedule-booking-confirmation schedule.therebelape.com 301!
+https://go.therebelape.com/schedule-select-time schedule.therebelape.com 301!
+https://therebelape.com/contact/request-a-bid/ schedule.therebelape.com 301!
+
+/* CONTACT */
+https://therebelape.com/request-a-bid/ /contact 301!
+https://therebelape.com/contact/ /contact 301!
+
+
+/* ========================================
+   CONTENT PAGES
+   ======================================== */
+
+/* CONVERSION SECRETS */
+  /* Main Pages */
+  https://go.therebelape.com/conversion-secrets /website-design-for-contractors 301!
+  https://go.therebelape.com/conversion-secrets-2357 /website-design-for-contractors 301!
+  https://go.therebelape.com/conversion-secrets/ /website-design-for-contractors 301!
+  https://www.therebelape.com/conversion-secrets /website-design-for-contractors 301!
+  https://therebelape.com/conversion-secrets/ /website-design-for-contractors 301!
+  https://therebelape.com/what-makes-a-high-converting-webpage/ /website-design-for-contractors 301!
+  
+  /* Page Anchors */
+  https://therebelape.com/what-makes-a-high-converting-webpage/#A_website_wont_convert_traffic_if_it_isnt_trustworthy /website-design-for-contractors 301!
+  https://therebelape.com/what-makes-a-high-converting-webpage/#Every_website_should_have_great_content_writing /website-design-for-contractors 301!
+  https://therebelape.com/what-makes-a-high-converting-webpage/#A_phone_number_is_one_of_the_best_items_for_a_high_converting_webpage /website-design-for-contractors 301!
+
+/* ABOUT */
+  /* Main Pages */
+  https://therebelape.com/about/ /about 301!
+  https://therebelape.com/about-us/ /about 301!
+  https://therebelape.com/about-rebel-ape-marketing/ /about 301!
+  
+  /* Adam Miconi */
+  https://therebelape.com/adam-miconi/ /about 301!
+  https://therebelape.com/about/adam-miconi/ /about 301!
+  https://therebelape.com/about-us/adam-miconi/ /about 301!
+  https://therebelape.com/about-rebel-ape-marketing/adam-miconi/ /about 301!
+  https://therebelape.com/about-rebel-ape-marketing/adam-miconi-plumbing-marketing-expert/ /about 301!
+  
+  /* Reviews */
+  https://therebelape.com/about-us/reviews/ /about 301!
+  https://therebelape.com/about-rebel-ape-marketing/plumber-marketing-agency-reviews/ /about 301!
+  https://therebelape.com/about-rebel-ape-marketing/marketing-agency-reviews/ /about 301!
+  https://therebelape.com/about/reviews/ /about 301!
+  
+  /* Referral Program */
+  https://therebelape.com/about-rebel-ape-marketing/plumber-referral-program/ /about 301!
+  https://therebelape.com/about-rebel-ape-marketing/referral-program/ /about 301!
+  https://therebelape.com/about/referral-program/ /about 301!
+  https://therebelape.com/referral-program/ /about 301!
+
+
+/* ========================================
+   WEBSITE DESIGN FOR CONTRACTORS
+   ======================================== */
+
+/* WEBSITE DESIGN FOR CONTRACTORS - General Pages */
+https://therebelape.com/web-design/ /website-design-for-contractors 301!
+https://therebelape.com/web-design /website-design-for-contractors 301!
+https://therebelape.com/website-design/ /website-design-for-contractors 301!
+https://therebelape.com/website-design-and-development-consultant/ /website-design-for-contractors 301!
+https://therebelape.com/services/plumber-website-design/ /website-design-for-contractors 301!
+https://therebelape.com/plumber-website-design/ /website-design-for-contractors 301!
+https://therebelape.com/high-converting-website/feed/ /website-design-for-contractors 301!
+
+/* WEBSITE DESIGN FOR CONTRACTORS - Guide Pages */
+https://therebelape.com/high-converting-website-design-guide/ /website-design-for-contractors 301!
+https://therebelape.com/ultimate-guide-to-small-business-website-design/ /website-design-for-contractors 301!
+https://therebelape.com/how-your-website-design-can-help-or-hurt-your-brand/ /website-design-for-contractors 301!
+https://therebelape.com/increase-website-trust/ /website-design-for-contractors 301!
+https://therebelape.com/plumbing-website-conversion-fixes/ /website-design-for-contractors 301!
+https://therebelape.com/a-website-blog-is-an-seos-secret-weapon/ /website-design-for-contractors 301!
+https://therebelape.com/how-to-improve-website-traffic-with-seo-your-complete-2025-guide/ /website-design-for-contractors 301!
+
+  /* Plumbing Website Conversion Fixes - Anchors */
+  https://therebelape.com/plumbing-website-conversion-fixes/#step-1-put-your-phone-number-in-the-top-right-corner-of-every-page /website-design-for-contractors 301!
+  https://therebelape.com/plumbing-website-conversion-fixes/#step-2-ditch-the-stock-photos%E2%80%94use-real-images-of-your-team /website-design-for-contractors 301!
+  https://therebelape.com/plumbing-website-conversion-fixes/#step-3-add-a-call-to-action-cta-after-every-block-of-text /website-design-for-contractors 301!
+  https://therebelape.com/plumbing-website-conversion-fixes/#the-real-problem-isn%E2%80%99t-traffic%E2%80%94it%E2%80%99s-conversion /website-design-for-contractors 301!
+
+/* WEBSITE DESIGN FOR CONTRACTORS - Location-Specific Pages */
+https://therebelape.com/marketing-services/website-design/ /website-design-for-contractors 301!
+https://therebelape.com/marketing-services/website-design/bountiful/ /website-design-for-contractors 301!
+https://therebelape.com/plumber-marketing-services/plumber-website-design/ /website-design-for-contractors 301!
+https://therebelape.com/plumber-marketing-services/plumber-website-design/plumber-web-design-bountiful/ /website-design-for-contractors 301!
+https://therebelape.com/plumber-website-design/bountiful-web-design/ /website-design-for-contractors 301!
+https://therebelape.com/web-design/bountiful-web-design/ /website-design-for-contractors 301!
+https://therebelape.com/marketing-agencies-utah/seo-for-small-business/seo-and-website-design-in-logan/ /website-design-for-contractors 301!
+https://therebelape.com/marketing-agencies-utah/seo-for-small-business/seo-and-website-design-in-las-vegas/ /website-design-for-contractors 301!
+https://therebelape.com/marketing-agencies-utah/seo-for-small-business/seo-and-website-design-in-layton/ /website-design-for-contractors 301!
+https://therebelape.com/marketing-agencies-utah/seo-for-small-business/seo-website-design-in-saint-george/ /website-design-for-contractors 301!
+https://therebelape.com/marketing-agencies-utah/seo-for-small-business/website-design-in-bountiful-ut/ /website-design-for-contractors 301!
+https://therebelape.com/marketing-agencies-utah/website-developer-for-small-businesses/ /website-design-for-contractors 301!
+
+/* WEBSITE DESIGN FOR CONTRACTORS - Questionnaire & Resources */
+https://therebelape.com/marketing-services/website-design/website-design-questionnaire/ /website-design-for-contractors 301!
+https://therebelape.com/plumber-marketing-services/plumber-website-design/website-design-questionnaire/ /website-design-for-contractors 301!
+https://therebelape.com/services/plumber-website-design/website-design-examples/ /website-design-for-contractors 301!
+https://therebelape.com/web-design-questionnaire/ /website-design-for-contractors 301!
+https://therebelape.com/marketing-services/website-design/website-design-examples/ /website-design-for-contractors 301!
+https://therebelape.com/plumber-marketing-services/plumber-website-design/website-design-examples/ /website-design-for-contractors 301!
+https://therebelape.com/website-design-gallery/ /website-design-for-contractors 301!
+https://therebelape.com/our-work/website-design-gallery/ /website-design-for-contractors 301!
+
+/* WEBSITE DESIGN FOR CONTRACTORS - Logo Designer Page */
+https://therebelape.com/how-to-hire-a-logo-designer/ /website-design-for-contractors 301!
+
+  /* Logo Designer - Page Anchors */
+  https://therebelape.com/how-to-hire-a-logo-designer/#1_Determine_what_you_have_in_mind_when_you_hire_a_logo_designer /website-design-for-contractors 301!
+  https://therebelape.com/how-to-hire-a-logo-designer/#2_How_to_find_and_hire_a_logo_designer /website-design-for-contractors 301!
+  https://therebelape.com/how-to-hire-a-logo-designer/#3_Look_at_the_designers_portfolio /website-design-for-contractors 301!
+  https://therebelape.com/how-to-hire-a-logo-designer/#4_Contact_the_logo_designer /website-design-for-contractors 301!
+  https://therebelape.com/how-to-hire-a-logo-designer/#5_Establish_a_realistic_budget /website-design-for-contractors 301!
+  https://therebelape.com/how-to-hire-a-logo-designer/#6_Go_over_the_project_agree_on_terms_and_finalize_the_contract /website-design-for-contractors 301!
+  https://therebelape.com/how-to-hire-a-logo-designer/#7_What_to_expect_from_the_design_process /website-design-for-contractors 301!
+  https://therebelape.com/how-to-hire-a-logo-designer/#8_Giving_your_feedback /website-design-for-contractors 301!
+  https://therebelape.com/how-to-hire-a-logo-designer/#9_Finishing_the_design /website-design-for-contractors 301!
+  https://therebelape.com/how-to-hire-a-logo-designer/#Action_Steps /website-design-for-contractors 301!
+  https://therebelape.com/how-to-hire-a-logo-designer/#gkfjmr-1-determine-what-you-have-in-mind-when-you-hire-a-logo-designer /website-design-for-contractors 301!
+
+/* WEBSITE DESIGN FOR CONTRACTORS - Client Projects */
+https://therebelape.com/our-work/client-work/capener-matthews-dental-website-design/ /website-design-for-contractors 301!
+https://therebelape.com/our-work/client-work/develop-your-intuitive-gifts-website-design/ /website-design-for-contractors 301!
+https://therebelape.com/our-work/client-work/ellis-printing-website-design/ /website-design-for-contractors 301!
+https://therebelape.com/our-work/client-work/out-there-roofing-website-design/ /website-design-for-contractors 301!
+https://therebelape.com/our-work/client-work/tnt-social-media-website-design/ /website-design-for-contractors 301!
+
+
+/* ========================================
+   SEO & MARKETING CONTENT
+   ======================================== */
+
+/* SEO - General Pages */
+https://therebelape.com/marketing-agencies-utah/ / 301!
+
+/* SEO - City Pages */
+https://therebelape.com/marketing-services/website-design/ /website-design-for-contractors 301!
+
+/* VIDEO & MEDIA */
+https://therebelape.com/when-to-hire-a-professional-videographer-for-your-home-service-company/ / 301!
+
+/* OTHER CONTENT */
+https://therebelape.com/ai-for-home-service-companies/ / 301!
+https://therebelape.com/billboard-advertising-strategies-3-proven-ways-to-capture-attention-and-drive-results/ / 301!
+https://therebelape.com/business-growth/ / 301!
+https://therebelape.com/digital-strategy/ / 301!
+https://therebelape.com/getting-to-know-your-customer-avatar-the-ultimate-guide-to-better-marketing/ / 301!
+https://therebelape.com/how-to-leverage-efforts-for-maximum-results/ / 301!
+https://therebelape.com/how-to-setup-google-analytics/ / 301!
+https://therebelape.com/how-we-develop-our-powerful-marketing-strategies/ / 301!
+https://therebelape.com/marketing-resources/ / 301!
+https://therebelape.com/marketing-resources/customer-avatar/ / 301!
+https://therebelape.com/marketing-testing-strategy-drive-explosive-growth-in-2025/ / 301!
+https://therebelape.com/maximize-marketing-impact-multiple-platforms/ / 301!
+https://therebelape.com/online-reviews/ / 301!
+https://therebelape.com/organic-marketing-strategies-for-explosive-business-growth-in-2025/ / 301!
+https://therebelape.com/our-secret-to-tracking-success-and-making-marketing-predictable/ / 301!
+https://therebelape.com/reverse-scrolling-on-windows-10/ / 301!
+https://therebelape.com/services/plumber-call-tracking/ / 301!
+https://therebelape.com/social-media-marekting/ / 301!
+https://therebelape.com/tips-to-keep-your-business-during-the-pandemic/ / 301!
+https://therebelape.com/when-to-delegate-marketing-to-experts/ / 301!
+
+
+/* ========================================
+   CASE STUDIES & CLIENT WORK
+   ======================================== */
+
+/* CASE STUDIES - Directory Pages */
+https://therebelape.com/clients/ /case-studies 301!
+https://therebelape.com/our-work/ / 301!
+https://therebelape.com/our-work/client-work/ /case-studies 301!
+
+/* CASE STUDIES - Individual Projects */
+
+  /* New Structure */
+  https://therebelape.com/our-work/client-work/aingeal-music/ /case-studies 301!
+  https://therebelape.com/our-work/client-work/amazing-vacations-costa-rica/ /case-studies 301!
+  https://therebelape.com/our-work/client-work/amazing-vacations-usa/ /case-studies 301!
+  https://therebelape.com/our-work/client-work/brain-optimizer/ /case-studies 301!
+  https://therebelape.com/our-work/client-work/critical-edtek/ /case-studies 301!
+  https://therebelape.com/our-work/client-work/divorce-planning-pros/ /case-studies 301!
+  https://therebelape.com/our-work/client-work/explosive-impact/ /case-studies 301!
+  https://therebelape.com/our-work/client-work/fresh-and-new-real-estate/ /case-studies 301!
+  https://therebelape.com/our-work/client-work/green-dani-bs/ /case-studies 301!
+  https://therebelape.com/our-work/client-work/ifix/ /case-studies 301!
+  https://therebelape.com/our-work/client-work/it-business-services/ /case-studies 301!
+  https://therebelape.com/our-work/client-work/jennifer-funk-fine-art/ /case-studies 301!
+  https://therebelape.com/our-work/client-work/light-child-media/ /case-studies 301!
+  https://therebelape.com/our-work/client-work/marias-creations/ /case-studies 301!
+  https://therebelape.com/our-work/client-work/northern-utah-glass/ /case-studies 301!
+  https://therebelape.com/our-work/client-work/slr-roofing/ /case-studies 301!
+  https://therebelape.com/our-work/client-work/tomchak-skolout-law-firm/ /case-studies 301!
+  https://therebelape.com/our-work/client-work/totti-buttons-ski-rack/ /case-studies 301!
+  https://therebelape.com/our-work/client-work/utah-accident-solutions/ /case-studies 301!
+  https://therebelape.com/our-work/client-work/vitality-energy/ /case-studies 301!
+  https://therebelape.com/our-work/client-work/void-distortion/ /case-studies 301!
+
+
+/* ========================================
+   HOMEPAGE & MISCELLANEOUS
+   ======================================== */
+
+/* HOMEPAGE - Plumbing Marketing Location Pages */
+https://therebelape.com/plumbing-marketing/ / 301!
+https://therebelape.com/plumbing-marketing/salt-lake-city/ / 301!
+https://therebelape.com/plumbing-marketing/ogden/ / 301!
+https://therebelape.com/plumbing-marketing/saint-george/ / 301!
+https://therebelape.com/plumbing-marketing/bountiful/ / 301!
+https://therebelape.com/plumbing-marketing/layton/ / 301!
+https://therebelape.com/plumbing-marketing/lehi/ / 301!
+https://therebelape.com/plumbing-marketing/logan/ / 301!
+https://therebelape.com/plumbing-marketing/murray/ / 301!
+https://therebelape.com/plumbing-marketing/orem/ / 301!
+https://therebelape.com/plumbing-marketing/park-city/ / 301!
+https://therebelape.com/plumbing-marketing/provo/ / 301!
+https://therebelape.com/plumbing-marketing/sandy/ / 301!
+https://therebelape.com/plumbing-marketing/south-jordan/ / 301!
+https://therebelape.com/plumbing-marketing/west-jordan/ / 301!
+https://therebelape.com/plumbing-marketing/west-valley-city/ / 301!
+
+/* HOMEPAGE - General Pages Redirecting to Home */
+https://therebelape.com/client-portal/ / 301!
+https://therebelape.com/contact-rebel-ape-marketing/ / 301!
+https://therebelape.com/design/ / 301!
+https://therebelape.com/design/feed/ / 301!
+https://therebelape.com/marketing/feed/ / 301!
+https://therebelape.com/press-release/ / 301!
+https://therebelape.com/services/ / 301!
+https://therebelape.com/tag/blog/feed/ / 301!
+https://therebelape.com/tag/clutch/feed/ / 301!
+https://therebelape.com/tag/trust/feed/ / 301!
+https://therebelape.com/xyz-marketing/ / 301!
+https://therebelape.com/xyz-marketing-acquired-by-rebel-ape-marketing/ / 301!
+
+/* LEGAL PAGES */
+/* PRIVACY POLICY */
+https://therebelape.com/privacy-policy/ /privacy-policy 301!
+https://therebelape.com/legal/privacy-policy/ /privacy-policy 301!
+https://therebelape.com/about-us/privacy-policy/ /privacy-policy 301!
+
+/* TERMS AND CONDITIONS */
+https://therebelape.com/legal/terms-and-conditions/ /terms-and-conditions 301!
+https://therebelape.com/terms-and-conditions/ /terms-and-conditions 301!
+
+/* LEGAL */
+https://therebelape.com/legal/ /legal 301!
+
+/* SITEMAP */
+https://therebelape.com/html-sitemap/ /sitemap.xml 301!

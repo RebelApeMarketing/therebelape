@@ -1,0 +1,205 @@
+---
+import Base from '../layouts/Base.astro';
+import Hero from '../components/sections/Hero.astro';
+import SocialProofBar from '../components/sections/SocialProofBar.astro';
+import TestimonialsDefault from '../components/sections/TestimonialsDefault.astro';
+import FAQcaseStudies from '../components/sections/FAQcaseStudies.astro';
+
+// SEO
+const title = "Case Studies | Rebel Ape Marketing";
+const description = "See real results from home service companies we've worked with.";
+const canonical = "https://www.therebelape.com/case-studies";
+const image = "https://RebelApeCDN.b-cdn.net/Rebel%20Website/Homepage/bg-gorilla-direct.webp"; // 1200×630 recommended
+const type = "website"; // or "article" for posts
+const robots = "index, follow"; // optional override
+---
+
+<Base {title} {description} {canonical} {image} {type} {robots}>
+  <section>
+    <Hero 
+      backgroundImage="https://RebelApeCDN.b-cdn.net/Rebel%20Website/Homepage/bg-gorilla-direct.webp"
+      title="Real <span class='text-rebel-green'>Results.</span> Real <span class='text-rebel-green'>Leads.</span> Real <span class='text-rebel-green'>Growth.</span>"
+      subtitle="See How <span class='text-rebel-green'>Businesses Like Yours</span> Got Their <span class='text-rebel-green'>Phones Ringing</span>"
+      description="We don't promise the world—<strong>we deliver results.</strong> Fast websites. Killer ads. Qualified leads <strong>hitting your phone.</strong> See exactly what we built for businesses in your market and how they're <strong>converting more leads into customers.</strong>"
+      features={[
+        'Real companies. Real results. Real leads.',
+        'Fast Websites Built to Convert, Ads Built to Close.',
+        'See Exactly How We Do It.'
+      ]}
+      buttonText="Schedule a Call"
+      buttonIcon="calendar"
+      buttonHref="https://schedule.therebelape.com"
+    />
+    <SocialProofBar />
+
+
+    <!-- Case Study Intro Section -->
+    <section class="py-16 md:py-24 section-checkers">
+      <div class="max-w-7xl mx-auto px-4">
+        <div class="text-center max-w-3xl mx-auto">
+          <h2 class="text-4xl md:text-5xl font-bold mb-6">
+            Numbers <span class="text-[#32C55F]">Don't Lie</span>
+          </h2>
+          <p class="text-xl text-gray-700 mb-8">
+            No fluff. No vanity metrics. Real businesses. Real leads. Real revenue generated. See exactly what we built and how it's working.
+          </p>
+        </div>
+      </div>
+    </section>
+
+    <!-- Case Study Grid -->
+    <section class="py-16 md:py-24 section-slate">
+      <div class="max-w-7xl mx-auto px-4">
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
+          
+          <!-- Case Study 1 - Cereset -->
+          <div class="bg-white rounded-lg p-8 shadow-lg hover:shadow-xl transition">
+            <div class="mb-6">
+              <h3 class="text-3xl font-bold text-gray-900 mb-2">60+ Leads/Month</h3>
+              <p class="text-xl text-[#32C55F] font-semibold">Mental Health Care Franchise</p>
+            </div>
+            
+            <div class="mb-6">
+              <h4 class="font-semibold text-gray-900 mb-2">The Problem</h4>
+              <p class="text-gray-700">Franchise headquarters was sending just 1-2 leads per month. Not enough to sustain operations or keep staff busy.</p>
+            </div>
+
+            <div class="mb-6">
+              <h4 class="font-semibold text-gray-900 mb-2">Our Solution</h4>
+              <p class="text-gray-700">Complete marketing system: Google & Meta ads, conversion-optimized landing pages, retargeting campaigns, daily lead tracking.</p>
+            </div>
+
+            <div class="mb-6 p-4 bg-green-50 rounded-lg border-l-4 border-[#32C55F]">
+              <p class="text-gray-700"><strong>Result:</strong> 60+ qualified leads per month. <strong>14 leads per week at peak.</strong> 7X better than international franchise headquarters.</p>
+            </div>
+
+            <div class="text-sm text-gray-600 mb-6">
+              <p><strong>Timeline:</strong> 4 months to results</p>
+              <p><strong>Impact:</strong> Staff fully utilized. Business profitable. Consistent daily inquiries.</p>
+            </div>
+          </div>
+
+          <!-- Case Study 2 - Regeneration Medical Spa -->
+          <div class="bg-white rounded-lg p-8 shadow-lg hover:shadow-xl transition">
+            <div class="mb-6">
+              <h3 class="text-3xl font-bold text-gray-900 mb-2">130+ Leads/Month</h3>
+              <p class="text-xl text-[#32C55F] font-semibold">Medical Spa</p>
+            </div>
+            
+            <div class="mb-6">
+              <h4 class="font-semibold text-gray-900 mb-2">The Problem</h4>
+              <p class="text-gray-700">Owner spent $5,000/month with multiple agencies with zero ROI. No tracking. No results. Frustrated with marketing.</p>
+            </div>
+
+            <div class="mb-6">
+              <h4 class="font-semibold text-gray-900 mb-2">Our Solution</h4>
+              <p class="text-gray-700">Complete attribution system. Multi-channel campaigns: Meta, Google, SMS. Conversion tracking. Proper audience targeting.</p>
+            </div>
+
+            <div class="mb-6 p-4 bg-green-50 rounded-lg border-l-4 border-[#32C55F]">
+              <p class="text-gray-700"><strong>Result:</strong> 130+ qualified leads/month. <strong>1,000+ total leads.</strong> $700,000+ in potential revenue created. First leads in 5 days.</p>
+            </div>
+
+            <div class="text-sm text-gray-600 mb-6">
+              <p><strong>Total Partnership:</strong> 12+ months ongoing</p>
+              <p><strong>Eliminated:</strong> $5,000/month in wasted ad spend</p>
+            </div>
+          </div>
+
+          <!-- Case Study 3 - Highland Surveying -->
+          <div class="bg-white rounded-lg p-8 shadow-lg hover:shadow-xl transition">
+            <div class="mb-6">
+              <h3 class="text-3xl font-bold text-gray-900 mb-2">$60,200 Revenue</h3>
+              <p class="text-xl text-[#32C55F] font-semibold">Land Surveying (New Business)</p>
+            </div>
+            
+            <div class="mb-6">
+              <h4 class="font-semibold text-gray-900 mb-2">The Problem</h4>
+              <p class="text-gray-700">Brand new surveying company. Zero market presence. No online visibility. Competing against established firms.</p>
+            </div>
+
+            <div class="mb-6">
+              <h4 class="font-semibold text-gray-900 mb-2">Our Solution</h4>
+              <p class="text-gray-700">Professional branding and website. Targeted paid ads. Local SEO. Conversion-optimized landing pages. Lead tracking.</p>
+            </div>
+
+            <div class="mb-6 p-4 bg-green-50 rounded-lg border-l-4 border-[#32C55F]">
+              <p class="text-gray-700"><strong>Result:</strong> 177 qualified phone calls. <strong>$60,200 in revenue generated.</strong> $1,500 average project value.</p>
+            </div>
+
+            <div class="text-sm text-gray-600 mb-6">
+              <p><strong>Timeline:</strong> 6 months from launch</p>
+              <p><strong>Achievement:</strong> Established credible market presence from zero</p>
+            </div>
+          </div>
+
+        </div>
+      </div>
+    </section>
+
+    <!-- Why These Results Work Section -->
+    <section class="py-16 md:py-24 section-checkers">
+      <div class="max-w-7xl mx-auto px-4">
+        <div class="grid grid-cols-1 lg:grid-cols-2 gap-12 lg:gap-16 items-center">
+          <!-- Image -->
+          <div class="order-1">
+            <img 
+              src="https://RebelApeCDN.b-cdn.net/Rebel%20Website/web-design-landers.webp" 
+              alt="Results-Driven Marketing Strategy" 
+              class="w-full rounded-lg"
+              loading="lazy"
+            />
+          </div>
+
+          <!-- Text -->
+          <div class="order-2">
+            <h2 class="text-4xl md:text-5xl font-bold mb-8">
+              Why These Results Are <span class="text-[#32C55F]">Repeatable</span>
+            </h2>
+
+            <div class="space-y-8">
+              <div>
+                <h3 class="text-2xl font-bold text-gray-900 mb-3">Strategic Targeting</h3>
+                <p class="text-lg text-gray-700">
+                  We find the exact people actively searching for your service in your area, at the exact moment they need it. No wasted spend on unqualified clicks.
+                </p>
+              </div>
+
+              <div>
+                <h3 class="text-2xl font-bold text-gray-900 mb-3">Conversion-Focused Pages</h3>
+                <p class="text-lg text-gray-700">
+                  Every element on our Lightning Platform pages is designed to move visitors toward one action: booking. No distractions. Pure conversion.
+                </p>
+              </div>
+
+              <div>
+                <h3 class="text-2xl font-bold text-gray-900 mb-3">Daily Optimization</h3>
+                <p class="text-lg text-gray-700">
+                  Your campaigns improve every single day. Better targeting. Lower costs. More leads. Not monthly reviews—daily tweaks based on data.
+                </p>
+              </div>
+
+              <div>
+                <h3 class="text-2xl font-bold text-gray-900 mb-3">Proven System</h3>
+                <p class="text-lg text-gray-700">
+                  This isn't experimental. We've refined this across dozens of contractors. The system works. The numbers prove it.
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+
+
+    <section class="py-16 md:py-24 section-slate">
+      <TestimonialsDefault />
+    </section>
+
+    <section class={`py-16 md:py-24 section-checkers`}>
+      <FAQcaseStudies />
+    </section>
+
+  </section>
+</Base>

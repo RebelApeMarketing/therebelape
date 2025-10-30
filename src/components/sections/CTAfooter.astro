@@ -1,0 +1,25 @@
+---
+import Button from "../ui/Button.astro";
+---
+
+<section class="section-aztec w-full text-white">
+    <div class="max-w-7xl mx-auto">
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-8 items-center">
+
+            <!-- Left: Images -->
+            <div class="order-2 md:order-1 -mt-10 md:-mt-10">
+                <img 
+                    src="https://RebelApeCDN.b-cdn.net/Rebel%20Website/Homepage/gorilla-and-contractor-epic-footer.webp"
+                    alt="Gorilla and Contractor"
+                />
+            </div>
+
+            <!-- Right: Content (vertically centered on desktop) -->
+            <div class="flex flex-col gap-6 justify-center items-center text-center md:items-start md:text-left order-1 md:order-2 py-12 md:py-0">
+                <h2 class="text-6xl md:text-5xl lg:text-6xl font-black">Let's Get Your Phone Ringing</h2>
+                <p class="text-lg leading-relaxed mb-2 max-w-150">Schedule a <strong>free consultation</strong> to see how we can help your home services business <strong>attract more qualified leads.</strong></p>
+                <Button text="Schedule a Call" icon="phone" href="https://schedule.therebelape.com" />
+            </div>
+        </div>
+    </div>
+</section>

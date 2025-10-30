@@ -1,16 +1,75 @@
 ---
+import Base from '../layouts/Base.astro';
+import Hero from '../components/sections/Hero.astro';
+import SocialProofBar from '../components/sections/SocialProofBar.astro';
+import WhatWeDo from '../components/sections/WhatWeDo.astro';
+import HowItWorks from '../components/sections/HowItWorks.astro';
+import CaseStudy from '../components/sections/CaseStudy.astro';
+import WhoWeAre from '../components/sections/WhoWeAre.astro';
+import Services from '../components/sections/Services.astro';
+import TestimonialsDefault from '../components/sections/TestimonialsDefault.astro';
+import Guarantee from '../components/sections/Guarantee.astro';
+import FAQdefault from '../components/sections/FAQdefault.astro';
 
+
+// SEO
+const title = "Website Design for Contractors | Rebel Ape Marketing";
+const description = "Fast, honest roofing in Northern Utah — request a free assessment today.";
+const canonical = "https://www.therebelape.com/website-design-for-contractors";
+const image = "https://RebelApeCDN.b-cdn.net/Rebel%20Website/Homepage/bg-gorilla-direct.webp"; // 1200×630 recommended
+const type = "website"; // or "article" for posts
+const robots = "index, follow"; // optional override
 ---
 
-<html lang="en">
-	<head>
-		<meta charset="utf-8" />
-		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
-		<meta name="viewport" content="width=device-width" />
-		<meta name="generator" content={Astro.generator} />
-		<title>Astro</title>
-	</head>
-	<body>
-		<h1>Astro</h1>
-	</body>
-</html>
+<Base {title} {description} {canonical} {image} {type} {robots}>
+  <section>
+    <Hero 
+      backgroundImage="https://RebelApeCDN.b-cdn.net/Rebel%20Website/Homepage/bg-gorilla-direct.webp"
+      title="More <span class='text-rebel-green'>Qualified Leads</span> For Your <span class='text-rebel-green'>Home Services</span> Business."
+      subtitle="That's Exactly <span class='text-rebel-green'>What We Deliver.</span>"
+      description="You've tried other agencies. They promised the world, delivered confusion. We do one thing exceptionally well — <strong>build high-converting landing pages and run ads that get your phone ringing with qualified leads.</strong>"
+      features={[
+        'Lightening Fast Websites',
+        'Expert Ad Campaigns',
+        'Transparent Results'
+      ]}
+      buttonText="Schedue a Call"
+      buttonIcon="calendar"
+      buttonHref="https://schedule.therebelape.com"
+    />
+    <SocialProofBar />
+
+    <section class={`py-16 md:py-24 section-checkers`}>
+      <WhatWeDo />
+    </section>
+
+    <section class={`py-16 md:py-24 section-slate`}>
+      <HowItWorks />
+    </section>
+
+    <section class={`py-16 md:py-24 section-checkers`}>
+      <CaseStudy />
+    </section>
+    
+    <section class={`py-16 md:py-24 section-slate`}>
+      <WhoWeAre />
+    </section>
+
+    <section class={`py-16 md:py-24 section-checkers`}>
+      <Services />
+    </section>
+
+    <section class="py-16 md:py-24 section-slate">
+      <TestimonialsDefault />
+    </section>
+
+    <section class={`py-16 md:py-24 section-checkers`}>
+      <Guarantee /> 
+    </section>
+
+    <section class={`py-16 md:py-24 section-slate`}>
+      <FAQdefault />
+    </section>
+
+  </section>
+</Base>

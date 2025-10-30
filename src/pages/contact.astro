@@ -1,0 +1,170 @@
+---
+import Base from '../layouts/Base.astro';
+import Hero from '../components/sections/Hero.astro';
+import SocialProofBar from '../components/sections/SocialProofBar.astro';
+import CaseStudy from '../components/sections/CaseStudy.astro';
+import TestimonialsDefault from '../components/sections/TestimonialsDefault.astro';
+
+// SEO
+const title = "Website Design for Contractors | Rebel Ape Marketing";
+const description = "Fast, honest roofing in Northern Utah — request a free assessment today.";
+const canonical = "https://www.therebelape.com/website-design-for-contractors";
+const image = "https://RebelApeCDN.b-cdn.net/Rebel%20Website/Homepage/bg-gorilla-direct.webp"; // 1200×630 recommended
+const type = "website"; // or "article" for posts
+const robots = "index, follow"; // optional override
+
+---
+<Base {title} {description} {canonical} {image} {type} {robots}>
+  <section>
+    <Hero 
+      backgroundImage="https://RebelApeCDN.b-cdn.net/Rebel%20Website/Homepage/bg-gorilla-direct.webp"
+      title="Got Questions?<br /> <span class='text-rebel-green'>We've Got Answers.</span>"
+      subtitle="Let's Talk About Your <span class='text-rebel-green'>Home Services Business.</span>"
+      description="Whether you're curious about <strong>our process,</strong> want to know if we're a fit for <strong>your market,</strong> or just want to chat about <strong>what's possible</strong> — we're here. No fluff. No sales pressure. Just <strong>real conversations</strong> about getting your <strong>phone ringing </strong>with the <strong>leads you actually want to close.</strong>"
+      features={[
+        'Quick Response Time. ',
+        'No Pressure.',
+        'Real Answers To Your Real Questions.'
+      ]}
+      buttonText="Schedule a Call"
+      buttonIcon="calendar"
+      buttonHref="https://schedule.therebelape.com"
+    />
+    <SocialProofBar />
+
+    <section class={`py-16 md:py-24 section-checkers`}>
+      <div class="max-w-6xl mx-auto px-4">
+        <div class="mb-12 text-center">
+          <h2 class="text-4xl font-bold mb-2">Get In Touch</h2>
+          <p class="text-lg text-slate-600">We'd love to hear from you. Send us a message and we'll respond as soon as possible.</p>
+        </div>
+
+        <div class="grid md:grid-cols-2 gap-12">
+          <!-- Left Column: Form -->
+          <div>
+            <form 
+              name="contact" 
+              method="POST" 
+              data-netlify="true"
+              netlify-honeypot="bot-field"
+              class="space-y-6 bg-white p-6 rounded-lg shadow-2xl"
+            >
+              <!-- Honeypot field for spam protection -->
+              <input type="hidden" name="bot-field" />
+
+              <div>
+                <label for="name" class="block text-sm font-medium text-slate-900 mb-2">
+                  Full Name <span class="text-red-600">*</span>
+                </label>
+                <input 
+                  type="text" 
+                  id="name"
+                  name="name" 
+                  required
+                  class="w-full px-4 py-2 bg-white border border-slate-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-transparent"
+                  placeholder="John Doe"
+                />
+              </div>
+
+              <div>
+                <label for="email" class="block text-sm font-medium text-slate-900 mb-2">
+                  Email Address <span class="text-red-600">*</span>
+                </label>
+                <input 
+                  type="email" 
+                  id="email"
+                  name="email" 
+                  required
+                  class="w-full px-4 py-2 bg-white border border-slate-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-transparent"
+                  placeholder="john@example.com"
+                />
+              </div>
+
+              <div>
+                <label for="message" class="block text-sm font-medium text-slate-900 mb-2">
+                  Message <span class="text-red-600">*</span>
+                </label>
+                <textarea 
+                  id="message"
+                  name="message" 
+                  required
+                  rows="6"
+                  class="w-full px-4 py-2 bg-white border border-slate-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-transparent resize-none"
+                  placeholder="Tell us more about your project..."
+                ></textarea>
+              </div>
+
+              <button 
+                type="submit"
+                class="w-full bg-yellow-400 hover:bg-yellow-500 text-slate-900 font-semibold py-3 px-4 rounded-lg transition duration-200 ease-in-out transform hover:scale-105"
+              >
+                Send Message
+              </button>
+            </form>
+          </div>
+
+          <!-- Right Column: Info & Hours -->
+          <div>
+            <div class="mb-10">
+              <h3 class="text-2xl font-bold text-slate-900 mb-6">Hours of Operation</h3>
+              <div class="space-y-3">
+                <div class="flex justify-between items-center">
+                  <span class="text-slate-600">Monday - Friday</span>
+                  <span class="font-semibold text-slate-900">9:30 AM - 5:00 PM</span>
+                </div>
+                <div class="flex justify-between items-center">
+                  <span class="text-slate-600">Saturday - Sunday</span>
+                  <span class="font-semibold text-slate-900">Closed</span>
+                </div>
+              </div>
+              <div class="mt-6 text-sm text-slate-600">
+                <p class="font-medium text-slate-900 mb-1">📍 Ogden, Utah</p>
+                <p>We're based in beautiful northern Utah and serve home service businesses throughout the region.</p>
+              </div>
+            </div>
+
+            <div class="bg-gradient-to-br from-slate-50 to-slate-100 p-6 rounded-lg border border-slate-300 shadow-2xl">
+              <h4 class="text-lg font-bold text-slate-900 mb-3">Why We're Different</h4>
+              <ul class="space-y-3 text-slate-700 text-sm">
+                <li class="flex gap-3">
+                  <span class="text-green-600 font-bold flex-shrink-0">✓</span>
+                  <span>We understand home services. No generic advice here.</span>
+                </li>
+                <li class="flex gap-3">
+                  <span class="text-green-600 font-bold flex-shrink-0">✓</span>
+                  <span>We focus on results that matter: phone calls and closes.</span>
+                </li>
+                <li class="flex gap-3">
+                  <span class="text-green-600 font-bold flex-shrink-0">✓</span>
+                  <span>No fluff, no pressure. Just honest, direct conversations.</span>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class={`py-16 md:py-24 section-slate`}>
+      <CaseStudy />
+    </section>
+
+    <section class="py-16 md:py-24 section-checkers">
+      <TestimonialsDefault />
+    </section>
+
+    <section class="py-16 md:py-24 bg-gradient-to-r from-slate-900 via-slate-800 to-slate-900">
+      <div class="max-w-4xl mx-auto text-center px-4">
+        <h2 class="text-4xl md:text-5xl font-bold text-white mb-4">Ready to Get Started?</h2>
+        <p class="text-xl text-slate-200 mb-8">Let's talk about how we can help your home services business grow. Schedule a call with us today — no pressure, no sales pitch.</p>
+        <a 
+          href="https://schedule.therebelape.com"
+          class="inline-block bg-yellow-400 hover:bg-yellow-500 text-slate-900 font-bold py-4 px-8 rounded-lg text-lg transition duration-200 ease-in-out transform hover:scale-105"
+        >
+          Schedule a Call
+        </a>
+      </div>
+    </section>
+
+  </section>
+</Base>

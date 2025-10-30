@@ -1,0 +1,271 @@
+---
+import Base from '../layouts/Base.astro';
+import Hero from '../components/sections/Hero.astro';
+import Button from '../components/ui/Button.astro';
+import SocialProofBar from '../components/sections/SocialProofBar.astro';
+import CaseStudy from '../components/sections/CaseStudy.astro';
+import TestimonialsWebsiteDesign from '../components/sections/TestimonialsWebsiteDesign.astro';
+import FAQwebsiteDesign from '../components/sections/FAQwebsiteDesign.astro';
+
+// SEO
+const title = "Website Design for Contractors | Rebel Ape Marketing";
+const description = "Fast, honest roofing in Northern Utah — request a free assessment today.";
+const canonical = "https://www.therebelape.com/website-design-for-contractors";
+const image = "https://RebelApeCDN.b-cdn.net/Rebel%20Website/Homepage/bg-gorilla-direct.webp"; // 1200×630 recommended
+const type = "website"; // or "article" for posts
+const robots = "index, follow"; // optional override
+---
+
+<Base {title} {description} {canonical} {image} {type} {robots}>
+  <section>
+    <Hero 
+      backgroundImage="https://RebelApeCDN.b-cdn.net/Rebel%20Website/Homepage/bg-gorilla-direct.webp"
+      title="<span class='text-rebel-green'>Landing Pages</span> Built To Convert. Websites <span class='text-rebel-green'>Built To Scale.</span>"
+      subtitle="No Bloat. No Plugins. <span class='text-rebel-green'>Just Results.</span>"
+      description="Custom landing pages that are <strong>built to convert.</strong> Mobile-first, SEO-optimized <strong>specifically for home services.</strong> Designed for ads that <strong>bring leads.</strong> Optimized to help you <strong>close deals.</strong>"
+      features={[
+        'Lightning-Fast Load Times',
+        'Mobile-First Design',
+        'Built-In Conversion Optimization'
+      ]}
+      buttonText="Schedule a Call"
+      buttonIcon="calendar"
+      buttonHref="https://schedule.therebelape.com"
+    />
+    <SocialProofBar />
+
+
+    <!-- Landing Pages Section -->
+    <section class="py-16 md:py-24 section-checkers">
+      <div class="max-w-7xl mx-auto px-4">
+        <div class="grid grid-cols-1 lg:grid-cols-2 gap-12 lg:gap-16 items-center">
+          <!-- Image: 50% width on desktop -->
+          <div>
+            <img 
+              src="https://RebelApeCDN.b-cdn.net/Rebel%20Website/web-design-landers.webp" 
+              alt="Lightning Platform Landing Page Example" 
+              class="w-full rounded-lg"
+              loading="lazy"
+            />
+          </div>
+          
+          <!-- Text: 50% width on desktop -->
+          <div>
+            <h2 class="text-4xl md:text-5xl font-bold mb-6">
+              <span class="text-rebel-green">Landing Pages</span> Built To Convert
+            </h2>
+            <p class="text-lg text-gray-700 mb-6">
+              Whether you're running Google Ads, Facebook campaigns, or need a dedicated page for a specific offer, our Lightning Platform delivers. Built specifically for contractors and home service businesses, each landing page is optimized for one thing: getting your phone to ring.
+            </p>
+            <ul class="space-y-4 mb-8">
+              <li class="flex gap-3">
+                <span class="text-[#32C55F] text-xl font-bold">✓</span>
+                <span class="text-gray-700"><strong>Ad-Optimized:</strong> Designed to work seamlessly with Google Ads, Facebook, and other paid campaigns</span>
+              </li>
+              <li class="flex gap-3">
+                <span class="text-[#32C55F] text-xl font-bold">✓</span>
+                <span class="text-gray-700"><strong>Speed Matters:</strong> Lightning-fast load times mean higher quality scores and lower ad costs</span>
+              </li>
+              <li class="flex gap-3">
+                <span class="text-[#32C55F] text-xl font-bold">✓</span>
+                <span class="text-gray-700"><strong>Mobile-First:</strong> 80%+ of users are on mobile—we design for that first</span>
+              </li>
+              <li class="flex gap-3">
+                <span class="text-[#32C55F] text-xl font-bold">✓</span>
+                <span class="text-gray-700"><strong>Conversion-Focused:</strong> Every element is strategically placed to move visitors toward your CTA</span>
+              </li>
+            </ul>
+            <p class="text-gray-700 mb-8">
+              Need changes? No problem. You don't manage the site—we do. Update copy, add a new offer, adjust your messaging? Just ask. We handle it.
+            </p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Website Design Section -->
+    <section class="py-16 md:py-24 section-slate">
+      <div class="max-w-7xl mx-auto px-4">
+        <div class="grid grid-cols-1 lg:grid-cols-2 gap-12 lg:gap-16 items-center">
+          <!-- Text: 50% width on desktop (right side) -->
+          <div class="order-2 lg:order-1">
+            <h2 class="text-4xl md:text-5xl font-bold mb-6">
+              Your Website, <span class="text-rebel-green">Built Right</span>
+            </h2>
+            <p class="text-lg text-gray-700 mb-6">
+              You have two options. Both are built with you in mind—not your ability to fiddle with code.
+            </p>
+            
+            <div class="mb-8 pb-8 border-b border-gray-300">
+              <h3 class="text-2xl font-bold mb-3">Lightning Platform</h3>
+              <p class="text-gray-700 mb-3">
+                Custom-built for speed. Your website is coded specifically for your business, optimized for mobile, and designed to rank.
+              </p>
+              <ul class="space-y-2 text-gray-700">
+                <li class="flex gap-3 items-center">
+                  <span class="text-[#32C55F] text-lg">→</span>
+                  <span>Fastest possible load times</span>
+                </li>
+                <li class="flex gap-3 items-center">
+                  <span class="text-[#32C55F] text-lg">→</span>
+                  <span>Mobile-perfect responsiveness</span>
+                </li>
+                <li class="flex gap-3 items-center">
+                  <span class="text-[#32C55F] text-lg">→</span>
+                  <span>No bloat, no plugins</span>
+                </li>
+                <li class="flex gap-3 items-center">
+                  <span class="text-[#32C55F] text-lg">→</span>
+                  <span>Unlimited scalability</span>
+                </li>
+              </ul>
+            </div>
+
+            <div class="mb-8">
+              <h3 class="text-2xl font-bold mb-3">WordPress (Yes, We Can Do That Too)</h3>
+              <p class="text-gray-700 mb-3">
+                Want to log in and build it yourself? Sure. But here's the thing: a DIY contractor might frame a roof that looks good at first glance, but without proper technique, it's going to leak. Same with WordPress page builders.
+              </p>
+              <p class="text-gray-700">
+                We can set up WordPress for you, but we recommend letting us handle the updates, security, and changes. It's faster, safer, and your roof won't leak.
+              </p>
+            </div>
+          </div>
+
+          <!-- Image: 50% width on desktop (left side) -->
+          <div class="order-1 lg:order-2">
+            <img 
+              src="https://RebelApeCDN.b-cdn.net/Rebel%20Website/web-design-wordpress-lightening-t.webp" 
+              alt="Website Design Options" 
+              class="w-full rounded-lg"
+              loading="lazy"
+            />
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Migration Section -->
+    <section class="py-16 md:py-24 section-checkers">
+      <div class="max-w-7xl mx-auto px-4">
+        <div class="grid grid-cols-1 lg:grid-cols-2 gap-12 lg:gap-16 items-center">
+          <!-- Image - comes first on mobile, left on desktop -->
+          <div class="order-1">
+            <img 
+              src="https://RebelApeCDN.b-cdn.net/Rebel%20Website/gorilla-website-design-square.webp" 
+              alt="Migration from WordPress to Lightning Platform" 
+              class="w-full rounded-lg shadow-2xl"
+              loading="lazy"
+            />
+          </div>
+
+          <!-- Text - comes second on mobile, right on desktop -->
+          <div class="order-2">
+            <h2 class="text-4xl md:text-5xl font-bold mb-6">
+              Tired of the <span class="text-rebel-green">Headaches</span>?
+            </h2>
+            <p class="text-xl text-gray-700 mb-6">
+              Endless WordPress updates. Plugin conflicts. Security nightmares. Performance issues that never go away.
+            </p>
+            <p class="text-lg text-gray-700 mb-8">
+              We migrated hundreds of contractor websites from the plugin chaos to our Lightning Platform. Your site gets faster. Your maintenance disappears. Your peace of mind returns.
+            </p>
+            <div class="space-y-4 mb-8">
+              <div class="bg-white p-4 rounded-lg border-l-4 border-[#32C55F] shadow-2xl">
+                <p class="font-semibold text-gray-900">Migration Included</p>
+                <p class="text-gray-700">We handle all the technical lifting. Your content, SEO, and reputation stay intact.</p>
+              </div>
+              <div class="bg-white p-4 rounded-lg border-l-4 border-[#32C55F] shadow-2xl">
+                <p class="font-semibold text-gray-900">Zero Downtime</p>
+                <p class="text-gray-700">Your site stays live. Your rankings stay intact. Your customers don't skip a beat.</p>
+              </div>
+              <div class="bg-white p-4 rounded-lg border-l-4 border-[#32C55F] shadow-2xl">
+                <p class="font-semibold text-gray-900">Want to Keep WordPress?</p>
+                <p class="text-gray-700">No problem. We can do that too. But we'll manage it for you—you focus on your business.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Portfolio Section -->
+    <section class="py-16 md:py-24 section-slate">
+      <div class="max-w-7xl mx-auto px-4">
+        <div class="text-center mb-16">
+          <h2 class="text-4xl md:text-5xl font-bold mb-4">
+            See What We've Built
+          </h2>
+          <p class="text-xl text-gray-700 max-w-4xl mx-auto">
+            Every site tells a story. Here are some of our favorites—real contractors, real results.
+          </p>
+        </div>
+
+        <!-- Portfolio Grid -->
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+          <div class="bg-white rounded-lg overflow-hidden shadow-lg hover:shadow-xl transition">
+            <img 
+              src="https://RebelApeCDN.b-cdn.net/Rebel%20Website/website-devlope-intuitive.webp" 
+              alt="Develop Intuitive Website" 
+              class="w-full h-64 object-cover"
+              loading="lazy"
+            />
+          </div>
+          <div class="bg-white rounded-lg overflow-hidden shadow-lg hover:shadow-xl transition">
+            <img 
+              src="https://RebelApeCDN.b-cdn.net/Rebel%20Website/website-out-ther-roofing.webp" 
+              alt="Out There Roofing Website" 
+              class="w-full h-64 object-cover"
+              loading="lazy"
+            />
+          </div>
+          <div class="bg-white rounded-lg overflow-hidden shadow-lg hover:shadow-xl transition">
+            <img 
+              src="https://RebelApeCDN.b-cdn.net/Rebel%20Website/website-redline-roofing.webp" 
+              alt="Redline Roofing Website" 
+              class="w-full h-64 object-cover"
+              loading="lazy"
+            />
+          </div>
+          <div class="bg-white rounded-lg overflow-hidden shadow-lg hover:shadow-xl transition">
+            <img 
+              src="https://RebelApeCDN.b-cdn.net/Rebel%20Website/website-swiss-mixx.webp" 
+              alt="Swiss Mixx Website" 
+              class="w-full h-64 object-cover"
+              loading="lazy"
+            />
+          </div>
+          <div class="bg-white rounded-lg overflow-hidden shadow-lg hover:shadow-xl transition">
+            <img 
+              src="https://RebelApeCDN.b-cdn.net/Rebel%20Website/website-taste-buzz.webp" 
+              alt="Taste Buzz Website" 
+              class="w-full h-64 object-cover"
+              loading="lazy"
+            />
+          </div>
+          <div class="bg-white rounded-lg overflow-hidden shadow-lg hover:shadow-xl transition">
+            <img 
+              src="https://RebelApeCDN.b-cdn.net/Rebel%20Website/website-tomchak-skolout.webp" 
+              alt="Tomchak Skolout Website" 
+              class="w-full h-64 object-cover"
+              loading="lazy"
+            />
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class={`py-16 md:py-24 section-checkers`}>
+      <CaseStudy />
+    </section>
+
+    <section class="py-16 md:py-24 section-slate">
+      <TestimonialsWebsiteDesign />
+    </section>
+
+    <section class={`py-16 md:py-24 section-checkers`}>
+      <FAQwebsiteDesign />
+    </section>
+
+  </section>
+</Base>
