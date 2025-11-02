@@ -38,9 +38,10 @@ const {
 <html lang="en">
   <head>
     <meta charset="utf-8" />
-    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <link rel="icon" type="image/png" href="/favicon.png" />
     <meta name="viewport" content="width=device-width" />
 
+    <!-- Google Tag Manager -->
     <script is:inline>
       // @ts-ignore
       (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
@@ -53,6 +54,21 @@ const {
     <meta name="robots" content={robots}>
     {description && <meta name="description" content={description} />}
     {canonical && <link rel="canonical" href={canonical} />}
+
+    <!-- Open Graph / Social Media -->
+    <meta property="og:title" content={title} />
+    {description && <meta property="og:description" content={description} />}
+    {canonical && <meta property="og:url" content={canonical} />}
+    <meta property="og:type" content={type || "website"} />
+    {image && <meta property="og:image" content={image} />}
+    {image && <meta property="og:image:width" content="1200" />}
+    {image && <meta property="og:image:height" content="630" />}
+    
+    <!-- Twitter Card -->
+    {image && <meta name="twitter:image" content={image} />}
+    <meta name="twitter:card" content="summary_large_image" />
+    {title && <meta name="twitter:title" content={title} />}
+    {description && <meta name="twitter:description" content={description} />}
 
     <meta name="generator" content={Astro.generator} />
     <title>{title}</title>
