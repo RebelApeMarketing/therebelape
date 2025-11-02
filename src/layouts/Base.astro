@@ -86,21 +86,5 @@ const {
     <slot />
     <CTAfooter />
     <Footer />
-
-    <!-- Defer leadconnector scripts - Load after page interactive -->
-    <script>
-      // Load leadconnector scripts after page has loaded
-      window.addEventListener('load', function() {
-        const script1 = document.createElement('script');
-        script1.src = 'https://backend.leadconnectorhq.com/appengine/loc/TGPU5CMnjHbilJg0GZCr/pool/ewMyjx3lE0CdAgaLTWCh/number_pool.js';
-        script1.async = true;
-        document.body.appendChild(script1);
-
-        const script2 = document.createElement('script');
-        script2.src = 'https://backend.leadconnectorhq.com/appengine/js/user_session.js';
-        script2.async = true;
-        document.body.appendChild(script2);
-      });
-    </script>
   </body>
 </html>
