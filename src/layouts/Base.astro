@@ -46,11 +46,12 @@ const {
     <link rel="dns-prefetch" href="https://connect.facebook.net">
     <link rel="dns-prefetch" href="https://www.googletagmanager.com">
 
+    <!-- Google Tag Manager (noscript) - Must stay in head but GTM script deferred below -->
     <script is:inline>
       // @ts-ignore
       (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
       new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-      j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+      j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.defer=true;j.src=
       'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
       })(window,document,'script','dataLayer','GTM-TS9DGRQB');
     </script>
@@ -86,7 +87,20 @@ const {
     <CTAfooter />
     <Footer />
 
-    <script src="https://backend.leadconnectorhq.com/appengine/loc/TGPU5CMnjHbilJg0GZCr/pool/ewMyjx3lE0CdAgaLTWCh/number_pool.js"></script>
-    <script src="https://backend.leadconnectorhq.com/appengine/js/user_session.js"></script>
+    <!-- Defer leadconnector scripts - Load after page interactive -->
+    <script>
+      // Load leadconnector scripts after page has loaded
+      window.addEventListener('load', function() {
+        const script1 = document.createElement('script');
+        script1.src = 'https://backend.leadconnectorhq.com/appengine/loc/TGPU5CMnjHbilJg0GZCr/pool/ewMyjx3lE0CdAgaLTWCh/number_pool.js';
+        script1.async = true;
+        document.body.appendChild(script1);
+
+        const script2 = document.createElement('script');
+        script2.src = 'https://backend.leadconnectorhq.com/appengine/js/user_session.js';
+        script2.async = true;
+        document.body.appendChild(script2);
+      });
+    </script>
   </body>
 </html>
