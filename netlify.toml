@@ -1,0 +1,5 @@
+[[redirects]]
+from = "https://www.therebelape.com/*"
+to = "https://therebelape.com/:splat"
+status = 301
+force = true

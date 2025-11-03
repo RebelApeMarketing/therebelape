@@ -20,6 +20,8 @@ interface Props {
   notes?: Record<string, string>;
 }
 
+const GTM_ID = 'GTM-TS9DGRQB';
+
 const {
   title = "Rebel Ape Marketing",
   description,
@@ -69,8 +71,14 @@ const {
     <title>{title}</title>
   </head> 
   <body>
-    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TS9DGRQB"
-    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <noscript>
+      <iframe 
+        src={`https://www.googletagmanager.com/ns.html?id=${GTM_ID}`}
+        height="0" 
+        width="0" 
+        style="display:none;visibility:hidden">
+      </iframe>
+    </noscript>
     
     <Header />
     <slot />
@@ -78,17 +86,19 @@ const {
     <Footer />
 
     <!-- Defer Google Tag Manager - Load after page interactive -->
-    <script>
+    <script is:inline define:vars={{ GTM_ID }}>
       window.addEventListener('load', function() {
         const script = document.createElement('script');
         script.async = true;
-        script.src = 'https://www.googletagmanager.com/gtm.js?id=GTM-TS9DGRQB';
+        script.src = `https://www.googletagmanager.com/gtm.js?id=${GTM_ID}`;
         document.head.appendChild(script);
 
         window.dataLayer = window.dataLayer || [];
-        function gtag(){dataLayer.push(arguments);}
+        function gtag() {
+          window.dataLayer.push(arguments);
+        }
         gtag('js', new Date());
-        gtag('config', 'GTM-TS9DGRQB');
+        gtag('config', GTM_ID);
       });
     </script>
   </body>
