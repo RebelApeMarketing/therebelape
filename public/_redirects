@@ -15,15 +15,6 @@
 http://*                  https://$host$uri         301!
 https://www.therebelape.com/*  https://therebelape.com$uri  301!
 
-# Trailing slash normalization - CATCH NON-SLASH VERSIONS
-https://therebelape.com/about https://therebelape.com/about/ 301!
-https://therebelape.com/contact https://therebelape.com/contact/ 301!
-https://therebelape.com/privacy-policy https://therebelape.com/privacy-policy/ 301!
-https://therebelape.com/terms-and-conditions https://therebelape.com/terms-and-conditions/ 301!
-https://therebelape.com/website-design-for-contractors https://therebelape.com/website-design-for-contractors/ 301!
-https://therebelape.com/case-studies https://therebelape.com/case-studies/ 301!
-https://therebelape.com/ads-for-contractors https://therebelape.com/ads-for-contractors/ 301!
-
 # ========================================
 # LANDING PAGES & SUBDOMAIN REDIRECTS
 # ========================================
