@@ -1,23 +1,4 @@
 # ========================================
-# NORMALIZATION & DOMAIN BLOCKS
-# ========================================
-
-# Asset passthrough (keep as is)
-/_astro/*                 /_astro/:splat            200
-/assets/*                 /assets/:splat            200
-/images/*                 /images/:splat            200
-/fonts/*                  /fonts/:splat             200
-/css/*                    /css/:splat               200
-/js/*                     /js/:splat                200
-/og/*                     /og/:splat                200
-
-# Remove trailing slashes (except root)
-/*/:path/                 /:splat/:path             301!
-
-# Force www removal (Netlify handles protocol upgrades automatically)
-https://www.therebelape.com/*  https://therebelape.com/:splat  301!
-
-# ========================================
 # LANDING PAGES & SUBDOMAIN REDIRECTS
 # ========================================
 
