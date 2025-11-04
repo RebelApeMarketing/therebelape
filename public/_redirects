@@ -3,8 +3,8 @@
 # ========================================
 
 # Normalize trailing slash -> non-trailing
-# /:path/                     /:path                  301!
-# /:path/*/                   /:path/:splat           301!
+/:path/                     /:path                  301!
+/:path/*/                   /:path/:splat           301!
 
 # Force HTTPS + non-www
 # http://therebelape.com/*        https://therebelape.com/:splat   301!
