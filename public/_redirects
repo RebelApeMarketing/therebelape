@@ -1,5 +1,5 @@
 # ========================================
-# FORCE NAKED URLS
+# NORMALIZATION & DOMAIN BLOCKS
 # ========================================
 
 # Exceptions: passthrough static assets so redirects never touch them
@@ -11,14 +11,33 @@
 /js/*                     /js/:splat                200
 /og/*                     /og/:splat                200
 
-# Normalize trailing slash -> non-trailing (specific before general)
-/:path/*/                 /:path/:splat             301!
-/:path/                   /:path                    301!
+# Canonicalize in one hop to https://therebelape.com (no trailing slash)
 
-# Force HTTPS + non-www
-http://therebelape.com/*        https://therebelape.com/:splat   301!
-http://www.therebelape.com/*    https://therebelape.com/:splat   301!
-https://www.therebelape.com/*   https://therebelape.com/:splat   301!
+# Root host canonicalization
+https://www.therebelape.com/          https://therebelape.com/                 301!
+http://www.therebelape.com/           https://therebelape.com/                 301!
+http://therebelape.com/               https://therebelape.com/                 301!
+
+# www + trailing slash variants → naked, no trailing
+https://www.therebelape.com/:path/*/  https://therebelape.com/:path/:splat     301!
+https://www.therebelape.com/:path/    https://therebelape.com/:path            301!
+
+# www without slash → naked
+https://www.therebelape.com/:path     https://therebelape.com/:path            301!
+
+# http (naked) → https (also normalize trailing)
+http://therebelape.com/:path/*/       https://therebelape.com/:path/:splat     301!
+http://therebelape.com/:path/         https://therebelape.com/:path            301!
+http://therebelape.com/:path          https://therebelape.com/:path            301!
+
+# http www → https naked (also normalize trailing)
+http://www.therebelape.com/:path/*/   https://therebelape.com/:path/:splat     301!
+http://www.therebelape.com/:path/     https://therebelape.com/:path            301!
+http://www.therebelape.com/:path      https://therebelape.com/:path            301!
+
+# https naked trailing → https naked non-trailing
+https://therebelape.com/:path/*/      https://therebelape.com/:path/:splat     301!
+https://therebelape.com/:path/        https://therebelape.com/:path            301!
 
 # ========================================
 # LANDING PAGES & SUBDOMAIN REDIRECTS
