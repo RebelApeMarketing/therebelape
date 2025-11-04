@@ -3,10 +3,13 @@
 # ========================================
 
 # Normalize trailing slash -> non-trailing
-# Keep root as-is
-/                           /                       200
 /:path/                     /:path                  301!
 /:path/*/                   /:path/:splat           301!
+
+# Force HTTPS + non-www
+http://therebelape.com/*        https://therebelape.com/:splat   301!
+http://www.therebelape.com/*    https://therebelape.com/:splat   301!
+https://www.therebelape.com/*   https://therebelape.com/:splat   301!
 
 # ========================================
 # LANDING PAGES & SUBDOMAIN REDIRECTS
