@@ -1,4 +1,14 @@
 # ========================================
+# FORCE NAKED URLS
+# ========================================
+
+# Normalize trailing slash -> non-trailing
+# Keep root as-is
+/                           /                       200
+/:path/                     /:path                  301!
+/:path/*/                   /:path/:splat           301!
+
+# ========================================
 # LANDING PAGES & SUBDOMAIN REDIRECTS
 # ========================================
 
