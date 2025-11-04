@@ -1,4 +1,21 @@
 # ========================================
+# NORMALIZATION & DOMAIN BLOCKS
+# ========================================
+
+# Passthrough static assets
+/_astro/*                 /_astro/:splat            200
+/assets/*                 /assets/:splat            200
+/images/*                 /images/:splat            200
+/fonts/*                  /fonts/:splat             200
+/css/*                    /css/:splat               200
+/js/*                     /js/:splat                200
+/og/*                     /og/*                     200
+
+# HTTPS + remove www (that's it)
+http://*                  https://$host$uri         301!
+https://www.therebelape.com/*  https://therebelape.com$uri  301!
+
+# ========================================
 # LANDING PAGES & SUBDOMAIN REDIRECTS
 # ========================================
 
