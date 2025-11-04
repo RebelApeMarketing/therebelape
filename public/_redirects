@@ -2,7 +2,7 @@
 # NORMALIZATION & DOMAIN BLOCKS
 # ========================================
 
-# Exceptions: passthrough static assets so redirects never touch them
+# Asset passthrough (keep as is)
 /_astro/*                 /_astro/:splat            200
 /assets/*                 /assets/:splat            200
 /images/*                 /images/:splat            200
@@ -11,33 +11,11 @@
 /js/*                     /js/:splat                200
 /og/*                     /og/:splat                200
 
-# Canonicalize in one hop to https://therebelape.com (no trailing slash)
+# Remove trailing slashes (except root)
+/*/:path/                 /:splat/:path             301!
 
-# Root host canonicalization
-https://www.therebelape.com/          https://therebelape.com/                 301!
-http://www.therebelape.com/           https://therebelape.com/                 301!
-http://therebelape.com/               https://therebelape.com/                 301!
-
-# www + trailing slash variants → naked, no trailing
-https://www.therebelape.com/:path/*/  https://therebelape.com/:path/:splat     301!
-https://www.therebelape.com/:path/    https://therebelape.com/:path            301!
-
-# www without slash → naked
-https://www.therebelape.com/:path     https://therebelape.com/:path            301!
-
-# http (naked) → https (also normalize trailing)
-http://therebelape.com/:path/*/       https://therebelape.com/:path/:splat     301!
-http://therebelape.com/:path/         https://therebelape.com/:path            301!
-http://therebelape.com/:path          https://therebelape.com/:path            301!
-
-# http www → https naked (also normalize trailing)
-http://www.therebelape.com/:path/*/   https://therebelape.com/:path/:splat     301!
-http://www.therebelape.com/:path/     https://therebelape.com/:path            301!
-http://www.therebelape.com/:path      https://therebelape.com/:path            301!
-
-# https naked trailing → https naked non-trailing
-https://therebelape.com/:path/*/      https://therebelape.com/:path/:splat     301!
-https://therebelape.com/:path/        https://therebelape.com/:path            301!
+# Force www removal (Netlify handles protocol upgrades automatically)
+https://www.therebelape.com/*  https://therebelape.com/:splat  301!
 
 # ========================================
 # LANDING PAGES & SUBDOMAIN REDIRECTS
@@ -292,9 +270,6 @@ https://therebelape.com/about-us/privacy-policy/ /privacy-policy 301!
 # TERMS AND CONDITIONS
 https://therebelape.com/legal/terms-and-conditions/ /terms-and-conditions 301!
 https://therebelape.com/terms-and-conditions/ /terms-and-conditions 301!
-
-# LEGAL
-https://therebelape.com/legal/ /legal 301!
 
 # SITEMAP
 https://therebelape.com/html-sitemap/ /sitemap.xml 301!
