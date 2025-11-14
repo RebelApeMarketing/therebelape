@@ -182,7 +182,7 @@ We may update these Terms at any time. The updated date will be shown at the top
 If you have questions about these Terms and Conditions, contact us at:
 
 📧 [info@therebelape.com](mailto:info@therebelape.com)  
-📍 [https://therebelape.com/contact](https://therebelape.com/contact)
+📍 [https://therebelape.com/contact/](https://therebelape.com/contact/)
 
 ---
 
