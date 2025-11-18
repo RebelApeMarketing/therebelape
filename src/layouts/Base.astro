@@ -78,6 +78,20 @@ const {
     {title && <meta name="twitter:title" content={title} />}
     {description && <meta name="twitter:description" content={description} />}
 
+    <!-- TruConversion for therebelape.com -->
+    <script type="text/javascript">
+        var _tip = _tip || [];
+        (function(d,s,id){
+            var js, tjs = d.getElementsByTagName(s)[0];
+            if(d.getElementById(id)) { return; }
+            js = d.createElement(s); js.id = id;
+            js.async = true;
+            js.src = d.location.protocol + '//app.truconversion.com/ti-js/33260/e9603.js';
+            tjs.parentNode.insertBefore(js, tjs);
+        }(document, 'script', 'ti-js'));
+    </script>
+                        
+
     <meta name="generator" content={Astro.generator} />
     <title>{title}</title>
   </head> 
