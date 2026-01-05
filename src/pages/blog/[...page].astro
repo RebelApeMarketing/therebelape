@@ -29,6 +29,32 @@ export const getStaticPaths = (async ({ paginate }) => {
 const { page } = Astro.props;
 const { featuredPosts } = Astro.props;
 
+// Generate pagination numbers with ellipsis
+function getPaginationNumbers(currentPage: number, lastPage: number) {
+  const delta = 1; // Number of pages to show on each side of current page
+  const range = [];
+  const rangeWithDots = [];
+
+  for (let i = 1; i <= lastPage; i++) {
+    if (i === 1 || i === lastPage || (i >= currentPage - delta && i <= currentPage + delta)) {
+      range.push(i);
+    }
+  }
+
+  let prev = 0;
+  for (const i of range) {
+    if (prev && i - prev > 1) {
+      rangeWithDots.push('...');
+    }
+    rangeWithDots.push(i);
+    prev = i;
+  }
+
+  return rangeWithDots;
+}
+
+const paginationNumbers = getPaginationNumbers(page.currentPage, page.lastPage);
+
 // SEO - adjust title for pagination
 const pageNum = page.currentPage > 1 ? ` - Page ${page.currentPage}` : '';
 const title = `Roofing Marketing Blog | SEO, Google Ads & Lead Generation | Rebel Ape${pageNum}`;
@@ -185,41 +211,51 @@ const robots = "index,follow";
             {page.url.prev && (
               <a
                 href={page.url.prev}
-                class="px-4 py-2 bg-white border border-gray-300 rounded-lg hover:bg-gray-50 font-semibold transition-colors"
+                class="px-3 py-2 md:px-4 bg-white border border-gray-300 rounded-lg hover:bg-gray-50 font-semibold transition-colors"
                 aria-label="Previous page"
               >
-                <svg class="w-5 h-5 inline-block mr-1" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <svg class="w-5 h-5 inline-block md:mr-1" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                   <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 19l-7-7 7-7"></path>
                 </svg>
-                Previous
+                <span class="hidden md:inline">Previous</span>
               </a>
             )}
 
-            <div class="flex gap-2">
-              {Array.from({ length: page.lastPage }, (_, i) => i + 1).map(pageNum => (
-                <a
-                  href={pageNum === 1 ? '/blog/' : `/blog/${pageNum}/`}
-                  class={`px-4 py-2 rounded-lg font-semibold transition-colors ${
-                    pageNum === page.currentPage
-                      ? 'bg-rebel-green text-white'
-                      : 'bg-white border border-gray-300 hover:bg-gray-50'
-                  }`}
-                  aria-label={`Page ${pageNum}`}
-                  aria-current={pageNum === page.currentPage ? 'page' : undefined}
-                >
-                  {pageNum}
-                </a>
+            <div class="flex gap-1 md:gap-2">
+              {paginationNumbers.map((item, index) => (
+                item === '...' ? (
+                  <span
+                    key={`ellipsis-${index}`}
+                    class="px-3 py-2 md:px-4 text-gray-500 font-semibold"
+                  >
+                    ...
+                  </span>
+                ) : (
+                  <a
+                    key={item}
+                    href={item === 1 ? '/blog/' : `/blog/${item}/`}
+                    class={`px-3 py-2 md:px-4 rounded-lg font-semibold transition-colors ${
+                      item === page.currentPage
+                        ? 'bg-rebel-green text-white'
+                        : 'bg-white border border-gray-300 hover:bg-gray-50'
+                    }`}
+                    aria-label={`Page ${item}`}
+                    aria-current={item === page.currentPage ? 'page' : undefined}
+                  >
+                    {item}
+                  </a>
+                )
               ))}
             </div>
 
             {page.url.next && (
               <a
                 href={page.url.next}
-                class="px-4 py-2 bg-white border border-gray-300 rounded-lg hover:bg-gray-50 font-semibold transition-colors"
+                class="px-3 py-2 md:px-4 bg-white border border-gray-300 rounded-lg hover:bg-gray-50 font-semibold transition-colors"
                 aria-label="Next page"
               >
-                Next
-                <svg class="w-5 h-5 inline-block ml-1" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <span class="hidden md:inline">Next</span>
+                <svg class="w-5 h-5 inline-block md:ml-1" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                   <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path>
                 </svg>
               </a>
