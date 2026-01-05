@@ -20,6 +20,13 @@ http://therebelape.com/*  https://therebelape.com/:splat  301!
 http://www.therebelape.com/*  https://therebelape.com/:splat  301!
 
 # ========================================
+# PAGE SLUG UPDATES
+# ========================================
+
+/website-design-for-contractors/ /website-design/ 301
+/ads-for-contractors/ /ads/ 301
+
+# ========================================
 # LANDING PAGES & SUBDOMAIN REDIRECTS
 # ========================================
 
@@ -46,17 +53,17 @@ https://therebelape.com/request-a-bid/ /contact/ 301!
 
 # CONVERSION SECRETS
 # Main Pages
-https://go.therebelape.com/conversion-secrets /website-design-for-contractors/ 301!
-https://go.therebelape.com/conversion-secrets-2357 /website-design-for-contractors/ 301!
-https://go.therebelape.com/conversion-secrets/ /website-design-for-contractors/ 301!
-https://www.therebelape.com/conversion-secrets /website-design-for-contractors/ 301!
-https://therebelape.com/conversion-secrets/ /website-design-for-contractors/ 301!
-https://therebelape.com/what-makes-a-high-converting-webpage/ /website-design-for-contractors/ 301!
+https://go.therebelape.com/conversion-secrets /website-design/ 301!
+https://go.therebelape.com/conversion-secrets-2357 /website-design/ 301!
+https://go.therebelape.com/conversion-secrets/ /website-design/ 301!
+https://www.therebelape.com/conversion-secrets /website-design/ 301!
+https://therebelape.com/conversion-secrets/ /website-design/ 301!
+https://therebelape.com/what-makes-a-high-converting-webpage/ /website-design/ 301!
 
 # Page Anchors
-https://therebelape.com/what-makes-a-high-converting-webpage/#A_website_wont_convert_traffic_if_it_isnt_trustworthy /website-design-for-contractors/ 301!
-https://therebelape.com/what-makes-a-high-converting-webpage/#Every_website_should_have_great_content_writing /website-design-for-contractors/ 301!
-https://therebelape.com/what-makes-a-high-converting-webpage/#A_phone_number_is_one_of_the_best_items_for_a_high_converting_webpage /website-design-for-contractors/ 301!
+https://therebelape.com/what-makes-a-high-converting-webpage/#A_website_wont_convert_traffic_if_it_isnt_trustworthy /website-design/ 301!
+https://therebelape.com/what-makes-a-high-converting-webpage/#Every_website_should_have_great_content_writing /website-design/ 301!
+https://therebelape.com/what-makes-a-high-converting-webpage/#A_phone_number_is_one_of_the_best_items_for_a_high_converting_webpage /website-design/ 301!
 
 # ABOUT
 # Main Pages
@@ -83,81 +90,81 @@ https://therebelape.com/about/referral-program/ /about/ 301!
 https://therebelape.com/referral-program/ /about/ 301!
 
 # ========================================
-# WEBSITE DESIGN FOR CONTRACTORS
+# WEBSITE DESIGN
 # ========================================
 
-# WEBSITE DESIGN FOR CONTRACTORS - General Pages
-https://therebelape.com/web-design/ /website-design-for-contractors/ 301!
-https://therebelape.com/web-design /website-design-for-contractors/ 301!
-https://therebelape.com/website-design/ /website-design-for-contractors/ 301!
-https://therebelape.com/website-design-and-development-consultant/ /website-design-for-contractors/ 301!
-https://therebelape.com/services/plumber-website-design/ /website-design-for-contractors/ 301!
-https://therebelape.com/plumber-website-design/ /website-design-for-contractors/ 301!
-https://therebelape.com/high-converting-website/feed/ /website-design-for-contractors/ 301!
+# WEBSITE DESIGN - General Pages
+https://therebelape.com/web-design/ /website-design/ 301!
+https://therebelape.com/web-design /website-design/ 301!
+https://therebelape.com/website-design/ /website-design/ 301!
+https://therebelape.com/website-design-and-development-consultant/ /website-design/ 301!
+https://therebelape.com/services/plumber-website-design/ /website-design/ 301!
+https://therebelape.com/plumber-website-design/ /website-design/ 301!
+https://therebelape.com/high-converting-website/feed/ /website-design/ 301!
 
-# WEBSITE DESIGN FOR CONTRACTORS - Guide Pages
-https://therebelape.com/high-converting-website-design-guide/ /website-design-for-contractors/ 301!
-https://therebelape.com/ultimate-guide-to-small-business-website-design/ /website-design-for-contractors/ 301!
-https://therebelape.com/how-your-website-design-can-help-or-hurt-your-brand/ /website-design-for-contractors/ 301!
-https://therebelape.com/increase-website-trust/ /website-design-for-contractors/ 301!
-https://therebelape.com/plumbing-website-conversion-fixes/ /website-design-for-contractors/ 301!
-https://therebelape.com/a-website-blog-is-an-seos-secret-weapon/ /website-design-for-contractors/ 301!
-https://therebelape.com/how-to-improve-website-traffic-with-seo-your-complete-2025-guide/ /website-design-for-contractors/ 301!
+# WEBSITE DESIGN - Guide Pages
+https://therebelape.com/high-converting-website-design-guide/ /website-design/ 301!
+https://therebelape.com/ultimate-guide-to-small-business-website-design/ /website-design/ 301!
+https://therebelape.com/how-your-website-design-can-help-or-hurt-your-brand/ /website-design/ 301!
+https://therebelape.com/increase-website-trust/ /website-design/ 301!
+https://therebelape.com/plumbing-website-conversion-fixes/ /website-design/ 301!
+https://therebelape.com/a-website-blog-is-an-seos-secret-weapon/ /website-design/ 301!
+https://therebelape.com/how-to-improve-website-traffic-with-seo-your-complete-2025-guide/ /website-design/ 301!
 
 # Plumbing Website Conversion Fixes - Anchors
-https://therebelape.com/plumbing-website-conversion-fixes/#step-1-put-your-phone-number-in-the-top-right-corner-of-every-page /website-design-for-contractors/ 301!
-https://therebelape.com/plumbing-website-conversion-fixes/#step-2-ditch-the-stock-photos%E2%80%94use-real-images-of-your-team /website-design-for-contractors/ 301!
-https://therebelape.com/plumbing-website-conversion-fixes/#step-3-add-a-call-to-action-cta-after-every-block-of-text /website-design-for-contractors/ 301!
-https://therebelape.com/plumbing-website-conversion-fixes/#the-real-problem-isn%E2%80%99t-traffic%E2%80%94it%E2%80%99s-conversion /website-design-for-contractors/ 301!
+https://therebelape.com/plumbing-website-conversion-fixes/#step-1-put-your-phone-number-in-the-top-right-corner-of-every-page /website-design/ 301!
+https://therebelape.com/plumbing-website-conversion-fixes/#step-2-ditch-the-stock-photos%E2%80%94use-real-images-of-your-team /website-design/ 301!
+https://therebelape.com/plumbing-website-conversion-fixes/#step-3-add-a-call-to-action-cta-after-every-block-of-text /website-design/ 301!
+https://therebelape.com/plumbing-website-conversion-fixes/#the-real-problem-isn%E2%80%99t-traffic%E2%80%94it%E2%80%99s-conversion /website-design/ 301!
 
-# WEBSITE DESIGN FOR CONTRACTORS - Location-Specific Pages
-https://therebelape.com/marketing-services/website-design/ /website-design-for-contractors/ 301!
-https://therebelape.com/marketing-services/website-design/bountiful/ /website-design-for-contractors/ 301!
-https://therebelape.com/plumber-marketing-services/plumber-website-design/ /website-design-for-contractors/ 301!
-https://therebelape.com/plumber-marketing-services/plumber-website-design/plumber-web-design-bountiful/ /website-design-for-contractors/ 301!
-https://therebelape.com/plumber-website-design/bountiful-web-design/ /website-design-for-contractors/ 301!
-https://therebelape.com/web-design/bountiful-web-design/ /website-design-for-contractors/ 301!
-https://therebelape.com/marketing-agencies-utah/seo-for-small-business/seo-and-website-design-in-logan/ /website-design-for-contractors/ 301!
-https://therebelape.com/marketing-agencies-utah/seo-for-small-business/seo-and-website-design-in-las-vegas/ /website-design-for-contractors/ 301!
-https://therebelape.com/marketing-agencies-utah/seo-for-small-business/seo-and-website-design-in-layton/ /website-design-for-contractors/ 301!
-https://therebelape.com/marketing-agencies-utah/seo-for-small-business/seo-website-design-in-saint-george/ /website-design-for-contractors/ 301!
-https://therebelape.com/marketing-agencies-utah/seo-for-small-business/website-design-in-bountiful-ut/ /website-design-for-contractors/ 301!
-https://therebelape.com/marketing-agencies-utah/website-developer-for-small-businesses/ /website-design-for-contractors/ 301!
+# WEBSITE DESIGN - Location-Specific Pages
+https://therebelape.com/marketing-services/website-design/ /website-design/ 301!
+https://therebelape.com/marketing-services/website-design/bountiful/ /website-design/ 301!
+https://therebelape.com/plumber-marketing-services/plumber-website-design/ /website-design/ 301!
+https://therebelape.com/plumber-marketing-services/plumber-website-design/plumber-web-design-bountiful/ /website-design/ 301!
+https://therebelape.com/plumber-website-design/bountiful-web-design/ /website-design/ 301!
+https://therebelape.com/web-design/bountiful-web-design/ /website-design/ 301!
+https://therebelape.com/marketing-agencies-utah/seo-for-small-business/seo-and-website-design-in-logan/ /website-design/ 301!
+https://therebelape.com/marketing-agencies-utah/seo-for-small-business/seo-and-website-design-in-las-vegas/ /website-design/ 301!
+https://therebelape.com/marketing-agencies-utah/seo-for-small-business/seo-and-website-design-in-layton/ /website-design/ 301!
+https://therebelape.com/marketing-agencies-utah/seo-for-small-business/seo-website-design-in-saint-george/ /website-design/ 301!
+https://therebelape.com/marketing-agencies-utah/seo-for-small-business/website-design-in-bountiful-ut/ /website-design/ 301!
+https://therebelape.com/marketing-agencies-utah/website-developer-for-small-businesses/ /website-design/ 301!
 
-# WEBSITE DESIGN FOR CONTRACTORS - Questionnaire & Resources
-https://therebelape.com/marketing-services/website-design/website-design-questionnaire/ /website-design-for-contractors/ 301!
-https://therebelape.com/plumber-marketing-services/plumber-website-design/website-design-questionnaire/ /website-design-for-contractors/ 301!
-https://therebelape.com/services/plumber-website-design/website-design-examples/ /website-design-for-contractors/ 301!
-https://therebelape.com/web-design-questionnaire/ /website-design-for-contractors/ 301!
-https://therebelape.com/marketing-services/website-design/website-design-examples/ /website-design-for-contractors/ 301!
-https://therebelape.com/plumber-marketing-services/plumber-website-design/website-design-examples/ /website-design-for-contractors/ 301!
-https://therebelape.com/services/plumber-website-design/ /website-design-for-contractors/ 301!
-https://therebelape.com/web-design-examples/ /website-design-for-contractors/ 301!
+# WEBSITE DESIGN - Questionnaire & Resources
+https://therebelape.com/marketing-services/website-design/website-design-questionnaire/ /website-design/ 301!
+https://therebelape.com/plumber-marketing-services/plumber-website-design/website-design-questionnaire/ /website-design/ 301!
+https://therebelape.com/services/plumber-website-design/website-design-examples/ /website-design/ 301!
+https://therebelape.com/web-design-questionnaire/ /website-design/ 301!
+https://therebelape.com/marketing-services/website-design/website-design-examples/ /website-design/ 301!
+https://therebelape.com/plumber-marketing-services/plumber-website-design/website-design-examples/ /website-design/ 301!
+https://therebelape.com/services/plumber-website-design/ /website-design/ 301!
+https://therebelape.com/web-design-examples/ /website-design/ 301!
 
-# WEBSITE DESIGN FOR CONTRACTORS - Blog & Feed Pages
-https://therebelape.com/category/design/ /website-design-for-contractors/ 301!
-https://therebelape.com/category/design/feed/ /website-design-for-contractors/ 301!
+# WEBSITE DESIGN - Blog & Feed Pages
+https://therebelape.com/category/design/ /website-design/ 301!
+https://therebelape.com/category/design/feed/ /website-design/ 301!
 
-# WEBSITE DESIGN FOR CONTRACTORS - Logo Designer Pages & Anchors
-https://therebelape.com/how-to-hire-a-logo-designer/ /website-design-for-contractors/ 301!
-https://therebelape.com/how-to-hire-a-logo-designer/#1_Communicate_your_brand_vision /website-design-for-contractors/ 301!
-https://therebelape.com/how-to-hire-a-logo-designer/#2_Determine_your_budget /website-design-for-contractors/ 301!
-https://therebelape.com/how-to-hire-a-logo-designer/#3_Research_potential_designers /website-design-for-contractors/ 301!
-https://therebelape.com/how-to-hire-a-logo-designer/#4_Request_samples_and_portfolios /website-design-for-contractors/ 301!
-https://therebelape.com/how-to-hire-a-logo-designer/#5_Interview_potential_designers /website-design-for-contractors/ 301!
-https://therebelape.com/how-to-hire-a-logo-designer/#6_Get_everything_in_writing /website-design-for-contractors/ 301!
-https://therebelape.com/how-to-hire-a-logo-designer/#7_The_design_process_begins /website-design-for-contractors/ 301!
-https://therebelape.com/how-to-hire-a-logo-designer/#8_Giving_your_feedback /website-design-for-contractors/ 301!
-https://therebelape.com/how-to-hire-a-logo-designer/#9_Finishing_the_design /website-design-for-contractors/ 301!
-https://therebelape.com/how-to-hire-a-logo-designer/#Action_Steps /website-design-for-contractors/ 301!
-https://therebelape.com/how-to-hire-a-logo-designer/#gkfjmr-1-determine-what-you-have-in-mind-when-you-hire-a-logo-designer /website-design-for-contractors/ 301!
+# WEBSITE DESIGN - Logo Designer Pages & Anchors
+https://therebelape.com/how-to-hire-a-logo-designer/ /website-design/ 301!
+https://therebelape.com/how-to-hire-a-logo-designer/#1_Communicate_your_brand_vision /website-design/ 301!
+https://therebelape.com/how-to-hire-a-logo-designer/#2_Determine_your_budget /website-design/ 301!
+https://therebelape.com/how-to-hire-a-logo-designer/#3_Research_potential_designers /website-design/ 301!
+https://therebelape.com/how-to-hire-a-logo-designer/#4_Request_samples_and_portfolios /website-design/ 301!
+https://therebelape.com/how-to-hire-a-logo-designer/#5_Interview_potential_designers /website-design/ 301!
+https://therebelape.com/how-to-hire-a-logo-designer/#6_Get_everything_in_writing /website-design/ 301!
+https://therebelape.com/how-to-hire-a-logo-designer/#7_The_design_process_begins /website-design/ 301!
+https://therebelape.com/how-to-hire-a-logo-designer/#8_Giving_your_feedback /website-design/ 301!
+https://therebelape.com/how-to-hire-a-logo-designer/#9_Finishing_the_design /website-design/ 301!
+https://therebelape.com/how-to-hire-a-logo-designer/#Action_Steps /website-design/ 301!
+https://therebelape.com/how-to-hire-a-logo-designer/#gkfjmr-1-determine-what-you-have-in-mind-when-you-hire-a-logo-designer /website-design/ 301!
 
-# WEBSITE DESIGN FOR CONTRACTORS - Client Projects
-https://therebelape.com/our-work/client-work/capener-matthews-dental-website-design/ /website-design-for-contractors/ 301!
-https://therebelape.com/our-work/client-work/develop-your-intuitive-gifts-website-design/ /website-design-for-contractors/ 301!
-https://therebelape.com/our-work/client-work/ellis-printing-website-design/ /website-design-for-contractors/ 301!
-https://therebelape.com/our-work/client-work/out-there-roofing-website-design/ /website-design-for-contractors/ 301!
-https://therebelape.com/our-work/client-work/tnt-social-media-website-design/ /website-design-for-contractors/ 301!
+# WEBSITE DESIGN - Client Projects
+https://therebelape.com/our-work/client-work/capener-matthews-dental-website-design/ /website-design/ 301!
+https://therebelape.com/our-work/client-work/develop-your-intuitive-gifts-website-design/ /website-design/ 301!
+https://therebelape.com/our-work/client-work/ellis-printing-website-design/ /website-design/ 301!
+https://therebelape.com/our-work/client-work/out-there-roofing-website-design/ /website-design/ 301!
+https://therebelape.com/our-work/client-work/tnt-social-media-website-design/ /website-design/ 301!
 
 # ========================================
 # SEO & MARKETING CONTENT
@@ -167,7 +174,7 @@ https://therebelape.com/our-work/client-work/tnt-social-media-website-design/ /w
 https://therebelape.com/marketing-agencies-utah/ / 301!
 
 # SEO - City Pages
-https://therebelape.com/marketing-services/website-design/ /website-design-for-contractors/ 301!
+https://therebelape.com/marketing-services/website-design/ /website-design/ 301!
 
 # VIDEO & MEDIA
 https://therebelape.com/when-to-hire-a-professional-videographer-for-your-home-service-company/ / 301!
@@ -274,3 +281,9 @@ https://therebelape.com/legal/terms-and-conditions/ /terms-and-conditions/ 301!
 
 # SITEMAP
 https://therebelape.com/html-sitemap/ /sitemap.xml 301!
+
+
+# ========================================
+# BLOG POST REDIRECTS
+# ========================================
+
