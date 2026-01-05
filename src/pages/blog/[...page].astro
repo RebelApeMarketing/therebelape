@@ -1,26 +1,41 @@
 ---
 import { getCollection } from 'astro:content';
+import type { GetStaticPaths, Page } from 'astro';
 import Base from '../../layouts/Base.astro';
 import Hero from '../../components/sections/Hero.astro';
 
-// Get all blog posts, filter out drafts, and sort by date
-const allPosts = await getCollection('posts');
-const publishedPosts = allPosts
-  .filter(post => !post.data.draft && post.data.publishDate)
-  .sort((a, b) => {
-    const dateA = a.data.publishDate ? new Date(a.data.publishDate).getTime() : 0;
-    const dateB = b.data.publishDate ? new Date(b.data.publishDate).getTime() : 0;
-    return dateB - dateA;
+export const getStaticPaths = (async ({ paginate }) => {
+  // Get all blog posts, filter out drafts, and sort by date
+  const allPosts = await getCollection('posts');
+  const publishedPosts = allPosts
+    .filter(post => !post.data.draft && post.data.publishDate)
+    .sort((a, b) => {
+      const dateA = a.data.publishDate ? new Date(a.data.publishDate).getTime() : 0;
+      const dateB = b.data.publishDate ? new Date(b.data.publishDate).getTime() : 0;
+      return dateB - dateA;
+    });
+
+  // Separate featured and regular posts
+  const featuredPosts = publishedPosts.filter(post => post.data.featured);
+  const regularPosts = publishedPosts.filter(post => !post.data.featured);
+
+  // Use paginate to create pages with 12 posts each
+  return paginate(regularPosts, {
+    pageSize: 12,
+    props: { featuredPosts },
   });
+}) satisfies GetStaticPaths;
 
-// Separate featured posts
-const featuredPosts = publishedPosts.filter(post => post.data.featured);
-const regularPosts = publishedPosts.filter(post => !post.data.featured).slice(0, 9); // Show first 9
+const { page } = Astro.props;
+const { featuredPosts } = Astro.props;
 
-// SEO
-const title = "Roofing Marketing Blog | SEO, Google Ads & Lead Generation | Rebel Ape";
+// SEO - adjust title for pagination
+const pageNum = page.currentPage > 1 ? ` - Page ${page.currentPage}` : '';
+const title = `Roofing Marketing Blog | SEO, Google Ads & Lead Generation | Rebel Ape${pageNum}`;
 const description = "Expert insights on roofing marketing, SEO, Google Ads, and lead generation strategies. Learn how to get more qualified leads and grow your contracting business.";
-const canonical = "https://therebelape.com/blog/";
+const canonical = page.currentPage === 1
+  ? "https://therebelape.com/blog/"
+  : `https://therebelape.com/blog/${page.currentPage}/`;
 const image = "https://RebelApeCDN.b-cdn.net/Rebel%20Website/Blog/blog-og-image.jpg";
 const type = "website";
 const robots = "index,follow";
@@ -28,7 +43,7 @@ const robots = "index,follow";
 
 <Base {title} {description} {canonical} {image} {type} {robots}>
   <section>
-    <Hero 
+    <Hero
       backgroundImage="https://RebelApeCDN.b-cdn.net/Rebel%20Website/Homepage/bg-gorilla-direct.webp"
       title="<span class='text-rebel-green'>Marketing Insights</span> That Actually <span class='text-rebel-green'>Work</span>"
       subtitle="For Roofing Contractors Who Want More Leads"
@@ -44,8 +59,8 @@ const robots = "index,follow";
       fetchpriority="high"
     />
 
-    <!-- Featured Posts Section -->
-    {featuredPosts.length > 0 && (
+    <!-- Featured Posts Section (only show on first page) -->
+    {page.currentPage === 1 && featuredPosts.length > 0 && (
       <section class={`py-16 md:py-24 section-checkers`}>
         <div class="max-w-7xl mx-auto px-6">
           <div class="text-center mb-12">
@@ -54,11 +69,11 @@ const robots = "index,follow";
           </div>
           <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 gap-8">
             {featuredPosts.map(post => (
-              <article class="bg-white rounded-lg shadow-lg overflow-hidden hover:shadow-xl transition-shadow duration-300">
+              <article class="bg-white rounded-lg shadow-xl overflow-hidden hover:shadow-2xl transition-shadow duration-300">
                 {post.data.image && (
-                  <img 
-                    src={post.data.image} 
-                    alt={post.data.title} 
+                  <img
+                    src={post.data.image}
+                    alt={post.data.title}
                     class="w-full h-64 object-cover"
                   />
                 )}
@@ -66,10 +81,10 @@ const robots = "index,follow";
                   <div class="flex items-center gap-4 mb-4 text-sm text-gray-600">
                     {post.data.publishDate && (
                       <time datetime={new Date(post.data.publishDate).toISOString()}>
-                        {new Date(post.data.publishDate).toLocaleDateString('en-US', { 
-                          year: 'numeric', 
-                          month: 'long', 
-                          day: 'numeric' 
+                        {new Date(post.data.publishDate).toLocaleDateString('en-US', {
+                          year: 'numeric',
+                          month: 'long',
+                          day: 'numeric'
                         })}
                       </time>
                     )}
@@ -80,7 +95,7 @@ const robots = "index,follow";
                     )}
                   </div>
                   <h3 class="text-2xl font-bold mb-3 leading-tight">
-                    <a 
+                    <a
                       href={`/blog/${post.slug}/`}
                       class="text-gray-900 hover:text-rebel-green transition-colors"
                     >
@@ -88,8 +103,8 @@ const robots = "index,follow";
                     </a>
                   </h3>
                   <p class="text-gray-600 mb-4 line-clamp-3">{post.data.description}</p>
-                  <a 
-                    href={`/blog/${post.slug}/`} 
+                  <a
+                    href={`/blog/${post.slug}/`}
                     class="inline-flex items-center text-rebel-green font-semibold hover:underline"
                   >
                     Read Article
@@ -109,15 +124,17 @@ const robots = "index,follow";
     <section class={`py-16 md:py-24 section-slate`}>
       <div class="max-w-7xl mx-auto px-6">
         <div class="text-center mb-12">
-          <h2 class="text-3xl md:text-4xl font-bold mb-4">All Articles</h2>
+          <h2 class="text-3xl md:text-4xl font-bold mb-4">
+            {page.currentPage === 1 ? 'All Articles' : `All Articles - Page ${page.currentPage}`}
+          </h2>
           <p class="text-lg text-gray-600">Browse our complete library of marketing insights</p>
         </div>
         <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
-          {regularPosts.map(post => (
-            <article class="bg-white rounded-lg shadow-md overflow-hidden hover:shadow-lg transition-shadow duration-300">
+          {page.data.map(post => (
+            <article class="bg-white rounded-lg shadow-xl overflow-hidden hover:shadow-2xl transition-shadow duration-300">
               {post.data.image && (
-                <img 
-                  src={post.data.image} 
+                <img
+                  src={post.data.image}
                   alt={post.data.title}
                   class="w-full h-48 object-cover"
                 />
@@ -126,10 +143,10 @@ const robots = "index,follow";
                 <div class="flex items-center gap-4 mb-3 text-sm text-gray-600">
                   {post.data.publishDate && (
                     <time datetime={new Date(post.data.publishDate).toISOString()}>
-                      {new Date(post.data.publishDate).toLocaleDateString('en-US', { 
-                        year: 'numeric', 
-                        month: 'short', 
-                        day: 'numeric' 
+                      {new Date(post.data.publishDate).toLocaleDateString('en-US', {
+                        year: 'numeric',
+                        month: 'short',
+                        day: 'numeric'
                       })}
                     </time>
                   )}
@@ -140,7 +157,7 @@ const robots = "index,follow";
                   )}
                 </div>
                 <h3 class="text-xl font-bold mb-2 leading-tight">
-                  <a 
+                  <a
                     href={`/blog/${post.slug}/`}
                     class="text-gray-900 hover:text-rebel-green transition-colors"
                   >
@@ -148,7 +165,7 @@ const robots = "index,follow";
                   </a>
                 </h3>
                 <p class="text-gray-600 mb-4 line-clamp-3">{post.data.description}</p>
-                <a 
+                <a
                   href={`/blog/${post.slug}/`}
                   class="inline-flex items-center text-rebel-green font-semibold hover:underline"
                 >
@@ -161,6 +178,54 @@ const robots = "index,follow";
             </article>
           ))}
         </div>
+
+        <!-- Pagination Controls -->
+        {(page.lastPage > 1) && (
+          <nav class="mt-12 flex justify-center items-center gap-2" aria-label="Pagination">
+            {page.url.prev && (
+              <a
+                href={page.url.prev}
+                class="px-4 py-2 bg-white border border-gray-300 rounded-lg hover:bg-gray-50 font-semibold transition-colors"
+                aria-label="Previous page"
+              >
+                <svg class="w-5 h-5 inline-block mr-1" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 19l-7-7 7-7"></path>
+                </svg>
+                Previous
+              </a>
+            )}
+
+            <div class="flex gap-2">
+              {Array.from({ length: page.lastPage }, (_, i) => i + 1).map(pageNum => (
+                <a
+                  href={pageNum === 1 ? '/blog/' : `/blog/${pageNum}/`}
+                  class={`px-4 py-2 rounded-lg font-semibold transition-colors ${
+                    pageNum === page.currentPage
+                      ? 'bg-rebel-green text-white'
+                      : 'bg-white border border-gray-300 hover:bg-gray-50'
+                  }`}
+                  aria-label={`Page ${pageNum}`}
+                  aria-current={pageNum === page.currentPage ? 'page' : undefined}
+                >
+                  {pageNum}
+                </a>
+              ))}
+            </div>
+
+            {page.url.next && (
+              <a
+                href={page.url.next}
+                class="px-4 py-2 bg-white border border-gray-300 rounded-lg hover:bg-gray-50 font-semibold transition-colors"
+                aria-label="Next page"
+              >
+                Next
+                <svg class="w-5 h-5 inline-block ml-1" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path>
+                </svg>
+              </a>
+            )}
+          </nav>
+        )}
       </div>
     </section>
 
