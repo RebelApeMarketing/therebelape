@@ -6,7 +6,7 @@ excerpt: "We've designed dozens of contractor websites. The ones that convert fo
 author: "Adam Miconi"
 publishDate: "2021-12-06T10:00:00-07:00"
 lastModified: "2026-01-07T15:00:00-07:00"
-image: "/images/blog/high-converting-website-design.jpg"
+image: "https://RebelApeCDN.b-cdn.net/rebel-ape-main/website-professional-design.webp"
 canonicalUrl: "https://therebelape.com/blog/high-converting-website-design-guide/"
 tags: ["website design", "conversion optimization", "landing pages", "contractor marketing", "roofing contractors"]
 draft: false
