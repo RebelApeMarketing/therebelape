@@ -388,6 +388,28 @@ https://therebelape.com/html-sitemap/ /sitemap.xml 301!
 /page/6/ /blog/6/ 301
 
 # ========================================
+# BLOG QUERY PARAMETER CLEANUP
+# ========================================
+# Remove query parameters from all blog posts
+/blog/*?replytocom=* /blog/:splat 301
+/blog/*?* /blog/:splat 301
+
+# Remove query parameters from old-style blog posts (without /blog/ prefix)
+/*?replytocom=* /:splat 301
+
+# ========================================
+# WORDPRESS COMMENT PAGINATION CLEANUP
+# ========================================
+
+# Remove /page/N/ from blog posts (WordPress comment pagination)
+/blog/*/page/* /blog/:splat 301
+/*/page/* /:splat 301
+
+# Remove query parameters from all pages
+/blog/*?* /blog/:splat 301
+/*?* /:splat 301
+
+# ========================================
 # OLD MARKETING SERVICES → HOME
 # ========================================
 https://therebelape.com/marketing-services/ / 301!
