@@ -6,7 +6,7 @@ excerpt: ""
 author: "Adam Miconi"
 publishDate: "2018-12-20T13:07:00-07:00"
 lastModified: ""
-image: ""
+image: "https://RebelApeCDN.b-cdn.net/rebel-ape-main/google-ranking-factor-serps.webp"
 canonicalUrl: ""
 tags: []
 draft: false
@@ -18,7 +18,7 @@ Part of having a successful business is ensuring it’s always your clients’ f
 
 Did you know that an astounding **97% of internet users** do not click past the first page of results? Also, **55% of all clicks** go to the top three organic search results. That means if your website doesn’t appear on page one — and ideally in the **top 3 results** — you’re losing clients and sales to your competitors.
 
-![Google Ranking Factors](https://therebelape.com/wp-content/uploads/2018/12/google-ranking-factor-serps.jpg)
+![Google Ranking Factors](https://RebelApeCDN.b-cdn.net/rebel-ape-main/google-ranking-factor-serps.webp)
 
 ## Google Ranking Factors
 

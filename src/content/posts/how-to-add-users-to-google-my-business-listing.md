@@ -6,7 +6,7 @@ excerpt: ""
 author: "Adam Miconi"
 publishDate: "2019-02-20T00:38:00-07:00"
 lastModified: ""
-image: ""
+image: "https://RebelApeCDN.b-cdn.net/rebel-ape-main/google-my-business-listing-selection.webp"
 canonicalUrl: ""
 tags: []
 draft: false
@@ -77,7 +77,7 @@ You do **not** need to share your Google account login. Instead, you can add use
 
 If you manage multiple locations, make sure you select the correct one before proceeding.
 
-![Google My Business Dashboard](https://therebelape.com/wp-content/uploads/2019/02/google-my-business-listing-selection.jpg)
+![Google My Business Dashboard](https://RebelApeCDN.b-cdn.net/rebel-ape-main/google-my-business-listing-selection.webp)
 
 ---
 
@@ -85,7 +85,7 @@ If you manage multiple locations, make sure you select the correct one before pr
 
 The **Users** option is located in the menu.
 
-![Google My Business User Section](https://therebelape.com/wp-content/uploads/2019/02/google-my-business-users.jpg)
+![Google My Business User Section](https://RebelApeCDN.b-cdn.net/rebel-ape-main/google-my-business-users.webp)
 
 ---
 
@@ -93,7 +93,7 @@ The **Users** option is located in the menu.
 
 In the top-right corner, click **Invite New Managers**.
 
-![Add New User](https://therebelape.com/wp-content/uploads/2019/02/google-my-business-add-new-user.jpg)
+![Add New User](https://RebelApeCDN.b-cdn.net/rebel-ape-main/google-my-business-add-new-user.webp)
 
 ---
 
@@ -109,7 +109,7 @@ You can assign one of the following roles:
 
 Each role has different levels of access. Only **owners** can add or remove other users, although managers can remove themselves.
 
-![Enter User Email](https://therebelape.com/wp-content/uploads/2019/02/google-my-business-enter-email.jpg)
+![Enter User Email](https://RebelApeCDN.b-cdn.net/rebel-ape-main/google-my-business-enter-email.webp)
 
 ---
 
@@ -119,9 +119,9 @@ Once you click **Invite**, Google will send an email to the user.
 
 You’ll receive a notification when the invitation is accepted.
 
-![GMB Email Invite](https://therebelape.com/wp-content/uploads/2019/02/google-my-business-email-invite.jpg)
+![GMB Email Invite](https://RebelApeCDN.b-cdn.net/rebel-ape-main/google-my-business-email-invite.webp)
 
-![Accept Invite](https://therebelape.com/wp-content/uploads/2019/02/google-my-business-accept-invite.jpg)
+![Accept Invite](https://RebelApeCDN.b-cdn.net/rebel-ape-main/google-my-business-accept-invite.webp)
 
 ---
 

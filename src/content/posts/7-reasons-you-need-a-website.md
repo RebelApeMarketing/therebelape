@@ -6,7 +6,7 @@ excerpt: ""
 author: "Adam Miconi"
 publishDate: "2019-03-15T12:00:00-06:00"
 lastModified: ""
-image: ""
+image: "https://RebelApeCDN.b-cdn.net/rebel-ape-main/online-business.webp"
 canonicalUrl: ""
 tags: []
 draft: false
@@ -28,7 +28,7 @@ With how easy it is to start a website these days, don’t start at a disadvanta
 6. Modern [Websites are SEO](https://therebelape.com/on-page-seo-tips/) Friendly  
 7. Marketing your Brand Online  
 
-![Online Business Displayed on Laptop](https://therebelape.com/wp-content/uploads/2019/03/online-business.jpg)
+![Online Business Displayed on Laptop](https://RebelApeCDN.b-cdn.net/rebel-ape-main/online-business.jpg)
 *Online Business*
 
 ## 1. The Website Is the Online Version of Your Company
@@ -59,7 +59,7 @@ With the iPhone and Androids as big as they are, it’s great to be diverse with
 
 By building out your Yelp profile, you are able to achieve similar results and pull a lot of traffic just as you would from your Google My Business account. However, with your audience being in so many locations, don’t overlook other locations like Bing, YellowPages, Yahoo, and other giants.
 
-![Business people announcing business with megaphone](https://therebelape.com/wp-content/uploads/2019/03/announce-your-business.jpg)
+![Business people announcing business with megaphone](https://RebelApeCDN.b-cdn.net/rebel-ape-main/announce-your-business.jpg)
 *Announce Your Business*
 
 ## 2. Attract New Customers and Clients
@@ -70,7 +70,7 @@ With your website being accessible at all times of the day, you now have the opp
 
 Instead of customers having to put in the work to find your company, you have made it simple for them to find and contact you. This can often be the difference between you receiving the business vs. your competitor receiving the business. Stay on top of your brand and stay on top of the mind of your customers. With the website always being on, it is working for you at all times, even after you brick and mortar company closes for the day. You can’t beat having a salesman that never sleeps, never takes breaks, and is always willing to help. A website may just be one of the best investments you can make.
 
-![Instant Communication with People Holding Chat Bubbles](https://therebelape.com/wp-content/uploads/2019/03/instant-communication.jpg)
+![Instant Communication with People Holding Chat Bubbles](https://RebelApeCDN.b-cdn.net/rebel-ape-main/instant-communication.jpg)
 *Instant Communication*
 
 ## 3. Instant Communication
@@ -99,7 +99,7 @@ The best thing is to maintain control of that which you can control, your websit
 
 These social platforms are simply a tool, and extension of your website and not intended to replace it. Knowing there are some dangers lurking on these platforms that you can’t control, it’s also good to know how powerful these platforms can be for your website and business.
 
-![Facebook Icon](https://therebelape.com/wp-content/uploads/2019/03/facebook.jpg)
+![Facebook Icon](https://RebelApeCDN.b-cdn.net/rebel-ape-main/facebook.jpg)
 *Facebook Icon*
 
 #### Facebook
@@ -108,14 +108,14 @@ Facebook still remains as the largest social media network with 1.74 billion use
 
 In addition to staying in contact with your users, it’s also easy to run Facebook Ads or boost a post which allows you to stay in front of them and maintain top-of-mind-awareness so you remain as their go-to source for information.
 
-![Instagram Icon](https://therebelape.com/wp-content/uploads/2019/03/instagram.jpg)
+![Instagram Icon](https://RebelApeCDN.b-cdn.net/rebel-ape-main/instagram.jpg)
 *Instagram Icon*
 
 #### Instagram
 
 With Facebook’s acquisition of Instagram, you can further your reach to your audience by maintaining both platforms simply from the Facebook Page dashboard. While you can send and receive messages easily between the two platforms, you can also reach your audience on Instagram using the same Facebook Ads platform. Instagram now has over 1 billion active users.
 
-![Twitter Icon](https://therebelape.com/wp-content/uploads/2019/03/twitter.jpg)
+![Twitter Icon](https://RebelApeCDN.b-cdn.net/rebel-ape-main/twitter.jpg)
 *Twitter Icon*
 
 #### Twitter
@@ -124,7 +124,7 @@ Twitter still remains a very competitive force when it comes to social media pla
 
 There is a very different feel on Twitter than there is on Facebook and often the users like to interact with the businesses different. If you plan on using both platforms, register your account and start getting a feel for the platform of your choice.
 
-![Pinterest Icon](https://therebelape.com/wp-content/uploads/2019/03/pinterest.jpg)
+![Pinterest Icon](https://RebelApeCDN.b-cdn.net/rebel-ape-main/pinterest.jpg)
 *Pinterest Icon*
 
 #### Pinterest
@@ -133,7 +133,7 @@ With over 250 million monthly users, you don’t want to overlook Pinterest. If 
 
 Pinterest is a great platform to share your [images and link it directly back to your website](https://therebelape.com/pitfalls-of-stock-photography-for-website-images/). Couple that with their album structure, known as “Boards.” You can categorize all your “Pins” allowing users to get all the information they need and visit your website with the intent to purchase making them a perfect “hot lead” by their own choice.
 
-![YouTube Icon](https://therebelape.com/wp-content/uploads/2019/03/youtube.jpg)
+![YouTube Icon](https://RebelApeCDN.b-cdn.net/rebel-ape-main/youtube.jpg)
 *YouTube Icon*
 
 #### YouTube
@@ -142,7 +142,7 @@ No matter the product or service you have, you can bet that you have a community
 
 If you want to build a strong audience as well as work on being an expert in your field, YouTube is one of the best locations to start with. With its integrations on websites, you can easily post a video and embed it on your website, often in a handful of clicks or less and no coding knowledge at all. Couple that with YouTube ads and you can pour the traffic into your website for a quick sale from anywhere in the world. That’s a pretty enticing offer that is incredibly difficult to get without a website to send the traffic to.
 
-![LinkedIn Icon](https://therebelape.com/wp-content/uploads/2019/03/linkedin.jpg)
+![LinkedIn Icon](https://RebelApeCDN.b-cdn.net/rebel-ape-main/linkedin.jpg)
 *LinkedIn Icon*
 
 #### LinkedIn
@@ -155,7 +155,7 @@ With choices such as Facebook, Linkedin, Twitter, Pinterest, YouTube and so many
 
 Though you do [need social media](https://therebelape.com/5-reasons-you-need-social-media-marketing/), our suggestion is to pick one or two and dominate it until you have enough income generating traffic to hire a social media manager whose sole role is to manage these platforms each and every day so you can focus on your business.
 
-![Yoda Guru](https://therebelape.com/wp-content/uploads/2019/03/yoda-expert.jpg)
+![Yoda Guru](https://RebelApeCDN.b-cdn.net/rebel-ape-main/yoda-expert.jpg)
 *Yoda Guru*
 
 ## 4. Become The Expert in Your Field
@@ -174,7 +174,7 @@ This information can aid you when it comes to working on your website as you can
 
 One of the best ways to become an expert in your field is to share your knowledge and show everyone that you really know what you are talking about. This is one of the best methods for getting clients since you’ve proven you can provide what they are looking for. In addition, when you build out a strong FAQ you will have a lot of content. In the field of content marketing, you will hear the term, Content is King a lot and this is no different. Answer your client’s questions and provide them with insightful content.
 
-![Pink Piggy Bank with Coins](https://therebelape.com/wp-content/uploads/2019/03/piggy-bank.jpg)
+![Pink Piggy Bank with Coins](https://RebelApeCDN.b-cdn.net/rebel-ape-main/piggy-bank.jpg)
 *Piggy Bank*
 
 ## 5. Websites Are Cost Effective
@@ -203,7 +203,7 @@ However, with the low maintenance and ease-of-updates, it doesn’t take much to
 
 If you are a do-it-yourself type. You can easily just jump in once a week to do updates. Though, I recommend more often just to check for contact form submissions and comments.
 
-![SEO Analytics](https://therebelape.com/wp-content/uploads/2019/03/seo-analytics.jpg)
+![SEO Analytics](https://RebelApeCDN.b-cdn.net/rebel-ape-main/seo-analytics.jpg)
 *SEO Analytics*
 
 ## 6. Modern Websites Are SEO Friendly
@@ -216,7 +216,7 @@ This makes it easy to quickly update some of the easier [SEO elements which will
 
 Another [powerful SEO](https://therebelape.com/what-is-seo/) feature that Google loves is responsive websites. In fact, if you are starting a website today, it’s likely going to be responsive right out of the gate since that is the norm now. Say goodbye to desktop sites and mobile sites, now you get the same website that will adjust depending on the device you are viewing it on. It makes the site easy to work on, convenient, and SEO friendly.
 
-![Online Digital Marketing on iPad](https://therebelape.com/wp-content/uploads/2019/03/online-digital-marketing.jpg)
+![Online Digital Marketing on iPad](https://RebelApeCDN.b-cdn.net/rebel-ape-main/online-digital-marketing.jpg)
 *Online Digital Marketing*
 
 ## 7. Marketing Your Brand Online

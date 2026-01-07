@@ -6,7 +6,7 @@ excerpt: ""
 author: "Adam Miconi"
 publishDate: "2025-05-27T12:00:00-06:00"
 lastModified: ""
-image: ""
+image: "https://RebelApeCDN.b-cdn.net/rebel-ape-main/seo-graphic-load-times.webp"
 canonicalUrl: ""
 tags: []
 draft: false
@@ -60,7 +60,7 @@ Shaving even a second off of your site speed can have an exponential effect on y
 
 SEO experts find what's holding your site speed back and make the adjustments necessary to expedite it. Whether that be through improving links, graphics, or content as a whole, they will do what it takes to cut down on loading times, so that customers will be less likely to hit the "back" button.
 
-![conversion table](https://therebelape.com/wp-content/uploads/2025/05/seo-graphic-load-times.jpg)
+![conversion table](https://RebelApeCDN.b-cdn.net/rebel-ape-main/seo-graphic-load-times.webp)
 
 ## Finding A Balance With Links
 

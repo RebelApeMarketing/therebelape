@@ -6,7 +6,7 @@ excerpt: ""
 author: "Adam Miconi"
 publishDate: "2020-11-03T22:50:00-07:00"
 lastModified: ""
-image: ""
+image: "https://RebelApeCDN.b-cdn.net/rebel-ape-main/social-media.webp"
 canonicalUrl: ""
 tags: []
 draft: false
@@ -31,7 +31,7 @@ If you are a content marketer then it’s likely you write a lot or have someone
 Use these strategies to** reach larger audiences and become an authority in your field.** These marketing strategies can help you gain credibility from website visitors, and become a company that people trust.
 
 Make sure to keep this guide handy because using even one of these techniques to start syndicating your content may step up your blog game.
-![Colorful social media tags representing different online activities such as blog, news, chat, tweet, like, share, and photo.](https://therebelape.com/wp-content/uploads/2020/11/social-media.jpg)
+![Colorful social media tags representing different online activities such as blog, news, chat, tweet, like, share, and photo.](https://RebelApeCDN.b-cdn.net/rebel-ape-main/social-media.jpg)
 ## Syndicate Your Content on Social Media
 If you’re going to make a blog post, you should share your content. That’s a no brainer. But how do you go about doing this?
 
@@ -48,7 +48,7 @@ Hardcore Twitter fans are different than hardcore Facebookers (ignore the names)
 One great way of content syndication is to find a social media influencer and partner with them or simply pay them to promote your blog content. Influencers will often have a broader audience you can utilize and they will often share it which can help them land on authoritative sites.
 
 Since these content creators have a large audience, their simple tweets or mention can often build massive brand awareness quickly which can lead to others sharing your original article and syndicate content for you.
-![Hand drawing the word &quot;Share&quot; with arrows pointing outward, symbolizing wide content distribution.](https://therebelape.com/wp-content/uploads/2020/11/digital-marketing-company.jpg)
+![Hand drawing the word &quot;Share&quot; with arrows pointing outward, symbolizing wide content distribution.](https://RebelApeCDN.b-cdn.net/rebel-ape-main/digital-marketing-company.jpg)
 ## Be The Digital Expert In Your Field
 Would you trust a random guy on the street for a solution to a headache or a doctor in a lab coat? People on the internet are picky with who they trust since there are endless sources with no credibility.
 

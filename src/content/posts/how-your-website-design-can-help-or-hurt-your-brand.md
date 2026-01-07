@@ -6,7 +6,7 @@ excerpt: ""
 author: "Adam Miconi"
 publishDate: "2019-03-12T10:00:00-06:00"
 lastModified: ""
-image: ""
+image: "https://RebelApeCDN.b-cdn.net/rebel-ape-main/bad-design-vs-good-design.webp"
 canonicalUrl: ""
 tags: []
 draft: false
@@ -28,7 +28,7 @@ Having a strong and consistent personality can help create trust and loyalty. It
 
 Likewise, if your brand is inconsistent it may feel untrustworthy. It can create the opposite effect and people won’t return to the site. Users won’t trust your company and will have a low likelihood of purchasing products.
 
-![Bad Design vs Good Design](https://therebelape.com/wp-content/uploads/2018/11/bad-design-vs-good-design.jpg "Bad Design vs Good Design")
+![Bad Design vs Good Design](https://RebelApeCDN.b-cdn.net/rebel-ape-main/bad-design-vs-good-design.webp "Bad Design vs Good Design")
 
 ## Developing Consistency Between Your On and Offline Company Image
 
@@ -40,25 +40,25 @@ When your website has brand consistency it starts to build trust and loyalty. Yo
 
 ### Colors
 
-![Website Swatches](https://therebelape.com/wp-content/uploads/2019/03/website-swatches.jpg "Website Swatches")
+![Website Swatches](https://RebelApeCDN.b-cdn.net/rebel-ape-main/website-swatches.webp "Website Swatches")
 
 Your website colors should immediately reflect your brand. To give examples, if I name a soft drink whose logo is red, most people will respond with Coca-Cola. If I mention a coffee brand utilizing a green logo, people say Starbucks. Fast food with a golden arch logo, McDonald’s, and so on. Your brand has the potential to create this same impact with a little bit of marketing creativity and a whole lot of brand consistency.
 
 So with that said, make sure your colors are consistent, not only on your physical marketing materials but on your website as well. This will be the first indicator of trust to your users and it’s not something that should be overlooked. Colors matter.
 
-![Font Size Icons](https://therebelape.com/wp-content/uploads/2019/03/font-size.jpg "Font Size Icons")
+![Font Size Icons](https://RebelApeCDN.b-cdn.net/rebel-ape-main/font-size.webp "Font Size Icons")
 
 ### Fonts
 
 Your website fonts can get tricky. Even with the vast library that Google Fonts now has available, it can still be tricky to find the font that your designer used on your marketing material. Since loading a custom font can have a significant impact on your SEO, it’s often best to pick a web font that compliments your brand. If you have trouble selecting one, visit your graphic designer and have them help you choose a font that will represent your brand efficiently.
 
-![Website Mood Icons](https://therebelape.com/wp-content/uploads/2019/03/website-mood.jpg "Website Mood Icons")
+![Website Mood Icons](https://RebelApeCDN.b-cdn.net/rebel-ape-main/website-mood.webp "Website Mood Icons")
 
 ### Mood
 
 The mood of your website is often confusing at first. After all, how can a website have a mood? To clarify this, the mood is the overall feel of the website when you visit. Is it designed for happiness, playfulness, despair, horror, elegance, etc? Each website can have a different mood and there will be extremes when it comes to this. Compare a website designed for young children vs. a website designed for the local haunted house on Halloween. Those would be two drastically different websites with very different moods to each of them.
 
-![Website Images Icon](https://therebelape.com/wp-content/uploads/2019/03/website-images.jpg "Website Images Icon")
+![Website Images Icon](https://RebelApeCDN.b-cdn.net/rebel-ape-main/website-images.webp "Website Images Icon")
 
 ### Images
 
@@ -74,7 +74,7 @@ A well-designed website will balance beauty and functionality. UI/UX is a term t
 
 You should really work on testing different forms of navigation, call-to-action locations, content distribution, and interlinking. All these factors play a role in how long the users stay on your website, consume more content, and ultimately, a purchase. How well laid out your page is can quickly allow a user to determine if the page is useful to them or not. Even a few pages with low or useless content can hurt the entire site.
 
-![User Interface Icon](https://therebelape.com/wp-content/uploads/2019/03/user-interface.jpg "User Interface Icon")
+![User Interface Icon](https://RebelApeCDN.b-cdn.net/rebel-ape-main/user-interface.webp "User Interface Icon")
 
 ### User Interface
 
@@ -86,7 +86,7 @@ That way, the menu is very clear that there is only one real selection to make w
 
 Also, be careful with menus that are way too long. I’ve come across many websites that the menu is so long that the flyout or dropdown menus are so long that they actually go off screen. This is not only bad for the user, but it can also causes distrust due to poor quality, and often the code will not work correctly causing even more problems, further reducing the trust of the users. If a menu is going to be incredibly long, try breaking it up into categories to aid in navigation.
 
-![User Experience Icon](https://therebelape.com/wp-content/uploads/2019/03/user-experience.jpg "User Experience Icon")
+![User Experience Icon](https://RebelApeCDN.b-cdn.net/rebel-ape-main/user-experience.webp "User Experience Icon")
 
 ### User Experience
 
@@ -94,7 +94,7 @@ The User Interface and User Experience go hand-in-hand. When the interface is ea
 
 However, it’s best not to hide crucial elements such as the navigation as that can negatively affect the user’s experience on the website.
 
-![Scroll Hijacking Icon](https://therebelape.com/wp-content/uploads/2019/03/scroll-hijacking.jpg "Scroll Hijacking Icon")
+![Scroll Hijacking Icon](https://RebelApeCDN.b-cdn.net/rebel-ape-main/scroll-hijacking.webp "Scroll Hijacking Icon")
 
 ### Scroll Hijacking
 
@@ -128,7 +128,7 @@ Hosting is one of the largest factors in website speed. We love Siteground. Anot
 
 When it comes to website design, you want to look at the entire picture. A beautiful site that loads slow, has choppy animations, or broken images will fall apart quickly.
 
-![SEO Code](https://therebelape.com/wp-content/uploads/2019/03/design-seo.jpg "SEO Code")
+![SEO Code](https://RebelApeCDN.b-cdn.net/rebel-ape-main/design-seo.webp "SEO Code")
 
 ## Design a Website with SEO in Mind
 
@@ -144,7 +144,7 @@ SEO used to rely on keyword stuffing, low-quality links, and other black hat tac
 
 Negative SEO attacks used to be more effective. One method is sending large volumes of low-quality links to a site. Today, it’s often easy to overcome: monitor backlinks (e.g., aHrefs), disavow bad links, and upload to Google Search Console.
 
-![Call to Action Icon](https://therebelape.com/wp-content/uploads/2019/03/call-to-action.jpg "Call to Action Megaphone Icon")
+![Call to Action Icon](https://RebelApeCDN.b-cdn.net/rebel-ape-main/call-to-action.webp "Call to Action Megaphone Icon")
 
 ## The Call-To-Action
 
@@ -152,7 +152,7 @@ A call to action can increase conversions when used correctly, or drive traffic 
 
 Be careful with intrusive CTAs. Forced pop-ups are discouraged by Google. Exit intent modals that lock the page may be discouraged and could hurt rankings. Consider A/B testing removal.
 
-![Good and Bad Design](https://therebelape.com/wp-content/uploads/2019/03/good-bad-design.jpg "Good and Bad Design")
+![Good and Bad Design](https://RebelApeCDN.b-cdn.net/rebel-ape-main/good-bad-design.webp "Good and Bad Design")
 
 ## Good Design vs Bad Design
 

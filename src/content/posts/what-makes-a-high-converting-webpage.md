@@ -6,7 +6,7 @@ excerpt: ""
 author: "Adam Miconi"
 publishDate: "2021-09-12T16:09:00-06:00"
 lastModified: ""
-image: ""
+image: "https://RebelApeCDN.b-cdn.net/rebel-ape-main/googles-ranking-algorithm-2021-1030x686.webp"
 canonicalUrl: ""
 tags: []
 draft: false
@@ -154,7 +154,7 @@ To maximize the effectiveness of your contact forms, consider implementing these
 
 You can improve your website and get more people interested by adding and making contact forms. These forms help you learn about your users and build trust with them. Don't skip using this easy but powerful tool to make more people do what you want on your website!
 
-![Google](https://therebelape.com/wp-content/uploads/2021/08/googles-ranking-algorithm-2021-1030x686.jpg)
+![Google](https://RebelApeCDN.b-cdn.net/rebel-ape-main/googles-ranking-algorithm-2021-1030x686.webp)
 
 ## **Every website should have great content writing.**
 

@@ -6,7 +6,7 @@ excerpt: ""
 author: "Adam Miconi"
 publishDate: "2019-11-24T03:02:00-07:00"
 lastModified: ""
-image: ""
+image: "https://RebelApeCDN.b-cdn.net/rebel-ape-main/registrar.webp"
 canonicalUrl: ""
 tags: []
 draft: false
@@ -15,7 +15,7 @@ Learning about the website process can go a long way toward ensuring that you re
 
 Here are 4 steps of the website process to help you obtain the right website for you and your business. Thes steps take you from obtaining a domain name to [website design](https://therebelape.com/web-design/).
 
-![www Magnifying Glass](https://therebelape.com/wp-content/uploads/2019/11/registrar-80x80.png)
+![www Magnifying Glass](https://RebelApeCDN.b-cdn.net/rebel-ape-main/registrar-80x80.png)
 
 ## 1. The Registrar: This is where you buy your URL.
 
@@ -23,7 +23,7 @@ In simple terms, a domain name registrar is a service that allows you to buy a d
 
 The domain name will be the way customers find your website, so this is a vital step in ensuring that your website is built on a firm foundation.  Though you can purchase any available domain, we recommend one that will be clear and represent your company's brand.
 
-![Website Process: Website Hosting](https://therebelape.com/wp-content/uploads/2019/11/website-hosting-80x80.png)
+![Website Process: Website Hosting](https://RebelApeCDN.b-cdn.net/rebel-ape-main/website-hosting-80x80.png)
 
 ## 2. Website Hosting: Where your website files live.
 
@@ -33,7 +33,7 @@ After a URL has been purchased, it will have to be connected to the hosting loca
 
 This is essentially like providing an address for a building in order to provide directions. The purpose of the domain name is primarily to indicate where you wish for the computer to go.  For many of our websites, we use [Siteground](https://www.siteground.com/index.htm?afcode=4af3a7cdca63601232a86fbf80637ee9) to host.
 
-![Website Process: Users](https://therebelape.com/wp-content/uploads/2019/11/user-80x80.png)
+![Website Process: Users](https://RebelApeCDN.b-cdn.net/rebel-ape-main/user-80x80.png)
 
 ## 3. Users: Who will be going to your website after it's launched.
 
@@ -41,7 +41,7 @@ When a user types in a URL, they will be directed to the hosting site. At this p
 
 This cross-platform ability allows users to view a website from whichever browsing window they prefer. Keeping the website navigation understandable is very important.
 
-![Website Process: Website Design](https://therebelape.com/wp-content/uploads/2019/11/website-design-80x80.png)
+![Website Process: Website Design](https://RebelApeCDN.b-cdn.net/rebel-ape-main/website-design-80x80.png)
 
 ## 4. Website Design and Development: How the website looks to people visiting the website.
 
@@ -51,7 +51,7 @@ From the [graphic design]( https://therebelape.com/graphic-design/) to the conte
 
 At this point, they are coded and begin to function. Sometimes this requires a specific developer but is often moving towards the designers handling the front-end process of the website these days.
 
-![Website Process: Getting Started](https://therebelape.com/wp-content/uploads/2019/11/website-process-80x80.png)
+![Website Process: Getting Started](https://RebelApeCDN.b-cdn.net/rebel-ape-main/website-process-80x80.png)
 
 ## Rebel Ape's Website Process
 

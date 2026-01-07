@@ -6,7 +6,7 @@ excerpt: ""
 author: "Adam Miconi"
 publishDate: "2025-05-20T12:00:00-06:00"
 lastModified: ""
-image: ""
+image: "https://RebelApeCDN.b-cdn.net/rebel-ape-main/the-gambit-1030x687.webp"
 canonicalUrl: ""
 tags: []
 draft: false
@@ -41,7 +41,7 @@ As the business owner, the pieces are in front of you, and so are the possibilit
 
 When you engage in "The Gambit" for your business, something remarkable unfolds: your enterprise begins to flourish. By relinquishing control of certain aspects, you've effectively broadened your horizons. Your possibilities increase. The path to victory becomes clearer. But your business is not the only thing that will grow; you will too. Together, you and the company you're growing will become more self-reliant. The cogs will start to turn without you having to physically turn them yourself, giving you more freedom and lightening your load.
 
-![](https://therebelape.com/wp-content/uploads/2025/05/the-gambit-1030x687.jpg)
+![](https://RebelApeCDN.b-cdn.net/rebel-ape-main/the-gambit-1030x687.webp)
 
 ## To Run The Gambit Successfully, You Must Be Committed
 
@@ -79,7 +79,7 @@ The board is set, the pieces are in place, and the game has begun. Now it's your
 
 Here's a closing paragraph to add to the end of the post that targets home service companies and plumbers specifically:
 
-![Hyper-realistic plumber holding a large red pipe wrench, standing confidently between two gorilla mascots with green mohawks and folded arms, representing the Silverback Authority Method.](https://therebelape.com/wp-content/uploads/2025/04/silverback-authority-method-1030x687.png)
+![Hyper-realistic plumber holding a large red pipe wrench, standing confidently between two gorilla mascots with green mohawks and folded arms, representing the Silverback Authority Method.](https://RebelApeCDN.b-cdn.net/rebel-ape-main/silverback-authority-method-1030x687.png)
 
 ## Make Your Strategic Move with Rebel Ape Marketing
 

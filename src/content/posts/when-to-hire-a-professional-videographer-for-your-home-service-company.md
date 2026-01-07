@@ -6,7 +6,7 @@ excerpt: ""
 author: "Adam Miconi"
 publishDate: "2025-05-22T12:00:00-06:00"
 lastModified: ""
-image: ""
+image: "https://RebelApeCDN.b-cdn.net/rebel-ape-main/business-videos-utah-1030x686.webp"
 canonicalUrl: ""
 tags: []
 draft: false
@@ -53,7 +53,7 @@ The key is using your smartphone strategically and optimizing its capabilities:
 - Use natural lighting or inexpensive ring lights
 - Keep shots stable with a basic tripod or gimbal
 
-![Close-up of a professional Fujifilm camera with lens, symbolizing high-quality videography services for home service companies.](https://therebelape.com/wp-content/uploads/2025/05/business-videos-utah-1030x686.jpg)
+![Close-up of a professional Fujifilm camera with lens, symbolizing high-quality videography services for home service companies.](https://RebelApeCDN.b-cdn.net/rebel-ape-main/business-videos-utah-1030x686.webp)
 
 ## A Professional Videographer Knows What Captures Attention
 

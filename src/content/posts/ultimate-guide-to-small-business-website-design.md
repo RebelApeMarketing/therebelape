@@ -6,7 +6,7 @@ excerpt: ""
 author: "Adam Miconi"
 publishDate: "2024-10-05T15:29:00-06:00"
 lastModified: ""
-image: ""
+image: "https://RebelApeCDN.b-cdn.net/rebel-ape-main/NameCheap-Screenshot-1030x710.png"
 canonicalUrl: ""
 tags: []
 draft: false
@@ -117,7 +117,7 @@ Do you feel like you have a good understanding of the key terms and concepts?
 
 Then it may be time to give building your small business website a go.
 
-![](https://therebelape.com/wp-content/uploads/2024/10/NameCheap-Screenshot-1030x710.png)
+![](https://RebelApeCDN.b-cdn.net/rebel-ape-main/NameCheap-Screenshot-1030x710.png)
 
 ### Step 1. Secure a Domain Name
 
@@ -129,7 +129,7 @@ How can you do it? Visit registrars like NameCheap or GoDaddy, search for an ava
 
 You will need to connect your domain with an A Record or nameserver. This is usually easy to do and the Registrar’s chat can usually help.&nbsp;
 
-![](https://therebelape.com/wp-content/uploads/2024/10/SiteGround-Hosting-1030x710.png)
+![](https://RebelApeCDN.b-cdn.net/rebel-ape-main/SiteGround-Hosting-1030x710.png)
 
 ### Step 2. Choose a Hosting Provider
 
@@ -139,7 +139,7 @@ Why is it important? Good hosting ensures your website is fast and always access
 
 With SiteGround, they even have a wizard that can help you easily connect your domain without any complicated setups. Cloudways provides you everything you need up front, you just need to enter it at the registrar you chose.&nbsp;
 
-![](https://therebelape.com/wp-content/uploads/2024/10/Blog-Tool-Publishing-Platform-and-CMS-–-WordPress.org_-1030x710.png)
+![](https://RebelApeCDN.b-cdn.net/rebel-ape-main/Blog-Tool-Publishing-Platform-and-CMS-–-WordPress.org_-1030x710.png)
 
 ### Step 3. Set Up WordPress
 
@@ -147,7 +147,7 @@ Install WordPress as your CMS. Most hosting providers have a one-click WordPress
 
 Why is it important? WordPress is user-friendly and powerful, allowing you to manage your content with ease. Plugins make it easy to extend the platform for design, speed, SEO, and many other benefits.
 
-![](https://therebelape.com/wp-content/uploads/2024/10/Bricks-Builder-1030x710.png)
+![](https://RebelApeCDN.b-cdn.net/rebel-ape-main/Bricks-Builder-1030x710.png)
 
 ### Step 4. Design Your Website
 
@@ -155,7 +155,7 @@ Use a theme and a page builder like Bricks to design your website. Bricks offers
 
 Why is it important? A well-designed website builds credibility and attracts customers.
 
-![](https://therebelape.com/wp-content/uploads/2024/10/Essential-Pages-1030x710.png)
+![](https://RebelApeCDN.b-cdn.net/rebel-ape-main/Essential-Pages-1030x710.png)
 
 ### Step 5. Add Essential Pages
 
@@ -163,7 +163,7 @@ Create the essential pages for your business, including Home, About, Services, a
 
 Why is it important? These pages provide the information your visitors need to make decisions.
 
-![](https://therebelape.com/wp-content/uploads/2024/10/SEO-Content-1030x710.png)
+![](https://RebelApeCDN.b-cdn.net/rebel-ape-main/SEO-Content-1030x710.png)
 
 ### Step 6. Optimize for SEO
 

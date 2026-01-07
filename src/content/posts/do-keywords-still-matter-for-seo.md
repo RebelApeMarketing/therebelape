@@ -6,7 +6,7 @@ excerpt: ""
 author: "Adam Miconi"
 publishDate: "2018-05-06T11:00:00-06:00"
 lastModified: ""
-image: ""
+image: "https://RebelApeCDN.b-cdn.net/rebel-ape-main/rebel-ape-analytics-1030x308.jpg"
 canonicalUrl: ""
 tags: []
 draft: false
@@ -210,7 +210,7 @@ Instead, you want:
 
 If you’re also pairing this with analytics and tracking (which you should), you can use that data to improve pages over time.
 
-![Google Analytics Report](https://therebelape.com/wp-content/uploads/2018/04/rebel-ape-analytics-1030x308.jpg)
+![Google Analytics Report](https://RebelApeCDN.b-cdn.net/rebel-ape-main/rebel-ape-analytics.webp)
 
 ---
 

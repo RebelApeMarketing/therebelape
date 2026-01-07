@@ -6,7 +6,7 @@ excerpt: ""
 author: "Adam Miconi"
 publishDate: "2018-04-26T11:00:00-06:00"
 lastModified: ""
-image: ""
+image: "https://RebelApeCDN.b-cdn.net/rebel-ape-main/seo-statistics-rebel-ape.webp"
 canonicalUrl: ""
 tags: []
 draft: false
@@ -77,7 +77,7 @@ SEO matters because of how people use search engines today. Consider these stats
 - Up to **80% of users never click paid ads**.
 - The **#1 result** in Google gets about **33% of all clicks**.
 
-![SEO Statistics](https://therebelape.com/wp-content/uploads/2018/06/seo-statistics-rebel-ape.jpg)
+![SEO Statistics](https://RebelApeCDN.b-cdn.net/rebel-ape-main/seo-statistics-rebel-ape.webp)
 
 ---
 
@@ -116,7 +116,7 @@ Once visitors reach your site, your job is to:
 
 That’s where conversion strategy and good web design pair perfectly with SEO.
 
-![What is SEO](https://therebelape.com/wp-content/uploads/2018/04/what-is-seo.jpg)
+![What is SEO](https://RebelApeCDN.b-cdn.net/rebel-ape-main/what-is-seo.webp)
 
 ---
 

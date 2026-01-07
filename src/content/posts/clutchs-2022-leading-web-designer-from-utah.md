@@ -6,7 +6,7 @@ excerpt: ""
 author: "Adam Miconi"
 publishDate: "2022-07-18T11:53:00-06:00"
 lastModified: ""
-image: ""
+image: "https://RebelApeCDN.b-cdn.net/rebel-ape-main/clutch-ranks.webp"
 canonicalUrl: ""
 tags: []
 draft: false
@@ -25,7 +25,7 @@ Clutch is a B2B review and rating website designed to publish extensive content 
 
 Clutch evaluates countless service providers based on their strict selection criteria. Factors such as client satisfaction, case studies, and market position are all weighed in to qualify for the awards. We’re extremely proud to have made it on the platform’s esteemed Leaders Matrix for Utah’s web design scene!
 
-![Clutch Utah Web Designers](https://therebelape.com/wp-content/uploads/2022/07/clutch-ranks.png)
+![Clutch Utah Web Designers](https://RebelApeCDN.b-cdn.net/rebel-ape-main/clutch-ranks.png)
 
 We owe this exciting moment to our clients who have entrusted us with their invaluable projects. It’s a huge honor for us to be their trusted partners let alone win an award because of their confidence in our abilities. Thank you to very much everyone who supported us through highs and lows. We look forward to welcoming more possibilities with all of you!
 
