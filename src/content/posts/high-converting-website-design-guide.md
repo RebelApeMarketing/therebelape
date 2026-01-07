@@ -22,7 +22,7 @@ schema:
   "@type": "Article",
   "headline": "Why Most Contractor Websites Fail (And How We Design Ones That Actually Convert)",
   "description": "Most contractor websites look good but don't convert. Learn our proven 5-step design process that helped our roofing clients generate $120K in 8 months with conversion rates hitting 25%.",
-  "image": "https://therebelape.com/images/blog/high-converting-website-design.jpg",
+  "image": "https://RebelApeCDN.b-cdn.net/rebel-ape-main/website-professional-design.webp",
   "author": {
     "@type": "Person",
     "name": "Adam Miconi",
@@ -33,7 +33,7 @@ schema:
     "name": "Rebel Ape Marketing",
     "logo": {
       "@type": "ImageObject",
-      "url": "https://therebelape.com/images/rebel-ape-logo.png"
+      "url": "https://rebelapecdn.b-cdn.net/Rebel%20Website/Branding/rebel-ape-logo-cmyk.svg"
     }
   },
   "datePublished": "2021-12-06T10:00:00-07:00",
