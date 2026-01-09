@@ -37,12 +37,11 @@ https://go.therebelape.com/checklist/ https://uomc.therebelape.com 301!
 https://go.therebelape.com/ https://uomc.therebelape.com 301!
 
 # SCHEDULE
-http://therebelape.com/schedule https://schedule.therebelape.com 301!
-https://therebelape.com/schedule/ https://schedule.therebelape.com 301!
-https://go.therebelape.com/schedule https://schedule.therebelape.com 301!
-https://go.therebelape.com/schedule-booking-confirmation https://schedule.therebelape.com 301!
-https://go.therebelape.com/schedule-select-time https://schedule.therebelape.com 301!
-https://therebelape.com/contact/request-a-bid/ https://schedule.therebelape.com 301!
+https://schedule.therebelape.com/* https://therebelape.com/schedule/ 301!
+https://go.therebelape.com/schedule https://therebelape.com/schedule/ 301!
+https://go.therebelape.com/schedule-booking-confirmation https://therebelape.com/schedule/thank-you/ 301!
+https://go.therebelape.com/schedule-select-time https://therebelape.com/schedule/ 301!
+https://therebelape.com/contact/request-a-bid/ https://therebelape.com/schedule/ 301!
 
 # CONTACT
 https://therebelape.com/request-a-bid/ /contact/ 301!
@@ -216,6 +215,9 @@ https://therebelape.com/about-us/privacy-policy/ /privacy-policy/ 301!
 
 # TERMS AND CONDITIONS
 https://therebelape.com/legal/terms-and-conditions/ /terms-and-conditions/ 301!
+https://therebelape.com/legal/terms-and-conditions /terms-and-conditions/ 301!
+https://therebelape.com/terms-and-conditions/ /terms-and-conditions/ 301!
+https://therebelape.com/terms-and-conditions /terms-and-conditions/ 301!
 
 # SITEMAP
 https://therebelape.com/html-sitemap/ /sitemap.xml 301!
@@ -583,7 +585,7 @@ https://therebelape.com/keyword-cannibalization / 301!
 https://therebelape.com/tips-for-improving-website-speed/ / 301!
 https://therebelape.com/va-guide-finding-a-local-website-designer/ / 301!
 https://therebelape.com/google-bert-googles-largest-update-released-since-rankbrain/ / 301!
-https://therebelape.com/find-a-web-designer-near-ogden-utah￼￼￼/ / 301!
+https://therebelape.com/find-a-web-designer-near-ogden-utah/ / 301!
 https://therebelape.com/what-is-a-brand-promise//1000 / 301!
 https://therebelape.com/what-is-a-brand-promise/1000 / 301!
 https://therebelape.com/marketing-agencies-utah/logo-design-for-business/local-logo-designer-in-roy-city-utah/ / 301!

@@ -542,4 +542,4 @@ We've built this process over years of working with roofing contractors and home
 
 If you're ready to stop wasting money on a website that just sits there, let's talk about what a high-converting site could do for your business.
 
-👉 **Schedule a free website audit:** https://schedule.therebelape.com
+👉 **Schedule a free website audit:** /schedule
