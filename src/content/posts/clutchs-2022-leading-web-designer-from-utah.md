@@ -6,7 +6,7 @@ excerpt: ""
 author: "Adam Miconi"
 publishDate: "2022-07-18T11:53:00-06:00"
 lastModified: ""
-image: ""
+image: "https://RebelApeCDN.b-cdn.net/rebel-ape-main/clutch-ranks.webp"
 canonicalUrl: ""
 tags: []
 draft: false
@@ -16,7 +16,7 @@ draft: false
 Clutch Hails Rebel Ape Marketing as 2022's Leading Web Designer from Utah
 
 <!-- wp:audio {"id":6317} -->
-<figure class="wp-block-audio"><audio controls src="https://therebelape.com/wp-content/uploads/2023/01/Project_Clutch-Hails-Rebel-Ape-Marketing-as-2022s-Leading-Web-Designer-from-Utah.mp3"></audio><figcaption class="wp-element-caption">Let AI read it for you!</figcaption></figure>
+<figure class="wp-block-audio"><audio controls src="https://RebelApeCDN.b-cdn.net/rebel-ape-main/Project_Clutch-Hails-Rebel-Ape-Marketing-as-2022s-Leading-Web-Designer-from-Utah.mp3"></audio><figcaption class="wp-element-caption">Let AI read it for you!</figcaption></figure>
 <!-- /wp:audio -->
 
 <!-- wp:paragraph -->
@@ -40,7 +40,7 @@ Clutch Hails Rebel Ape Marketing as 2022's Leading Web Designer from Utah
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":6096,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="https://therebelape.com/wp-content/uploads/2022/07/clutch-ranks.png" alt="" class="wp-image-6096"/><figcaption class="wp-element-caption">Clutch Utah Web Designers</figcaption></figure>
+<figure class="wp-block-image size-full"><img src="https://RebelApeCDN.b-cdn.net/rebel-ape-main/clutch-ranks.webp" alt="" class="wp-image-6096"/><figcaption class="wp-element-caption">Clutch Utah Web Designers</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

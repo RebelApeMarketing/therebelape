@@ -6,7 +6,7 @@ excerpt: ""
 author: "Adam Miconi"
 publishDate: "2021-09-12T16:09:00-06:00"
 lastModified: ""
-image: ""
+image: "https://RebelApeCDN.b-cdn.net/rebel-ape-main/googles-ranking-algorithm-2021-1030x686.webp"
 canonicalUrl: ""
 tags: []
 draft: false
@@ -16,7 +16,7 @@ draft: false
 What Makes A High Converting Webpage?
 
 <!-- wp:audio {"id":6329} -->
-<figure class="wp-block-audio"><audio controls src="https://therebelape.com/wp-content/uploads/2023/01/Project_What-Makes-A-High-Converting-Webpage.mp3"></audio><figcaption class="wp-element-caption">Let AI read it for you.</figcaption></figure>
+<figure class="wp-block-audio"><audio controls src="https://RebelApeCDN.b-cdn.net/rebel-ape-main/Project_What-Makes-A-High-Converting-Webpage.mp3"></audio><figcaption class="wp-element-caption">Let AI read it for you.</figcaption></figure>
 <!-- /wp:audio -->
 
 <!-- wp:paragraph -->
@@ -362,7 +362,7 @@ What Makes A High Converting Webpage?
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":5643,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://therebelape.com/wp-content/uploads/2021/08/googles-ranking-algorithm-2021-1030x686.jpg" alt="Google's Ranking Algorithm 2021" class="wp-image-5643"/><figcaption class="wp-element-caption">Google's Ranking Algorithm 2021</figcaption></figure>
+<figure class="wp-block-image size-large"><img src="https://RebelApeCDN.b-cdn.net/rebel-ape-main/googles-ranking-algorithm-2021-1030x686.webp" alt="Google's Ranking Algorithm 2021" class="wp-image-5643"/><figcaption class="wp-element-caption">Google's Ranking Algorithm 2021</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading -->

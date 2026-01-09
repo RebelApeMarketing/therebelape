@@ -6,7 +6,7 @@ excerpt: ""
 author: "Adam Miconi"
 publishDate: "2025-05-22T12:00:00-06:00"
 lastModified: ""
-image: ""
+image: "https://RebelApeCDN.b-cdn.net/rebel-ape-main/business-videos-utah-1030x686.webp"
 canonicalUrl: ""
 tags: []
 draft: false
@@ -132,7 +132,7 @@ When to Hire a Professional Videographer For Your Home Service Company
 <!-- /wp:list -->
 
 <!-- wp:image {"id":13789,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://therebelape.com/wp-content/uploads/2025/05/business-videos-utah-1030x686.jpg" alt="Close-up of a professional Fujifilm camera with lens, symbolizing high-quality videography services for home service companies." class="wp-image-13789"/></figure>
+<figure class="wp-block-image size-large"><img src="https://RebelApeCDN.b-cdn.net/rebel-ape-main/business-videos-utah-1030x686.webp" alt="Close-up of a professional Fujifilm camera with lens, symbolizing high-quality videography services for home service companies." class="wp-image-13789"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading -->

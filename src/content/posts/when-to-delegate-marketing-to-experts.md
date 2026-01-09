@@ -6,7 +6,7 @@ excerpt: ""
 author: "Adam Miconi"
 publishDate: "2025-05-20T12:00:00-06:00"
 lastModified: ""
-image: ""
+image: "https://RebelApeCDN.b-cdn.net/rebel-ape-main/the-gambit-1030x687.webp"
 canonicalUrl: ""
 tags: []
 draft: false
@@ -76,7 +76,7 @@ When to Delegate Marketing to Experts
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":13774,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://therebelape.com/wp-content/uploads/2025/05/the-gambit-1030x687.jpg" alt="" class="wp-image-13774"/></figure>
+<figure class="wp-block-image size-large"><img src="https://RebelApeCDN.b-cdn.net/rebel-ape-main/the-gambit-1030x687.webp" alt="" class="wp-image-13774"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading -->
@@ -154,7 +154,7 @@ When to Delegate Marketing to Experts
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":12056,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://therebelape.com/wp-content/uploads/2025/04/silverback-authority-method-1030x687.png" alt="Hyper-realistic plumber holding a large red pipe wrench, standing confidently between two gorilla mascots with green mohawks and folded arms, representing the Silverback Authority Method." class="wp-image-12056"/><figcaption class="wp-element-caption">Strength. Strategy. Success. The Silverback Authority Method elevates plumbers to new heights with unstoppable marketing power.</figcaption></figure>
+<figure class="wp-block-image size-large"><img src="https://RebelApeCDN.b-cdn.net/rebel-ape-main/silverback-authority-method-1030x687.webp" alt="Hyper-realistic plumber holding a large red pipe wrench, standing confidently between two gorilla mascots with green mohawks and folded arms, representing the Silverback Authority Method." class="wp-image-12056"/><figcaption class="wp-element-caption">Strength. Strategy. Success. The Silverback Authority Method elevates plumbers to new heights with unstoppable marketing power.</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading -->

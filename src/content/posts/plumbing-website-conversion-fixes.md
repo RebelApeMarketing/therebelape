@@ -6,7 +6,7 @@ excerpt: ""
 author: "Adam Miconi"
 publishDate: "2025-03-18T11:54:00-06:00"
 lastModified: ""
-image: ""
+image: "https://RebelApeCDN.b-cdn.net/rebel-ape-main/emergency-plumber-website-call-now-button-1030x589.webp"
 canonicalUrl: ""
 tags: []
 draft: false
@@ -50,7 +50,7 @@ https://youtu.be/rf6QDu_y1m0?si=Zb3tPD0NtkzYgGVS
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":9971,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://therebelape.com/wp-content/uploads/2025/03/emergency-plumber-website-call-now-button-1030x589.png" alt="Plumbing website conversion example – high converting layout" class="wp-image-9971"/><figcaption class="wp-element-caption">A flooded kitchen highlights the urgency of having your phone number visible at all times.</figcaption></figure>
+<figure class="wp-block-image size-large"><img src="https://RebelApeCDN.b-cdn.net/rebel-ape-main/emergency-plumber-website-call-now-button-1030x589.webp" alt="Plumbing website conversion example – high converting layout" class="wp-image-9971"/><figcaption class="wp-element-caption">A flooded kitchen highlights the urgency of having your phone number visible at all times.</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading -->
@@ -130,7 +130,7 @@ https://youtu.be/rf6QDu_y1m0?si=Zb3tPD0NtkzYgGVS
 <!-- /wp:list -->
 
 <!-- wp:image {"id":9977,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://therebelape.com/wp-content/uploads/2025/03/plumbing-website-real-team-photos-trust-1030x589.png" alt="Real plumber standing by branded truck to build trust on plumbing website" class="wp-image-9977"/><figcaption class="wp-element-caption">Showcasing your actual team on your website helps build trust and human connection.</figcaption></figure>
+<figure class="wp-block-image size-large"><img src="https://RebelApeCDN.b-cdn.net/rebel-ape-main/plumbing-website-real-team-photos-trust-1030x589.webp" alt="Real plumber standing by branded truck to build trust on plumbing website" class="wp-image-9977"/><figcaption class="wp-element-caption">Showcasing your actual team on your website helps build trust and human connection.</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading -->
@@ -210,7 +210,7 @@ https://youtu.be/rf6QDu_y1m0?si=Zb3tPD0NtkzYgGVS
 <!-- /wp:list -->
 
 <!-- wp:image {"id":9976,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://therebelape.com/wp-content/uploads/2025/03/plumbing-cta-schedule-today-boost-conversions-1030x589.png" alt="Bold call-to-action button encouraging plumbing customers to schedule service" class="wp-image-9976"/><figcaption class="wp-element-caption">Every service section needs a bold, action-driven CTA like “Schedule Today.”</figcaption></figure>
+<figure class="wp-block-image size-large"><img src="https://RebelApeCDN.b-cdn.net/rebel-ape-main/plumbing-cta-schedule-today-boost-conversions-1030x589.webp" alt="Bold call-to-action button encouraging plumbing customers to schedule service" class="wp-image-9976"/><figcaption class="wp-element-caption">Every service section needs a bold, action-driven CTA like “Schedule Today.”</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading -->
@@ -286,7 +286,7 @@ https://youtu.be/rf6QDu_y1m0?si=Zb3tPD0NtkzYgGVS
 <!-- /wp:list -->
 
 <!-- wp:image {"id":9975,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://therebelape.com/wp-content/uploads/2025/03/plumber-website-chat-text-message-feature-1030x589.png" alt="Website chat and text feature for plumbing leads and customer convenience" class="wp-image-9975"/><figcaption class="wp-element-caption">Add chat or texting to your plumbing site so customers can reach you how they prefer.</figcaption></figure>
+<figure class="wp-block-image size-large"><img src="https://RebelApeCDN.b-cdn.net/rebel-ape-main/plumber-website-chat-text-message-feature-1030x589.webp" alt="Website chat and text feature for plumbing leads and customer convenience" class="wp-image-9975"/><figcaption class="wp-element-caption">Add chat or texting to your plumbing site so customers can reach you how they prefer.</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading -->
@@ -370,7 +370,7 @@ https://youtu.be/rf6QDu_y1m0?si=Zb3tPD0NtkzYgGVS
 <!-- /wp:list -->
 
 <!-- wp:image {"id":9974,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://therebelape.com/wp-content/uploads/2025/03/mobile-first-plumbing-website-design-seo-1030x589.png" alt="Mobile-first website design optimized for plumbing SEO and customer experience" class="wp-image-9974"/><figcaption class="wp-element-caption">Your site should be built for mobile first—because that’s where most plumbing customers are.</figcaption></figure>
+<figure class="wp-block-image size-large"><img src="https://RebelApeCDN.b-cdn.net/rebel-ape-main/mobile-first-plumbing-website-design-seo-1030x589.webp" alt="Mobile-first website design optimized for plumbing SEO and customer experience" class="wp-image-9974"/><figcaption class="wp-element-caption">Your site should be built for mobile first—because that’s where most plumbing customers are.</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading -->
@@ -454,7 +454,7 @@ https://youtu.be/rf6QDu_y1m0?si=Zb3tPD0NtkzYgGVS
 <!-- /wp:list -->
 
 <!-- wp:image {"id":9972,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://therebelape.com/wp-content/uploads/2025/03/fast-loading-plumbing-website-speed-conversions-1030x589.png" alt="Speed-optimized plumbing website design for better lead conversions" class="wp-image-9972"/><figcaption class="wp-element-caption">A fast-loading website keeps customers engaged and ready to call.</figcaption></figure>
+<figure class="wp-block-image size-large"><img src="https://RebelApeCDN.b-cdn.net/rebel-ape-main/fast-loading-plumbing-website-speed-conversions-1030x589.webp" alt="Speed-optimized plumbing website design for better lead conversions" class="wp-image-9972"/><figcaption class="wp-element-caption">A fast-loading website keeps customers engaged and ready to call.</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading -->
@@ -534,7 +534,7 @@ https://youtu.be/rf6QDu_y1m0?si=Zb3tPD0NtkzYgGVS
 <!-- /wp:list -->
 
 <!-- wp:image {"id":9973,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://therebelape.com/wp-content/uploads/2025/03/hire-plumbing-marketing-expert-conversion-website-1030x589.png" alt="Rebel Ape Marketing provides conversion-focused websites for plumbing companies" class="wp-image-9973"/><figcaption class="wp-element-caption">Don’t waste your budget—work with a team that builds for results.</figcaption></figure>
+<figure class="wp-block-image size-large"><img src="https://RebelApeCDN.b-cdn.net/rebel-ape-main/hire-plumbing-marketing-expert-conversion-website-1030x589.webp" alt="Rebel Ape Marketing provides conversion-focused websites for plumbing companies" class="wp-image-9973"/><figcaption class="wp-element-caption">Don’t waste your budget—work with a team that builds for results.</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading -->

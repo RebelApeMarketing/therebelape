@@ -6,7 +6,7 @@ excerpt: ""
 author: "Adam Miconi"
 publishDate: "2019-03-14T13:00:00-06:00"
 lastModified: ""
-image: ""
+image: "https://RebelApeCDN.b-cdn.net/rebel-ape-main/neither-dead-nor-dying.webp"
 canonicalUrl: ""
 tags: []
 draft: false
@@ -84,7 +84,7 @@ The problem with directories is that poor-quality directories may actually damag
 
 However, if you can find a trustworthy directory, it can help you reach local clientele that may be searching for your services. You can determine how trustworthy a directory is by applying certain criteria. If the directory is picky concerning the participants, is directed toward providing information to people, and gathers participants in a specialized area, it is most likely a trustworthy source.
 
-![Neither Dead Nor Dying](https://therebelape.com/wp-content/uploads/2019/03/neither-dead-nor-dying.jpg "Davy Jones Neither Dead Nor Dying")
+![Neither Dead Nor Dying](https://RebelApeCDN.b-cdn.net/rebel-ape-main/neither-dead-nor-dying.webp "Davy Jones Neither Dead Nor Dying")
 
 ## The Future of SEO
 

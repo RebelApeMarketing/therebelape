@@ -6,7 +6,7 @@ excerpt: ""
 author: "Adam Miconi"
 publishDate: "2019-11-24T03:02:00-07:00"
 lastModified: ""
-image: ""
+image: "https://RebelApeCDN.b-cdn.net/rebel-ape-main/registrar-80x80.webp"
 canonicalUrl: ""
 tags: []
 draft: false
@@ -24,7 +24,7 @@ Website Process: 4 Important Things You Need To Start A Website
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":3142,"sizeSlug":"thumbnail"} -->
-<figure class="wp-block-image size-thumbnail"><img src="https://therebelape.com/wp-content/uploads/2019/11/registrar-80x80.png" alt="www Magnifying Glass" class="wp-image-3142"/><figcaption class="wp-element-caption">Website Process: Registering The Domain Name</figcaption></figure>
+<figure class="wp-block-image size-thumbnail"><img src="https://RebelApeCDN.b-cdn.net/rebel-ape-main/registrar-80x80.webp" alt="www Magnifying Glass" class="wp-image-3142"/><figcaption class="wp-element-caption">Website Process: Registering The Domain Name</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading -->
@@ -40,7 +40,7 @@ Website Process: 4 Important Things You Need To Start A Website
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":3144,"sizeSlug":"thumbnail"} -->
-<figure class="wp-block-image size-thumbnail"><img src="https://therebelape.com/wp-content/uploads/2019/11/website-hosting-80x80.png" alt="Website Process: Website Hosting" class="wp-image-3144"/><figcaption class="wp-element-caption">Website Process: Choosing A Website Host</figcaption></figure>
+<figure class="wp-block-image size-thumbnail"><img src="https://RebelApeCDN.b-cdn.net/rebel-ape-main/website-hosting-80x80.webp" alt="Website Process: Website Hosting" class="wp-image-3144"/><figcaption class="wp-element-caption">Website Process: Choosing A Website Host</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading -->
@@ -60,7 +60,7 @@ Website Process: 4 Important Things You Need To Start A Website
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":3145,"sizeSlug":"thumbnail"} -->
-<figure class="wp-block-image size-thumbnail"><img src="https://therebelape.com/wp-content/uploads/2019/11/user-80x80.png" alt="Website Process: Users" class="wp-image-3145"/><figcaption class="wp-element-caption">Website Process: Users</figcaption></figure>
+<figure class="wp-block-image size-thumbnail"><img src="https://RebelApeCDN.b-cdn.net/rebel-ape-main/user-80x80.webp" alt="Website Process: Users" class="wp-image-3145"/><figcaption class="wp-element-caption">Website Process: Users</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading -->
@@ -76,7 +76,7 @@ Website Process: 4 Important Things You Need To Start A Website
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":3146,"sizeSlug":"thumbnail"} -->
-<figure class="wp-block-image size-thumbnail"><img src="https://therebelape.com/wp-content/uploads/2019/11/website-design-80x80.png" alt="Website Process: Website Design" class="wp-image-3146"/><figcaption class="wp-element-caption">Website Process: Website Design</figcaption></figure>
+<figure class="wp-block-image size-thumbnail"><img src="https://RebelApeCDN.b-cdn.net/rebel-ape-main/website-design-80x80.webp" alt="Website Process: Website Design" class="wp-image-3146"/><figcaption class="wp-element-caption">Website Process: Website Design</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading -->
@@ -96,7 +96,7 @@ Website Process: 4 Important Things You Need To Start A Website
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":3139,"sizeSlug":"thumbnail"} -->
-<figure class="wp-block-image size-thumbnail"><img src="https://therebelape.com/wp-content/uploads/2019/11/website-process-80x80.png" alt="Website Process: Getting Started" class="wp-image-3139"/><figcaption class="wp-element-caption">Website Process: Getting</figcaption></figure>
+<figure class="wp-block-image size-thumbnail"><img src="https://RebelApeCDN.b-cdn.net/rebel-ape-main/website-process-80x80.webp" alt="Website Process: Getting Started" class="wp-image-3139"/><figcaption class="wp-element-caption">Website Process: Getting</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading -->

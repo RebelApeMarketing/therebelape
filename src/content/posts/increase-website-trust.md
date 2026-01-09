@@ -16,7 +16,7 @@ draft: false
 Increase Website Trust To Increase Conversions
 
 <!-- wp:audio {"id":6322} -->
-<figure class="wp-block-audio"><audio controls src="https://therebelape.com/wp-content/uploads/2023/01/Project_Increase-Website-Trust-To-Increase-Conversions.mp3"></audio><figcaption class="wp-element-caption">Let AI read it for you!</figcaption></figure>
+<figure class="wp-block-audio"><audio controls src="https://RebelApeCDN.b-cdn.net/rebel-ape-main/Project_Increase-Website-Trust-To-Increase-Conversions.mp3"></audio><figcaption class="wp-element-caption">Let AI read it for you!</figcaption></figure>
 <!-- /wp:audio -->
 <!-- wp:paragraph -->
 <p>To increase Website Trust, you need to put in place partner Logos, <a href="https://en.wikipedia.org/wiki/Case_study">case studies</a>, and other forms of social proof. Without those, you will have trouble achieving the return on investment. You need to have an ROI to have a website that is successful.</p>

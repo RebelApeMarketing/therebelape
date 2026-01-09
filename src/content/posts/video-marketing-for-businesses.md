@@ -6,7 +6,7 @@ excerpt: ""
 author: "Adam Miconi"
 publishDate: "2025-09-01T10:00:00-06:00"
 lastModified: ""
-image: ""
+image: "https://RebelApeCDN.b-cdn.net/rebel-ape-main/Capturing-Authentic-Brand-Stories-Through-Video-Marketing.webp"
 canonicalUrl: ""
 tags: []
 draft: false
@@ -154,7 +154,7 @@ Video Marketing for Businesses: 5 Essential Tips for Growth
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":18975,"sizeSlug":"full","linkDestination":"none","align":"center"} -->
-<figure class="wp-block-image aligncenter size-full"><img src="https://therebelape.com/wp-content/uploads/2025/08/Capturing-Authentic-Brand-Stories-Through-Video-Marketing.jpg" alt="Videographer filming a couple outdoors for a brand video, showcasing authentic and engaging video marketing content." class="wp-image-18975"/><figcaption class="wp-element-caption">A videographer films a couple outdoors, creating authentic video content that builds trust and brand awareness.</figcaption></figure>
+<figure class="wp-block-image aligncenter size-full"><img src="https://RebelApeCDN.b-cdn.net/rebel-ape-main/Capturing-Authentic-Brand-Stories-Through-Video-Marketing.webp" alt="Videographer filming a couple outdoors for a brand video, showcasing authentic and engaging video marketing content." class="wp-image-18975"/><figcaption class="wp-element-caption">A videographer films a couple outdoors, creating authentic video content that builds trust and brand awareness.</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading -->

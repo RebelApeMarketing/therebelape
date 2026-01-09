@@ -6,7 +6,7 @@ excerpt: ""
 author: "Adam Miconi"
 publishDate: "2020-12-10T11:00:00-07:00"
 lastModified: ""
-image: ""
+image: "https://RebelApeCDN.b-cdn.net/rebel-ape-main/headline-tags.webp"
 canonicalUrl: ""
 tags: []
 draft: false
@@ -16,7 +16,7 @@ draft: false
 Basic On Page SEO Tips To Help Your Site Rank | Step-By-Step Guide
 
 <!-- wp:audio {"id":6334} -->
-<figure class="wp-block-audio"><audio controls src="https://therebelape.com/wp-content/uploads/2023/01/Project_Basic-On-Page-SEO-Tips-To-Help-Your-Site-Rank-Step-By-Step-Guide.mp3"></audio><figcaption class="wp-element-caption">Let AI read it for you.</figcaption></figure>
+<figure class="wp-block-audio"><audio controls src="https://RebelApeCDN.b-cdn.net/rebel-ape-main/Project_Basic-On-Page-SEO-Tips-To-Help-Your-Site-Rank-Step-By-Step-Guide.mp3"></audio><figcaption class="wp-element-caption">Let AI read it for you.</figcaption></figure>
 <!-- /wp:audio -->
 <!-- wp:paragraph -->
 <p>Getting your site’s new <a href="https://therebelape.com/how-to-outrank-your-competitors/">content to rank in Google search</a> or other search engines can be a tricky, frustrating endeavor, but like anything, the more you do it the easier it gets.</p>
@@ -64,7 +64,7 @@ Basic On Page SEO Tips To Help Your Site Rank | Step-By-Step Guide
 <p>When you create <a href="https://therebelape.com/content-writing/">high-quality content</a>, add in proper URL structures, increase page speed, and many other things, you will often achieve higher rankings because Google’s algorithm begins to favor your website.</p>
 <!-- /wp:paragraph -->
 <!-- wp:image {"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://therebelape.com/wp-content/uploads/2019/04/headline-tags.jpg" alt="Headline Tags"/><figcaption class="wp-element-caption">Headline Tags</figcaption></figure>
+<figure class="wp-block-image size-large"><img src="https://RebelApeCDN.b-cdn.net/rebel-ape-main/headline-tags.webp" alt="Headline Tags"/><figcaption class="wp-element-caption">Headline Tags</figcaption></figure>
 <!-- /wp:image -->
 <!-- wp:heading -->
 <h2>Make Sure You Use The Proper H-Tags</h2>
@@ -136,7 +136,7 @@ Basic On Page SEO Tips To Help Your Site Rank | Step-By-Step Guide
 <p>The h4-h6 tags can be used to further nest your content. Often, the h-tags are misused as styling elements to make fonts bolder or darker, but the actual use is for site hierarchy. It is important to use proper CSS and for styling text and not use title tags for that purpose. This adds to your <a href="https://therebelape.com/on-page-seo-tips/">site’s technical SEO</a> which is important to keep clean and optimized.</p>
 <!-- /wp:paragraph -->
 <!-- wp:image {"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://therebelape.com/wp-content/uploads/2019/04/photography.jpg" alt="Photography"/><figcaption class="wp-element-caption">Photography</figcaption></figure>
+<figure class="wp-block-image size-large"><img src="https://RebelApeCDN.b-cdn.net/rebel-ape-main/photography.webp" alt="Photography"/><figcaption class="wp-element-caption">Photography</figcaption></figure>
 <!-- /wp:image -->
 <!-- wp:heading -->
 <h2>Do I Need To Add Images?</h2>
@@ -196,7 +196,7 @@ Basic On Page SEO Tips To Help Your Site Rank | Step-By-Step Guide
 <p>Describe the images using the alt text in a few descriptive words and include related keywords if possible. This tag is the alt= attribute and can be easily modified in the WordPress Media Library.</p>
 <!-- /wp:paragraph -->
 <!-- wp:image {"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://therebelape.com/wp-content/uploads/2019/04/interlinking.jpg" alt="Interlinking"/><figcaption class="wp-element-caption">Interlinking</figcaption></figure>
+<figure class="wp-block-image size-large"><img src="https://RebelApeCDN.b-cdn.net/rebel-ape-main/interlinking.webp" alt="Interlinking"/><figcaption class="wp-element-caption">Interlinking</figcaption></figure>
 <!-- /wp:image -->
 <!-- wp:heading -->
 <h2>Linking Your Site</h2>
@@ -247,7 +247,7 @@ Basic On Page SEO Tips To Help Your Site Rank | Step-By-Step Guide
 <h2>Adding Meta Data</h2>
 <!-- /wp:heading -->
 <!-- wp:image {"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://therebelape.com/wp-content/uploads/2019/04/meta-data-1.jpg" alt="Meta Data"/><figcaption class="wp-element-caption">Meta Data</figcaption></figure>
+<figure class="wp-block-image size-large"><img src="https://RebelApeCDN.b-cdn.net/rebel-ape-main/meta-data-1.webp" alt="Meta Data"/><figcaption class="wp-element-caption">Meta Data</figcaption></figure>
 <!-- /wp:image -->
 <!-- wp:paragraph -->
 <p><strong>The </strong><strong>SEO</strong><strong> metadata is what the user sees on the </strong><strong>Google search results</strong><strong> page and includes the </strong><strong>page title</strong><strong> and </strong><strong>meta description</strong><strong> of the page which can encourage click through rates</strong>.</p>
@@ -286,7 +286,7 @@ Basic On Page SEO Tips To Help Your Site Rank | Step-By-Step Guide
 <p>A professional company (eh hem, shameless self promotion, Rebel Ape Marketing) may be able to make ranking your website much easier but often comes with a substantial investment.</p>
 <!-- /wp:paragraph -->
 <!-- wp:image {"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://therebelape.com/wp-content/uploads/2019/04/wp-rocket-dashboard.jpg" alt="WP Rocket Dashboard"/><figcaption class="wp-element-caption">WP Rocket Dashboard</figcaption></figure>
+<figure class="wp-block-image size-large"><img src="https://RebelApeCDN.b-cdn.net/rebel-ape-main/wp-rocket-dashboard.webp" alt="WP Rocket Dashboard"/><figcaption class="wp-element-caption">WP Rocket Dashboard</figcaption></figure>
 <!-- /wp:image -->
 <!-- wp:heading -->
 <h2>Site Speed</h2>

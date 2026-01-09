@@ -16,7 +16,7 @@ draft: false
 Why Video Marketing Should Be A Main Component Of Your Marketing Strategy For 20235
 
 <!-- wp:audio {"id":6299} -->
-<figure class="wp-block-audio"><audio controls src="https://therebelape.com/wp-content/uploads/2023/01/Project_Why-Video-Marketing-Should-Be-A-Main-Component-Of-Your-Marketing-Strategy-For-2023.mp3"></audio><figcaption class="wp-element-caption">Let AI read it for you!</figcaption></figure>
+<figure class="wp-block-audio"><audio controls src="https://RebelApeCDN.b-cdn.net/rebel-ape-main/Project_Why-Video-Marketing-Should-Be-A-Main-Component-Of-Your-Marketing-Strategy-For-2023.mp3"></audio><figcaption class="wp-element-caption">Let AI read it for you!</figcaption></figure>
 <!-- /wp:audio -->
 
 <!-- wp:paragraph -->

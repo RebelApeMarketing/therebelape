@@ -6,7 +6,7 @@ excerpt: ""
 author: "Adam Miconi"
 publishDate: "2025-06-03T12:00:00-06:00"
 lastModified: ""
-image: ""
+image: "https://RebelApeCDN.b-cdn.net/rebel-ape-main/content-writing-utah-1030x687.webp"
 canonicalUrl: ""
 tags: []
 draft: false
@@ -126,7 +126,7 @@ How Professional Content Writing Transforms Your Business Authority
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":13859,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://therebelape.com/wp-content/uploads/2025/06/content-writing-utah-1030x687.jpg" alt="Keyboard on a desk ready for a professional content writer" class="wp-image-13859"/><figcaption class="wp-element-caption">Professional content writing dramatically improves your visibility in search engine results.</figcaption></figure>
+<figure class="wp-block-image size-large"><img src="https://RebelApeCDN.b-cdn.net/rebel-ape-main/content-writing-utah-1030x687.webp" alt="Keyboard on a desk ready for a professional content writer" class="wp-image-13859"/><figcaption class="wp-element-caption">Professional content writing dramatically improves your visibility in search engine results.</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading -->

@@ -16,7 +16,7 @@ What Is A Brand Promise and Why It's Important?
 
 
 <!-- wp:audio {"id":6339} -->
-<figure class="wp-block-audio"><audio controls src="https://therebelape.com/wp-content/uploads/2023/01/Project_What-Is-A-Brand-Promise-and-Why-Its-Important.mp3"></audio><figcaption class="wp-element-caption">Let AI read it for you.</figcaption></figure>
+<figure class="wp-block-audio"><audio controls src="https://RebelApeCDN.b-cdn.net/rebel-ape-main/Project_What-Is-A-Brand-Promise-and-Why-Its-Important.mp3"></audio><figcaption class="wp-element-caption">Let AI read it for you.</figcaption></figure>
 <!-- /wp:audio -->
 
 <!-- wp:paragraph -->

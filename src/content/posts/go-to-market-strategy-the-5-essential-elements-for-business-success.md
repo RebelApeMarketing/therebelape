@@ -6,7 +6,7 @@ excerpt: ""
 author: "Adam Miconi"
 publishDate: "2025-09-03T10:00:00-06:00"
 lastModified: ""
-image: ""
+image: "https://RebelApeCDN.b-cdn.net/rebel-ape-main/Collaborative-Planning-Building-a-Winning-Go-To-Market-Strategy-1030x559.webp"
 canonicalUrl: ""
 tags: []
 draft: false
@@ -214,7 +214,7 @@ Go-To-Market Strategy: The 5 Essential Elements for Business Success
 <!-- /wp:list -->
 
 <!-- wp:image {"id":18981,"sizeSlug":"large","linkDestination":"none","align":"center"} -->
-<figure class="wp-block-image aligncenter size-large"><img src="https://therebelape.com/wp-content/uploads/2025/09/Collaborative-Planning-Building-a-Winning-Go-To-Market-Strategy-1030x559.png" alt="Two professionals collaborate in a modern office setting, working on laptops and preparing microphones, illustrating teamwork and strategic planning." class="wp-image-18981"/><figcaption class="wp-element-caption">Team collaboration plays a critical role in developing and executing an effective go-to-market strategy.</figcaption></figure>
+<figure class="wp-block-image aligncenter size-large"><img src="https://RebelApeCDN.b-cdn.net/rebel-ape-main/Collaborative-Planning-Building-a-Winning-Go-To-Market-Strategy-1030x559.webp" alt="Two professionals collaborate in a modern office setting, working on laptops and preparing microphones, illustrating teamwork and strategic planning." class="wp-image-18981"/><figcaption class="wp-element-caption">Team collaboration plays a critical role in developing and executing an effective go-to-market strategy.</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading -->

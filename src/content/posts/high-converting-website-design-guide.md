@@ -16,7 +16,7 @@ draft: false
 A High Converting Website Should Be Professionally Designed
 
 <!-- wp:audio {"id":6327} -->
-<figure class="wp-block-audio"><audio controls src="https://therebelape.com/wp-content/uploads/2023/01/Project_A-High-Converting-Website-Should-Be-Professionally-Designed-1.mp3"></audio><figcaption class="wp-element-caption">Let AI read it for you.</figcaption></figure>
+<figure class="wp-block-audio"><audio controls src="https://RebelApeCDN.b-cdn.net/rebel-ape-main/Project_A-High-Converting-Website-Should-Be-Professionally-Designed-1.mp3"></audio><figcaption class="wp-element-caption">Let AI read it for you.</figcaption></figure>
 <!-- /wp:audio -->
 
 <!-- wp:heading {"level":6} -->

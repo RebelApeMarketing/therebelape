@@ -16,7 +16,7 @@ draft: false
 Why a Phone Number On Your Website is One of the Best Converting Items
 
 <!-- wp:audio {"id":6251} -->
-<figure class="wp-block-audio"><audio controls src="https://therebelape.com/wp-content/uploads/2022/12/website-phone-number.wav"></audio></figure>
+<figure class="wp-block-audio"><audio controls src="https://RebelApeCDN.b-cdn.net/rebel-ape-main/website-phone-number.wav"></audio></figure>
 <!-- /wp:audio -->
 <!-- wp:paragraph -->
 <p>A phone number on your website may seem like a small detail, but they can have a huge impact on your business's success. A phone number is often seen as the first step in a customer's journey to purchase and having one in an easily visible spot can increase levels of engagement and conversions on your website. </p>

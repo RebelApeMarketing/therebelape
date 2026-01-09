@@ -6,7 +6,7 @@ excerpt: ""
 author: "Adam Miconi"
 publishDate: "2024-10-05T15:29:00-06:00"
 lastModified: ""
-image: ""
+image: "https://RebelApeCDN.b-cdn.net/rebel-ape-main/NameCheap-Screenshot-1030x710.webp"
 canonicalUrl: ""
 tags: []
 draft: false
@@ -246,7 +246,7 @@ The Ultimate Guide to Building a Small Business Website and Getting Found Online
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":8908,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://therebelape.com/wp-content/uploads/2024/10/NameCheap-Screenshot-1030x710.png" alt="" class="wp-image-8908"/></figure>
+<figure class="wp-block-image size-large"><img src="https://RebelApeCDN.b-cdn.net/rebel-ape-main/NameCheap-Screenshot-1030x710.webp" alt="" class="wp-image-8908"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading {"level":3} -->
@@ -270,7 +270,7 @@ The Ultimate Guide to Building a Small Business Website and Getting Found Online
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":8909,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://therebelape.com/wp-content/uploads/2024/10/SiteGround-Hosting-1030x710.png" alt="" class="wp-image-8909"/></figure>
+<figure class="wp-block-image size-large"><img src="https://RebelApeCDN.b-cdn.net/rebel-ape-main/SiteGround-Hosting-1030x710.webp" alt="" class="wp-image-8909"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading {"level":3} -->
@@ -290,7 +290,7 @@ The Ultimate Guide to Building a Small Business Website and Getting Found Online
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":8910,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://therebelape.com/wp-content/uploads/2024/10/Blog-Tool-Publishing-Platform-and-CMS-–-WordPress.org_-1030x710.png" alt="" class="wp-image-8910"/></figure>
+<figure class="wp-block-image size-large"><img src="https://RebelApeCDN.b-cdn.net/rebel-ape-main/Blog-Tool-Publishing-Platform-and-CMS-–-WordPress.org_-1030x710.webp" alt="" class="wp-image-8910"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading {"level":3} -->
@@ -306,7 +306,7 @@ The Ultimate Guide to Building a Small Business Website and Getting Found Online
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":8913,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://therebelape.com/wp-content/uploads/2024/10/Bricks-Builder-1030x710.png" alt="" class="wp-image-8913"/></figure>
+<figure class="wp-block-image size-large"><img src="https://RebelApeCDN.b-cdn.net/rebel-ape-main/Bricks-Builder-1030x710.webp" alt="" class="wp-image-8913"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading {"level":3} -->
@@ -322,7 +322,7 @@ The Ultimate Guide to Building a Small Business Website and Getting Found Online
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":8915,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://therebelape.com/wp-content/uploads/2024/10/Essential-Pages-1030x710.png" alt="" class="wp-image-8915"/></figure>
+<figure class="wp-block-image size-large"><img src="https://RebelApeCDN.b-cdn.net/rebel-ape-main/Essential-Pages-1030x710.webp" alt="" class="wp-image-8915"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading {"level":3} -->
@@ -338,7 +338,7 @@ The Ultimate Guide to Building a Small Business Website and Getting Found Online
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":8917,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://therebelape.com/wp-content/uploads/2024/10/SEO-Content-1030x710.png" alt="" class="wp-image-8917"/></figure>
+<figure class="wp-block-image size-large"><img src="https://RebelApeCDN.b-cdn.net/rebel-ape-main/SEO-Content-1030x710.webp" alt="" class="wp-image-8917"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading {"level":3} -->

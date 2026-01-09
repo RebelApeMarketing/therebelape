@@ -6,7 +6,7 @@ excerpt: ""
 author: "Adam Miconi"
 publishDate: "2025-05-27T12:00:00-06:00"
 lastModified: ""
-image: ""
+image: "https://RebelApeCDN.b-cdn.net/rebel-ape-main/seo-graphic-load-times.webp"
 canonicalUrl: ""
 tags: []
 draft: false
@@ -134,7 +134,7 @@ The Ultimate Guide To Having an SEO Expert on Your Marketing Team
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":13792,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="https://therebelape.com/wp-content/uploads/2025/05/seo-graphic-load-times.jpg" alt="conversion table" class="wp-image-13792"/></figure>
+<figure class="wp-block-image size-full"><img src="https://RebelApeCDN.b-cdn.net/rebel-ape-main/seo-graphic-load-times.webp" alt="conversion table" class="wp-image-13792"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading -->

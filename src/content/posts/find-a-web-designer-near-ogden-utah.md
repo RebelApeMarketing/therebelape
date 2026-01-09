@@ -16,7 +16,7 @@ draft: false
 Find a Web Designer Near Ogden Utah
 
 <!-- wp:audio {"id":6306} -->
-<figure class="wp-block-audio"><audio controls src="https://therebelape.com/wp-content/uploads/2023/01/Project_Find-a-Web-Designer-Near-Ogden-Utah.mp3"></audio><figcaption class="wp-element-caption">Let AI read it for you!</figcaption></figure>
+<figure class="wp-block-audio"><audio controls src="https://RebelApeCDN.b-cdn.net/rebel-ape-main/Project_Find-a-Web-Designer-Near-Ogden-Utah.mp3"></audio><figcaption class="wp-element-caption">Let AI read it for you!</figcaption></figure>
 <!-- /wp:audio -->
 
 <!-- wp:paragraph -->

@@ -6,7 +6,7 @@ excerpt: ""
 author: "Adam Miconi"
 publishDate: "2019-11-25T00:35:00-07:00"
 lastModified: ""
-image: ""
+image: "https://RebelApeCDN.b-cdn.net/rebel-ape-main/what-is-branding-1030x515.webp"
 canonicalUrl: ""
 tags: []
 draft: false
@@ -28,7 +28,7 @@ draft: false
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":3169,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://therebelape.com/wp-content/uploads/2019/11/what-is-branding-1030x515.jpg" alt="What Is Branding" class="wp-image-3169"/><figcaption class="wp-element-caption">What Is Branding</figcaption></figure>
+<figure class="wp-block-image size-large"><img src="https://RebelApeCDN.b-cdn.net/rebel-ape-main/what-is-branding-1030x515.webp" alt="What Is Branding" class="wp-image-3169"/><figcaption class="wp-element-caption">What Is Branding</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading -->
@@ -52,7 +52,7 @@ draft: false
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://therebelape.com/wp-content/uploads/2019/11/how-to-form-a-brand.jpg" alt="How To Form A Brand"/><figcaption class="wp-element-caption">How To Form A Brand</figcaption></figure>
+<figure class="wp-block-image size-large"><img src="https://RebelApeCDN.b-cdn.net/rebel-ape-main/how-to-form-a-brand.webp" alt="How To Form A Brand"/><figcaption class="wp-element-caption">How To Form A Brand</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading -->
@@ -98,7 +98,7 @@ draft: false
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://therebelape.com/wp-content/uploads/2019/11/integrating-your-brand.jpg" alt="Integrating Your Brand"/><figcaption class="wp-element-caption">Integrating Your Brand</figcaption></figure>
+<figure class="wp-block-image size-large"><img src="https://RebelApeCDN.b-cdn.net/rebel-ape-main/integrating-your-brand.webp" alt="Integrating Your Brand"/><figcaption class="wp-element-caption">Integrating Your Brand</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading -->
@@ -114,7 +114,7 @@ draft: false
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://therebelape.com/wp-content/uploads/2019/11/importance-of-consistency.jpg" alt="Importance Of Consistency"/><figcaption class="wp-element-caption">Importance Of Consistency</figcaption></figure>
+<figure class="wp-block-image size-large"><img src="https://RebelApeCDN.b-cdn.net/rebel-ape-main/importance-of-consistency.webp" alt="Importance Of Consistency"/><figcaption class="wp-element-caption">Importance Of Consistency</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading -->
@@ -130,7 +130,7 @@ draft: false
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://therebelape.com/wp-content/uploads/2019/11/successful-branding.jpg" alt="Successful Branding"/><figcaption class="wp-element-caption">Successful Branding</figcaption></figure>
+<figure class="wp-block-image size-large"><img src="https://RebelApeCDN.b-cdn.net/rebel-ape-main/successful-branding.webp" alt="Successful Branding"/><figcaption class="wp-element-caption">Successful Branding</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading -->

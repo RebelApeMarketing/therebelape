@@ -6,7 +6,7 @@ excerpt: ""
 author: "Adam Miconi"
 publishDate: "2025-06-12T21:49:00-06:00"
 lastModified: ""
-image: ""
+image: "https://RebelApeCDN.b-cdn.net/rebel-ape-main/social-media-marketing-group.webp"
 canonicalUrl: ""
 tags: []
 draft: false
@@ -32,7 +32,7 @@ The Critical Business Impact of Social Media Marketing in 2025
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":13869,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="https://therebelape.com/wp-content/uploads/2025/06/social-media-marketing-group.jpg" alt="Social media engagement metrics showing growth after implementing optimization strategies" class="wp-image-13869"/><figcaption class="wp-element-caption">Implementing these four strategies consistently leads to significant improvements in engagement and conversion rates.</figcaption></figure>
+<figure class="wp-block-image size-full"><img src="https://RebelApeCDN.b-cdn.net/rebel-ape-main/social-media-marketing-group.webp" alt="Social media engagement metrics showing growth after implementing optimization strategies" class="wp-image-13869"/><figcaption class="wp-element-caption">Implementing these four strategies consistently leads to significant improvements in engagement and conversion rates.</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading -->
@@ -154,7 +154,7 @@ The Critical Business Impact of Social Media Marketing in 2025
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":13867,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://therebelape.com/wp-content/uploads/2025/06/pay-per-click-utah-1030x687.jpg" alt="Rebel Ape employee checking metrics on smartphone while comparing to laptop" class="wp-image-13867"/><figcaption class="wp-element-caption">Rebel Ape employee checking metrics on smartphone while comparing to laptop</figcaption></figure>
+<figure class="wp-block-image size-large"><img src="https://RebelApeCDN.b-cdn.net/rebel-ape-main/pay-per-click-utah-1030x687.webp" alt="Rebel Ape employee checking metrics on smartphone while comparing to laptop" class="wp-image-13867"/><figcaption class="wp-element-caption">Rebel Ape employee checking metrics on smartphone while comparing to laptop</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading -->

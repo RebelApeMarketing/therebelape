@@ -6,7 +6,7 @@ excerpt: ""
 author: "Adam Miconi"
 publishDate: "2025-09-05T10:00:00-06:00"
 lastModified: ""
-image: ""
+image: "https://RebelApeCDN.b-cdn.net/rebel-ape-main/The-3-Key-Areas-of-Your-Marketing-Strategy-to-Test-1030x687.webp"
 canonicalUrl: ""
 tags: []
 draft: false
@@ -64,7 +64,7 @@ Marketing Testing Strategy: Drive Explosive Growth in 2025
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":19512,"sizeSlug":"large","linkDestination":"none","align":"center"} -->
-<figure class="wp-block-image aligncenter size-large"><img src="https://therebelape.com/wp-content/uploads/2025/09/The-3-Key-Areas-of-Your-Marketing-Strategy-to-Test-1030x687.jpg" alt="Marketing Testing Strategy" class="wp-image-19512"/></figure>
+<figure class="wp-block-image aligncenter size-large"><img src="https://RebelApeCDN.b-cdn.net/rebel-ape-main/The-3-Key-Areas-of-Your-Marketing-Strategy-to-Test-1030x687.webp" alt="Marketing Testing Strategy" class="wp-image-19512"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading -->
@@ -168,7 +168,7 @@ Marketing Testing Strategy: Drive Explosive Growth in 2025
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":19513,"sizeSlug":"large","linkDestination":"none","align":"center"} -->
-<figure class="wp-block-image aligncenter size-large"><img src="https://therebelape.com/wp-content/uploads/2025/09/The-Benefits-and-Risks-of-Marketing-Testing-1030x687.jpg" alt="Marketing Testing" class="wp-image-19513"/></figure>
+<figure class="wp-block-image aligncenter size-large"><img src="https://RebelApeCDN.b-cdn.net/rebel-ape-main/The-Benefits-and-Risks-of-Marketing-Testing-1030x687.webp" alt="Marketing Testing" class="wp-image-19513"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading -->

@@ -15,7 +15,7 @@ draft: false
 <!-- TODO: Paste the post content here. -->
 How Website Design and Development Consultant Can Streamline Your Business
 
-<figure class="wp-block-audio"><audio controls src="https://therebelape.com/wp-content/uploads/2023/01/Project_Website-Design-and-Development-Consultant.mp3"></audio><figcaption class="wp-element-caption">Let AI read it for you!</figcaption></figure>
+<figure class="wp-block-audio"><audio controls src="https://RebelApeCDN.b-cdn.net/rebel-ape-main/Project_Website-Design-and-Development-Consultant.mp3"></audio><figcaption class="wp-element-caption">Let AI read it for you!</figcaption></figure>
 
 <p>A website design and development consultant can make a massive change in how your company goes about achieving its marketing goals. A website is a sales and marketing tool made to help and promote the work of your sales and marketing team. </p>
 

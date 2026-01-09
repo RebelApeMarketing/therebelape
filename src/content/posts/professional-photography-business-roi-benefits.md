@@ -6,7 +6,7 @@ excerpt: ""
 author: "Adam Miconi"
 publishDate: "2025-06-05T12:00:00-06:00"
 lastModified: ""
-image: ""
+image: "https://RebelApeCDN.b-cdn.net/rebel-ape-main/professional-photography-for-plumbers-1030x542.webp"
 canonicalUrl: ""
 tags: []
 draft: false
@@ -114,7 +114,7 @@ The Measurable ROI of Professional Photography for Your Business
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":13862,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://therebelape.com/wp-content/uploads/2025/06/professional-photography-for-plumbers-1030x542.jpg" alt="Professional Photography For Plumbers Setup" class="wp-image-13862"/><figcaption class="wp-element-caption">Professional photography setup in the last Rebel Ape studio.</figcaption></figure>
+<figure class="wp-block-image size-large"><img src="https://RebelApeCDN.b-cdn.net/rebel-ape-main/professional-photography-for-plumbers-1030x542.webp" alt="Professional Photography For Plumbers Setup" class="wp-image-13862"/><figcaption class="wp-element-caption">Professional photography setup in the last Rebel Ape studio.</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading -->

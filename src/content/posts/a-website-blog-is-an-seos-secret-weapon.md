@@ -16,7 +16,7 @@ draft: false
 A Website Blog Is An SEO's Secret Weapon
 
 <!-- wp:audio {"id":6341} -->
-<figure class="wp-block-audio"><audio controls src="https://therebelape.com/wp-content/uploads/2023/01/Project_A-Website-Blog-Is-An-SEOs-Secret-Weapon.mp3"></audio><figcaption class="wp-element-caption">Let AI read it for you.</figcaption></figure>
+<figure class="wp-block-audio"><audio controls src="https://RebelApeCDN.b-cdn.net/rebel-ape-main/Project_A-Website-Blog-Is-An-SEOs-Secret-Weapon.mp3"></audio><figcaption class="wp-element-caption">Let AI read it for you.</figcaption></figure>
 <!-- /wp:audio -->
 
 <!-- wp:paragraph -->

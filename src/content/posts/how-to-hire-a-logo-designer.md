@@ -6,7 +6,7 @@ excerpt: ""
 author: "Adam Miconi"
 publishDate: "2023-08-11T22:33:00-06:00"
 lastModified: ""
-image: ""
+image: "https://RebelApeCDN.b-cdn.net/rebel-ape-main/determine-the-logo-design.webp"
 canonicalUrl: ""
 tags: []
 draft: false
@@ -30,7 +30,7 @@ https://youtu.be/dC7dCcH7Www
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><img src="https://therebelape.com/wp-content/uploads/2023/08/determine-the-logo-design.jpg" alt="Introduction to the process of logo design"><br><em>Embarking on the journey of logo design.</em></p>
+<p><img src="https://RebelApeCDN.b-cdn.net/rebel-ape-main/determine-the-logo-design.webp" alt="Introduction to the process of logo design"><br><em>Embarking on the journey of logo design.</em></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->
@@ -154,7 +154,7 @@ https://youtu.be/dC7dCcH7Www
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"width":"80px","height":"undefinedpx"} -->
-<figure class="wp-block-image is-resized"><img src="https://therebelape.com/wp-content/uploads/2023/08/Screenshot-2023-08-14-at-5.14.10-PM.png" alt="clipboard" style="width:80px;height:undefinedpx"/></figure>
+<figure class="wp-block-image is-resized"><img src="https://RebelApeCDN.b-cdn.net/rebel-ape-main/Screenshot-2023-08-14-at-5.14.10-PM.webp" alt="clipboard" style="width:80px;height:undefinedpx"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading {"level":3,"textColor":"luminous-vivid-orange"} -->
@@ -196,7 +196,7 @@ https://youtu.be/dC7dCcH7Www
 <!-- /wp:list -->
 
 <!-- wp:paragraph -->
-<p><img src="https://therebelape.com/wp-content/uploads/2023/08/finding-a-logo-designer.jpg" alt="Searching online portfolios to find the perfect logo designer"><br><em>A choice among the best: selecting the right logo designer.</em></p>
+<p><img src="https://RebelApeCDN.b-cdn.net/rebel-ape-main/finding-a-logo-designer.webp" alt="Searching online portfolios to find the perfect logo designer"><br><em>A choice among the best: selecting the right logo designer.</em></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->
@@ -316,7 +316,7 @@ https://youtu.be/dC7dCcH7Www
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"width":"80px","height":"undefinedpx"} -->
-<figure class="wp-block-image is-resized"><img src="https://therebelape.com/wp-content/uploads/2023/08/Screenshot-2023-08-14-at-5.14.10-PM.png" alt="clipboard" style="width:80px;height:undefinedpx"/></figure>
+<figure class="wp-block-image is-resized"><img src="https://RebelApeCDN.b-cdn.net/rebel-ape-main/Screenshot-2023-08-14-at-5.14.10-PM.webp" alt="clipboard" style="width:80px;height:undefinedpx"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading {"level":3,"textColor":"luminous-vivid-orange"} -->
@@ -358,7 +358,7 @@ https://youtu.be/dC7dCcH7Www
 <!-- /wp:list -->
 
 <!-- wp:paragraph -->
-<p><img src="https://therebelape.com/wp-content/uploads/2023/08/logo-designer-portolio.jpg" alt="Reviewing a designer's portfolio to select the right style and creativity for the project"><br><em>Carefully reviewing a designer's portfolio helps ensure a perfect match between your vision and their creative style.</em></p>
+<p><img src="https://RebelApeCDN.b-cdn.net/rebel-ape-main/logo-designer-portolio.webp" alt="Reviewing a designer's portfolio to select the right style and creativity for the project"><br><em>Carefully reviewing a designer's portfolio helps ensure a perfect match between your vision and their creative style.</em></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->
@@ -430,7 +430,7 @@ https://youtu.be/dC7dCcH7Www
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"width":"80px","height":"undefinedpx"} -->
-<figure class="wp-block-image is-resized"><img src="https://therebelape.com/wp-content/uploads/2023/08/Screenshot-2023-08-14-at-5.14.10-PM.png" alt="clipboard" style="width:80px;height:undefinedpx"/></figure>
+<figure class="wp-block-image is-resized"><img src="https://RebelApeCDN.b-cdn.net/rebel-ape-main/Screenshot-2023-08-14-at-5.14.10-PM.webp" alt="clipboard" style="width:80px;height:undefinedpx"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading {"level":3,"textColor":"luminous-vivid-orange"} -->
@@ -468,7 +468,7 @@ https://youtu.be/dC7dCcH7Www
 <!-- /wp:list -->
 
 <!-- wp:paragraph -->
-<p><img src="https://therebelape.com/wp-content/uploads/2023/08/contact-the-logo-designer.jpg" alt="Making a call to discuss the logo design project with the designer"><br><em>Building the relationship: in conversation with the designer.</em></p>
+<p><img src="https://RebelApeCDN.b-cdn.net/rebel-ape-main/contact-the-logo-designer.webp" alt="Making a call to discuss the logo design project with the designer"><br><em>Building the relationship: in conversation with the designer.</em></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->
@@ -554,7 +554,7 @@ https://youtu.be/dC7dCcH7Www
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"width":"80px","height":"undefinedpx"} -->
-<figure class="wp-block-image is-resized"><img src="https://therebelape.com/wp-content/uploads/2023/08/Screenshot-2023-08-14-at-5.14.10-PM.png" alt="clipboard" style="width:80px;height:undefinedpx"/></figure>
+<figure class="wp-block-image is-resized"><img src="https://RebelApeCDN.b-cdn.net/rebel-ape-main/Screenshot-2023-08-14-at-5.14.10-PM.webp" alt="clipboard" style="width:80px;height:undefinedpx"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading {"textColor":"luminous-vivid-orange"} -->
@@ -592,7 +592,7 @@ https://youtu.be/dC7dCcH7Www
 <!-- /wp:list -->
 
 <!-- wp:paragraph -->
-<p><img src="https://therebelape.com/wp-content/uploads/2023/08/establishing-budget-for-logo-design.jpg" alt="Planning and setting a realistic budget for logo design"><br><em>Balancing dreams and reality: setting the logo design budget.</em></p>
+<p><img src="https://RebelApeCDN.b-cdn.net/rebel-ape-main/establishing-budget-for-logo-design.webp" alt="Planning and setting a realistic budget for logo design"><br><em>Balancing dreams and reality: setting the logo design budget.</em></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->
@@ -692,7 +692,7 @@ https://youtu.be/dC7dCcH7Www
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"width":"80px","height":"undefinedpx"} -->
-<figure class="wp-block-image is-resized"><img src="https://therebelape.com/wp-content/uploads/2023/08/Screenshot-2023-08-14-at-5.14.10-PM.png" alt="clipboard" style="width:80px;height:undefinedpx"/></figure>
+<figure class="wp-block-image is-resized"><img src="https://RebelApeCDN.b-cdn.net/rebel-ape-main/Screenshot-2023-08-14-at-5.14.10-PM.webp" alt="clipboard" style="width:80px;height:undefinedpx"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading {"level":3,"textColor":"luminous-vivid-orange"} -->
@@ -734,7 +734,7 @@ https://youtu.be/dC7dCcH7Www
 <!-- /wp:list -->
 
 <!-- wp:paragraph -->
-<p><img src="https://therebelape.com/wp-content/uploads/2023/08/finalizing-logo-design-contract.jpg" alt="Reviewing and signing the logo design contract."><br><em>Sealing the deal: understanding and signing the contract.</em></p>
+<p><img src="https://RebelApeCDN.b-cdn.net/rebel-ape-main/finalizing-logo-design-contract.webp" alt="Reviewing and signing the logo design contract."><br><em>Sealing the deal: understanding and signing the contract.</em></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->
@@ -798,7 +798,7 @@ https://youtu.be/dC7dCcH7Www
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"width":"80px","height":"undefinedpx"} -->
-<figure class="wp-block-image is-resized"><img src="https://therebelape.com/wp-content/uploads/2023/08/Screenshot-2023-08-14-at-5.14.10-PM.png" alt="clipboard" style="width:80px;height:undefinedpx"/></figure>
+<figure class="wp-block-image is-resized"><img src="https://RebelApeCDN.b-cdn.net/rebel-ape-main/Screenshot-2023-08-14-at-5.14.10-PM.webp" alt="clipboard" style="width:80px;height:undefinedpx"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading {"level":3,"textColor":"luminous-vivid-orange"} -->
@@ -828,7 +828,7 @@ https://youtu.be/dC7dCcH7Www
 <!-- /wp:list -->
 
 <!-- wp:paragraph -->
-<p><img src="https://therebelape.com/wp-content/uploads/2023/08/design-process-expectations.jpg" alt="Overview of the typical stages and timeline in the logo design process."><br><em>Behind the scenes: the stages of the design process.</em></p>
+<p><img src="https://RebelApeCDN.b-cdn.net/rebel-ape-main/design-process-expectations.webp" alt="Overview of the typical stages and timeline in the logo design process."><br><em>Behind the scenes: the stages of the design process.</em></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->
@@ -910,7 +910,7 @@ https://youtu.be/dC7dCcH7Www
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"width":"80px","height":"undefinedpx"} -->
-<figure class="wp-block-image is-resized"><img src="https://therebelape.com/wp-content/uploads/2023/08/Screenshot-2023-08-14-at-5.14.10-PM.png" alt="clipboard" style="width:80px;height:undefinedpx"/></figure>
+<figure class="wp-block-image is-resized"><img src="https://RebelApeCDN.b-cdn.net/rebel-ape-main/Screenshot-2023-08-14-at-5.14.10-PM.webp" alt="clipboard" style="width:80px;height:undefinedpx"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading {"level":3,"textColor":"luminous-vivid-orange"} -->
@@ -940,7 +940,7 @@ https://youtu.be/dC7dCcH7Www
 <!-- /wp:list -->
 
 <!-- wp:paragraph -->
-<p><img src="https://therebelape.com/wp-content/uploads/2023/08/providing-feedback-on-logo-design.jpg" alt="Providing constructive feedback on logo design concepts."><br><em>Your voice matters: providing feedback on the design.</em></p>
+<p><img src="https://RebelApeCDN.b-cdn.net/rebel-ape-main/providing-feedback-on-logo-design.webp" alt="Providing constructive feedback on logo design concepts."><br><em>Your voice matters: providing feedback on the design.</em></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->
@@ -1004,7 +1004,7 @@ https://youtu.be/dC7dCcH7Www
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"width":"80px","height":"undefinedpx"} -->
-<figure class="wp-block-image is-resized"><img src="https://therebelape.com/wp-content/uploads/2023/08/Screenshot-2023-08-14-at-5.14.10-PM.png" alt="clipboard" style="width:80px;height:undefinedpx"/></figure>
+<figure class="wp-block-image is-resized"><img src="https://RebelApeCDN.b-cdn.net/rebel-ape-main/Screenshot-2023-08-14-at-5.14.10-PM.webp" alt="clipboard" style="width:80px;height:undefinedpx"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading {"level":3,"textColor":"luminous-vivid-orange"} -->
@@ -1034,7 +1034,7 @@ https://youtu.be/dC7dCcH7Www
 <!-- /wp:list -->
 
 <!-- wp:paragraph -->
-<p><img src="https://therebelape.com/wp-content/uploads/2023/08/finalizing-logo-design-project.jpg" alt="Finalizing and celebrating the completion of the logo design project."><br><em>The final touch: celebrating the completion of the design.</em></p>
+<p><img src="https://RebelApeCDN.b-cdn.net/rebel-ape-main/finalizing-logo-design-project.webp" alt="Finalizing and celebrating the completion of the logo design project."><br><em>The final touch: celebrating the completion of the design.</em></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->
@@ -1098,7 +1098,7 @@ https://youtu.be/dC7dCcH7Www
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"width":"80px","height":"undefinedpx"} -->
-<figure class="wp-block-image is-resized"><img src="https://therebelape.com/wp-content/uploads/2023/08/Screenshot-2023-08-14-at-5.14.10-PM.png" alt="clipboard" style="width:80px;height:undefinedpx"/></figure>
+<figure class="wp-block-image is-resized"><img src="https://RebelApeCDN.b-cdn.net/rebel-ape-main/Screenshot-2023-08-14-at-5.14.10-PM.webp" alt="clipboard" style="width:80px;height:undefinedpx"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading {"level":3,"textColor":"luminous-vivid-orange"} -->
@@ -1124,7 +1124,7 @@ https://youtu.be/dC7dCcH7Www
 <!-- /wp:list -->
 
 <!-- wp:paragraph -->
-<p><img src="https://therebelape.com/wp-content/uploads/2023/08/faq-logo-design-process.jpg" alt="Answers to common questions about the logo design process."><br><em>Demystifying the process: common queries about logo design.</em></p>
+<p><img src="https://RebelApeCDN.b-cdn.net/rebel-ape-main/faq-logo-design-process.webp" alt="Answers to common questions about the logo design process."><br><em>Demystifying the process: common queries about logo design.</em></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->
@@ -1242,7 +1242,7 @@ https://youtu.be/JOgzcVu7jvg
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><img src="https://therebelape.com/wp-content/uploads/2023/08/DSCF3103-scaled-1.jpg" alt="How to hire a logo designer conclusion"><br><em>Final Thoughts on How To Hire A Logo Designer</em></p>
+<p><img src="https://RebelApeCDN.b-cdn.net/rebel-ape-main/DSCF3103-scaled-1.webp" alt="How to hire a logo designer conclusion"><br><em>Final Thoughts on How To Hire A Logo Designer</em></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->
