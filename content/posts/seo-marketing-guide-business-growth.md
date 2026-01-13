@@ -244,11 +244,11 @@ Comprehensive SEO Marketing Guide to Grow Your Business in 2025
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>With&nbsp;<a href="https://therebelape.com/about-rebel-ape-marketing/">Rebel Ape Marketing</a>, we can do that for you. We staff&nbsp;<a href="https://therebelape.com/services/seo/">SEO experts</a>&nbsp;who make it their mission to constantly make sure that your website is maximizing from search engine optimization.</p>
+<p>With&nbsp;<a href="https://therebelape.com/about/">Rebel Ape Marketing</a>, we can do that for you. We staff&nbsp;<a href="https://therebelape.com/services/seo/">SEO experts</a>&nbsp;who make it their mission to constantly make sure that your website is maximizing from search engine optimization.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Ready to get started with professional&nbsp;<strong>SEO marketing</strong>?&nbsp;<a href="https://therebelape.com/contact-rebel-ape-marketing/">Contact us today</a>. We can schedule a time to meet and talk about how you can benefit from our specialized SEO services for home service businesses.</p>
+<p>Ready to get started with professional&nbsp;<strong>SEO marketing</strong>?&nbsp;<a href="https://therebelape.com/contact/">Contact us today</a>. We can schedule a time to meet and talk about how you can benefit from our specialized SEO services for home service businesses.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->

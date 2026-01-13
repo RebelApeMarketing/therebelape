@@ -97,7 +97,7 @@ Google’s algorithms change constantly, so staying on top of SEO can feel like 
 
 With billions of people online, it’s important to tap into that attention and drive the *right* people to your website.
 
-The more pages you have [ranking higher](https://therebelape.com/how-to-outrank-your-competitors/), the more opportunities you have to pull in traffic — and the more competitor traffic you’re taking back.
+The more pages you have [ranking higher](https://therebelape.com/blog/how-to-outrank-your-competitors/), the more opportunities you have to pull in traffic — and the more competitor traffic you’re taking back.
 
 Without SEO, a big chunk of that traffic goes to the businesses above you.
 
@@ -132,7 +132,7 @@ We support businesses in and around Ogden, Utah (and beyond) through SEO strateg
 - Content planning and growth
 - Authority building
 
-With the right process, your website can steadily grow traffic, increase visibility, and compete for the top spots in the [Google search results](https://therebelape.com/how-to-outrank-your-competitors/).
+With the right process, your website can steadily grow traffic, increase visibility, and compete for the top spots in the [Google search results](https://therebelape.com/blog/how-to-outrank-your-competitors/).
 
 If you’re ready to improve your rankings and authority, reach out [here](https://therebelape.com/contact/).
 

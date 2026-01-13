@@ -57,7 +57,7 @@ That's precisely why&nbsp;[partnering with a specialized marketing team](https:/
 
 We recently worked with a client who grew her business from a seed. She was knowledgeable in her field and was yielding success. The checkered board was laid out before her, and she knew her pieces. But after a while, growth required more hands than two. To sustain growth and uphold the sought-after quality, she found herself compelled to initiate a strategic move—the gambit.
 
-That's when she reached out to&nbsp;[Rebel Ape Marketing](https://therebelape.com/about-rebel-ape-marketing/). It was a sacrifice she was making, one that would take her out of her comfort zone for a little while. But she was willing to relinquish control of her marketing in favor of greater control and an increase in quality. By making this move, she gained the freedom to improve in her field, becoming better at what she does, while we expanded her control over the board. Checkmate.
+That's when she reached out to&nbsp;[Rebel Ape Marketing](https://therebelape.com/about/). It was a sacrifice she was making, one that would take her out of her comfort zone for a little while. But she was willing to relinquish control of her marketing in favor of greater control and an increase in quality. By making this move, she gained the freedom to improve in her field, becoming better at what she does, while we expanded her control over the board. Checkmate.
 
 ## Don't Put Off Improvement
 
@@ -87,4 +87,4 @@ If you run a home service company, especially a plumbing business, you understan
 
 When you delegate your marketing to Rebel Ape, you're making the strategic Gambit that has helped countless plumbers and home service professionals dominate their local markets. Our specialized&nbsp;[plumber marketing services](https://therebelape.com/services/)&nbsp;are designed specifically for businesses like yours, with proven strategies that generate leads while you focus on what you do best. The most successful plumbing companies know exactly when to delegate marketing to experts—and that time is now.
 
-[Contact us today](https://therebelape.com/contact-rebel-ape-marketing/) to discuss how our targeted approach can transform your business growth trajectory and help you claim checkmate in your market.
+[Contact us today](https://therebelape.com/contact/) to discuss how our targeted approach can transform your business growth trajectory and help you claim checkmate in your market.

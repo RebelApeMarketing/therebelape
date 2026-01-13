@@ -198,9 +198,9 @@ The Measurable ROI of Professional Photography for Your Business
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>If you're ready to get photos that will reflect the quality of your services, build trust, and catch the attention of your customers, then start today with&nbsp;<a href="https://therebelape.com/about-rebel-ape-marketing/">Rebel Ape Marketing</a>. Our photographers spend countless hours practicing and perfecting their skills in order to present your business in the best possible light.</p>
+<p>If you're ready to get photos that will reflect the quality of your services, build trust, and catch the attention of your customers, then start today with&nbsp;<a href="https://therebelape.com/about/">Rebel Ape Marketing</a>. Our photographers spend countless hours practicing and perfecting their skills in order to present your business in the best possible light.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Schedule a time today to meet with our team. You can find all the ways that your business can benefit from having a&nbsp;<strong>professional photographer</strong>&nbsp;on your team. You can&nbsp;<a href="https://therebelape.com/contact-rebel-ape-marketing/">contact us</a>&nbsp;through our website or give us a call.</p>
+<p>Schedule a time today to meet with our team. You can find all the ways that your business can benefit from having a&nbsp;<strong>professional photographer</strong>&nbsp;on your team. You can&nbsp;<a href="https://therebelape.com/contact/">contact us</a>&nbsp;through our website or give us a call.</p>
 <!-- /wp:paragraph -->

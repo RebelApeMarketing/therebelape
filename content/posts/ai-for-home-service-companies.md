@@ -270,5 +270,5 @@ Your Competition Is Already Using AI: Why Home Service Companies Can't Afford to
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><a href="https://therebelape.com/schedule/">Schedule Your Free Strategy Session</a></p>
+<p><a href="/schedule/">Schedule Your Free Strategy Session</a></p>
 <!-- /wp:paragraph -->

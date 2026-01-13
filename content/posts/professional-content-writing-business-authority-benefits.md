@@ -154,7 +154,7 @@ How Professional Content Writing Transforms Your Business Authority
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>Today is the day to create content that can help you rise in the ranks of search engines. If you're ready to build a reputation as an authority in your field, then talk to&nbsp;<a href="https://therebelape.com/about-rebel-ape-marketing/">Rebel Ape Marketing</a>&nbsp;about all the ways you can benefit from our&nbsp;<strong>professional content writing services</strong>.</p>
+<p>Today is the day to create content that can help you rise in the ranks of search engines. If you're ready to build a reputation as an authority in your field, then talk to&nbsp;<a href="https://therebelape.com/about/">Rebel Ape Marketing</a>&nbsp;about all the ways you can benefit from our&nbsp;<strong>professional content writing services</strong>.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -162,5 +162,5 @@ How Professional Content Writing Transforms Your Business Authority
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><a href="https://therebelape.com/contact-rebel-ape-marketing/">Contact us today</a>&nbsp;and let's begin developing your unique marketing strategy, complete with professional content writing that sets you apart from the competition.</p>
+<p><a href="https://therebelape.com/contact/">Contact us today</a>&nbsp;and let's begin developing your unique marketing strategy, complete with professional content writing that sets you apart from the competition.</p>
 <!-- /wp:paragraph -->

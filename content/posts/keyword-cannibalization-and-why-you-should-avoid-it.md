@@ -168,7 +168,7 @@ Keyword Cannibalization And Why You Should Avoid It
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>Today is the day to start trying to rank higher on search engines. If you're ready to end problems like&nbsp;<strong>keyword cannibalization</strong>&nbsp;and others that are holding your website back, then&nbsp;<a href="https://therebelape.com/contact-rebel-ape-marketing/">contact Rebel Ape Marketing</a>&nbsp;today.</p>
+<p>Today is the day to start trying to rank higher on search engines. If you're ready to end problems like&nbsp;<strong>keyword cannibalization</strong>&nbsp;and others that are holding your website back, then&nbsp;<a href="https://therebelape.com/contact/">contact Rebel Ape Marketing</a>&nbsp;today.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->

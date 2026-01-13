@@ -196,11 +196,11 @@ The Critical Business Impact of Social Media Marketing in 2025
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>But what if there was a way to have all of this quality content, without requiring you to spend all of that time and effort? Well, you can with&nbsp;<a href="https://therebelape.com/about-rebel-ape-marketing/">Rebel Ape Marketing</a>. We understand the critical importance of building your brand through&nbsp;<strong>social media marketing</strong>, which is why you can have an expert work hard to consistently produce quality content that your followers want to see. Meanwhile, you can focus on improving your business, knowing that there is one less thing on your plate.</p>
+<p>But what if there was a way to have all of this quality content, without requiring you to spend all of that time and effort? Well, you can with&nbsp;<a href="https://therebelape.com/about/">Rebel Ape Marketing</a>. We understand the critical importance of building your brand through&nbsp;<strong>social media marketing</strong>, which is why you can have an expert work hard to consistently produce quality content that your followers want to see. Meanwhile, you can focus on improving your business, knowing that there is one less thing on your plate.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Sounds pretty good, right? Here's how you can get started:&nbsp;<a href="https://therebelape.com/contact-rebel-ape-marketing/">Contact us today</a>. We would love to meet with you and develop a&nbsp;<strong>social media marketing</strong>&nbsp;strategy tailor-fit to your business's unique needs. You will have a full-time marketing team in your corner, searching for your customers, and creating content that we can direct to them.</p>
+<p>Sounds pretty good, right? Here's how you can get started:&nbsp;<a href="https://therebelape.com/contact/">Contact us today</a>. We would love to meet with you and develop a&nbsp;<strong>social media marketing</strong>&nbsp;strategy tailor-fit to your business's unique needs. You will have a full-time marketing team in your corner, searching for your customers, and creating content that we can direct to them.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->

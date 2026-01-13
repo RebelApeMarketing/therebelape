@@ -14,7 +14,7 @@ draft: false
 
 7 Reasons You Need a Website for your business to grow in 2023.
 
-There is no surprise when you hear that it’s important to have a website for your business. After all, we see websites everywhere we look. They are listed on business cards, [billboards](https://therebelape.com/billboard-advertising-strategies-3-proven-ways-to-capture-attention-and-drive-results/), mailers, and other marketing material. They are listed on everything. But do you really need a website? Whether a large or small business, a website is often one of the first places your potential customers will go to find information about your business or process.
+There is no surprise when you hear that it’s important to have a website for your business. After all, we see websites everywhere we look. They are listed on business cards, [billboards](/billboard-advertising-strategies-3-proven-ways-to-capture-attention-and-drive-results/), mailers, and other marketing material. They are listed on everything. But do you really need a website? Whether a large or small business, a website is often one of the first places your potential customers will go to find information about your business or process.
 
 With responsive websites, we see more and more people doing mobile web searches. They search prices, ratings, reviews, where to find a product, and just about anything you can think of. As the web has become more an more prominent, it’s become more important than ever to start your website. With over one-third of [small businesses shutting down](https://www.jpmorganchase.com/corporate/institute/small-business-longevity.htm) or struggling, it helps to use every advantage you can get over your competition, but what if they have a website and you don’t?
 
@@ -25,7 +25,7 @@ With how easy it is to start a website these days, don’t start at a disadvanta
 3. Instant Communication  
 4. Become the Expert In Your Field  
 5. Websites Are Cost Effective  
-6. Modern [Websites are SEO](https://therebelape.com/on-page-seo-tips/) Friendly  
+6. Modern [Websites are SEO](/blog/on-page-seo-tips/) Friendly  
 7. Marketing your Brand Online  
 
 ![Online Business Displayed on Laptop](https://RebelApeCDN.b-cdn.net/rebel-ape-main/online-business.webp)
@@ -45,7 +45,7 @@ With how easy it is to start and manage a website, there isn’t much reason not
 
 ### Expand Beyond Your Website With Web 2.0
 
-With your website being the centralized hub for all your communications you can begin to expand beyond that and integrate with partners sites. Though you want to pull as much relevant [traffic as possible to your website](https://therebelape.com/content-syndication-strategies/) since you can control it, traffic actually comes from many various places. With Web 2.0 you can create your own profiles on many different websites as well.
+With your website being the centralized hub for all your communications you can begin to expand beyond that and integrate with partners sites. Though you want to pull as much relevant [traffic as possible to your website](/content-syndication-strategies/) since you can control it, traffic actually comes from many various places. With Web 2.0 you can create your own profiles on many different websites as well.
 
 #### Google My Business
 
@@ -55,7 +55,7 @@ This is also one of the main platforms for a customer to review a business. If y
 
 #### Yelp and Web 2.0 Website
 
-With the iPhone and Androids as big as they are, it’s great to be diverse with your online profiles and make sure they all point back to your website. With Android utilizing [Google My Business](https://therebelape.com/how-to-add-users-to-google-my-business-listing/), another industry leader is often forgotten about. However, you don’t want to underestimate the power of [Yelp](https://www.yelp.com/) and the integration with iPhones.
+With the iPhone and Androids as big as they are, it’s great to be diverse with your online profiles and make sure they all point back to your website. With Android utilizing [Google My Business](/how-to-add-users-to-google-my-business-listing/), another industry leader is often forgotten about. However, you don’t want to underestimate the power of [Yelp](https://www.yelp.com/) and the integration with iPhones.
 
 By building out your Yelp profile, you are able to achieve similar results and pull a lot of traffic just as you would from your Google My Business account. However, with your audience being in so many locations, don’t overlook other locations like Bing, YellowPages, Yahoo, and other giants.
 
@@ -89,11 +89,11 @@ A hugely effective communication method on modern websites is to have some form 
 
 ### Blog Comments
 
-If you have a blog with an active community, you will see blog comments show up on your website. This will usually occur when you have supplied the user with plenty of valuable information but they are still left with a question. When you have a blog comment show up, if it isn’t immediately answered by your community members, it’s good practice to respond to that. Plus, it sends great signals for [SEO](https://therebelape.com/seo/).
+If you have a blog with an active community, you will see blog comments show up on your website. This will usually occur when you have supplied the user with plenty of valuable information but they are still left with a question. When you have a blog comment show up, if it isn’t immediately answered by your community members, it’s good practice to respond to that. Plus, it sends great signals for [SEO](/seo/).
 
 ### Social Media Marketing
 
-[Social Media](https://therebelape.com/create-social-media-marketing-campaign/) is everywhere these days and it makes sense as to why. It’s one of the easiest ways to connect people with friends and family as well as their favorite businesses. Now that integrations such as Facebook Chat, Twitter streams, and other platforms are available, it’s easy to cover many different platforms with ease. We will get into a bit of what each social media platform does and the benefits of them. Keep in mind they are methods to communicate and grow your audience.
+[Social Media](/create-social-media-marketing-campaign/) is everywhere these days and it makes sense as to why. It’s one of the easiest ways to connect people with friends and family as well as their favorite businesses. Now that integrations such as Facebook Chat, Twitter streams, and other platforms are available, it’s easy to cover many different platforms with ease. We will get into a bit of what each social media platform does and the benefits of them. Keep in mind they are methods to communicate and grow your audience.
 
 The best thing is to maintain control of that which you can control, your website. If any of these social platforms decide to make drastic changes, it can really harm your business overnight. Changes such as Facebook Pages not being shown as much unless paid to boost a post, or the YouTube Adpocolypse which affected so many people.
 
@@ -131,7 +131,7 @@ There is a very different feel on Twitter than there is on Facebook and often th
 
 With over 250 million monthly users, you don’t want to overlook Pinterest. If you have a retail, manufacturing, travel, or food site, you will fit right in with the Pinterest crowd. That’s not to say that you can’t create a huge following for any niche.
 
-Pinterest is a great platform to share your [images and link it directly back to your website](https://therebelape.com/pitfalls-of-stock-photography-for-website-images/). Couple that with their album structure, known as “Boards.” You can categorize all your “Pins” allowing users to get all the information they need and visit your website with the intent to purchase making them a perfect “hot lead” by their own choice.
+Pinterest is a great platform to share your [images and link it directly back to your website](/pitfalls-of-stock-photography-for-website-images/). Couple that with their album structure, known as “Boards.” You can categorize all your “Pins” allowing users to get all the information they need and visit your website with the intent to purchase making them a perfect “hot lead” by their own choice.
 
 ![YouTube Icon](https://RebelApeCDN.b-cdn.net/rebel-ape-main/youtube.webp)
 *YouTube Icon*
@@ -153,7 +153,7 @@ While we are covering so many social platforms, let’s not forget LinkedIn whic
 
 With choices such as Facebook, Linkedin, Twitter, Pinterest, YouTube and so many other platforms with tons of monthly users, it can become very enticing to try to become the Jack of all trades and try to be active on all platforms. Though this seems like a logical thing to do, it’s important to be aware of the pitfalls of trying to manage so many social media accounts without a team.
 
-Though you do [need social media](https://therebelape.com/5-reasons-you-need-social-media-marketing/), our suggestion is to pick one or two and dominate it until you have enough income generating traffic to hire a social media manager whose sole role is to manage these platforms each and every day so you can focus on your business.
+Though you do [need social media](/5-reasons-you-need-social-media-marketing/), our suggestion is to pick one or two and dominate it until you have enough income generating traffic to hire a social media manager whose sole role is to manage these platforms each and every day so you can focus on your business.
 
 ![Yoda Guru](https://RebelApeCDN.b-cdn.net/rebel-ape-main/yoda-expert.webp)
 *Yoda Guru*
@@ -187,7 +187,7 @@ If you are looking to go at it on your own, themes are a simple way to get start
 
 ### Hire a Designer
 
-Though themes are appealing and a great option for getting started, I can’t help but love a custom designed theme, but maybe that’s just because I’m a bit biased since I am a designer. However, if you are looking for a [custom one-of-a-kind website design](https://therebelape.com/services/website-design/). Then it’s probably best to hand the reigns over to a designer and let them run with what works best for your business.
+Though themes are appealing and a great option for getting started, I can’t help but love a custom designed theme, but maybe that’s just because I’m a bit biased since I am a designer. However, if you are looking for a [custom one-of-a-kind website design](/services/website-design/). Then it’s probably best to hand the reigns over to a designer and let them run with what works best for your business.
 
 ### Easy to Update
 
@@ -208,13 +208,13 @@ If you are a do-it-yourself type. You can easily just jump in once a week to do 
 
 ## 6. Modern Websites Are SEO Friendly
 
-If you’ve ever hired an SEO, you know that doesn’t come cheap. The [SEO’s like myself](https://therebelape.com/seo/) tend to put in a ton of work optimizing everything and everything we can get our hands on and A/B testing your marketing for optimal results, I also know that hiring and SEO isn’t for everyone. Rest assured though, WordPress has a lot of out-of-the-box SEO features and they can even be expanded on with some plugins such as All-In-One SEO and Yoast SEO.
+If you’ve ever hired an SEO, you know that doesn’t come cheap. The [SEO’s like myself](/seo/) tend to put in a ton of work optimizing everything and everything we can get our hands on and A/B testing your marketing for optimal results, I also know that hiring and SEO isn’t for everyone. Rest assured though, WordPress has a lot of out-of-the-box SEO features and they can even be expanded on with some plugins such as All-In-One SEO and Yoast SEO.
 
-This makes it easy to quickly update some of the easier [SEO elements which will still aid in your webpage rankings](https://therebelape.com/seo/). You can always get more technical with an SEO specialist after you start getting some income traffic.
+This makes it easy to quickly update some of the easier [SEO elements which will still aid in your webpage rankings](/seo/). You can always get more technical with an SEO specialist after you start getting some income traffic.
 
 ### Responsive
 
-Another [powerful SEO](https://therebelape.com/what-is-seo/) feature that Google loves is responsive websites. In fact, if you are starting a website today, it’s likely going to be responsive right out of the gate since that is the norm now. Say goodbye to desktop sites and mobile sites, now you get the same website that will adjust depending on the device you are viewing it on. It makes the site easy to work on, convenient, and SEO friendly.
+Another [powerful SEO](/what-is-seo/) feature that Google loves is responsive websites. In fact, if you are starting a website today, it’s likely going to be responsive right out of the gate since that is the norm now. Say goodbye to desktop sites and mobile sites, now you get the same website that will adjust depending on the device you are viewing it on. It makes the site easy to work on, convenient, and SEO friendly.
 
 ![Online Digital Marketing on iPad](https://RebelApeCDN.b-cdn.net/rebel-ape-main/online-digital-marketing.webp)
 *Online Digital Marketing*
@@ -223,7 +223,7 @@ Another [powerful SEO](https://therebelape.com/what-is-seo/) feature that Google
 
 What good is a company if nobody has ever heard about it or will never hear about it? The reality is that marketing and advertising works but can become costly very quickly. With how affordable websites are, you can easily market your brand fairly inexpensively which can put you on equal playing ground with competition that has been around for much longer.
 
-When customers are able to find you online and all of your [marketing materials](https://therebelape.com/graphic-design/) match from the business card, to the brochure, to the website, you establish a stronger bond of trust with your clients and it becomes easier to market to them without needing to utilize expensive advertising methods.
+When customers are able to find you online and all of your [marketing materials](/graphic-design/) match from the business card, to the brochure, to the website, you establish a stronger bond of trust with your clients and it becomes easier to market to them without needing to utilize expensive advertising methods.
 
 By using your website to utilize online digital marketing, you can remain relevant to your customers and remove any advantages your competition has had over you. As the saying goes, keep your friends close and your enemies closer, maybe it’s time to Google your competition and see if they are already ahead of you in this game. If they are, it’s not too late to get started. However, if they aren’t, it can give you a significant advantage over them.
 
@@ -235,4 +235,4 @@ Once your website is up and running, as shown above, it’s easy to link it to y
 
 If you want to get started but you don’t want to handle this yourself. Reach out to us and we will help you get up and running. If you want a website but don’t want to manage it yourself, we can help you with that too. The most important thing to do is just get started, especially if you competitors are already online. It’s never too late to start and though it might take some time while Google ranks you, it is possible to move up the list and become a very competitive force online and dominate your niche.
 
-If you have any questions or comments, feel free to contact us by any of the methods listed above. We are one them all, [contact forms](https://therebelape.com/contact/), live chat, commenting down below, social media, etc.
+If you have any questions or comments, feel free to contact us by any of the methods listed above. We are one them all, [contact forms](/contact/), live chat, commenting down below, social media, etc.

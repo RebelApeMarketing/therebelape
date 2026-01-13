@@ -85,6 +85,6 @@ For home service businesses specifically,&nbsp;**professional photography**&nbsp
 
 ## Make Your Brand Picture Perfect With Rebel Ape Marketing
 
-If you're ready to get photos that will reflect the quality of your services, build trust, and catch the attention of your customers, then start today with&nbsp;[Rebel Ape Marketing](https://therebelape.com/about-rebel-ape-marketing/). Our photographers spend countless hours practicing and perfecting their skills in order to present your business in the best possible light.
+If you're ready to get photos that will reflect the quality of your services, build trust, and catch the attention of your customers, then start today with&nbsp;[Rebel Ape Marketing](https://therebelape.com/about/). Our photographers spend countless hours practicing and perfecting their skills in order to present your business in the best possible light.
 
-Schedule a time today to meet with our team. You can find all the ways that your business can benefit from having a&nbsp;**professional photographer**&nbsp;on your team. You can&nbsp;[contact us](https://therebelape.com/contact-rebel-ape-marketing/)&nbsp;through our website or give us a call.
+Schedule a time today to meet with our team. You can find all the ways that your business can benefit from having a&nbsp;**professional photographer**&nbsp;on your team. You can&nbsp;[contact us](https://therebelape.com/contact/)&nbsp;through our website or give us a call.

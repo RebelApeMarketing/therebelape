@@ -176,7 +176,7 @@ draft: false
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>We get it. You've got a business to run and it doesn't feel that way if you're scrolling through social media all day. So don't.&nbsp;<a href="https://therebelape.com/about-rebel-ape-marketing/">Rebel Ape Marketing</a>&nbsp;is proud to offer you professional&nbsp;<strong>social media marketing</strong>&nbsp;management so that you can focus fully on other areas of your business.</p>
+<p>We get it. You've got a business to run and it doesn't feel that way if you're scrolling through social media all day. So don't.&nbsp;<a href="https://therebelape.com/about/">Rebel Ape Marketing</a>&nbsp;is proud to offer you professional&nbsp;<strong>social media marketing</strong>&nbsp;management so that you can focus fully on other areas of your business.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -184,5 +184,5 @@ draft: false
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><a href="https://therebelape.com/contact-rebel-ape-marketing/">Contact Rebel Ape Marketing</a>&nbsp;today to make social media a vital part of your marketing strategy.</p>
+<p><a href="https://therebelape.com/contact/">Contact Rebel Ape Marketing</a>&nbsp;today to make social media a vital part of your marketing strategy.</p>
 <!-- /wp:paragraph -->

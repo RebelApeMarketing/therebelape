@@ -136,4 +136,4 @@ Our Silverback Authority Method has proven effective across multiple verticalsâ€
 
 Don't let another day pass while your competition captures the leads you should be getting. The time to act is now.
 
-[Schedule Your Free Strategy Session](https://therebelape.com/schedule/)
+[Schedule Your Free Strategy Session](/schedule//)

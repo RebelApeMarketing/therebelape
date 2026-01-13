@@ -242,5 +242,5 @@ The Ultimate Guide To Having an SEO Expert on Your Marketing Team
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Go with&nbsp;<a href="https://therebelape.com/about-rebel-ape-marketing/">Rebel Ape Marketing</a>&nbsp;today for your marketing needs. We are your next level.</p>
+<p>Go with&nbsp;<a href="https://therebelape.com/about/">Rebel Ape Marketing</a>&nbsp;today for your marketing needs. We are your next level.</p>
 <!-- /wp:paragraph -->

@@ -70,8 +70,8 @@ The same holds true for just about any home service. Using&nbsp;**professional c
 
 ## Become An Authority With Rebel Ape's Professional Content Writing Services
 
-Today is the day to create content that can help you rise in the ranks of search engines. If you're ready to build a reputation as an authority in your field, then talk to&nbsp;[Rebel Ape Marketing](https://therebelape.com/about-rebel-ape-marketing/)&nbsp;about all the ways you can benefit from our&nbsp;**professional content writing services**.
+Today is the day to create content that can help you rise in the ranks of search engines. If you're ready to build a reputation as an authority in your field, then talk to&nbsp;[Rebel Ape Marketing](https://therebelape.com/about/)&nbsp;about all the ways you can benefit from our&nbsp;**professional content writing services**.
 
 You can see your website content expand, partnering with SEO, in order to increase your chances of rising up the ranks of Google, Bing, and other search engines. With high-quality&nbsp;**professional content writing**, you can see yourself become an authority in your field.
 
-[Contact us today](https://therebelape.com/contact-rebel-ape-marketing/)&nbsp;and let's begin developing your unique marketing strategy, complete with professional content writing that sets you apart from the competition.
+[Contact us today](https://therebelape.com/contact/)&nbsp;and let's begin developing your unique marketing strategy, complete with professional content writing that sets you apart from the competition.

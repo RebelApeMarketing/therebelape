@@ -22,7 +22,7 @@ Did you know that an astounding **97% of internet users** do not click past the 
 
 ## Google Ranking Factors
 
-Fortunately, outranking your competitors isn’t an impossible task. You can increase the likelihood of ranking above your competitors in the SERPs (Search Engine Results Page) by ensuring your [website reaps the benefits of Google Ranking Factors](https://therebelape.com/seo/).
+Fortunately, outranking your competitors isn’t an impossible task. You can increase the likelihood of ranking above your competitors in the SERPs (Search Engine Results Page) by ensuring your [website reaps the benefits of Google Ranking Factors](https://therebelape.com/services/seo/).
 
 Google uses a ranking algorithm that filters search results based on certain factors. This algorithm has undergone many updates, such as:
 

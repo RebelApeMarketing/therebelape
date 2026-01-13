@@ -26,7 +26,7 @@ In this article, we’ll break down how keywords fit into modern SEO, what matte
 
 If you want a deeper overview of SEO in general, see:  
 - [SEO services](https://therebelape.com/seo/)  
-- [On-page SEO tips](https://therebelape.com/on-page-seo-tips/)
+- [On-page SEO tips](https://therebelape.com/blog/on-page-seo-tips/)
 
 ---
 
@@ -234,7 +234,7 @@ Focus on long tail keywords, write for people, stay relevant, and build a comple
 If you want help building that strategy, start here:  
 - [SEO](https://therebelape.com/seo/)  
 - [Ogden SEO](https://therebelape.com/services/seo/)  
-- [On-page SEO tips](https://therebelape.com/on-page-seo-tips/)
+- [On-page SEO tips](https://therebelape.com/blog/on-page-seo-tips/)
 
 ---
 

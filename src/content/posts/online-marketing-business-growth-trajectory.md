@@ -93,7 +93,7 @@ The right mix of&nbsp;**online marketing**&nbsp;strategies depends on your speci
 
 Any marketing campaign that will benefit a business must have a solid&nbsp;**online marketing**&nbsp;plan, whether through social media, SEO, content development, or email campaigns! Whatever digital needs your business could benefit from to set its trajectory upward!
 
-Marketing is vital to a business' growth. For specialized&nbsp;**online marketing**&nbsp;services,&nbsp;[Rebel Ape Marketing](https://therebelape.com/about-rebel-ape-marketing/)&nbsp;can take your business to the next level of success. We are leading the way in providing comprehensive marketing solutions for home service businesses, whether digital or traditional.
+Marketing is vital to a business' growth. For specialized&nbsp;**online marketing**&nbsp;services,&nbsp;[Rebel Ape Marketing](https://therebelape.com/about/)&nbsp;can take your business to the next level of success. We are leading the way in providing comprehensive marketing solutions for home service businesses, whether digital or traditional.
 
 Having a marketing company that can guarantee a return on investment is exactly what any business needs to prosper. Our&nbsp;**online marketing**&nbsp;experts will:
 
@@ -103,4 +103,4 @@ Having a marketing company that can guarantee a return on investment is exactly 
 4. Provide transparent reporting so you understand your ROI
 5. Stay on top of industry trends to keep your business competitive
 
-[Contact Rebel Ape Marketing](https://therebelape.com/contact-rebel-ape-marketing/)&nbsp;today to discover how our&nbsp;**online marketing**&nbsp;services can transform your business growth trajectory.
+[Contact Rebel Ape Marketing](https://therebelape.com/contact/)&nbsp;today to discover how our&nbsp;**online marketing**&nbsp;services can transform your business growth trajectory.

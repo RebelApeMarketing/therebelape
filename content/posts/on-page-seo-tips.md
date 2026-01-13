@@ -19,7 +19,7 @@ Basic On Page SEO Tips To Help Your Site Rank | Step-By-Step Guide
 <figure class="wp-block-audio"><audio controls src="https://RebelApeCDN.b-cdn.net/rebel-ape-main/Project_Basic-On-Page-SEO-Tips-To-Help-Your-Site-Rank-Step-By-Step-Guide.mp3"></audio><figcaption class="wp-element-caption">Let AI read it for you.</figcaption></figure>
 <!-- /wp:audio -->
 <!-- wp:paragraph -->
-<p>Getting your site’s new <a href="https://therebelape.com/how-to-outrank-your-competitors/">content to rank in Google search</a> or other search engines can be a tricky, frustrating endeavor, but like anything, the more you do it the easier it gets.</p>
+<p>Getting your site’s new <a href="https://therebelape.com/blog/how-to-outrank-your-competitors/">content to rank in Google search</a> or other search engines can be a tricky, frustrating endeavor, but like anything, the more you do it the easier it gets.</p>
 <!-- /wp:paragraph -->
 <!-- wp:paragraph -->
 <p><strong>To get started, I’ve been updating this article to make it a complete guide to basic on page SEO to increase your search results.</strong></p>
@@ -31,7 +31,7 @@ Basic On Page SEO Tips To Help Your Site Rank | Step-By-Step Guide
 <p>This is so your website complies with what Google and other search engines are looking for so it becomes easier to be found on their search engine and get search traffic.</p>
 <!-- /wp:paragraph -->
 <!-- wp:paragraph -->
-<p>There are some basic page <a href="https://therebelape.com/on-page-seo-tips/">optimization aspects that you need to include with your website</a>, many of which you may have never thought about before. earning <a href="https://ahrefs.com/blog/seo-basics/" target="_blank" rel="noreferrer noopener">rudimentary SEO</a> can significantly benefit your site seo.</p>
+<p>There are some basic page <a href="https://therebelape.com/blog/on-page-seo-tips/">optimization aspects that you need to include with your website</a>, many of which you may have never thought about before. earning <a href="https://ahrefs.com/blog/seo-basics/" target="_blank" rel="noreferrer noopener">rudimentary SEO</a> can significantly benefit your site seo.</p>
 <!-- /wp:paragraph -->
 <!-- wp:heading -->
 <h2>Before We Get Started With Search Engine Optimization</h2>
@@ -127,13 +127,13 @@ Basic On Page SEO Tips To Help Your Site Rank | Step-By-Step Guide
 <p>These tags can be used to break things down further than H2 tags. Consistent with our baking article example, H3 tags would most likely be used to break down each category into more specific categories, like “Chocolate Chip Cookies,” “Snickerdoodle Cookies,” and “Devil’s Food Cake.”</p>
 <!-- /wp:paragraph -->
 <!-- wp:paragraph -->
-<p>Another example regarding H-tags is present on this very page. The phrase “Basic On Page <a href="https://therebelape.com/on-page-seo-tips/">SEO Tips to Help your Site Rank</a> Higher” is the h1 tag of the blog post. The “H-tags” segment is an H2 tag, along with “Images,” “Interlinking,” “External Links,” “Meta-description,” and “Categories and Tags.” The segments dividing the H-tags section (the H1, H2, and H3 tags) are the H3 tags of the page.</p>
+<p>Another example regarding H-tags is present on this very page. The phrase “Basic On Page <a href="https://therebelape.com/blog/on-page-seo-tips/">SEO Tips to Help your Site Rank</a> Higher” is the h1 tag of the blog post. The “H-tags” segment is an H2 tag, along with “Images,” “Interlinking,” “External Links,” “Meta-description,” and “Categories and Tags.” The segments dividing the H-tags section (the H1, H2, and H3 tags) are the H3 tags of the page.</p>
 <!-- /wp:paragraph -->
 <!-- wp:heading -->
 <h2>H4, H5, and H6 Tags</h2>
 <!-- /wp:heading -->
 <!-- wp:paragraph -->
-<p>The h4-h6 tags can be used to further nest your content. Often, the h-tags are misused as styling elements to make fonts bolder or darker, but the actual use is for site hierarchy. It is important to use proper CSS and for styling text and not use title tags for that purpose. This adds to your <a href="https://therebelape.com/on-page-seo-tips/">site’s technical SEO</a> which is important to keep clean and optimized.</p>
+<p>The h4-h6 tags can be used to further nest your content. Often, the h-tags are misused as styling elements to make fonts bolder or darker, but the actual use is for site hierarchy. It is important to use proper CSS and for styling text and not use title tags for that purpose. This adds to your <a href="https://therebelape.com/blog/on-page-seo-tips/">site’s technical SEO</a> which is important to keep clean and optimized.</p>
 <!-- /wp:paragraph -->
 <!-- wp:image {"sizeSlug":"large","linkDestination":"none"} -->
 <figure class="wp-block-image size-large"><img src="https://RebelApeCDN.b-cdn.net/rebel-ape-main/photography.webp" alt="Photography"/><figcaption class="wp-element-caption">Photography</figcaption></figure>
@@ -298,7 +298,7 @@ Basic On Page SEO Tips To Help Your Site Rank | Step-By-Step Guide
 <h3>Actual Site Speed</h3>
 <!-- /wp:heading -->
 <!-- wp:paragraph -->
-<p><strong>Actual site <a href="https://therebelape.com/on-page-seo-tips/">speed is greatly dependent on the quality of website</a> hosting you use.</strong></p>
+<p><strong>Actual site <a href="https://therebelape.com/blog/on-page-seo-tips/">speed is greatly dependent on the quality of website</a> hosting you use.</strong></p>
 <!-- /wp:paragraph -->
 <!-- wp:paragraph -->
 <p>I’ve used various hosts for my <a href="https://therebelape.com/services/website-design/">website designs</a> and each one behaves slightly different from the others. As of this writing, the majority of my websites are currently sitting on Siteground which has been one of my favorite hosts so far and my main website now resides on Kinsta. They have quick servers, helpful staff, and I haven’t had any major issues.</p>
@@ -397,7 +397,7 @@ Basic On Page SEO Tips To Help Your Site Rank | Step-By-Step Guide
 <p>URL structure will help as well. If you are using WordPress, change your permalink structure to represent the name of the page. For example, the URL for this page holds a keyword and what the page is about in just a few words. The shorter the better, on average.</p>
 <!-- /wp:paragraph -->
 <!-- wp:paragraph -->
-<p>For example, instead of this page being named <a href="https://therebelape.com/on-page-seo-tips/" target="_blank" rel="noreferrer noopener"><a href=" https://therebelape.com/on-page-seo-tips/"><a href=" https://therebelape.com/on-page-seo-tips/"><a href=" https://therebelape.com/on-page-seo-tips/"> https://therebelape.com/on-page-seo-tips/</a></a></a></a>, the page is named <a href="https://therebelape.com/on-page-seo-tips/" target="_blank" rel="noreferrer noopener"><a href="https://therebelape.com/on-page-seo-tips/"><a href="https://therebelape.com/on-page-seo-tips/"><a href="https://therebelape.com/on-page-seo-tips/">https://therebelape.com/on-page-seo-tips/</a></a></a></a> which helps make it user readable, likely to be remembered, more trustworthy to share, and shows the users what the page is about.</p>
+<p>For example, instead of this page being named <a href="https://therebelape.com/blog/on-page-seo-tips/" target="_blank" rel="noreferrer noopener"><a href=" https://therebelape.com/blog/on-page-seo-tips/"><a href=" https://therebelape.com/blog/on-page-seo-tips/"><a href=" https://therebelape.com/blog/on-page-seo-tips/"> https://therebelape.com/on-page-seo-tips/</a></a></a></a>, the page is named <a href="https://therebelape.com/blog/on-page-seo-tips/" target="_blank" rel="noreferrer noopener"><a href="https://therebelape.com/blog/on-page-seo-tips/"><a href="https://therebelape.com/blog/on-page-seo-tips/"><a href="https://therebelape.com/on-page-seo-tips/">https://therebelape.com/on-page-seo-tips/</a></a></a></a> which helps make it user readable, likely to be remembered, more trustworthy to share, and shows the users what the page is about.</p>
 <!-- /wp:paragraph -->
 <!-- wp:heading -->
 <h2>Wrap It Up</h2>

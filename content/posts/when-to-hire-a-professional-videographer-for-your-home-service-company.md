@@ -162,7 +162,7 @@ When to Hire a Professional Videographer For Your Home Service Company
 <!-- /wp:list -->
 
 <!-- wp:paragraph -->
-<p>Don't scroll through competitors' professionally-produced videos in envy when you can have amazing brand videos of your own by utilizing the right people. You don't have to be a video expert; we've got that covered. All you have to do is contact&nbsp;<a href="https://therebelape.com/about-rebel-ape-marketing/">Rebel Ape Marketing</a>&nbsp;and watch as we craft the videos that showcase your unique voice and products.</p>
+<p>Don't scroll through competitors' professionally-produced videos in envy when you can have amazing brand videos of your own by utilizing the right people. You don't have to be a video expert; we've got that covered. All you have to do is contact&nbsp;<a href="https://therebelape.com/about/">Rebel Ape Marketing</a>&nbsp;and watch as we craft the videos that showcase your unique voice and products.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->

@@ -31,7 +31,7 @@ Why a Phone Number On Your Website is One of the Best Converting Items
 <p>This transparency can help build customer loyalty and encourage people to use your services. Additionally, having a local area code in the phone number further <a href="https://therebelape.com/increase-website-trust/">increases trust</a> levels as customers can be sure that they are dealing with a business close to them.</p>
 <!-- /wp:paragraph -->
 <!-- wp:paragraph -->
-<p>Many businesses know that having a visible phone number on your website is essential to converting website visitors. It’s more than just providing customers with contact information – placing a number in the right spot on your <a href="https://therebelape.com/how-to-outrank-your-competitors/">website can lead to higher</a> levels of engagement, more conversions, and more sales. </p>
+<p>Many businesses know that having a visible phone number on your website is essential to converting website visitors. It’s more than just providing customers with contact information – placing a number in the right spot on your <a href="https://therebelape.com/blog/how-to-outrank-your-competitors/">website can lead to higher</a> levels of engagement, more conversions, and more sales. </p>
 <!-- /wp:paragraph -->
 <!-- wp:paragraph -->
 <p>This blog post will discuss why a phone number is one of the best <a href="https://therebelape.com/high-converting-website-design-guide/">converting items on a website</a>, how it adds trust and localizes business, and why putting it in the top right-hand corner is so beneficial.&nbsp;</p>

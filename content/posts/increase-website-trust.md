@@ -123,7 +123,7 @@ Increase Website Trust To Increase Conversions
 <h2>Need help to increase website trust?</h2>
 <!-- /wp:heading -->
 <!-- wp:paragraph -->
-<p>Not everybody has access to a graphic designer or other people who can help them. Yet, it's important to get these <a href="https://therebelape.com/how-to-outrank-your-competitors/">strategies on your website</a>. If you need help, please feel free to reach out to us a <a href="https://therebelape.com/about/">Rebel Ape</a> Marketing to help you. Then you can have partner logos, case studies, and other trust signals on your website as well.</p>
+<p>Not everybody has access to a graphic designer or other people who can help them. Yet, it's important to get these <a href="https://therebelape.com/blog/how-to-outrank-your-competitors/">strategies on your website</a>. If you need help, please feel free to reach out to us a <a href="https://therebelape.com/about/">Rebel Ape</a> Marketing to help you. Then you can have partner logos, case studies, and other trust signals on your website as well.</p>
 <!-- /wp:paragraph -->
 <!-- wp:paragraph -->
 <p>Also, if you’ve enjoyed this post consider sharing it with somebody who could also value from it. By helping others, you’re going to strengthen the bonds that your company has with clients. Let's get started!</p>

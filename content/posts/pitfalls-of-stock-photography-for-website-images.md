@@ -88,7 +88,7 @@ The Pitfalls Of Using Stock Photography For Website Images
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p><a href="https://therebelape.com/how-to-outrank-your-competitors/">Google rewards websites that use custom images with higher rankings</a> in search engine results pages. Not only does it provide a better overall experience for website visitors, but using high-quality photography can help increase organic traffic to your site. This further adds to the reasons why not to use stock photography for website images.</p>
+<p><a href="https://therebelape.com/blog/how-to-outrank-your-competitors/">Google rewards websites that use custom images with higher rankings</a> in search engine results pages. Not only does it provide a better overall experience for website visitors, but using high-quality photography can help increase organic traffic to your site. This further adds to the reasons why not to use stock photography for website images.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->

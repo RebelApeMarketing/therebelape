@@ -137,6 +137,6 @@ The ROI advantages of working with a&nbsp;**marketing agency**&nbsp;include:
 
 Working with a&nbsp;**professional marketing agency**&nbsp;can make all the difference to your company's future success. Don't hesitate to hire a digital marketing company this year. The sooner you get started, the sooner your business can grow!
 
-Eager to grow your business?&nbsp;[Rebel Ape Marketing](https://therebelape.com/about-rebel-ape-marketing/)&nbsp;has the powerful marketing strategies you need to succeed!
+Eager to grow your business?&nbsp;[Rebel Ape Marketing](https://therebelape.com/about/)&nbsp;has the powerful marketing strategies you need to succeed!
 
-[Contact us today](https://therebelape.com/contact-rebel-ape-marketing/)&nbsp;to discuss your marketing needs and discover how our team of experts can help your home service business thrive in today's competitive marketplace.
+[Contact us today](https://therebelape.com/contact/)&nbsp;to discuss your marketing needs and discover how our team of experts can help your home service business thrive in today's competitive marketplace.

@@ -28,7 +28,7 @@ A Website Blog Is An SEO's Secret Weapon
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>But first, to cover <a href="https://therebelape.com/what-is-seo/">what SEO is</a> and how it can help your site. <a href="https://therebelape.com/on-page-seo-tips/">SEO stands for Search Engine Optimization</a>. It’s a series of techniques to help your website <a href="https://therebelape.com/how-to-outrank-your-competitors/">rank higher</a> when people do a search and your website can provide them with accurate information they are looking for. In addition, <a class="wpil_keyword_link" href="https://therebelape.com/seo/" title="SEO" data-wpil-keyword-link="linked">SEO</a> has some technical factors to help them navigate your website, download content faster, and various other things, but for this, we will focus on keywords.</p>
+<p>But first, to cover <a href="/what-is-seo/">what SEO is</a> and how it can help your site. <a href="/blog/on-page-seo-tips/">SEO stands for Search Engine Optimization</a>. It’s a series of techniques to help your website <a href="/blog/how-to-outrank-your-competitors/">rank higher</a> when people do a search and your website can provide them with accurate information they are looking for. In addition, <a class="wpil_keyword_link" href="/seo/" title="SEO" data-wpil-keyword-link="linked">SEO</a> has some technical factors to help them navigate your website, download content faster, and various other things, but for this, we will focus on keywords.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->
@@ -36,7 +36,7 @@ A Website Blog Is An SEO's Secret Weapon
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>It’s important to know a few things about SEO when it comes to blogging. Not only by utilizing these great techniques can help your blog <a href="https://therebelape.com/how-to-outrank-your-competitors/">outrank your competitors</a> but it will also <a href="https://therebelape.com/on-page-seo-tips/">help your site rank higher</a> in the Google Search Engine Results Page, SERPS.</p>
+<p>It’s important to know a few things about SEO when it comes to blogging. Not only by utilizing these great techniques can help your blog <a href="/how-to-outrank-your-competitors/">outrank your competitors</a> but it will also <a href="/blog/on-page-seo-tips/">help your site rank higher</a> in the Google Search Engine Results Page, SERPS.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -80,7 +80,7 @@ A Website Blog Is An SEO's Secret Weapon
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>There are a variety of ways to get <a href="https://therebelape.com/content-syndication-strategies/">content written for a website</a>. If you have decent writing skills, it’s always great to contribute to your own blog. However, you will often find that the task can become overwhelming very quickly and you may choose to <a href="https://therebelape.com/content-writing/">hire a content writer</a> <em>(&lt;—see, that’s my call to action!)</em> so they can take the burden off of you and you can focus on your business. </p>
+<p>There are a variety of ways to get <a href="/content-syndication-strategies/">content written for a website</a>. If you have decent writing skills, it’s always great to contribute to your own blog. However, you will often find that the task can become overwhelming very quickly and you may choose to <a href="/content-writing/">hire a content writer</a> <em>(&lt;—see, that’s my call to action!)</em> so they can take the burden off of you and you can focus on your business. </p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -88,5 +88,5 @@ A Website Blog Is An SEO's Secret Weapon
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>If you have any questions about getting your blog up and running, please feel free to start or join the discussion below. If you would like to discuss how Rebel Ape can help you with your content marketing, please feel free to <a href="https://therebelape.com/contact/">send us a message</a>.</p>
+<p>If you have any questions about getting your blog up and running, please feel free to start or join the discussion below. If you would like to discuss how Rebel Ape can help you with your content marketing, please feel free to <a href="/contact/">send us a message</a>.</p>
 <!-- /wp:paragraph -->

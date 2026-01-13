@@ -108,7 +108,7 @@ When to Delegate Marketing to Experts
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>That's when she reached out to&nbsp;<a href="https://therebelape.com/about-rebel-ape-marketing/">Rebel Ape Marketing</a>. It was a sacrifice she was making, one that would take her out of her comfort zone for a little while. But she was willing to relinquish control of her marketing in favor of greater control and an increase in quality. By making this move, she gained the freedom to improve in her field, becoming better at what she does, while we expanded her control over the board. Checkmate.</p>
+<p>That's when she reached out to&nbsp;<a href="https://therebelape.com/about/">Rebel Ape Marketing</a>. It was a sacrifice she was making, one that would take her out of her comfort zone for a little while. But she was willing to relinquish control of her marketing in favor of greater control and an increase in quality. By making this move, she gained the freedom to improve in her field, becoming better at what she does, while we expanded her control over the board. Checkmate.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->
@@ -170,5 +170,5 @@ When to Delegate Marketing to Experts
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><a href="https://therebelape.com/contact-rebel-ape-marketing/" data-type="page" data-id="1323">Contact us today</a> to discuss how our targeted approach can transform your business growth trajectory and help you claim checkmate in your market.</p>
+<p><a href="https://therebelape.com/contact/" data-type="page" data-id="1323">Contact us today</a> to discuss how our targeted approach can transform your business growth trajectory and help you claim checkmate in your market.</p>
 <!-- /wp:paragraph -->

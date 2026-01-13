@@ -48,5 +48,5 @@ Clutch Hails Rebel Ape Marketing as 2022's Leading Web Designer from Utah
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Web design isn’t our only forte. Connect with the Rebel Ape Marketing team and work with Utah’s finest one-stop-shop for everything digital. Don’t be a stranger and <a href="https://therebelape.com/contact/">give us a call</a> today.</p>
+<p>Web design isn’t our only forte. Connect with the Rebel Ape Marketing team and work with Utah’s finest one-stop-shop for everything digital. Don’t be a stranger and <a href="/contact/">give us a call</a> today.</p>
 <!-- /wp:paragraph -->

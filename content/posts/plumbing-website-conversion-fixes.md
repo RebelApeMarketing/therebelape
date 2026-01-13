@@ -562,5 +562,5 @@ https://youtu.be/rf6QDu_y1m0?si=Zb3tPD0NtkzYgGVS
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><strong>Schedule Your Free Lead Flow Accelerator Session - <a href="https://therebelape.com/schedule">Click Here</a></strong></p>
+<p><strong>Schedule Your Free Lead Flow Accelerator Session - <a href="/schedule/">Click Here</a></strong></p>
 <!-- /wp:paragraph -->

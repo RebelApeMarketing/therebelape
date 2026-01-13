@@ -210,7 +210,7 @@ How Online Marketing Will Transform Your Business Growth Trajectory
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Marketing is vital to a business' growth. For specialized&nbsp;<strong>online marketing</strong>&nbsp;services,&nbsp;<a href="https://therebelape.com/about-rebel-ape-marketing/">Rebel Ape Marketing</a>&nbsp;can take your business to the next level of success. We are leading the way in providing comprehensive marketing solutions for home service businesses, whether digital or traditional.</p>
+<p>Marketing is vital to a business' growth. For specialized&nbsp;<strong>online marketing</strong>&nbsp;services,&nbsp;<a href="https://therebelape.com/about/">Rebel Ape Marketing</a>&nbsp;can take your business to the next level of success. We are leading the way in providing comprehensive marketing solutions for home service businesses, whether digital or traditional.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -240,5 +240,5 @@ How Online Marketing Will Transform Your Business Growth Trajectory
 <!-- /wp:list -->
 
 <!-- wp:paragraph -->
-<p><a href="https://therebelape.com/contact-rebel-ape-marketing/">Contact Rebel Ape Marketing</a>&nbsp;today to discover how our&nbsp;<strong>online marketing</strong>&nbsp;services can transform your business growth trajectory.</p>
+<p><a href="https://therebelape.com/contact/">Contact Rebel Ape Marketing</a>&nbsp;today to discover how our&nbsp;<strong>online marketing</strong>&nbsp;services can transform your business growth trajectory.</p>
 <!-- /wp:paragraph -->

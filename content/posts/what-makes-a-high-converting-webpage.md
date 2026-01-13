@@ -102,7 +102,7 @@ What Makes A High Converting Webpage?
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>The <a href="https://therebelape.com/how-to-outrank-your-competitors/">strategies</a> behind the website are the reason why a website works or not. The <a href="https://therebelape.com/video-marketing-strategy-for-2023/">marketing strategy</a> will emphasize web design. So, there is more to a website than selecting a theme. Though it may be beautiful, it doesn't mean that it will convert. This is why there are some very ugly websites that convert very well.</p>
+<p>The <a href="https://therebelape.com/blog/how-to-outrank-your-competitors/">strategies</a> behind the website are the reason why a website works or not. The <a href="https://therebelape.com/video-marketing-strategy-for-2023/">marketing strategy</a> will emphasize web design. So, there is more to a website than selecting a theme. Though it may be beautiful, it doesn't mean that it will convert. This is why there are some very ugly websites that convert very well.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->

@@ -77,8 +77,8 @@ Different calls-to-action work better for different stages of the&nbsp;[customer
 
 ## Maximize Your Social Media Marketing With Rebel Ape
 
-We get it. You've got a business to run and it doesn't feel that way if you're scrolling through social media all day. So don't.&nbsp;[Rebel Ape Marketing](https://therebelape.com/about-rebel-ape-marketing/)&nbsp;is proud to offer you professional&nbsp;**social media marketing**&nbsp;management so that you can focus fully on other areas of your business.
+We get it. You've got a business to run and it doesn't feel that way if you're scrolling through social media all day. So don't.&nbsp;[Rebel Ape Marketing](https://therebelape.com/about/)&nbsp;is proud to offer you professional&nbsp;**social media marketing**&nbsp;management so that you can focus fully on other areas of your business.
 
 You can rest easy knowing that you'll be getting consistent posting that makes the most of social media's algorithms in order to give you a fighting chance at being noticed. Leave the liking, commenting, and sharing to us. All you have to worry about is taking care of your new clients.
 
-[Contact Rebel Ape Marketing](https://therebelape.com/contact-rebel-ape-marketing/)&nbsp;today to make social media a vital part of your marketing strategy.
+[Contact Rebel Ape Marketing](https://therebelape.com/contact/)&nbsp;today to make social media a vital part of your marketing strategy.

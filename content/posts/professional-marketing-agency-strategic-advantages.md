@@ -318,9 +318,9 @@ Strategic Advantages of Partnering with a Professional Marketing Agency
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Eager to grow your business?&nbsp;<a href="https://therebelape.com/about-rebel-ape-marketing/">Rebel Ape Marketing</a>&nbsp;has the powerful marketing strategies you need to succeed!</p>
+<p>Eager to grow your business?&nbsp;<a href="https://therebelape.com/about/">Rebel Ape Marketing</a>&nbsp;has the powerful marketing strategies you need to succeed!</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><a href="https://therebelape.com/contact-rebel-ape-marketing/">Contact us today</a>&nbsp;to discuss your marketing needs and discover how our team of experts can help your home service business thrive in today's competitive marketplace.</p>
+<p><a href="https://therebelape.com/contact/">Contact us today</a>&nbsp;to discuss your marketing needs and discover how our team of experts can help your home service business thrive in today's competitive marketplace.</p>
 <!-- /wp:paragraph -->

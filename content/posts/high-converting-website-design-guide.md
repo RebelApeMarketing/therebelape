@@ -44,7 +44,7 @@ A High Converting Website Should Be Professionally Designed
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>The goal and the <a href="https://therebelape.com/on-page-seo-tips/">website strategy</a> is the secret sauce to get customers to convert. The strategy will inform decisions and help achieve the desired outcome of the website.&nbsp;</p>
+<p>The goal and the <a href="https://therebelape.com/blog/on-page-seo-tips/">website strategy</a> is the secret sauce to get customers to convert. The strategy will inform decisions and help achieve the desired outcome of the website.&nbsp;</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->

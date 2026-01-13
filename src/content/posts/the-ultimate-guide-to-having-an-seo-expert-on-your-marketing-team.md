@@ -114,4 +114,4 @@ Rebel Ape Marketing is proud to offer&nbsp;[specialized SEO services](https://th
 
 Whether you are looking for&nbsp;[Ogden SEO](https://therebelape.com/services/seo/plumber-seo-ogden/),&nbsp;[Salt Lake City SEO](https://therebelape.com/services/seo/plumber-seo-salt-lake-city/)&nbsp;or other areas, schedule a time to meet with our team of experienced professionals to learn more about how you can benefit from having an&nbsp;**SEO expert on your marketing team**.
 
-Go with&nbsp;[Rebel Ape Marketing](https://therebelape.com/about-rebel-ape-marketing/)&nbsp;today for your marketing needs. We are your next level.
+Go with&nbsp;[Rebel Ape Marketing](https://therebelape.com/about/)&nbsp;today for your marketing needs. We are your next level.

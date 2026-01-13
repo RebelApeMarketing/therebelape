@@ -65,7 +65,7 @@ For cornerstone content that represents your brand, attempting DIY video might m
 - Videographers know how to use angles, colors, and sound to create the strongest emotions in customers, persuading them to buy
 - Professional videographers draw from countless hours of experience and study, and you get the benefit of their craft for critical marketing assets
 
-Don't scroll through competitors' professionally-produced videos in envy when you can have amazing brand videos of your own by utilizing the right people. You don't have to be a video expert; we've got that covered. All you have to do is contact&nbsp;[Rebel Ape Marketing](https://therebelape.com/about-rebel-ape-marketing/)&nbsp;and watch as we craft the videos that showcase your unique voice and products.
+Don't scroll through competitors' professionally-produced videos in envy when you can have amazing brand videos of your own by utilizing the right people. You don't have to be a video expert; we've got that covered. All you have to do is contact&nbsp;[Rebel Ape Marketing](https://therebelape.com/about/)&nbsp;and watch as we craft the videos that showcase your unique voice and products.
 
 ## Videos Are Essential To Growth As A Business
 

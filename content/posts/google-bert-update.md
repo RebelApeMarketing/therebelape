@@ -80,7 +80,7 @@ Google : Google's Largest Update Released Since RankBrain
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>If you want to talk about your <a href="https://therebelape.com/on-page-seo-tips/">website or how to improve your SEO</a> for search, we would love to take the time to talk with you about the health of your site and what direction you want to take your marketing. <a href="https://therebelape.com/contact/">Contact us</a> today to get started!</p>
+<p>If you want to talk about your <a href="https://therebelape.com/blog/on-page-seo-tips/">website or how to improve your SEO</a> for search, we would love to take the time to talk with you about the health of your site and what direction you want to take your marketing. <a href="https://therebelape.com/contact/">Contact us</a> today to get started!</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->

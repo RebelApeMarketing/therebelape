@@ -105,8 +105,8 @@ Here's the thing about&nbsp;**SEO marketing**: it takes work to maintain. Search
 
 But what if you didn't have to be the one to do that work? What if you didn't have to take that time out of your day, while still maintaining the peace of mind that your&nbsp;**SEO marketing**&nbsp;is covered?
 
-With&nbsp;[Rebel Ape Marketing](https://therebelape.com/about-rebel-ape-marketing/), we can do that for you. We staff&nbsp;[SEO experts](https://therebelape.com/services/seo/)&nbsp;who make it their mission to constantly make sure that your website is maximizing from search engine optimization.
+With&nbsp;[Rebel Ape Marketing](https://therebelape.com/about/), we can do that for you. We staff&nbsp;[SEO experts](https://therebelape.com/services/seo/)&nbsp;who make it their mission to constantly make sure that your website is maximizing from search engine optimization.
 
-Ready to get started with professional&nbsp;**SEO marketing**?&nbsp;[Contact us today](https://therebelape.com/contact-rebel-ape-marketing/). We can schedule a time to meet and talk about how you can benefit from our specialized SEO services for home service businesses.
+Ready to get started with professional&nbsp;**SEO marketing**?&nbsp;[Contact us today](https://therebelape.com/contact/). We can schedule a time to meet and talk about how you can benefit from our specialized SEO services for home service businesses.
 
 Go with Rebel Ape Marketing. We are your next level in&nbsp;**SEO marketing**.

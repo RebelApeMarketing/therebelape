@@ -80,7 +80,7 @@ When a keyword is "long-tailed," it is generally longer (between 3-5 words), whi
 
 ## Optimize Your Website With Rebel Ape Marketing
 
-Today is the day to start trying to rank higher on search engines. If you're ready to end problems like&nbsp;**keyword cannibalization**&nbsp;and others that are holding your website back, then&nbsp;[contact Rebel Ape Marketing](https://therebelape.com/contact-rebel-ape-marketing/)&nbsp;today.
+Today is the day to start trying to rank higher on search engines. If you're ready to end problems like&nbsp;**keyword cannibalization**&nbsp;and others that are holding your website back, then&nbsp;[contact Rebel Ape Marketing](https://therebelape.com/contact/)&nbsp;today.
 
 Our&nbsp;[SEO experts](https://therebelape.com/services/seo/)&nbsp;know what to look for in order to spot keyword cannibalization and, more importantly, we have the time and knowledge to make the necessary changes. That takes the work off your plate so that you can work on your business.
 

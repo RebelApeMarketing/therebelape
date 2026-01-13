@@ -20,7 +20,7 @@ Website Process: 4 Important Things You Need To Start A Website
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Here are 4 steps of the website process to help you obtain the right website for you and your business. Thes steps take you from obtaining a domain name to <a href="https://therebelape.com/services/website-design/">website design</a>. </p>
+<p>Here are 4 steps of the website process to help you obtain the right website for you and your business. Thes steps take you from obtaining a domain name to <a href="/services/website-design/">website design</a>. </p>
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":3142,"sizeSlug":"thumbnail"} -->
@@ -48,7 +48,7 @@ Website Process: 4 Important Things You Need To Start A Website
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>Website hosting is closely related to the domain name process, but it is a separate function. A great way to think of this is that the domain name is the address of the website, while the hosting <a href="https://therebelape.com/on-page-seo-tips/">service is the physical location of the website</a>, like a home that the address points to. </p>
+<p>Website hosting is closely related to the domain name process, but it is a separate function. A great way to think of this is that the domain name is the address of the website, while the hosting <a href="/blog/on-page-seo-tips/">service is the physical location of the website</a>, like a home that the address points to. </p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -84,11 +84,11 @@ Website Process: 4 Important Things You Need To Start A Website
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>Once these matters have been completed, a <a href="https://therebelape.com/7-reasons-you-need-a-website/">website will need</a> to be designed. The <a href="https://therebelape.com/services/seo/">website design</a> process goes far beyond just the looks, as it must take into account the importance of functionality along with many other aspects. </p>
+<p>Once these matters have been completed, a <a href="/7-reasons-you-need-a-website/">website will need</a> to be designed. The <a href="/services/seo/">website design</a> process goes far beyond just the looks, as it must take into account the importance of functionality along with many other aspects. </p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>From the <a href=" https://therebelape.com/graphic-design/">graphic design</a> to the content creation, every component will come together to create a cohesive, functional, and optimal website. After the design has been finished, the appropriate platform will need to be installed. The design is then moved from our design software into the specific platform. </p>
+<p>From the <a href=" /graphic-design/">graphic design</a> to the content creation, every component will come together to create a cohesive, functional, and optimal website. After the design has been finished, the appropriate platform will need to be installed. The design is then moved from our design software into the specific platform. </p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -108,9 +108,9 @@ Website Process: 4 Important Things You Need To Start A Website
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>There are many factors that are consistent with superior website design, so it can be incredibly useful to obtain the <a href="https://therebelape.com/seo/">services of a professional</a> to undertake this process. </p>
+<p>There are many factors that are consistent with superior website design, so it can be incredibly useful to obtain the <a href="/seo/">services of a professional</a> to undertake this process. </p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>To obtain more information about the website process, contact us at <a href="https://therebelape.com/contact/">Rebel Ape Marketing</a> today!</p>
+<p>To obtain more information about the website process, contact us at <a href="/contact/">Rebel Ape Marketing</a> today!</p>
 <!-- /wp:paragraph -->
