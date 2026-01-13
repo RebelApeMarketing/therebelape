@@ -16,7 +16,7 @@ Social media has completely changed the game for advertising.
 
 In fact, **97% of marketers say social media is now critical for all businesses**. By spending as little as six hours per week on social platforms, you can increase brand recognition — and even boost sales.
 
-Some people still ask: do you really need [social media marketing](https://therebelape.com/create-social-media-marketing-campaign/)?
+Some people still ask: do you really need [social media marketing](https://therebelape.com/blog/create-social-media-marketing-campaign/)?
 
 Yes. You absolutely do. Here’s why.
 
@@ -37,7 +37,7 @@ A recent [Pew Research Center study](http://www.pewinternet.org/2018/03/01/socia
 
 If this many people are spending time on social platforms, your business should be there too.
 
-Implementing a strong [social media strategy](https://therebelape.com/branding-strategies-in-marketing/) increases brand recognition by placing your business in front of a broad audience. Creating profiles, sharing content, and encouraging engagement introduces your brand to new networks of potential customers.
+Implementing a strong [social media strategy](https://therebelape.com/blog/branding-strategies-in-marketing/) increases brand recognition by placing your business in front of a broad audience. Creating profiles, sharing content, and encouraging engagement introduces your brand to new networks of potential customers.
 
 The more people who know about your business, the better.
 

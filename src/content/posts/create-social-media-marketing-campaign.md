@@ -28,7 +28,7 @@ Even though content is still king, [content has to be seen to pass along a messa
 
 Strategy can make or break your entire campaign. Low-quality content can succeed with great strategy, while high-quality content can fail with poor—or nonexistent—strategy.
 
-Here’s our approach to creating a great [social media marketing campaign](https://therebelape.com/5-reasons-you-need-social-media-marketing/).
+Here’s our approach to creating a great [social media marketing campaign](https://therebelape.com/blog/5-reasons-you-need-social-media-marketing/).
 
 ### Goal Setting To Test Social Media
 

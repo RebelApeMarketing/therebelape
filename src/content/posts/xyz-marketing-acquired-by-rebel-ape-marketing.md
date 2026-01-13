@@ -29,4 +29,4 @@ Rebel Ape Marketing’s mission is to bring affordable and effective marketing t
 
 ### Contact
 
-Adam MiconiFounderadam@therebelape.com801-917-4310[www.therebelape.com](https://therebelape.com/)
+Adam MiconiFounder adam@therebelape.com 801-917-4310 [www.therebelape.com](https://therebelape.com/)

@@ -87,7 +87,7 @@ Another example regarding H-tags is present on this very page. The phrase "Getti
 
 ### H4, H5, and H6 Tags
 
-The h4-h6 tags can be used to further nest your content. Often, the h-tags are misused as styling elements to make fonts bolder or darker, but the actual use is for site hierarchy. It is important to use proper CSS for styling text and not use title tags for that purpose. This adds to your [site's technical SEO](https://therebelape.com/on-page-seo-tips/) which is important to keep clean and optimized.
+The h4-h6 tags can be used to further nest your content. Often, the h-tags are misused as styling elements to make fonts bolder or darker, but the actual use is for site hierarchy. It is important to use proper CSS for styling text and not use title tags for that purpose. This adds to your [site's technical SEO](https://therebelape.com/blog/on-page-seo-tips/) which is important to keep clean and optimized.
 
 ![Photography](https://RebelApeCDN.b-cdn.net/Rebel%20Website/photography.webp)
 
@@ -179,7 +179,7 @@ When writing your meta description, try to include your target keyword and possi
 
 ## Categories And Tags
 
-Categories should be broad and general. You should try to limit the overall [number of categories used on your website](https://therebelape.com/phone-number-on-your-website/). Tags should be more specific and you can use as many tags as you like on your page.
+Categories should be broad and general. You should try to limit the overall [number of categories used on your website](https://therebelape.com/blog/phone-number-on-your-website/). Tags should be more specific and you can use as many tags as you like on your page.
 
 For example, a blog post describing proper tooth cleaning to prevent oral health problems should be categorized under "general dentistry" or another broad term. It can then be tagged with terms like "tooth cleaning," "oral health problems," "oral health prevention," and more.
 
@@ -225,7 +225,7 @@ If both of those are optimized, you can also add a caching service to help speed
 
 ### Website Cache
 
-Caching will take the pages and [images on your website](https://therebelape.com/pitfalls-of-stock-photography-for-website-images/) and save them in such a way that they can be delivered to you as quickly as possible and at the smallest file size possible. The daunting task of caching your website has become simplified into a plugin. Each caching plugin may look different, but overall, the functions are similar. Try out various caching plugins to find your favorite.
+Caching will take the pages and [images on your website](https://therebelape.com/blog/pitfalls-of-stock-photography-for-website-images/) and save them in such a way that they can be delivered to you as quickly as possible and at the smallest file size possible. The daunting task of caching your website has become simplified into a plugin. Each caching plugin may look different, but overall, the functions are similar. Try out various caching plugins to find your favorite.
 
 When it comes to free caching software, I do like Siteground's SG Optimizer since it is designed to work directly with their servers and works very nicely, adds significant speed boosts, and they keep it updated.
 

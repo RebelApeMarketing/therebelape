@@ -17,7 +17,7 @@ If you've been looking for information on the ultimate guide to small business w
 
 It's important to thoroughly discuss the ultimate guide to small business website design to dispel the misconception that agencies are the only option. While agencies offer convenience, growth potential, and expert knowledge, you can absolutely lay the foundation yourself by following this ultimate guide to small business website design.
 
-This post is for small business owners who want more information about the ultimate guide to small business website design before bringing on an agency or those who want to build their [plumbing or home service website that converts](https://therebelape.com/plumbing-website-conversion-fixes/) by themselves. However, it's also informative if you're considering the pros and cons of managing your online presence on your own as you navigate the ultimate guide to small business website design.
+This post is for small business owners who want more information about the ultimate guide to small business website design before bringing on an agency or those who want to build their [plumbing or home service website that converts](https://therebelape.com/blog/plumbing-website-conversion-fixes/) by themselves. However, it's also informative if you're considering the pros and cons of managing your online presence on your own as you navigate the ultimate guide to small business website design.
 
 ## **The Ultimate Guide to Small Business Website Design: Key Strategies for Success**
 
@@ -185,7 +185,7 @@ If you already consider yourself a master of website building, here are some add
 - **Reminder**: Keep your contact information visible on every page. Make it easy for customers to reach you.
 - **Tip**: Regularly update your website content to keep it fresh and relevant, which helps with SEO.
 
-If you still haven't had enough of small business website tricks, then check out this blog post on [What Makes a High Converting Website](https://therebelape.com/what-makes-a-high-converting-webpage/).
+If you still haven't had enough of small business website tricks, then check out this blog post on [What Makes a High Converting Website](https://therebelape.com/blog/what-makes-a-high-converting-webpage/).
 
 ## Conclusion
 

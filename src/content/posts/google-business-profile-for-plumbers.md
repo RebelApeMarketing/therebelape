@@ -146,5 +146,5 @@ Want to go deeper?&nbsp;[Download our Google Business Profile Checklist](https:/
 
 Looking to level up even more?
 
-- [SEO Tips for Plumbers](https://therebelape.com/seo-tips-for-plumbers/): Simple strategies to help your plumbing business rank higher in search.
-- [Plumbing Website Conversion Fixes](https://therebelape.com/plumbing-website-conversion-fixes/): Turn more visitors into paying customers with these quick wins.
+- [SEO Tips for Plumbers](https://therebelape.com/blog/seo-tips-for-plumbers/): Simple strategies to help your plumbing business rank higher in search.
+- [Plumbing Website Conversion Fixes](https://therebelape.com/blog/plumbing-website-conversion-fixes/): Turn more visitors into paying customers with these quick wins.

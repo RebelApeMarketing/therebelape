@@ -29,7 +29,7 @@ In general, hiring a freelancer directly rather than going through an agency wil
 
 **You hire a person with extensive training**
 
-You will be paying for a skilled web [designer with extensive experience who is knowledgeable about the nuances of website development](https://therebelape.com/website-design-and-development-consultant/). A freelance web designer is aware of all the components, including design, usability, and functionality, that make up a successful website. They'll design the website according to your requirements.&nbsp;
+You will be paying for a skilled web [designer with extensive experience who is knowledgeable about the nuances of website development](https://therebelape.com/blog/website-design-and-development-consultant/). A freelance web designer is aware of all the components, including design, usability, and functionality, that make up a successful website. They'll design the website according to your requirements.&nbsp;
 
 **Your commitment to your project&nbsp;**
 

@@ -133,7 +133,7 @@ A professional marketing plan includes clear metrics for measuring success and s
 
 ### Key Performance Indicators
 
-Establish specific, [measurable KPIs](https://therebelape.com/our-secret-to-tracking-success-and-making-marketing-predictable/) that align with your business objectives:
+Establish specific, [measurable KPIs](https://therebelape.com/blog/our-secret-to-tracking-success-and-making-marketing-predictable/) that align with your business objectives:
 
 - Lead generation and conversion rates
 - Customer acquisition costs

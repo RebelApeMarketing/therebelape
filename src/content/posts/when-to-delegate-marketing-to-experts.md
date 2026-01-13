@@ -15,7 +15,7 @@ draft: false
 
 400. That's the number of different ways you could open a chess match. It's also the number of ways your opponent can respond. As the game progresses, the number of potential movements only increases. To spare you the math, let's just say that "endless possibilities" in chess are not too far from the truth.
 
-When you sit down at that checkered board, you're not just sitting down with pawns and rooks, knights and bishops, a king, and a queen. You're faced with 400 possibilities, but it all comes down to one choice. Suddenly, the game is a little more daunting. If you want to win, you need a [strategy](https://therebelape.com/go-to-market-strategy-the-5-essential-elements-for-business-success/). If you want to win big, you need the Gambit.
+When you sit down at that checkered board, you're not just sitting down with pawns and rooks, knights and bishops, a king, and a queen. You're faced with 400 possibilities, but it all comes down to one choice. Suddenly, the game is a little more daunting. If you want to win, you need a [strategy](https://therebelape.com/blog/go-to-market-strategy-the-5-essential-elements-for-business-success/). If you want to win big, you need the Gambit.
 
 The board is set, the pieces are in place, and the game has begun. Now, what will your next move be?
 

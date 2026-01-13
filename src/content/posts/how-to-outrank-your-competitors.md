@@ -65,7 +65,7 @@ If you want help implementing these properly, [contact us](https://therebelape.c
 
 ## Website Analysis
 
-A website analysis is required before any [SEO](https://therebelape.com/website-is-not-ranking/) work starts.
+A website analysis is required before any [SEO](https://therebelape.com/blog/website-is-not-ranking/) work starts.
 
 This analysis is an in-depth look at your site’s structure and performance. It’s one of the most important stages because it uncovers what’s currently working, what’s broken, and what needs to be prioritized.
 
@@ -248,7 +248,7 @@ This helps:
 
 Social media can support SEO indirectly by building brand awareness, trust, and content distribution.
 
-See: [Social media marketing campaign](https://therebelape.com/create-social-media-marketing-campaign/)
+See: [Social media marketing campaign](https://therebelape.com/blog/create-social-media-marketing-campaign/)
 
 ### Integration
 

@@ -13,7 +13,7 @@ draft: false
 ---
 If you want to grow as a company, knowing&nbsp;**when to hire a professional videographer**&nbsp;versus using quick smartphone footage is crucial. For many marketing purposes, professional videography helps you present videos that connect with customers on a deeper emotional, as well as visual, level.
 
-One of the worst things for businesses is to miss opportunities. What is holding you back from maximizing your potential through [video marketing](https://therebelape.com/video-marketing-for-businesses/)?
+One of the worst things for businesses is to miss opportunities. What is holding you back from maximizing your potential through [video marketing](https://therebelape.com/blog/video-marketing-for-businesses/)?
 
 - Uncertainty about&nbsp;*when to hire a professional videographer*&nbsp;for maximum impact
 - Limited resources to make the high-quality videos you want for every marketing need

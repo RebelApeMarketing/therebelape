@@ -85,7 +85,7 @@ According to recent research:
 - 70% of home service customers check online reviews before making contact
 - 88% of consumers trust online reviews as much as personal recommendations
 - Email marketing delivers an average ROI of $36 for every $1 spent
-- [Local SEO](https://therebelape.com/local-seo-services-increase-local-visibility-and-drive-more-customers/) is particularly effective for service businesses that operate in specific geographic areas
+- [Local SEO](https://therebelape.com/blog/local-seo-services-increase-local-visibility-and-drive-more-customers/) is particularly effective for service businesses that operate in specific geographic areas
 
 The right mix of&nbsp;**online marketing**&nbsp;strategies depends on your specific business goals, target audience, and budget. A comprehensive approach often yields the best results.
 

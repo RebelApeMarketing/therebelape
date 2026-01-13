@@ -37,7 +37,7 @@ We are often asked where to start getting reviews. This question is two-fold, si
 
 Let's start with the king of reviews. Google My Business](https://www.google.com/business/) has been in existence for a few years now, and many businesses have successfully used this platform to garner reviews.
 
-When you sign up on GMB, it will automatically start tracking your customers' behavior online when they search for your business name or contact info. The best part is that [Google My Business](https://therebelape.com/how-to-add-users-to-google-my-business-listing/) will only track those people who are actively looking but also become a valuable platform, if not the most important platform to garner reviews.
+When you sign up on GMB, it will automatically start tracking your customers' behavior online when they search for your business name or contact info. The best part is that [Google My Business](https://therebelape.com/blog/how-to-add-users-to-google-my-business-listing/) will only track those people who are actively looking but also become a valuable platform, if not the most important platform to garner reviews.
 
 Google honors reviews on their platform more than any other review platform, meaning that if your customers leave you a review on Google My Business it will show up right when people search for your business or anything that triggers your business to appear in the search results.
 

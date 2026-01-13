@@ -27,7 +27,7 @@ The domain name will be the way customers find your website, so this is a vital 
 
 ## 2. Website Hosting: Where your website files live.
 
-Website hosting is closely related to the domain name process, but it is a separate function. A great way to think of this is that the domain name is the address of the website, while the hosting [service is the physical location of the website](https://therebelape.com/on-page-seo-tips/), like a home that the address points to.
+Website hosting is closely related to the domain name process, but it is a separate function. A great way to think of this is that the domain name is the address of the website, while the hosting [service is the physical location of the website](https://therebelape.com/blog/on-page-seo-tips/), like a home that the address points to.
 
 After a URL has been purchased, it will have to be connected to the hosting location through the [domain name system](https://www.cloudflare.com/learning/dns/what-is-dns/). If you purchase a domain name from the same company that will host the site, this is often done for you. If not, it's a fairly easy step for those who are tech-savvy enough or are great at following online guides. Likewise, we can help you as well.
 
@@ -45,7 +45,7 @@ This cross-platform ability allows users to view a website from whichever browsi
 
 ## 4. Website Design and Development: How the website looks to people visiting the website.
 
-Once these matters have been completed, a [website will need](https://therebelape.com/7-reasons-you-need-a-website/) to be designed. The [website design](https://therebelape.com/seo/ogden-seo/) process goes far beyond just the looks, as it must take into account the importance of functionality along with many other aspects.
+Once these matters have been completed, a [website will need](https://therebelape.com/blog/7-reasons-you-need-a-website/) to be designed. The [website design](https://therebelape.com/seo/ogden-seo/) process goes far beyond just the looks, as it must take into account the importance of functionality along with many other aspects.
 
 From the [graphic design]( https://therebelape.com/graphic-design/) to the content creation, every component will come together to create a cohesive, functional, and optimal website. After the design has been finished, the appropriate platform will need to be installed. The design is then moved from our design software into the specific platform.
 

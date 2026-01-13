@@ -21,7 +21,7 @@ Here are four proven ways to improve your chances of reaching the clients that a
 
 They say you shouldn't judge a book by its cover, but it's important to put your best foot forward all the same. Because, often, a person will judge the quality of a business by the state of its social media profiles.
 
-Getting started on boosting the quality of your **social media marketing** is not difficult. There are simple steps you can take to improve your profile in order to get better results from [potential clientele](https://therebelape.com/how-to-master-your-client-onboarding-process-from-3-hours-to-20-minutes/):
+Getting started on boosting the quality of your **social media marketing** is not difficult. There are simple steps you can take to improve your profile in order to get better results from [potential clientele](https://therebelape.com/blog/how-to-master-your-client-onboarding-process-from-3-hours-to-20-minutes/):
 
 1. **Make sure your brand name is clear.**&nbsp;People need to be able to find you, and if they can't because your social media handle is different than your actual business name, then they're going to give up trying. Consistency across platforms is key for&nbsp;[brand recognition](https://therebelape.com/plumber-marketing-services/plumber-logo-design-service/).
 2. **Pay attention to the quality of your profile picture.**&nbsp;Nobody wants to see a grainy or blurred photo or logo as the face of your company. Make the effort to use a clear and professional image so that you can show that you are proud of who you are. For&nbsp;[home service businesses](https://therebelape.com/plumber-marketing-services/), this might be your logo or a professional headshot of the owner.
