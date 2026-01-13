@@ -218,7 +218,6 @@ https://therebelape.com/design/ / 301!
 https://therebelape.com/design/feed/ / 301!
 https://therebelape.com/marketing/feed/ / 301!
 https://therebelape.com/press-release/ / 301!
-https://therebelape.com/services/ / 301!
 https://therebelape.com/tag/blog/feed/ / 301!
 https://therebelape.com/tag/clutch/feed/ / 301!
 https://therebelape.com/tag/trust/feed/ / 301!
@@ -459,27 +458,27 @@ https://therebelape.com/plumber-marketing-services/plumber-digital-marketing-age
 https://therebelape.com/plumber-marketing-services/plumber-digital-marketing-agency/digital-marketing-campaign-examples/ifix-appliance-repair-case-study/ / 301!
 
 # PLUMBER SERVICES (non-marketing specific) → HOME
-https://therebelape.com/services/plumber-google-business-profile-optimization/ / 301!
-https://therebelape.com/services/plumber-logo-design/ / 301!
-https://therebelape.com/services/plumber-graphic-design/ / 301!
-https://therebelape.com/services/plumber-content-writing/ / 301!
-https://therebelape.com/services/plumber-reputation-management/ / 301!
-https://therebelape.com/services/plumber-directory-listing-management/ / 301!
-https://therebelape.com/services/plumber-email-marketing/ / 301!
-https://therebelape.com/services/plumber-call-tracking/ / 301!
-https://therebelape.com/plumber-graphic-design/ / 301!
-https://therebelape.com/plumber-logo-design/ / 301!
+https://therebelape.com/services/plumber-google-business-profile-optimization/ /services/ 301!
+https://therebelape.com/services/plumber-logo-design/ /services/ 301!
+https://therebelape.com/services/plumber-graphic-design/ /services/ 301!
+https://therebelape.com/services/plumber-content-writing/ /services/ 301!
+https://therebelape.com/services/plumber-reputation-management/ /services/ 301!
+https://therebelape.com/services/plumber-directory-listing-management/ /services/ 301!
+https://therebelape.com/services/plumber-email-marketing/ /services/ 301!
+https://therebelape.com/services/plumber-call-tracking/ /services/ 301!
+https://therebelape.com/plumber-graphic-design/ /services/ 301!
+https://therebelape.com/plumber-logo-design/ /services/ 301!
 
 # BRAND & CONTENT SERVICES → HOME
 https://therebelape.com/brand-development/ / 301!
 https://therebelape.com/content-writing/ / 301!
 
 # WWW SUBDOMAIN SERVICES → HOME
-https://www.therebelape.com/services/graphic-design/ / 301!
-https://www.therebelape.com/services/graphic-design / 301!
-https://www.therebelape.com/services/website-design / 301!
+https://www.therebelape.com/services/graphic-design/ /services/ 301!
+https://www.therebelape.com/services/graphic-design /services/ 301!
+https://www.therebelape.com/services/website-design /services/website-design/ 301!
 https://www.therebelape.com/testimonials/ / 301!
-https://www.therebelape.com/about-rebel-ape-marketing/about-adam-miconi/ / 301!
+https://www.therebelape.com/about-rebel-ape-marketing/about-adam-miconi/ /about/ 301!
 
 # ========================================
 # OLD PPC/ADS SERVICES → /services/ppc/
