@@ -224,15 +224,13 @@ https://therebelape.com/tag/clutch/feed/ / 301!
 https://therebelape.com/tag/trust/feed/ / 301!
 
 # LEGAL PAGES
-# PRIVACY POLICY
-https://therebelape.com/legal/privacy-policy/ /privacy-policy/ 301!
-https://therebelape.com/about-us/privacy-policy/ /privacy-policy/ 301!
+# PRIVACY POLICY - Old paths redirect to new /legal/ structure
+https://therebelape.com/privacy-policy/ /legal/privacy-policy/ 301!
+https://therebelape.com/about-us/privacy-policy/ /legal/privacy-policy/ 301!
 
-# TERMS AND CONDITIONS
-https://therebelape.com/legal/terms-and-conditions/ /terms-and-conditions/ 301!
-https://therebelape.com/legal/terms-and-conditions /terms-and-conditions/ 301!
-https://therebelape.com/terms-and-conditions/ /terms-and-conditions/ 301!
-https://therebelape.com/terms-and-conditions /terms-and-conditions/ 301!
+# TERMS AND CONDITIONS - Old paths redirect to new /legal/ structure
+https://therebelape.com/terms-and-conditions/ /legal/terms-and-conditions/ 301!
+https://therebelape.com/terms-and-conditions /legal/terms-and-conditions/ 301!
 
 # SITEMAP
 https://therebelape.com/html-sitemap/ /sitemap.xml 301!
@@ -424,7 +422,6 @@ https://therebelape.com/html-sitemap/ /sitemap.xml 301!
 # OLD MARKETING SERVICES → HOME
 # ========================================
 https://therebelape.com/marketing-services/ / 301!
-https://therebelape.com/marketing-services/google-business-profile-optimization/ / 301!
 https://therebelape.com/marketing-services/graphic-design-service/ / 301!
 https://therebelape.com/marketing-services/graphic-design-service/graphic-design-examples/ / 301!
 https://therebelape.com/marketing-services/logo-design-service/ / 301!
@@ -497,6 +494,13 @@ https://therebelape.com/plumber-marketing-services/plumber-ppc-advertising/ /ser
 /local-service-ads /services/ppc/local-service-ads/ 301
 /services/local-service-ads/ /services/ppc/local-service-ads/ 301
 /services/local-service-ads /services/ppc/local-service-ads/ 301
+
+# ========================================
+# OLD GOOGLE BUSINESS PROFILE → /services/google-business-profile/
+# ========================================
+https://therebelape.com/marketing-services/google-business-profile-optimization/ /services/google-business-profile/ 301!
+https://therebelape.com/plumber-marketing-services/plumber-google-business-profile-optimization/ /services/google-business-profile/ 301!
+https://therebelape.com/services/plumber-google-business-profile-optimization/ /services/google-business-profile/ 301!
 
 # ========================================
 # OLD SEO SERVICES → /services/seo/
