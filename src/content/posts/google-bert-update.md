@@ -45,6 +45,6 @@ It’s important to [talk to an SEO](https://therebelape.com/seo/) to find the b
 
 ## We would love to help!
 
-If you want to talk about your [website or how to improve your SEO](https://therebelape.com/on-page-seo-tips/) for search, we would love to take the time to talk with you about the health of your site and what direction you want to take your marketing. [Contact us](https://therebelape.com/contact/) today to get started!
+If you want to talk about your [website or how to improve your SEO](https://therebelape.com/blog/on-page-seo-tips/) for search, we would love to take the time to talk with you about the health of your site and what direction you want to take your marketing. [Contact us](https://therebelape.com/contact/) today to get started!
 
 If you have any questions or comments, feel free to start or join the discussion below. We love to interact with our readers whenever they want to talk.

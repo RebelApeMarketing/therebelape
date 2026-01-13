@@ -39,7 +39,7 @@ At the end of the day, custom photography is always the preferred option for web
 
 ## 4. Google knows when stock photography is used.
 
-Google’s algorithm is designed to detect when stock photography is used on a website. It penalizes [websites that use generic photos and rewards sites](https://therebelape.com/on-page-seo-tips/) with authentic visual content.
+Google’s algorithm is designed to detect when stock photography is used on a website. It penalizes [websites that use generic photos and rewards sites](https://therebelape.com/blog/on-page-seo-tips/) with authentic visual content.
 
 Using stock photography isn't always the best option for your business, but it may be a cost-effective choice in the short term. Consider using stock photography as a temporary solution until you're able to invest in [professional photography services](https://therebelape.com/seo/).
 

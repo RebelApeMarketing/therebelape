@@ -40,7 +40,7 @@ A few of the elements that make up a high converting website](https://therebelap
 
 Every single page on your website that a customer may visit needs to have a goal. Without a goal, the chances of a conversion drop. There is no reason to have information on the web page without it serving a purpose.
 
-The [strategies](https://therebelape.com/blog/how-to-outrank-your-competitors/) behind the website are the reason why a website works or not. The [marketing strategy](https://therebelape.com/video-marketing-strategy-for-2023/) will emphasize web design. So, there is more to a website than selecting a theme. Though it may be beautiful, it doesn't mean that it will convert. This is why there are some very ugly websites that convert very well.
+The [strategies](https://therebelape.com/blog/how-to-outrank-your-competitors/) behind the website are the reason why a website works or not. The [marketing strategy](https://therebelape.com/blog/video-marketing-strategy-for-2023/) will emphasize web design. So, there is more to a website than selecting a theme. Though it may be beautiful, it doesn't mean that it will convert. This is why there are some very ugly websites that convert very well.
 
 When considering what should go into the strategy behind a website, there are a few items to consider. Those items are layout, unity, and brand.
 
@@ -70,7 +70,7 @@ Nobody wants to be the first to try a product or service. By showcasing 5-star r
 
 ### **Use case studies to show proof of success.**
 
-Another very useful element to add trust to your website is to show case studies. These are outlines of the success you have had with other [clients](https://therebelape.com/clients/).
+Another very useful element to add trust to your website is to show case studies. These are outlines of the success you have had with other clients.
 
 The use of case studies can be proof of how your products and services have benefited others. If possible, include high-resolution photos in the case studies. Text-based content about the project further adds trust. This information shows how your company helped others achieve success.
 
