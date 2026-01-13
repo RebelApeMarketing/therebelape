@@ -68,7 +68,7 @@ A High Converting Website Should Be Professionally Designed
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>With the strategy in place, we have the heart of the website. It’s there for a purpose and used to give life to the rest of the <a href="https://therebelape.com/seo/ogden-seo/">website design</a>. It’s one aspect and you can’t achieve goals with a half-baked plan.&nbsp;</p>
+<p>With the strategy in place, we have the heart of the website. It’s there for a purpose and used to give life to the rest of the <a href="https://therebelape.com/services/seo/">website design</a>. It’s one aspect and you can’t achieve goals with a half-baked plan.&nbsp;</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->

@@ -72,7 +72,7 @@ The Measurable ROI of Professional Photography for Your Business
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Think of it this way: Imagine you're scrolling on social media and you come across a post from a&nbsp;<a href="https://therebelape.com/plumber-marketing-services/">home service business</a>. The before-and-after photos of their work are so impressive that you immediately take notice. You send the post to a friend who's been dealing with a similar issue at their home. By that evening, they're scheduling an appointment with that company, and the next week you're seeing their positive review on social media saying, "You've got to try this service!"</p>
+<p>Think of it this way: Imagine you're scrolling on social media and you come across a post from a&nbsp;<a href="https://therebelape.com/services/">home service business</a>. The before-and-after photos of their work are so impressive that you immediately take notice. You send the post to a friend who's been dealing with a similar issue at their home. By that evening, they're scheduling an appointment with that company, and the next week you're seeing their positive review on social media saying, "You've got to try this service!"</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -97,7 +97,7 @@ The Measurable ROI of Professional Photography for Your Business
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li><a href="https://therebelape.com/plumber-marketing-services/plumber-website-design/">Professional websites</a>&nbsp;with high-quality photography convert 108% more visitors than those with lower-quality images</li>
+<li><a href="https://therebelape.com/services/website-design/">Professional websites</a>&nbsp;with high-quality photography convert 108% more visitors than those with lower-quality images</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
@@ -140,7 +140,7 @@ The Measurable ROI of Professional Photography for Your Business
 <!-- /wp:list -->
 
 <!-- wp:paragraph -->
-<p>The more eye-catching your photos are, the more they are going to cling to people's memories, and the higher the chances that they'll remember how you have the solution to their problem.&nbsp;<strong>Professional photographers</strong>&nbsp;are specially trained to craft photos that will stand out among the rest and establish your&nbsp;<a href="https://therebelape.com/plumber-marketing-services/plumber-logo-design-service/">brand identity</a>.</p>
+<p>The more eye-catching your photos are, the more they are going to cling to people's memories, and the higher the chances that they'll remember how you have the solution to their problem.&nbsp;<strong>Professional photographers</strong>&nbsp;are specially trained to craft photos that will stand out among the rest and establish your&nbsp;<a href="https://therebelape.com/services/plumber-logo-design-service/">brand identity</a>.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->

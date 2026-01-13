@@ -37,7 +37,7 @@ There are several considerations that you need to take into account when you foc
 
 **Rebranding can be a difficult process that can lose your existing customer base. **Ensuring that you have a well-designed, excellent logo from the beginning can provide many benefits for the branding of your business. Remember that you get what you pay for, so take care when choosing [a logo designer](https://therebelape.com/blog/how-to-hire-a-logo-designer/) for your company.
 
-Other aspects of branding should incorporate the logo throughout. This includes everything from your [website](https://therebelape.com/web-design/) and promotional materials to uniforms for your employees. To develop an effective branding strategy, there are several questions you will need to ask yourself about your business.
+Other aspects of branding should incorporate the logo throughout. This includes everything from your [website](https://therebelape.com/services/website-design/) and promotional materials to uniforms for your employees. To develop an effective branding strategy, there are several questions you will need to ask yourself about your business.
 
 Some basic questions for strategizing your brand include asking the how, what, where, when, and to whom the brand will be targeted toward. This, however, helps primarily with your strategy, not with the [formation of the brand](https://therebelape.com/hblog/ow-to-design-a-brand-identity-like-a-professional/). When you form a brand, you will need to consider the following questions.
 

@@ -170,7 +170,7 @@ Strategic Task Grouping: How to Leverage Efforts for Maximum Results
 <!-- /wp:list -->
 
 <!-- wp:paragraph -->
-<p>For&nbsp;<a href="https://therebelape.com/plumber-marketing-services/plumber-digital-marketing-agency/">marketing teams</a>, these transitions can consume up to 40% of productive time. By grouping similar marketing tasks, professionals create efficiency through:</p>
+<p>For&nbsp;<a href="https://therebelape.com/services/plumber-digital-marketing-agency/">marketing teams</a>, these transitions can consume up to 40% of productive time. By grouping similar marketing tasks, professionals create efficiency through:</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:list -->
@@ -230,7 +230,7 @@ Strategic Task Grouping: How to Leverage Efforts for Maximum Results
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p><a href="https://therebelape.com/plumber-marketing-services/plumber-seo/">SEO and performance marketing</a>&nbsp;require analytical thinking and data interpretation. Dedicated analytics blocks allow for deeper insights:</p>
+<p><a href="https://therebelape.com/services/seo/">SEO and performance marketing</a>&nbsp;require analytical thinking and data interpretation. Dedicated analytics blocks allow for deeper insights:</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:list -->
@@ -368,7 +368,7 @@ Strategic Task Grouping: How to Leverage Efforts for Maximum Results
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>For&nbsp;<a href="https://therebelape.com/plumber-marketing-services/plumber-content-writing-service/">content-heavy marketing strategies</a>, batching similar deliverables creates enormous efficiency:</p>
+<p>For&nbsp;<a href="https://therebelape.com/services/plumber-content-writing-service/">content-heavy marketing strategies</a>, batching similar deliverables creates enormous efficiency:</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:list -->

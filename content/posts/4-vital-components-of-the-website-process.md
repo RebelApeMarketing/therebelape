@@ -20,7 +20,7 @@ Website Process: 4 Important Things You Need To Start A Website
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Here are 4 steps of the website process to help you obtain the right website for you and your business. Thes steps take you from obtaining a domain name to <a href="https://therebelape.com/web-design/">website design</a>. </p>
+<p>Here are 4 steps of the website process to help you obtain the right website for you and your business. Thes steps take you from obtaining a domain name to <a href="https://therebelape.com/services/website-design/">website design</a>. </p>
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":3142,"sizeSlug":"thumbnail"} -->
@@ -84,7 +84,7 @@ Website Process: 4 Important Things You Need To Start A Website
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>Once these matters have been completed, a <a href="https://therebelape.com/7-reasons-you-need-a-website/">website will need</a> to be designed. The <a href="https://therebelape.com/seo/ogden-seo/">website design</a> process goes far beyond just the looks, as it must take into account the importance of functionality along with many other aspects. </p>
+<p>Once these matters have been completed, a <a href="https://therebelape.com/7-reasons-you-need-a-website/">website will need</a> to be designed. The <a href="https://therebelape.com/services/seo/">website design</a> process goes far beyond just the looks, as it must take into account the importance of functionality along with many other aspects. </p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->

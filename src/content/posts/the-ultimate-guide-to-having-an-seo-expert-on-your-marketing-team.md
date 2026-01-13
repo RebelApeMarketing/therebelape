@@ -34,7 +34,7 @@ This might seem daunting. Unfortunately, there's a lot more to it than that. The
 
 Seems pretty bleak, right? You're probably asking yourself, "How on Earth can I compete with so many other businesses promoting similar things as me?"
 
-This is where having an&nbsp;[SEO expert](https://therebelape.com/plumber-marketing-services/plumber-seo/)&nbsp;comes in.
+This is where having an&nbsp;[SEO expert](https://therebelape.com/services/seo/)&nbsp;comes in.
 
 - Search engines want to answer people's questions. So they are constantly looking for the keywords people are searching for, and rank websites based not only on usage of those keywords, but also how well they answer questions.
 - Utilizing search engine optimization we find the keyword phrases that will help you rank among those first options on Google, Bing, and other search engines, which means more traffic and more business to your company. This means you can grow and give yourself more freedom to improve your company.
@@ -54,7 +54,7 @@ Recent studies determined how effective site speed was with the success of websi
 - Even the difference between the fastest loading pages was amazing. Pages that loaded in under one second saw more than double the percentage of conversions than those that loaded in two seconds
 - While content is incredibly important, balancing it with faster site speed has the potential to make a huge difference in your conversion rates
 
-If your core web vitals are slow then your website will be slow. A professional&nbsp;[SEO Specialist](https://therebelape.com/plumber-marketing-services/plumber-seo/)&nbsp;will optimize your core web vitals to increase your site speed.
+If your core web vitals are slow then your website will be slow. A professional&nbsp;[SEO Specialist](https://therebelape.com/services/seo/)&nbsp;will optimize your core web vitals to increase your site speed.
 
 Shaving even a second off of your site speed can have an exponential effect on your website's conversion rates. People want to see your site, not a loading screen, and the majority of the time they will not wait around.
 
@@ -74,7 +74,7 @@ An&nbsp;**SEO expert on your marketing team**&nbsp;takes finding this balance ou
 
 Traffic is very important to business, that's self-explanatory. That's the dream of having a website, right? Having lots of people visit it? But you are a business, after all, and to stay in business, you need people to pay for your products and services. It is better that you get 100 people who will buy coming to your website instead of 1,000 people who will just browse. With good SEO, you are more likely to reach the people who are searching for what you have to offer, which in turn increases the likelihood of making sales.
 
-Having an&nbsp;[SEO professional](https://therebelape.com/plumber-marketing-services/plumber-seo/)&nbsp;can help you generate content for your website that can bring the right people to your business, the ones who might be more inclined to hit the "buy" button or make that call.
+Having an&nbsp;[SEO professional](https://therebelape.com/services/seo/)&nbsp;can help you generate content for your website that can bring the right people to your business, the ones who might be more inclined to hit the "buy" button or make that call.
 
 ## Why Shouldn't You Do This Yourself?
 
@@ -104,14 +104,14 @@ In short, SEO experts take that job off your plate so that you can focus on othe
 
 ## Here Is How To Gain Authority With SEO
 
-As you can see, search engine optimization is an essential part of&nbsp;[digital marketing](https://therebelape.com/plumber-marketing-services/plumber-digital-marketing-agency/), but one that requires a lot of time and effort to maintain.
+As you can see, search engine optimization is an essential part of&nbsp;[digital marketing](https://therebelape.com/services/plumber-digital-marketing-agency/), but one that requires a lot of time and effort to maintain.
 
 And this is what makes SEO experts so valuable: They take the tiring task of maintaining SEO off of your plate and in turn the possibility of greater business goes up. All the while, you get more freedom to improve your company and make sure that the quality of your products and services goes right up. The potential for business will grow, which can help you and your family live more comfortably.
 
 ## Partner with Rebel Ape Marketing for SEO Success
 
-Rebel Ape Marketing is proud to offer&nbsp;[specialized SEO services](https://therebelape.com/plumber-marketing-services/plumber-seo/)&nbsp;to help your business rank higher on search engine results and direct more traffic to your business. We have case studies to prove our SEO works. We have brought companies from nothing into something great.
+Rebel Ape Marketing is proud to offer&nbsp;[specialized SEO services](https://therebelape.com/services/seo/)&nbsp;to help your business rank higher on search engine results and direct more traffic to your business. We have case studies to prove our SEO works. We have brought companies from nothing into something great.
 
-Whether you are looking for&nbsp;[Ogden SEO](https://therebelape.com/plumber-marketing-services/plumber-seo/plumber-seo-ogden/),&nbsp;[Salt Lake City SEO](https://therebelape.com/plumber-marketing-services/plumber-seo/plumber-seo-salt-lake-city/)&nbsp;or other areas, schedule a time to meet with our team of experienced professionals to learn more about how you can benefit from having an&nbsp;**SEO expert on your marketing team**.
+Whether you are looking for&nbsp;[Ogden SEO](https://therebelape.com/services/seo/plumber-seo-ogden/),&nbsp;[Salt Lake City SEO](https://therebelape.com/services/seo/plumber-seo-salt-lake-city/)&nbsp;or other areas, schedule a time to meet with our team of experienced professionals to learn more about how you can benefit from having an&nbsp;**SEO expert on your marketing team**.
 
 Go with&nbsp;[Rebel Ape Marketing](https://therebelape.com/about-rebel-ape-marketing/)&nbsp;today for your marketing needs. We are your next level.

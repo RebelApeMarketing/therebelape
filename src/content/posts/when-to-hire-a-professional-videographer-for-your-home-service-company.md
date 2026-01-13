@@ -59,7 +59,7 @@ The key is using your smartphone strategically and optimizing its capabilities:
 
 Professional videography is more than picking up the camera and hitting record. It is a combination of planning, shooting, reshooting, editing, sound, and color. Not only does it take research, but also time that you could be devoting towards improving your business. With a videographer on your team for important projects, you don't have to worry about which size lens does what. They've got you covered already.
 
-For cornerstone content that represents your brand, attempting DIY video might mean you spent all that time, money, and effort for underwhelming results. How much would that end up costing you in time and effort that could be spent on building your&nbsp;[business](https://therebelape.com/plumber-marketing-services/)&nbsp;instead?
+For cornerstone content that represents your brand, attempting DIY video might mean you spent all that time, money, and effort for underwhelming results. How much would that end up costing you in time and effort that could be spent on building your&nbsp;[business](https://therebelape.com/services/)&nbsp;instead?
 
 - With a professional videographer, you can get a high-quality product the first time for your most important videos
 - Videographers know how to use angles, colors, and sound to create the strongest emotions in customers, persuading them to buy
@@ -75,7 +75,7 @@ With the emergence of TikTok, Instagram Reels, YouTube Shorts, and social media 
 - More than half of online customers decide what brand or service provider they should choose because of video content
 - Video ads are consistently ranked as the #1 way new customers discover local businesses
 
-So what does this mean for your business? It means by neglecting to make videos a part of your&nbsp;[marketing strategy](https://therebelape.com/plumber-marketing-services/plumber-digital-marketing-agency/), you are missing out on potential clients and business. There are tons of customers looking for what you have to offer, who could find you through strategic video content—both professional and smartphone-created.
+So what does this mean for your business? It means by neglecting to make videos a part of your&nbsp;[marketing strategy](https://therebelape.com/services/plumber-digital-marketing-agency/), you are missing out on potential clients and business. There are tons of customers looking for what you have to offer, who could find you through strategic video content—both professional and smartphone-created.
 
 ## The Strategic Approach to Video Marketing
 
@@ -84,7 +84,7 @@ The most successful approach combines both professional and smartphone videos:
 - **Professional production**&nbsp;for cornerstone content like brand videos, commercials, and website features
 - **Smartphone videos**&nbsp;for regular social media content, quick updates, and behind-the-scenes glimpses
 
-For&nbsp;[home service businesses](https://therebelape.com/plumber-marketing-services/plumber-website-design/), this balanced approach allows you to:
+For&nbsp;[home service businesses](https://therebelape.com/services/website-design/), this balanced approach allows you to:
 
 - Create high-quality brand impressions with professional videos
 - Stay consistently engaged with your audience through regular smartphone content

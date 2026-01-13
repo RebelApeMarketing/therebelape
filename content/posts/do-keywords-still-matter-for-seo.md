@@ -233,7 +233,7 @@ Focus on long tail keywords, write for people, stay relevant, and build a comple
 
 If you want help building that strategy, start here:  
 - [SEO](https://therebelape.com/seo/)  
-- [Ogden SEO](https://therebelape.com/seo/ogden-seo/)  
+- [Ogden SEO](https://therebelape.com/services/seo/)  
 - [On-page SEO tips](https://therebelape.com/on-page-seo-tips/)
 
 ---

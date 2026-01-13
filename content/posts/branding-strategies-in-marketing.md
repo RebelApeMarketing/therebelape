@@ -68,7 +68,7 @@ draft: false
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Other aspects of branding should incorporate the logo throughout. This includes everything from your <a href="https://therebelape.com/web-design/">website</a> and promotional materials to uniforms for your employees. To develop an effective branding strategy, there are several questions you will need to ask yourself about your business.</p>
+<p>Other aspects of branding should incorporate the logo throughout. This includes everything from your <a href="https://therebelape.com/services/website-design/">website</a> and promotional materials to uniforms for your employees. To develop an effective branding strategy, there are several questions you will need to ask yourself about your business.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->

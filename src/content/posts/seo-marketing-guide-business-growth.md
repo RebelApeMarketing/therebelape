@@ -21,7 +21,7 @@ Stay ahead of the game with our guide on how to win with&nbsp;**SEO marketing**&
 
 Search engine optimization, or&nbsp;**SEO marketing**, is the process of improving the visibility of a website in search engine results pages. One important part of&nbsp;**SEO marketing**&nbsp;is using the right keywords throughout your site, in order to signal to search engines what certain pages are about. Without keywords, it would be very difficult for people to find your site when they are searching for information online.
 
-Google, in particular, relies heavily on keywords when determining which sites to show in its search results. That's why it's so important to include relevant keywords on your&nbsp;[business website](https://therebelape.com/plumber-marketing-services/plumber-website-design/)&nbsp;if you want to rank high in Google's search results.
+Google, in particular, relies heavily on keywords when determining which sites to show in its search results. That's why it's so important to include relevant keywords on your&nbsp;[business website](https://therebelape.com/services/website-design/)&nbsp;if you want to rank high in Google's search results.
 
 It goes something like this:
 
@@ -49,7 +49,7 @@ Google is all about making information accessible. In fact, their mission statem
 
 So how can you win with content in your&nbsp;**SEO marketing**?
 
-- Be clear and direct, answering the question quickly. But also make sure you elaborate and expand upon it. The average length is around 1,500+ words per post for&nbsp;[home service businesses](https://therebelape.com/plumber-marketing-services/), but some can stretch 2,000 to even 4,000 words.
+- Be clear and direct, answering the question quickly. But also make sure you elaborate and expand upon it. The average length is around 1,500+ words per post for&nbsp;[home service businesses](https://therebelape.com/services/), but some can stretch 2,000 to even 4,000 words.
 - Be entertaining, and have fun with it. But don't sound so much like a novel that your readers are left thinking, "Where was the answer to my question in all that fluff?"
 - Include relevant visual content that enhances understanding and increases time on page.
 
@@ -82,7 +82,7 @@ Beyond content and keywords, the technical aspects of&nbsp;**SEO marketing**&nbs
 
 User experience factors like page load speed and mobile responsiveness are now critical ranking factors. Google's Core Web Vitals assess how quickly your pages load, how soon they become interactive, and how stable they are as they load.
 
-For&nbsp;[home service businesses](https://therebelape.com/plumber-marketing-services/plumber-digital-marketing-agency/), optimizing these factors is essential:
+For&nbsp;[home service businesses](https://therebelape.com/services/plumber-digital-marketing-agency/), optimizing these factors is essential:
 
 - Compress images without sacrificing quality
 - Minimize CSS and JavaScript files
@@ -105,7 +105,7 @@ Here's the thing about&nbsp;**SEO marketing**: it takes work to maintain. Search
 
 But what if you didn't have to be the one to do that work? What if you didn't have to take that time out of your day, while still maintaining the peace of mind that your&nbsp;**SEO marketing**&nbsp;is covered?
 
-With&nbsp;[Rebel Ape Marketing](https://therebelape.com/about-rebel-ape-marketing/), we can do that for you. We staff&nbsp;[SEO experts](https://therebelape.com/plumber-marketing-services/plumber-seo/)&nbsp;who make it their mission to constantly make sure that your website is maximizing from search engine optimization.
+With&nbsp;[Rebel Ape Marketing](https://therebelape.com/about-rebel-ape-marketing/), we can do that for you. We staff&nbsp;[SEO experts](https://therebelape.com/services/seo/)&nbsp;who make it their mission to constantly make sure that your website is maximizing from search engine optimization.
 
 Ready to get started with professional&nbsp;**SEO marketing**?&nbsp;[Contact us today](https://therebelape.com/contact-rebel-ape-marketing/). We can schedule a time to meet and talk about how you can benefit from our specialized SEO services for home service businesses.
 

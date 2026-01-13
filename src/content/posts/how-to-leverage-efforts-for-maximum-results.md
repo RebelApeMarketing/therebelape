@@ -63,7 +63,7 @@ Each mental transition requires:
 - Shifting perspective and thinking style
 - Accessing different tools and resources
 
-For&nbsp;[marketing teams](https://therebelape.com/plumber-marketing-services/plumber-digital-marketing-agency/), these transitions can consume up to 40% of productive time. By grouping similar marketing tasks, professionals create efficiency through:
+For&nbsp;[marketing teams](https://therebelape.com/services/plumber-digital-marketing-agency/), these transitions can consume up to 40% of productive time. By grouping similar marketing tasks, professionals create efficiency through:
 
 - **Momentum**: Each task in a category builds on the mental framework established by the previous task
 - **Resource Optimization**: Similar tools and references remain accessible throughout the work block
@@ -85,7 +85,7 @@ This approach enables marketers to produce more cohesive content across channels
 
 ### Analytics and Optimization Sessions
 
-[SEO and performance marketing](https://therebelape.com/plumber-marketing-services/plumber-seo/)&nbsp;require analytical thinking and data interpretation. Dedicated analytics blocks allow for deeper insights:
+[SEO and performance marketing](https://therebelape.com/services/seo/)&nbsp;require analytical thinking and data interpretation. Dedicated analytics blocks allow for deeper insights:
 
 - Review multiple campaign performances simultaneously
 - Identify cross-campaign patterns and insights
@@ -135,7 +135,7 @@ Structure your marketing calendar with dedicated focus periods:
 
 ### 4. Maximize Marketing Output Through Batching
 
-For&nbsp;[content-heavy marketing strategies](https://therebelape.com/plumber-marketing-services/plumber-content-writing-service/), batching similar deliverables creates enormous efficiency:
+For&nbsp;[content-heavy marketing strategies](https://therebelape.com/services/plumber-content-writing-service/), batching similar deliverables creates enormous efficiency:
 
 - Develop multiple client proposals using the same framework
 - Create several weeks of social content in a single production day

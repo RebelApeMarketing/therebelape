@@ -40,7 +40,7 @@ Strategic Advantages of Partnering with a Professional Marketing Agency
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>You might try search engine optimization (SEO) to improve your organic search rankings instead. Unfortunately, a strong&nbsp;<a href="https://therebelape.com/plumber-marketing-services/plumber-seo/">SEO strategy</a>&nbsp;requires a number of tactics, including keyword research and consistent content creation.</p>
+<p>You might try search engine optimization (SEO) to improve your organic search rankings instead. Unfortunately, a strong&nbsp;<a href="https://therebelape.com/services/seo/">SEO strategy</a>&nbsp;requires a number of tactics, including keyword research and consistent content creation.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -126,7 +126,7 @@ Strategic Advantages of Partnering with a Professional Marketing Agency
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>Working with a&nbsp;<strong>marketing agency</strong>&nbsp;benefits brands that want to generate quality website traffic. Attracting ideal customers to your&nbsp;<a href="https://therebelape.com/plumber-marketing-services/plumber-website-design/">business website</a>&nbsp;will allow you to generate more leads and sales.</p>
+<p>Working with a&nbsp;<strong>marketing agency</strong>&nbsp;benefits brands that want to generate quality website traffic. Attracting ideal customers to your&nbsp;<a href="https://therebelape.com/services/website-design/">business website</a>&nbsp;will allow you to generate more leads and sales.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -184,7 +184,7 @@ Strategic Advantages of Partnering with a Professional Marketing Agency
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Your&nbsp;<strong>marketing agency</strong>&nbsp;will keep an eye on your campaigns while you focus time and attention on running your&nbsp;<a href="https://therebelape.com/plumber-marketing-services/">home service business</a>.</p>
+<p>Your&nbsp;<strong>marketing agency</strong>&nbsp;will keep an eye on your campaigns while you focus time and attention on running your&nbsp;<a href="https://therebelape.com/services/">home service business</a>.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -246,7 +246,7 @@ Strategic Advantages of Partnering with a Professional Marketing Agency
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>For&nbsp;<a href="https://therebelape.com/plumber-marketing-services/plumber-digital-marketing-agency/">home service businesses</a>, staying current with marketing trends is particularly important because:</p>
+<p>For&nbsp;<a href="https://therebelape.com/services/plumber-digital-marketing-agency/">home service businesses</a>, staying current with marketing trends is particularly important because:</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:list -->

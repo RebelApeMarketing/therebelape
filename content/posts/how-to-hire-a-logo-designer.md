@@ -212,7 +212,7 @@ https://youtu.be/dC7dCcH7Www
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>The process begins with defining your project's needs and identifying what kind of expertise and style you require. Are you looking for a sleek and modern approach, or something more classic and traditional? Do you prefer working with someone locally who can meet with you in person, or are you open to remote collaboration? Perhaps you're also considering the potential for a long-term relationship where the designer could assist with future <a href="https://therebelape.com/web-design/">website design</a>, print material, and ongoing support.</p>
+<p>The process begins with defining your project's needs and identifying what kind of expertise and style you require. Are you looking for a sleek and modern approach, or something more classic and traditional? Do you prefer working with someone locally who can meet with you in person, or are you open to remote collaboration? Perhaps you're also considering the potential for a long-term relationship where the designer could assist with future <a href="https://therebelape.com/services/website-design/">website design</a>, print material, and ongoing support.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->

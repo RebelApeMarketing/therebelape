@@ -110,7 +110,7 @@ What Makes A High Converting Webpage?
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>The website layout is an essential element when it comes to <a href="https://therebelape.com/web-design/" data-type="link" data-id="https://therebelape.com/web-design/">website design.</a> This section will be the roadmap on how the users navigate the website and will guide them to each element. By having an effective layout, users move through the website as you wish them to.</p>
+<p>The website layout is an essential element when it comes to <a href="https://therebelape.com/services/website-design/" data-type="link" data-id="https://therebelape.com/services/website-design/">website design.</a> This section will be the roadmap on how the users navigate the website and will guide them to each element. By having an effective layout, users move through the website as you wish them to.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->

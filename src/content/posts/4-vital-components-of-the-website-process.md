@@ -13,7 +13,7 @@ draft: false
 ---
 Learning about the website process can go a long way toward ensuring that you remain involved in every step of launching a new website. Here at Rebel Ape, we are passionate about providing you with a superior website that will meet all of your needs.
 
-Here are 4 steps of the website process to help you obtain the right website for you and your business. Thes steps take you from obtaining a domain name to [website design](https://therebelape.com/web-design/).
+Here are 4 steps of the website process to help you obtain the right website for you and your business. Thes steps take you from obtaining a domain name to [website design](https://therebelape.com/services/website-design/).
 
 ![www Magnifying Glass](https://RebelApeCDN.b-cdn.net/rebel-ape-main/registrar-80x80.png)
 
@@ -45,7 +45,7 @@ This cross-platform ability allows users to view a website from whichever browsi
 
 ## 4. Website Design and Development: How the website looks to people visiting the website.
 
-Once these matters have been completed, a [website will need](https://therebelape.com/blog/7-reasons-you-need-a-website/) to be designed. The [website design](https://therebelape.com/seo/ogden-seo/) process goes far beyond just the looks, as it must take into account the importance of functionality along with many other aspects.
+Once these matters have been completed, a [website will need](https://therebelape.com/blog/7-reasons-you-need-a-website/) to be designed. The [website design](https://therebelape.com/services/seo/) process goes far beyond just the looks, as it must take into account the importance of functionality along with many other aspects.
 
 From the [graphic design]( https://therebelape.com/graphic-design/) to the content creation, every component will come together to create a cohesive, functional, and optimal website. After the design has been finished, the appropriate platform will need to be installed. The design is then moved from our design software into the specific platform.
 

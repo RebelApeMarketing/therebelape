@@ -70,7 +70,7 @@ The Ultimate Guide To Having an SEO Expert on Your Marketing Team
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>This is where having an&nbsp;<a href="https://therebelape.com/plumber-marketing-services/plumber-seo/">SEO expert</a>&nbsp;comes in.</p>
+<p>This is where having an&nbsp;<a href="https://therebelape.com/services/seo/">SEO expert</a>&nbsp;comes in.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:list -->
@@ -122,7 +122,7 @@ The Ultimate Guide To Having an SEO Expert on Your Marketing Team
 <!-- /wp:list -->
 
 <!-- wp:paragraph -->
-<p>If your core web vitals are slow then your website will be slow. A professional&nbsp;<a href="https://therebelape.com/plumber-marketing-services/plumber-seo/">SEO Specialist</a>&nbsp;will optimize your core web vitals to increase your site speed.</p>
+<p>If your core web vitals are slow then your website will be slow. A professional&nbsp;<a href="https://therebelape.com/services/seo/">SEO Specialist</a>&nbsp;will optimize your core web vitals to increase your site speed.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -162,7 +162,7 @@ The Ultimate Guide To Having an SEO Expert on Your Marketing Team
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Having an&nbsp;<a href="https://therebelape.com/plumber-marketing-services/plumber-seo/">SEO professional</a>&nbsp;can help you generate content for your website that can bring the right people to your business, the ones who might be more inclined to hit the "buy" button or make that call.</p>
+<p>Having an&nbsp;<a href="https://therebelape.com/services/seo/">SEO professional</a>&nbsp;can help you generate content for your website that can bring the right people to your business, the ones who might be more inclined to hit the "buy" button or make that call.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->
@@ -222,7 +222,7 @@ The Ultimate Guide To Having an SEO Expert on Your Marketing Team
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>As you can see, search engine optimization is an essential part of&nbsp;<a href="https://therebelape.com/plumber-marketing-services/plumber-digital-marketing-agency/">digital marketing</a>, but one that requires a lot of time and effort to maintain.</p>
+<p>As you can see, search engine optimization is an essential part of&nbsp;<a href="https://therebelape.com/services/plumber-digital-marketing-agency/">digital marketing</a>, but one that requires a lot of time and effort to maintain.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -234,11 +234,11 @@ The Ultimate Guide To Having an SEO Expert on Your Marketing Team
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>Rebel Ape Marketing is proud to offer&nbsp;<a href="https://therebelape.com/plumber-marketing-services/plumber-seo/">specialized SEO services</a>&nbsp;to help your business rank higher on search engine results and direct more traffic to your business. We have case studies to prove our SEO works. We have brought companies from nothing into something great.</p>
+<p>Rebel Ape Marketing is proud to offer&nbsp;<a href="https://therebelape.com/services/seo/">specialized SEO services</a>&nbsp;to help your business rank higher on search engine results and direct more traffic to your business. We have case studies to prove our SEO works. We have brought companies from nothing into something great.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Whether you are looking for&nbsp;<a href="https://therebelape.com/plumber-marketing-services/plumber-seo/plumber-seo-ogden/">Ogden SEO</a>,&nbsp;<a href="https://therebelape.com/plumber-marketing-services/plumber-seo/plumber-seo-salt-lake-city/">Salt Lake City SEO</a>&nbsp;or other areas, schedule a time to meet with our team of experienced professionals to learn more about how you can benefit from having an&nbsp;<strong>SEO expert on your marketing team</strong>.</p>
+<p>Whether you are looking for&nbsp;<a href="https://therebelape.com/services/seo/plumber-seo-ogden/">Ogden SEO</a>,&nbsp;<a href="https://therebelape.com/services/seo/plumber-seo-salt-lake-city/">Salt Lake City SEO</a>&nbsp;or other areas, schedule a time to meet with our team of experienced professionals to learn more about how you can benefit from having an&nbsp;<strong>SEO expert on your marketing team</strong>.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->

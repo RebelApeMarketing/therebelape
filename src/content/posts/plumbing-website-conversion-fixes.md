@@ -25,7 +25,7 @@ This is a costly issue that's flying under the radar for most service businesses
 
 ### Let's Dive Into **6 Plumbing Website Conversion Fixes That Actually Work**
 
-The good news? This problem is often much easier to fix than a traffic problem. Below, I'll walk you through six straightforward steps to dramatically [increase your website's conversion rate](https://therebelape.com/web-design/) and start turning those visitors into actual revenue.
+The good news? This problem is often much easier to fix than a traffic problem. Below, I'll walk you through six straightforward steps to dramatically [increase your website's conversion rate](https://therebelape.com/services/website-design/) and start turning those visitors into actual revenue.
 
 ![Plumbing website conversion example – high converting layout](https://RebelApeCDN.b-cdn.net/rebel-ape-main/emergency-plumber-website-call-now-button-1030x589.png)
 
@@ -54,7 +54,7 @@ Make your phone number impossible to miss:
 
 ### Take Action
 
-1. Log into your [website builder](https://therebelape.com/web-design/) or contact your web developer today
+1. Log into your [website builder](https://therebelape.com/services/website-design/) or contact your web developer today
 2. Add your phone number to the header on every page
 3. Make sure the font is large enough to be clearly visible
 4. For bonus points, add a "Call Now" button next to the number

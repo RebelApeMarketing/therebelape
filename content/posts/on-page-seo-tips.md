@@ -301,7 +301,7 @@ Basic On Page SEO Tips To Help Your Site Rank | Step-By-Step Guide
 <p><strong>Actual site <a href="https://therebelape.com/on-page-seo-tips/">speed is greatly dependent on the quality of website</a> hosting you use.</strong></p>
 <!-- /wp:paragraph -->
 <!-- wp:paragraph -->
-<p>I’ve used various hosts for my <a href="https://therebelape.com/web-design/">website designs</a> and each one behaves slightly different from the others. As of this writing, the majority of my websites are currently sitting on Siteground which has been one of my favorite hosts so far and my main website now resides on Kinsta. They have quick servers, helpful staff, and I haven’t had any major issues.</p>
+<p>I’ve used various hosts for my <a href="https://therebelape.com/services/website-design/">website designs</a> and each one behaves slightly different from the others. As of this writing, the majority of my websites are currently sitting on Siteground which has been one of my favorite hosts so far and my main website now resides on Kinsta. They have quick servers, helpful staff, and I haven’t had any major issues.</p>
 <!-- /wp:paragraph -->
 <!-- wp:paragraph -->
 <p><strong>A great website host can be one of the quickest ways to speed up your website if it’s running on any type of budget host.</strong></p>

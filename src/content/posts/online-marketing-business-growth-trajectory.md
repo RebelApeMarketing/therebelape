@@ -33,11 +33,11 @@ Open rates will track how many of the email recipients open your email. A click-
 
 When creating an email, whether it be a newsletter or advertisement, it is essential to have a strong subject line that intrigues the recipient to open, read and click any available links.
 
-**Online marketing**&nbsp;through email allows&nbsp;[home service businesses](https://therebelape.com/plumber-marketing-services/)&nbsp;to stay top-of-mind with past customers and nurture relationships with potential ones.
+**Online marketing**&nbsp;through email allows&nbsp;[home service businesses](https://therebelape.com/services/)&nbsp;to stay top-of-mind with past customers and nurture relationships with potential ones.
 
 ### Strategic Content Development
 
-Website content comes in several forms, and it can be a photo, audio, or video file. It can also be published items such as written information. Your&nbsp;[website content](https://therebelape.com/plumber-marketing-services/plumber-website-design/)&nbsp;should balance images and text to ensure that the information displayed is understandable and appealing to the eye.
+Website content comes in several forms, and it can be a photo, audio, or video file. It can also be published items such as written information. Your&nbsp;[website content](https://therebelape.com/services/website-design/)&nbsp;should balance images and text to ensure that the information displayed is understandable and appealing to the eye.
 
 **Online marketing**&nbsp;content includes:
 
@@ -55,7 +55,7 @@ Social media is growing in popularity as an&nbsp;**online marketing**&nbsp;tool,
 
 Social media provides an opportunity for your business to be shared between users on whichever platform being used. Businesses can increase their social media presence by offering promotions for "sharing" or "liking" their posts.
 
-For&nbsp;[home service companies](https://therebelape.com/plumber-marketing-services/plumber-digital-marketing-agency/), social media can be particularly effective for:
+For&nbsp;[home service companies](https://therebelape.com/services/plumber-digital-marketing-agency/), social media can be particularly effective for:
 
 - Sharing before/after photos of completed projects
 - Posting quick tips and maintenance advice
@@ -69,7 +69,7 @@ Many people, whether on their phone or computer, will search for services or pro
 
 The better ranking your business is within the search engine, the closer to the top of the list that your business will be. In addition, SEO makes your business visible online, directing traffic to your website, services and/or products.
 
-SEO is about tracking your content and website in search engines, primarily Google. When a prospective customer types in certain keywords into their preferred search engine, you want your business to be included in the results. This is what&nbsp;[SEO services](https://therebelape.com/plumber-marketing-services/plumber-seo/)&nbsp;do for businesses.
+SEO is about tracking your content and website in search engines, primarily Google. When a prospective customer types in certain keywords into their preferred search engine, you want your business to be included in the results. This is what&nbsp;[SEO services](https://therebelape.com/services/seo/)&nbsp;do for businesses.
 
 Your business will have coordinating keywords that will be associated with your services, and a good SEO marketing plan will help your business be at the top of the list. SEO relies on creating content that has the right keywords being used and high-quality links built into the content to help it track.
 

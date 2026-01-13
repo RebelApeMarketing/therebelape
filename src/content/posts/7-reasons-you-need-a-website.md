@@ -187,7 +187,7 @@ If you are looking to go at it on your own, themes are a simple way to get start
 
 ### Hire a Designer
 
-Though themes are appealing and a great option for getting started, I can’t help but love a custom designed theme, but maybe that’s just because I’m a bit biased since I am a designer. However, if you are looking for a [custom one-of-a-kind website design](https://therebelape.com/web-design/). Then it’s probably best to hand the reigns over to a designer and let them run with what works best for your business.
+Though themes are appealing and a great option for getting started, I can’t help but love a custom designed theme, but maybe that’s just because I’m a bit biased since I am a designer. However, if you are looking for a [custom one-of-a-kind website design](https://therebelape.com/services/website-design/). Then it’s probably best to hand the reigns over to a designer and let them run with what works best for your business.
 
 ### Easy to Update
 

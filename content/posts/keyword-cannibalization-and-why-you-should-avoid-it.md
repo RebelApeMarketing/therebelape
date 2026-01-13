@@ -57,7 +57,7 @@ Keyword Cannibalization And Why You Should Avoid It
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li>Your <a href="https://therebelape.com/plumber-marketing-services/plumber-seo/">website's SEO effectiveness</a> is reduced despite your content creation efforts</li>
+<li>Your <a href="https://therebelape.com/services/seo/">website's SEO effectiveness</a> is reduced despite your content creation efforts</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
@@ -136,7 +136,7 @@ Keyword Cannibalization And Why You Should Avoid It
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>The upside is that while&nbsp;<strong>keyword cannibalization</strong>&nbsp;can be a blow to your SEO, it is one that you can certainly bounce back from. The following solutions could do more than just clear up the effects of cannibalization, they could possibly improve your&nbsp;<a href="https://therebelape.com/plumber-marketing-services/plumber-website-design/">website's overall ranking</a>&nbsp;as well.</p>
+<p>The upside is that while&nbsp;<strong>keyword cannibalization</strong>&nbsp;can be a blow to your SEO, it is one that you can certainly bounce back from. The following solutions could do more than just clear up the effects of cannibalization, they could possibly improve your&nbsp;<a href="https://therebelape.com/services/website-design/">website's overall ranking</a>&nbsp;as well.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading {"level":3} -->
@@ -148,7 +148,7 @@ Keyword Cannibalization And Why You Should Avoid It
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>For&nbsp;<a href="https://therebelape.com/plumber-marketing-services/">home service businesses</a>, this might mean combining separate articles about "water heater maintenance" and "water heater troubleshooting" into a comprehensive "Complete Guide to Water Heater Care."</p>
+<p>For&nbsp;<a href="https://therebelape.com/services/">home service businesses</a>, this might mean combining separate articles about "water heater maintenance" and "water heater troubleshooting" into a comprehensive "Complete Guide to Water Heater Care."</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading {"level":3} -->
@@ -172,7 +172,7 @@ Keyword Cannibalization And Why You Should Avoid It
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Our&nbsp;<a href="https://therebelape.com/plumber-marketing-services/plumber-seo/">SEO experts</a>&nbsp;know what to look for in order to spot keyword cannibalization and, more importantly, we have the time and knowledge to make the necessary changes. That takes the work off your plate so that you can work on your business.</p>
+<p>Our&nbsp;<a href="https://therebelape.com/services/seo/">SEO experts</a>&nbsp;know what to look for in order to spot keyword cannibalization and, more importantly, we have the time and knowledge to make the necessary changes. That takes the work off your plate so that you can work on your business.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->

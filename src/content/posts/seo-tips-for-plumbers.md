@@ -267,5 +267,5 @@ To help you further improve your plumbing website's performance, we've compiled 
 
 You might also enjoy our related articles:
 
-- [Plumbing Website Conversion Fixes – 6 Ways to Turn Visitors into Leads](https://therebelape.com/plumbing-website-conversion-fixes/)
+- [Plumbing Website Conversion Fixes – 6 Ways to Turn Visitors into Leads](https://therebelape.com/blog/plumbing-website-conversion-fixes/)
 

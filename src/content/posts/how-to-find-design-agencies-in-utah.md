@@ -19,7 +19,7 @@ It will be many of your potential client's first points of contact. As a result,
 
 ## They Consider Your Ideas&nbsp;
 
-You are a pro in your field. As a result, you are aware of what you are offering and have a general concept of how to market it to potential clients. You are the only one who truly understands your industry. You probably don't want to collaborate with a web design](https://therebelape.com/clutchs-2022-leading-web-designer-from-utah/) business if they don't listen to your suggestions.
+You are a pro in your field. As a result, you are aware of what you are offering and have a general concept of how to market it to potential clients. You are the only one who truly understands your industry. You probably don't want to collaborate with a web design](https://therebelape.com/blog/clutchs-2022-leading-web-designer-from-utah/) business if they don't listen to your suggestions.
 
 Your designer should implement your suggestions, not start their own side project. An organization that values collaboration will embrace your ideas and apply best practices to make them a reality.
 

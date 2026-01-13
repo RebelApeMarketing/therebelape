@@ -13,9 +13,7 @@ draft: false
 ---
 Clutch Hails Rebel Ape Marketing as 2022's Leading Web Designer from Utah
 
-[Let AI read it for you!
-
-Dull websites are liabilities for businesses. No customer wants to go through a platform that looks like it was from 2010. Here at Rebel Ape Marketing, we help businesses increase traffic and generate quality leads through our bespoke solutions. Headquartered in Ogden, Utah, our team provides website design and SEO](https://clutch.co/seo-firms/packages) for small businesses that want to make a difference.
+Dull websites are liabilities for businesses. No customer wants to go through a platform that looks like it was from 2010. Here at Rebel Ape Marketing, we help businesses increase traffic and generate quality leads through our bespoke solutions. Headquartered in Ogden, Utah, our team provides website design and SEO for small businesses that want to make a difference.
 
 Today, we’re celebrating a fantastic recognition that’s made possible by our clients’ amazing support. During the annual Clutch Leaders Awards for the United States, Rebel Ape Marketing was officially recognized as one of the [top-performing companies](https://clutch.co/web-designers/utah) in Utah’s web design space this 2022!
 

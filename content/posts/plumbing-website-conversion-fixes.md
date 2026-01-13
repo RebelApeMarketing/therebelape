@@ -46,7 +46,7 @@ https://youtu.be/rf6QDu_y1m0?si=Zb3tPD0NtkzYgGVS
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>The good news? This problem is often much easier to fix than a traffic problem. Below, I'll walk you through six straightforward steps to dramatically <a href="https://therebelape.com/web-design/">increase your website's conversion rate</a> and start turning those visitors into actual revenue.</p>
+<p>The good news? This problem is often much easier to fix than a traffic problem. Below, I'll walk you through six straightforward steps to dramatically <a href="https://therebelape.com/services/website-design/">increase your website's conversion rate</a> and start turning those visitors into actual revenue.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":9971,"sizeSlug":"large","linkDestination":"none"} -->
@@ -113,7 +113,7 @@ https://youtu.be/rf6QDu_y1m0?si=Zb3tPD0NtkzYgGVS
 
 <!-- wp:list {"ordered":true} -->
 <ol class="wp-block-list"><!-- wp:list-item -->
-<li>Log into your <a href="https://therebelape.com/web-design/">website builder</a> or contact your web developer today</li>
+<li>Log into your <a href="https://therebelape.com/services/website-design/">website builder</a> or contact your web developer today</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->

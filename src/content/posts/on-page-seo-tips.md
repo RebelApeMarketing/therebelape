@@ -19,7 +19,7 @@ Getting your site's new content to rank in Google search or other search engines
 
 It's important to know a few [on-page SEO](https://therebelape.com/seo/las-vegas-seo/) tips and tricks to help you quickly get started with page optimization. This is so your website complies with what Google and other search engines are looking for, making it easier to be found on their search engine and get search traffic.
 
-There are some basic [page optimization aspects that you need to include with your website](https://therebelape.com/on-page-seo-tips/), many of which you may have never thought about before. Learning [rudimentary SEO](https://ahrefs.com/blog/seo-basics/) can significantly benefit your site SEO.
+There are some basic [page optimization aspects that you need to include with your website](https://therebelape.com/blog/on-page-seo-tips/), many of which you may have never thought about before. Learning [rudimentary SEO](https://ahrefs.com/blog/seo-basics/) can significantly benefit your site SEO.
 
 ## Before We Get Started With Search Engine Optimization
 
@@ -39,7 +39,7 @@ So, here we go!
 
 The reason this is important is when you start to target relevant keywords and start to rank higher in the search engine results, you can often lower your pay-per-click advertising and bring organic traffic for related keywords.
 
-When you create [high-quality content](https://therebelape.com/content-writing/), add in proper URL structures, increase page speed, and many other things, you will often achieve higher rankings because Google's algorithm begins to favor your website.
+When you create [high-quality content](https://therebelape.com/services/content-writing/), add in proper URL structures, increase page speed, and many other things, you will often achieve higher rankings because Google's algorithm begins to favor your website.
 
 ![Headline Tags](https://RebelApeCDN.b-cdn.net/rebel-ape-main/headline-tags.webp)
 
@@ -93,7 +93,7 @@ The h4-h6 tags can be used to further nest your content. Often, the h-tags are m
 
 ## Do I Need To Add Images?
 
-It is important to use images, videos, [graphic design](https://therebelape.com/graphic-design/) and other multimedia elements to bring attention to the webpage. Consumers are drawn to multimedia, which is why Google uses the presence of multimedia content as a ranking factor.
+It is important to use images, videos, [graphic design](https://therebelape.com/services/graphic-design/) and other multimedia elements to bring attention to the webpage. Consumers are drawn to multimedia, which is why Google uses the presence of multimedia content as a ranking factor.
 
 Additionally, you should ensure that the file name of the image contains relevant keywords for the page. If it has previously been uploaded, you will have to re-upload it with the proper name. Otherwise, upload it with the new file name.
 
@@ -101,7 +101,7 @@ It's best to make sure your images are named with relevant keywords similar to w
 
 ### Image Sizes
 
-Image sizes play a significant role when it comes to on-page [SEO](https://therebelape.com/seo/) and technical SEO factors. The size of the image directly influences the page speed which is a large ranking factor Google uses to rank your site.
+Image sizes play a significant role when it comes to on-page [SEO](https://therebelape.com/services/seo/) and technical SEO factors. The size of the image directly influences the page speed which is a large ranking factor Google uses to rank your site.
 
 **If you have large images that slow downloading time, it can directly affect the user experience which can affect your rankings.**
 
@@ -201,7 +201,7 @@ I've covered site speed in other articles but here we are again because it is so
 
 **Actual site [speed is greatly dependent on the quality of website](https://therebelape.com/on-page-seo-tips/) hosting you use.**
 
-I've used various hosts for my [website designs](https://therebelape.com/web-design/) and each one behaves slightly different from the others. As of this writing, the majority of my websites are currently sitting on Siteground which has been one of my favorite hosts so far and my main website now resides on Kinsta. They have quick servers, helpful staff, and I haven't had any major issues.
+I've used various hosts for my [website designs](https://therebelape.com/services/website-design/) and each one behaves slightly different from the others. As of this writing, the majority of my websites are currently sitting on Siteground which has been one of my favorite hosts so far and my main website now resides on Kinsta. They have quick servers, helpful staff, and I haven't had any major issues.
 
 **A great website host can be one of the quickest ways to speed up your website if it's running on any type of budget host.**
 
@@ -265,7 +265,7 @@ It's best practice to keep meta descriptions unique to each page as well. If met
 
 URL structure will help as well. If you are using WordPress, change your permalink structure to represent the name of the page. For example, the URL for this page holds a keyword and what the page is about in just a few words. The shorter the better, on average.
 
-For example, instead of this page being named `https://therebelape.com/?p=123`, the page is named `https://therebelape.com/on-page-seo-tips/` which helps make it user readable, likely to be remembered, more trustworthy to share, and shows the users what the page is about.
+For example, instead of this page being named `https://therebelape.com/?p=123`, the page is named `https://therebelape.com/blog/on-page-seo-tips/` which helps make it user readable, likely to be remembered, more trustworthy to share, and shows the users what the page is about.
 
 ## Wrap It Up
 

@@ -41,15 +41,15 @@ draft: false
 
 <!-- wp:list {"ordered":true} -->
 <ol class="wp-block-list"><!-- wp:list-item -->
-<li><strong>Make sure your brand name is clear.</strong>&nbsp;People need to be able to find you, and if they can't because your social media handle is different than your actual business name, then they're going to give up trying. Consistency across platforms is key for&nbsp;<a href="https://therebelape.com/plumber-marketing-services/plumber-logo-design-service/">brand recognition</a>.</li>
+<li><strong>Make sure your brand name is clear.</strong>&nbsp;People need to be able to find you, and if they can't because your social media handle is different than your actual business name, then they're going to give up trying. Consistency across platforms is key for&nbsp;<a href="https://therebelape.com/services/plumber-logo-design-service/">brand recognition</a>.</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li><strong>Pay attention to the quality of your profile picture.</strong>&nbsp;Nobody wants to see a grainy or blurred photo or logo as the face of your company. Make the effort to use a clear and professional image so that you can show that you are proud of who you are. For&nbsp;<a href="https://therebelape.com/plumber-marketing-services/">home service businesses</a>, this might be your logo or a professional headshot of the owner.</li>
+<li><strong>Pay attention to the quality of your profile picture.</strong>&nbsp;Nobody wants to see a grainy or blurred photo or logo as the face of your company. Make the effort to use a clear and professional image so that you can show that you are proud of who you are. For&nbsp;<a href="https://therebelape.com/services/">home service businesses</a>, this might be your logo or a professional headshot of the owner.</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li><strong>Give people a place to buy.</strong>&nbsp;In your bio, include a link to your company website. You want to give them a way to get to that "contact us" button, and it's easier to hit a link than it is to get out of the app, open the browser, type it in, then hit enter. The less effort you can ask of potential customers, the more easily they will reach out. Make sure your&nbsp;<a href="https://therebelape.com/plumber-marketing-services/plumber-website-design/">website is optimized</a>&nbsp;to convert this traffic.</li>
+<li><strong>Give people a place to buy.</strong>&nbsp;In your bio, include a link to your company website. You want to give them a way to get to that "contact us" button, and it's easier to hit a link than it is to get out of the app, open the browser, type it in, then hit enter. The less effort you can ask of potential customers, the more easily they will reach out. Make sure your&nbsp;<a href="https://therebelape.com/services/website-design/">website is optimized</a>&nbsp;to convert this traffic.</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
@@ -88,7 +88,7 @@ draft: false
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>For&nbsp;<a href="https://therebelape.com/plumber-marketing-services/plumber-digital-marketing-agency/">home service businesses</a>, this might mean using Instagram Stories to show before/after project results, creating TikTok tutorials for simple home maintenance, or using LinkedIn's newsletter feature to share industry expertise.</p>
+<p>For&nbsp;<a href="https://therebelape.com/services/plumber-digital-marketing-agency/">home service businesses</a>, this might mean using Instagram Stories to show before/after project results, creating TikTok tutorials for simple home maintenance, or using LinkedIn's newsletter feature to share industry expertise.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->
@@ -168,7 +168,7 @@ draft: false
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Different calls-to-action work better for different stages of the&nbsp;<a href="https://therebelape.com/plumber-marketing-services/plumber-digital-marketing-agency/">customer journey</a>. For awareness content, "Learn more" might be appropriate, while consideration content might use "See our work," and decision-stage content should use more direct CTAs like "Call now."</p>
+<p>Different calls-to-action work better for different stages of the&nbsp;<a href="https://therebelape.com/services/plumber-digital-marketing-agency/">customer journey</a>. For awareness content, "Learn more" might be appropriate, while consideration content might use "See our work," and decision-stage content should use more direct CTAs like "Call now."</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->

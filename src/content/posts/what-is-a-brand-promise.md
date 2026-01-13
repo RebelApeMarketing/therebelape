@@ -23,7 +23,7 @@ That is essentially a brand promise, but let’s dive deeper and explore how thi
 
 ## What is Branding?
 
-Branding consists of essentially everything that makes up the image of your business. This incorporates many different aspects. Your company’s [logo](https://therebelape.com/logo-design/), [website design](https://therebelape.com/web-design/), letterhead, and more will all make up your brand. Effective branding helps you to convey a message to your customers, which can go a long way toward improving your company’s image. Any time you add [content to your website](https://therebelape.com/blog/content-syndication-strategies/), you will need to ensure that it matches the brand identity that you intend.
+Branding consists of essentially everything that makes up the image of your business. This incorporates many different aspects. Your company’s [logo](https://therebelape.com/logo-design/), [website design](https://therebelape.com/services/website-design/), letterhead, and more will all make up your brand. Effective branding helps you to convey a message to your customers, which can go a long way toward improving your company’s image. Any time you add [content to your website](https://therebelape.com/blog/content-syndication-strategies/), you will need to ensure that it matches the brand identity that you intend.
 
 ## Why Branding is Important
 

@@ -60,7 +60,7 @@ How Online Marketing Will Transform Your Business Growth Trajectory
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><strong>Online marketing</strong>&nbsp;through email allows&nbsp;<a href="https://therebelape.com/plumber-marketing-services/">home service businesses</a>&nbsp;to stay top-of-mind with past customers and nurture relationships with potential ones.</p>
+<p><strong>Online marketing</strong>&nbsp;through email allows&nbsp;<a href="https://therebelape.com/services/">home service businesses</a>&nbsp;to stay top-of-mind with past customers and nurture relationships with potential ones.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading {"level":3} -->
@@ -68,7 +68,7 @@ How Online Marketing Will Transform Your Business Growth Trajectory
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>Website content comes in several forms, and it can be a photo, audio, or video file. It can also be published items such as written information. Your&nbsp;<a href="https://therebelape.com/plumber-marketing-services/plumber-website-design/">website content</a>&nbsp;should balance images and text to ensure that the information displayed is understandable and appealing to the eye.</p>
+<p>Website content comes in several forms, and it can be a photo, audio, or video file. It can also be published items such as written information. Your&nbsp;<a href="https://therebelape.com/services/website-design/">website content</a>&nbsp;should balance images and text to ensure that the information displayed is understandable and appealing to the eye.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -114,7 +114,7 @@ How Online Marketing Will Transform Your Business Growth Trajectory
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>For&nbsp;<a href="https://therebelape.com/plumber-marketing-services/plumber-digital-marketing-agency/">home service companies</a>, social media can be particularly effective for:</p>
+<p>For&nbsp;<a href="https://therebelape.com/services/plumber-digital-marketing-agency/">home service companies</a>, social media can be particularly effective for:</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:list -->
@@ -152,7 +152,7 @@ How Online Marketing Will Transform Your Business Growth Trajectory
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>SEO is about tracking your content and website in search engines, primarily Google. When a prospective customer types in certain keywords into their preferred search engine, you want your business to be included in the results. This is what&nbsp;<a href="https://therebelape.com/plumber-marketing-services/plumber-seo/">SEO services</a>&nbsp;do for businesses.</p>
+<p>SEO is about tracking your content and website in search engines, primarily Google. When a prospective customer types in certain keywords into their preferred search engine, you want your business to be included in the results. This is what&nbsp;<a href="https://therebelape.com/services/seo/">SEO services</a>&nbsp;do for businesses.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->

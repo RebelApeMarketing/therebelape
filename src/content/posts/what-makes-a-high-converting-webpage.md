@@ -44,7 +44,7 @@ The [strategies](https://therebelape.com/blog/how-to-outrank-your-competitors/) 
 
 When considering what should go into the strategy behind a website, there are a few items to consider. Those items are layout, unity, and brand.
 
-The website layout is an essential element when it comes to [website design.](https://therebelape.com/web-design/) This section will be the roadmap on how the users navigate the website and will guide them to each element. By having an effective layout, users move through the website as you wish them to.
+The website layout is an essential element when it comes to [website design.](https://therebelape.com/services/website-design/) This section will be the roadmap on how the users navigate the website and will guide them to each element. By having an effective layout, users move through the website as you wish them to.
 
 Within the website layout, you need to create unity throughout the site which helps the brand. What this means is that the website, images, and other content all match. The looks, colors, and vibe of the [website all help enforce the brand](https://therebelape.com/blog/how-your-website-design-can-help-or-hurt-your-brand/).
 

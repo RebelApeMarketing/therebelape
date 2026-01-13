@@ -500,7 +500,7 @@ We've built this process over years of working with home service companies—roo
 
 If your website is just sitting there looking pretty but not generating leads, we should talk.
 
-We specialize in [landing page design](/website-design/) and [Google Ads management](/ads/) for contractors—particularly roofing companies. Our process is proven, our results are measurable, and we don't waste time on fluff that doesn't impact your bottom line.
+We specialize in [landing page design](/services/website-design/) and [Google Ads management](/ppc/) for contractors—particularly roofing companies. Our process is proven, our results are measurable, and we don't waste time on fluff that doesn't impact your bottom line.
 
 [Contact us](/contact/) and let's figure out if we're a good fit. We'll start with a free audit of your current site and show you exactly where you're losing money.
 
@@ -514,7 +514,7 @@ A: For a professional landing page, expect $2,500-5,000. For a full website with
 
 **Q: How long does it take to see results from a new website?**
 
-A: If you're driving traffic through [Google Ads](/ads/), you'll see results immediately (within days). For organic SEO traffic, expect 3-6 months to start seeing significant improvement. The key is having traffic—a great website with no visitors generates zero leads. Learn more in our [complete guide to lead generation](/blog/lead-generation-best-practices-master-conversion-strategies-for-2025/).
+A: If you're driving traffic through [Google Ads](/ppc/), you'll see results immediately (within days). For organic SEO traffic, expect 3-6 months to start seeing significant improvement. The key is having traffic—a great website with no visitors generates zero leads. Learn more in our [complete guide to lead generation](/blog/lead-generation-best-practices-master-conversion-strategies-for-2025/).
 
 **Q: Do I need a full website or just a landing page?**
 

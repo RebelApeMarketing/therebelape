@@ -28,7 +28,7 @@ Find a Web Designer Near Ogden Utah
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>A web designer, also referred to as a front-end developer, combines programming expertise with creativity to create user-friendly <a href="https://therebelape.com/web-design/">websites for businesses</a> like yours. A brief outlining the design of your ideal website is often required when hiring a web designer. After that, they will construct it for you at a certain cost. If there is a component of the design that you don't like, they will almost always change it until you are happy.</p>
+<p>A web designer, also referred to as a front-end developer, combines programming expertise with creativity to create user-friendly <a href="https://therebelape.com/services/website-design/">websites for businesses</a> like yours. A brief outlining the design of your ideal website is often required when hiring a web designer. After that, they will construct it for you at a certain cost. If there is a component of the design that you don't like, they will almost always change it until you are happy.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
