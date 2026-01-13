@@ -31,7 +31,7 @@ One of the biggest advantages of modern video marketing is its accessibility. Us
 
 The statistics speak for themselves: websites with video content see an average conversion rate of 4.8%, compared to just 2.9% for websites without video. While production quality matters, even basic videos can have massive impact when executed creatively and strategically.
 
-[Social media platforms](https://therebelape.com/marketing-services/social-media-content-posts/) have made video promotion easier than ever, providing built-in audiences and organic reach opportunities that can significantly boost your SEO efforts.
+[Social media platforms](/services/) have made video promotion easier than ever, providing built-in audiences and organic reach opportunities that can significantly boost your SEO efforts.
 
 ## How Much Does Video Marketing Actually Cost?
 
@@ -60,7 +60,7 @@ Search engines love video content. Including video on your website—along with 
 
 **Key Video SEO Strategies:**
 
-1. **Relevance is Crucial**: Ensure your videos directly relate to your website [content](https://therebelape.com/marketing-services/content-writing-service/)
+1. **Relevance is Crucial**: Ensure your videos directly relate to your website [content](/services/)
 2. **Keyword Optimization**: Research and include relevant keywords in titles and descriptions
 3. **Quality Content**: Focus on providing genuine value to viewers
 4. **Proper Length**: Match video duration to platform expectations and audience preferences
@@ -89,6 +89,6 @@ Don't let perfectionism paralyze you—start with simple, authentic content and 
 
 ## Ready to Revolutionize Your Marketing Strategy?
 
-At Rebel Ape Marketing, we have the expertise and experience to create a video marketing strategy that drives real results. If you're a business in the [Ogden area](https://therebelape.com/plumbing-marketing/ogden/) or surrounding regions, schedule a consultation today. Let us help you harness the power of video marketing to grow your business, increase website traffic, and capture more attention in your market.
+At Rebel Ape Marketing, we have the expertise and experience to create a video marketing strategy that drives real results. If you're a business in the [Ogden area](/services/) or surrounding regions, schedule a consultation today. Let us help you harness the power of video marketing to grow your business, increase website traffic, and capture more attention in your market.
 
 **Contact Rebel Ape Marketing today to transform your digital presence with strategic video marketing.**

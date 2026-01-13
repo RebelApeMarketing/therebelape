@@ -56,7 +56,7 @@ Video Marketing for Businesses: 5 Essential Tips for Growth
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><a href="https://therebelape.com/marketing-services/social-media-content-posts/">Social media platforms</a> have made video promotion easier than ever, providing built-in audiences and organic reach opportunities that can significantly boost your SEO efforts.</p>
+<p><a href="/services/">Social media platforms</a> have made video promotion easier than ever, providing built-in audiences and organic reach opportunities that can significantly boost your SEO efforts.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->
@@ -133,7 +133,7 @@ Video Marketing for Businesses: 5 Essential Tips for Growth
 
 <!-- wp:list {"ordered":true} -->
 <ol class="wp-block-list"><!-- wp:list-item -->
-<li><strong>Relevance is Crucial</strong>: Ensure your videos directly relate to your website <a href="https://therebelape.com/marketing-services/content-writing-service/">content</a></li>
+<li><strong>Relevance is Crucial</strong>: Ensure your videos directly relate to your website <a href="/services/">content</a></li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
@@ -198,7 +198,7 @@ Video Marketing for Businesses: 5 Essential Tips for Growth
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>At Rebel Ape Marketing, we have the expertise and experience to create a video marketing strategy that drives real results. If you're a business in the <a href="https://therebelape.com/plumbing-marketing/ogden/">Ogden area</a> or surrounding regions, schedule a consultation today. Let us help you harness the power of video marketing to grow your business, increase website traffic, and capture more attention in your market.</p>
+<p>At Rebel Ape Marketing, we have the expertise and experience to create a video marketing strategy that drives real results. If you're a business in the <a href="/services/">Ogden area</a> or surrounding regions, schedule a consultation today. Let us help you harness the power of video marketing to grow your business, increase website traffic, and capture more attention in your market.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->

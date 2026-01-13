@@ -194,6 +194,5 @@ Share your good design vs bad design story. Have you ever made changes that resu
 
 ### References
 
-https://pgnagency.com/blog/how-does-website-design-affect-your-brand/
-https://eggsmedia.com/how-website-design-affects-your-brand/
+
 https://ieeexplore.ieee.org/document/7742992
