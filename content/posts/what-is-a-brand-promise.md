@@ -36,7 +36,7 @@ What Is A Brand Promise and Why It's Important?
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>Branding consists of essentially everything that makes up the image of your business. This incorporates many different aspects. Your company’s <a href="https://therebelape.com/logo-design/">logo</a>, <a href="https://therebelape.com/services/website-design/">website design</a>, letterhead, and more will all make up your brand. Effective branding helps you to convey a message to your customers, which can go a long way toward improving your company’s image. Any time you add <a href="https://therebelape.com/content-syndication-strategies/">content to your website</a>, you will need to ensure that it matches the brand identity that you intend.</p>
+<p>Branding consists of essentially everything that makes up the image of your business. This incorporates many different aspects. Your company’s <a href="https://therebelape.com/logo-design/">logo</a>, <a href="https://therebelape.com/services/website-design/">website design</a>, letterhead, and more will all make up your brand. Effective branding helps you to convey a message to your customers, which can go a long way toward improving your company’s image. Any time you add <a href="/blog/content-syndication-strategies/">content to your website</a>, you will need to ensure that it matches the brand identity that you intend.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->

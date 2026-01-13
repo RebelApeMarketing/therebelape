@@ -98,7 +98,7 @@ https://youtu.be/dC7dCcH7Www
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>Understanding <a href="https://www.envato.com/blog/graphic-design-trends/">current design trends</a> can help you decide on the style you want for your logo. Whether you desire a sleek and modern appearance or a more classic look, being aware of what's popular in design can guide your choices. However, it's essential to strike a balance between trendy and timeless. While embracing current trends can make your logo feel fresh and relevant, it's wise to ensure that the design will still feel appropriate as trends evolve. Consider your brand's long-term goals and how the logo will fit into them as you explore various design trends.</p>
+<p>Understanding <a href="https://envato.com/blog/graphic-design-trends/">current design trends</a> can help you decide on the style you want for your logo. Whether you desire a sleek and modern appearance or a more classic look, being aware of what's popular in design can guide your choices. However, it's essential to strike a balance between trendy and timeless. While embracing current trends can make your logo feel fresh and relevant, it's wise to ensure that the design will still feel appropriate as trends evolve. Consider your brand's long-term goals and how the logo will fit into them as you explore various design trends.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading {"level":4} -->

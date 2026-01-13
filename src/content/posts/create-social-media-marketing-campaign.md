@@ -18,13 +18,13 @@ Get started with a great social media marketing campaign. As the ad adage goes, 
 
 [Here are a few stats](https://www.forbes.com/sites/bernardmarr/2018/05/21/how-much-data-do-we-create-every-day-the-mind-blowing-stats-everyone-should-read/#547fd45360ba) from some of the most-used social media platforms in 2017: every minute, Snapchat users share 527,760 photos, users send 456,000 tweets on Twitter, and Instagram users post 46,740 photos.
 
-[Web designers](https://visualobjects.com/) may need to continue coming up with creative ways to display this massive amount of content on their sites.
+[Web designers](https://www.visualobjects.com/) may need to continue coming up with creative ways to display this massive amount of content on their sites.
 
 ---
 
 ## Starting A Social Media Marketing Campaign
 
-Even though content is still king, [content has to be seen to pass along a message](https://therebelape.com/content-writing/). If it never reaches your audience, you won’t get a reliable measurement of its quality. This is why every great campaign starts with a well-planned strategy.
+Even though content is still king, content has to be seen to pass along a message. If it never reaches your audience, you won’t get a reliable measurement of its quality. This is why every great campaign starts with a well-planned strategy.
 
 Strategy can make or break your entire campaign. Low-quality content can succeed with great strategy, while high-quality content can fail with poor—or nonexistent—strategy.
 
@@ -52,7 +52,7 @@ Once your goals are set, you can map out the rest of your strategy.
 
 To execute your strategy effectively, you need to understand your audience as deeply as possible. While there are no shortcuts, several tools can make this easier.
 
-Platforms like [Hootsuite](https://hootsuite.com/) and [Sprout Social](https://sproutsocial.com/) allow you to monitor conversations, schedule posts, and analyze engagement patterns.
+Platforms like [Hootsuite](https://www.hootsuite.com/) and [Sprout Social](https://sproutsocial.com/) allow you to monitor conversations, schedule posts, and analyze engagement patterns.
 
 These tools help identify which channels your audience is most active on and the best ways to reach them. In-depth research reveals which platforms and ad placements have the highest likelihood of success.
 
@@ -79,6 +79,5 @@ Creating a successful social media marketing campaign is all about strategy:
 If you want to work with top-tier [graphic designers](https://themanifest.com/) and [web designers in Utah](https://clutch.co/), [contact us](https://therebelape.com/contact/).
 
 You can also explore our work here:  
-- [Website Design Gallery](https://therebelape.com/website-design-gallery/)  
-- [Logo Design Gallery](https://therebelape.com/logo-designs-gallery/)  
-- [Graphic Design Gallery](https://therebelape.com/graphic-design-gallery/)
+- [Website Design Gallery](/services/website-design/)  
+- [Logo Design Gallery](https://therebelape.com/logo-designs-gallery/)

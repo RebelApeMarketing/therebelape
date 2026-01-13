@@ -49,7 +49,7 @@ With your website being the centralized hub for all your communications you can 
 
 #### Google My Business
 
-Your [Google My Business](https://www.google.com/business/) profile is a great source to further supply your user base with valuable information about your website. When you search for a company, a little info box will often appear next to the search results. If it does, that business has a GMB account. Here you can add additional information such as store hours, location, about your company, amenities, services, photos, and a lot of other information.
+Your [Google My Business](https://www.google.com/business-profile/) profile is a great source to further supply your user base with valuable information about your website. When you search for a company, a little info box will often appear next to the search results. If it does, that business has a GMB account. Here you can add additional information such as store hours, location, about your company, amenities, services, photos, and a lot of other information.
 
 This is also one of the main platforms for a customer to review a business. If you focus on your customer service and receive many great reviews, it can boost your website traffic since many people will follow the link over to your site.
 

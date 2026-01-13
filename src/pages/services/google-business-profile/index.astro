@@ -17,11 +17,19 @@ const robots = "index, follow";
 <Base {title} {description} {canonical} {image} {type} {robots}>
   <section>
     <Hero
-      headline="Own the <span class='text-rebel-green'>Map Pack</span>"
+      title="Own the <span class='text-rebel-green'>Map Pack</span>"
+      subtitle="Dominate Local Search. <span class='text-rebel-green'>Get More Calls.</span>"
       description="Optimize your Google Business Profile to show up first when customers search for contractors in your area."
       backgroundImage="https://RebelApeCDN.b-cdn.net/Rebel%20Website/Homepage/UOMC-bg.webp"
+      features={[
+        'Top 3 Map Pack Rankings',
+        '5-Star Review Strategy',
+        'Profile Optimization'
+      ]}
       buttonText="Get a Free Profile Audit"
+      buttonIcon="calendar"
       buttonHref="/schedule/"
+      fetchpriority="high"
     />
     <SocialProofBar />
   </section>

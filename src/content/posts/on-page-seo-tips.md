@@ -35,7 +35,7 @@ So, here we go!
 
 ## What Is SEO And Does It Really Help With Search Results?
 
-**SEO is short for Search Engine Optimization, which is a marketing [strategy to increase the organic traffic to your website](https://therebelape.com/content-syndication-strategies/) and allow you to rank higher in the search results.**
+**SEO is short for Search Engine Optimization, which is a marketing [strategy to increase the organic traffic to your website](/blog/content-syndication-strategies/) and allow you to rank higher in the search results.**
 
 The reason this is important is when you start to target relevant keywords and start to rank higher in the search engine results, you can often lower your pay-per-click advertising and bring organic traffic for related keywords.
 
@@ -109,7 +109,7 @@ It's also important to understand that just because you may not notice the page 
 
 Use a service like [GT Metrix](https://gtmetrix.com/) or [Pingdom](https://tools.pingdom.com/) to determine how long it takes to load an image. You can also see file sizes directly in WordPress under your Media Library.
 
-If you have a large photo that needs to be resized, the best option would be to reduce the size before you upload it in a program like Photoshop. However, if you don't have access to any photo editing software, you can reduce the size before uploading using [tinyjpg.com](http://tinyjpg.com/) and then resizing the image once in WordPress.
+If you have a large photo that needs to be resized, the best option would be to reduce the size before you upload it in a program like Photoshop. However, if you don't have access to any photo editing software, you can reduce the size before uploading using [tinyjpg.com](https://tinyjpg.com/) and then resizing the image once in WordPress.
 
 Once again, I suggest reducing the size before upload if possible. The slower the site becomes from large images, the more frustrating the user experience will be which can cause lower rankings from a high bounce rate.
 
@@ -199,7 +199,7 @@ I've covered site speed in other articles but here we are again because it is so
 
 ### Actual Site Speed
 
-**Actual site [speed is greatly dependent on the quality of website](https://therebelape.com/on-page-seo-tips/) hosting you use.**
+**Actual site [speed is greatly dependent on the quality of website](/blog/on-page-seo-tips/) hosting you use.**
 
 I've used various hosts for my [website designs](https://therebelape.com/services/website-design/) and each one behaves slightly different from the others. As of this writing, the majority of my websites are currently sitting on Siteground which has been one of my favorite hosts so far and my main website now resides on Kinsta. They have quick servers, helpful staff, and I haven't had any major issues.
 
@@ -231,7 +231,7 @@ When it comes to free caching software, I do like Siteground's SG Optimizer sinc
 
 Another free contender is WP Super Cache, W3 Total Cache, and Comet Cache. I've used all three and they all have worked well, though they may not be quite as streamlined and sleek as my favorite caching plugin.
 
-For the majority of my sites I use [WP Rocket](https://shareasale.com/r.cfm?b=1075949&u=2046365&m=74778&urllink=&afftrack=) if SG Cache isn't running already. [WP Rocket](https://shareasale.com/r.cfm?b=1075949&u=2046365&m=74778&urllink=&afftrack=) has a very clean and organized interface and steps you through the plugin with easy to follow tabs. I notice significant speed boosts on this plugin as well.
+For the majority of my sites I use WP Rocket if SG Cache isn't running already. WP Rocket has a very clean and organized interface and steps you through the plugin with easy to follow tabs. I notice significant speed boosts on this plugin as well.
 
 Just understand that the speed boosts you may gain with a caching plugin may quickly dwindle as some of the settings do require advanced understanding and if not setup properly can break your website. Some of these features are things such as HTML and CSS Minification.
 

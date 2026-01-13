@@ -28,7 +28,7 @@ Ensuring that your guidelines are specific and easy to understand can go a long 
 
 ## The Difficulties of Brand Consistency
 
-Brand consistency can be somewhat difficult to maintain. Every aspect of your business needs to remain consistent. The same fonts, colors, images, and more must be used across every platform. This includes many things, such as stationery, flyers, [blog posts](https://therebelape.com/content-writing/), and additional marketing strategies.
+Brand consistency can be somewhat difficult to maintain. Every aspect of your business needs to remain consistent. The same fonts, colors, images, and more must be used across every platform. This includes many things, such as stationery, flyers, blog posts, and additional marketing strategies.
 
 In most cases, individuals will be creating the new marketing content. The problem with this is that in many situations, the individual’s personality can outshine the brand’s identity. This results in inconsistent branding because the new content won’t perfectly match the brand’s previous branding.
 

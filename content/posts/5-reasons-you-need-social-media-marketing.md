@@ -28,7 +28,7 @@ Yes. You absolutely do. Here’s why.
 
 ## Increase Brand Awareness
 
-A recent [Pew Research Center study](http://www.pewinternet.org/2018/03/01/social-media-use-in-2018/) found that:
+A recent [Pew Research Center study](https://www.pewinternet.org/2018/03/01/social-media-use-in-2018/) found that:
 
 - **68% of American adults use Facebook**
 - **78% of people aged 18–24 use Instagram**

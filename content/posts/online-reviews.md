@@ -64,7 +64,7 @@ Building Your Brand With Online Reviews: How to Get Them
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Let's start with the king of reviews. <a href="https://www.google.com/business/">Google My Business</a> has been in existence for a few years now, and many businesses have successfully used this platform to garner reviews.</p>
+<p>Let's start with the king of reviews. <a href="https://www.google.com/business-profile/">Google My Business</a> has been in existence for a few years now, and many businesses have successfully used this platform to garner reviews.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->

@@ -35,7 +35,7 @@ If you want to scale your business and build trust, it's important to get these 
 
 We are often asked where to start getting reviews. This question is two-fold, since one side is catering to those who legitimately don't know of any review platforms, and the other caters to those who know of way too many review platforms and is looking to which is best.
 
-Let's start with the king of reviews. Google My Business](https://www.google.com/business/) has been in existence for a few years now, and many businesses have successfully used this platform to garner reviews.
+Let's start with the king of reviews. Google My Business](https://www.google.com/business-profile/) has been in existence for a few years now, and many businesses have successfully used this platform to garner reviews.
 
 When you sign up on GMB, it will automatically start tracking your customers' behavior online when they search for your business name or contact info. The best part is that [Google My Business](https://therebelape.com/blog/how-to-add-users-to-google-my-business-listing/) will only track those people who are actively looking but also become a valuable platform, if not the most important platform to garner reviews.
 

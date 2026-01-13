@@ -148,5 +148,5 @@ Why Video Marketing Should Be A Main Component Of Your Marketing Strategy For 20
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Fortunately, Rebel Ape Marketing can help your company with video marketing. We produce high-quality videos that are <a href="https://therebelape.com/on-page-seo-tips/">optimized for SEO</a> and designed to convert viewers into leads and customers. <a href="https://therebelape.com/contact/" data-type="page" data-id="1323">Contact us today</a> to learn more about how we can help you use video to achieve your business goals.</p>
+<p>Fortunately, Rebel Ape Marketing can help your company with video marketing. We produce high-quality videos that are <a href="/blog/on-page-seo-tips/">optimized for SEO</a> and designed to convert viewers into leads and customers. <a href="https://therebelape.com/contact/" data-type="page" data-id="1323">Contact us today</a> to learn more about how we can help you use video to achieve your business goals.</p>
 <!-- /wp:paragraph -->

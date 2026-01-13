@@ -61,10 +61,6 @@ What Makes A High Converting Webpage?
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li>Exceptional <a href="https://therebelape.com/content-writing/" data-type="link" data-id="https://therebelape.com/content-writing/">content writing</a></li>
-<!-- /wp:list-item -->
-
-<!-- wp:list-item -->
 <li>A fast-loading website</li>
 <!-- /wp:list-item -->
 
@@ -194,7 +190,7 @@ What Makes A High Converting Webpage?
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>To <a href="https://therebelape.com/on-page-seo-tips/">optimize your website's</a> conversion rate, it is crucial to have call-to-actions scattered throughout the website. </p>
+<p>To <a href="/blog/on-page-seo-tips/">optimize your website's</a> conversion rate, it is crucial to have call-to-actions scattered throughout the website. </p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -512,7 +508,7 @@ What Makes A High Converting Webpage?
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>A fast-loading<a href="https://therebelape.com/on-page-seo-tips/"> website increases dwell times and also aids in SEO</a>. This will allow your website to bring in more traffic. The more traffic your website brings in, the more opportunity for conversions.</p>
+<p>A fast-loading<a href="/blog/on-page-seo-tips/"> website increases dwell times and also aids in SEO</a>. This will allow your website to bring in more traffic. The more traffic your website brings in, the more opportunity for conversions.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->

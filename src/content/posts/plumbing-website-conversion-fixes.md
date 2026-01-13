@@ -103,7 +103,7 @@ Many service business websites provide information but fail to tell visitors wha
 
 Even when potential customers are interested in your services, they often need a clear prompt to take the next step. Without explicit direction, they may read your content, find it helpful, but then leave without contacting you.
 
-Every section of your website should guide visitors toward becoming customers. If you're describing your drain cleaning service without immediately offering a way to book it, you're missing [conversion opportunities](https://therebelape.com/content-writing/).
+Every section of your website should guide visitors toward becoming customers. If you're describing your drain cleaning service without immediately offering a way to book it, you're missing conversion opportunities.
 
 ### The Solution
 
@@ -216,7 +216,7 @@ As a bonus tip, set up automated text responses for missed calls. This allows yo
 
 ### Take Action
 
-1. Test your website speed using&nbsp;[Google PageSpeed Insights](https://pagespeed.web.dev/),&nbsp;[Lighthouse](https://developers.google.com/web/tools/lighthouse), or&nbsp;[GTmetrix](https://gtmetrix.com/)&nbsp;(my personal favorite for ease of use)
+1. Test your website speed using&nbsp;[Google PageSpeed Insights](https://pagespeed.web.dev/),&nbsp;[Lighthouse](https://developer.chrome.com/docs/lighthouse/), or&nbsp;[GTmetrix](https://gtmetrix.com/)&nbsp;(my personal favorite for ease of use)
 2. Identify and fix the elements slowing down your site, such as improper code, unoptimized images, excessive plugins, and render-blocking resources
 3. Work with your web developer to implement speed optimizations
 4. Set up automated text responses for missed calls

@@ -261,7 +261,7 @@ Ready to stop losing customers to your competitors? Contact us today for a free 
 
 To help you further improve your plumbing website's performance, we've compiled these helpful external resources on SEO tips for plumbers:
 
-- [Google's Guide to Local Business SEO](https://www.google.com/business/resources/)
+- [Google's Guide to Local Business SEO](https://support.google.com/business/)
 - [Moz Local SEO Learning Center](https://moz.com/learn/seo/local-seo)
 - [BrightLocal's Guide to Service Area Business SEO](https://www.brightlocal.com/learn/local-seo-for-service-area-businesses/)
 

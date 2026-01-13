@@ -643,7 +643,7 @@ https://youtu.be/PBExn-KgH84?si=DW3P4vE9LIIUpgpG
 
 <!-- wp:list -->
 <ul class="wp-block-list"><!-- wp:list-item -->
-<li><a href="https://www.google.com/business/resources/">Google's Guide to Local Business SEO</a></li>
+<li><a href="https://support.google.com/business/">Google's Guide to Local Business SEO</a></li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->

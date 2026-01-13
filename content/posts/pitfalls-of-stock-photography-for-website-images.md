@@ -72,7 +72,7 @@ The Pitfalls Of Using Stock Photography For Website Images
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>Google’s algorithm is designed to detect when stock photography is used on a website. It penalizes <a href="https://therebelape.com/on-page-seo-tips/">websites that use generic photos and rewards sites</a> with authentic visual content.</p>
+<p>Google’s algorithm is designed to detect when stock photography is used on a website. It penalizes <a href="/blog/on-page-seo-tips/">websites that use generic photos and rewards sites</a> with authentic visual content.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -120,7 +120,7 @@ The Pitfalls Of Using Stock Photography For Website Images
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>High-quality professional photography can help you stand out from the crowd and elevate your brand. When it comes to website images, custom photography is always the best option. <a href="https://therebelape.com/on-page-seo-tips/">Professional images are more likely to engage website</a> visitors and effectively communicate your message.</p>
+<p>High-quality professional photography can help you stand out from the crowd and elevate your brand. When it comes to website images, custom photography is always the best option. <a href="/blog/on-page-seo-tips/">Professional images are more likely to engage website</a> visitors and effectively communicate your message.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->
@@ -132,7 +132,7 @@ The Pitfalls Of Using Stock Photography For Website Images
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Professional photographs can help distinguish you from other businesses in your industry and increase organic traffic to your <a href="https://therebelape.com/on-page-seo-tips/">website through higher search engine rankings</a>. In the end, custom photography is always the best option for your business.</p>
+<p>Professional photographs can help distinguish you from other businesses in your industry and increase organic traffic to your <a href="/blog/on-page-seo-tips/">website through higher search engine rankings</a>. In the end, custom photography is always the best option for your business.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->

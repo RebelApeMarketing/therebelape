@@ -234,7 +234,7 @@ https://youtu.be/rf6QDu_y1m0?si=Zb3tPD0NtkzYgGVS
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Every section of your website should guide visitors toward becoming customers. If you're describing your drain cleaning service without immediately offering a way to book it, you're missing <a href="https://therebelape.com/content-writing/">conversion opportunities</a>.</p>
+<p>Every section of your website should guide visitors toward becoming customers. If you're describing your drain cleaning service without immediately offering a way to book it, you're missing conversion opportunities.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading {"level":3} -->
@@ -517,7 +517,7 @@ https://youtu.be/rf6QDu_y1m0?si=Zb3tPD0NtkzYgGVS
 
 <!-- wp:list {"ordered":true} -->
 <ol class="wp-block-list"><!-- wp:list-item -->
-<li>Test your website speed using&nbsp;<a href="https://pagespeed.web.dev/">Google PageSpeed Insights</a>,&nbsp;<a href="https://developers.google.com/web/tools/lighthouse">Lighthouse</a>, or&nbsp;<a href="https://gtmetrix.com/">GTmetrix</a>&nbsp;(my personal favorite for ease of use)</li>
+<li>Test your website speed using&nbsp;<a href="https://pagespeed.web.dev/">Google PageSpeed Insights</a>,&nbsp;<a href="https://developer.chrome.com/docs/lighthouse/">Lighthouse</a>, or&nbsp;<a href="https://gtmetrix.com/">GTmetrix</a>&nbsp;(my personal favorite for ease of use)</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->

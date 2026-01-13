@@ -19,7 +19,7 @@ A Website blog is often written off by many people as just something for hobbyis
 
 A blog is one of the greatest tools available to you to become an industry authority, send recent news to followers, update them on the latest tips in your industry, and overall, reinforce your brand and what it stands for, but how does that help with SEO?
 
-But first, to cover what SEO is](https://therebelape.com/blog/what-is-seo/) and how it can help your site. [SEO stands for Search Engine Optimization](https://therebelape.com/blog/on-page-seo-tips/). It’s a series of techniques to help your website [rank higher](https://therebelape.com/how-to-outrank-your-competitors/) when people do a search and your website can provide them with accurate information they are looking for. In addition, [SEO](https://therebelape.com/seo/) has some technical factors to help them navigate your website, download content faster, and various other things, but for this, we will focus on keywords.
+But first, to cover what SEO is](https://therebelape.com/blog/what-is-seo/) and how it can help your site. [SEO stands for Search Engine Optimization](https://therebelape.com/blog/on-page-seo-tips/). It’s a series of techniques to help your website [rank higher](/blog/how-to-outrank-your-competitors/) when people do a search and your website can provide them with accurate information they are looking for. In addition, [SEO](https://therebelape.com/seo/) has some technical factors to help them navigate your website, download content faster, and various other things, but for this, we will focus on keywords.
 
 ## How an SEO driven Website blog can help your business.&nbsp;
 
@@ -45,7 +45,7 @@ The second part is going to be to fulfill your marketing goals in some form or a
 
 ## Who does all the writing?
 
-There are a variety of ways to get [content written for a website](https://therebelape.com/blog/content-syndication-strategies/). If you have decent writing skills, it’s always great to contribute to your own blog. However, you will often find that the task can become overwhelming very quickly and you may choose to [hire a content writer](https://therebelape.com/content-writing/) *(&lt;—see, that’s my call to action!)* so they can take the burden off of you and you can focus on your business.
+There are a variety of ways to get [content written for a website](https://therebelape.com/blog/content-syndication-strategies/). If you have decent writing skills, it’s always great to contribute to your own blog. However, you will often find that the task can become overwhelming very quickly and you may choose to hire a content writer *(&lt;—see, that’s my call to action!)* so they can take the burden off of you and you can focus on your business.
 
 Whether you choose to hire us to write for you or you prefer to find someone yourself, just make sure they know enough about the subject and know enough about basic SEO practices that you can ensure traffic will come to your site, you will be fine hiring out the writing.
 

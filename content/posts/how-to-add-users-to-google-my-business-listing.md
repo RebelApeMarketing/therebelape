@@ -67,7 +67,7 @@ Adding users to your GMB listing is straightforward, but it involves several ste
 
 ### 1. Sign in to Your Google My Business Profile
 
-[Sign in to Google My Business](https://www.google.com/business/).
+[Sign in to Google My Business](https://www.google.com/business-profile/).
 
 You do **not** need to share your Google account login. Instead, you can add users with their own email addresses and assign specific roles with defined permissions.
 

@@ -28,7 +28,7 @@ Google : Google's Largest Update Released Since RankBrain
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>This recent update is known as <a href="https://ai.googleblog.com/2018/11/open-sourcing-bert-state-of-art-pre.html">Google BERT</a> which stands for Bidirectional Encoder Representations from Transformers and is a network-based technique for natural language processing (NLP). Currently, BERT is being applied to around 1-10 searches or approximately 10% of all searches in English. More languages are going to continue to roll out at a later date.</p>
+<p>This recent update is known as <a href="https://blog.google/technology/ai/open-sourcing-bert-state-of-the-art-pre-training/">Google BERT</a> which stands for Bidirectional Encoder Representations from Transformers and is a network-based technique for natural language processing (NLP). Currently, BERT is being applied to around 1-10 searches or approximately 10% of all searches in English. More languages are going to continue to roll out at a later date.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->

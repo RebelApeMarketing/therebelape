@@ -27,7 +27,7 @@ Fortunately, outranking your competitors isn’t an impossible task. You can inc
 Google uses a ranking algorithm that filters search results based on certain factors. This algorithm has undergone many updates, such as:
 
 - [Penguin 4.0](https://searchengineland.com/library/google/google-penguin-update)
-- [Possum](https://searchengineland.com/everything-need-know-googles-possum-algorithm-update-258900)
+- [Possum](https://searchengineland.com/everything-you-need-to-know-about-googles-possum-algorithm-update-258900)
 
 These updates introduced a smarter, more refined, and more semantic search experience.
 

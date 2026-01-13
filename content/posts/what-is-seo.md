@@ -57,7 +57,7 @@ Old-school tactics like these can now get your site penalized:
 
 SEO done correctly can sometimes show early movement, but most of the real gains happen **over time** as your site builds authority and relevance.
 
-Even if you publish great content, another website with strong technical SEO and higher authority can still outrank you. (Here are some practical [on-page SEO tips](https://therebelape.com/on-page-seo-tips/) if you’re working on this yourself.)
+Even if you publish great content, another website with strong technical SEO and higher authority can still outrank you. (Here are some practical [on-page SEO tips](/blog/on-page-seo-tips/) if you’re working on this yourself.)
 
 ---
 
@@ -128,7 +128,7 @@ We support businesses in and around Ogden, Utah (and beyond) through SEO strateg
 
 - Technical improvements
 - On-page optimization
-- Site audits for weaknesses and opportunities ([audit your site here](https://therebelape.com/on-page-seo-tips/))
+- Site audits for weaknesses and opportunities ([audit your site here](/blog/on-page-seo-tips/))
 - Content planning and growth
 - Authority building
 

@@ -45,7 +45,7 @@ If you’re going to make a blog post, you should share your content. That’s a
 
 The first place to share your is to control your own content syndication on <a href="https://therebelape.com/create-social-media-marketing-campaign/">social media</a>.
 
-Social media platforms like <a href="http://facebook.com/" target="_blank" rel="noreferrer noopener">Facebook</a>, <a href="http://twitter.com/" target="_blank" rel="noreferrer noopener">Twitter</a>, <a href="http://pinterest.com/" target="_blank" rel="noreferrer noopener">Pinterest</a>, <a href="http://medium.com/" target="_blank" rel="noreferrer noopener">Medium</a>, and <a href="http://quota.com/" target="_blank" rel="noreferrer noopener">Quora</a>, are great syndication opportunities. Sharing your original content on many platforms means a wider audience and a more diverse crowd.
+Social media platforms like <a href="https://www.facebook.com/" target="_blank" rel="noreferrer noopener">Facebook</a>, <a href="https://x.com/" target="_blank" rel="noreferrer noopener">Twitter</a>, <a href="https://www.pinterest.com/" target="_blank" rel="noreferrer noopener">Pinterest</a>, <a href="https://medium.com/" target="_blank" rel="noreferrer noopener">Medium</a>, and <a href="http://quora.com/" target="_blank" rel="noreferrer noopener">Quora</a>, are great syndication opportunities. Sharing your original content on many platforms means a wider audience and a more diverse crowd.
 
 The great thing about platforms like Medium and LinkedIn is that you get to use a canonical tag. <strong>The canonical tag lets the search engine know that the blog post is duplicate content and your blog post on your site is the original content.</strong>
 

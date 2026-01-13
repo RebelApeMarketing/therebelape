@@ -27,7 +27,7 @@ A few of the elements that make up a high converting website](https://therebelap
 4. Call to action
 5. A high-quality chat bot
 6. Many contact forms
-7. Exceptional [content writing](https://therebelape.com/content-writing/)
+7. Exceptional content writing
 8. A fast-loading website
 9. A mobile-friendly website
 10. Geolocation for local businesses

@@ -24,7 +24,7 @@ This guide assumes you already have a website and are ready to install Google An
 
 ## Google Analytics Login
 
-The first step is to visit the [Google Analytics website](https://www.google.com/analytics/) and sign in using your Google account.
+The first step is to visit the [Google Analytics website](https://analytics.google.com/) and sign in using your Google account.
 
 Once signed in:
 
