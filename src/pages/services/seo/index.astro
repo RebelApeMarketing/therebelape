@@ -1,0 +1,85 @@
+---
+import Base from '../../../layouts/Base.astro';
+import Hero from '../../../components/sections/Hero.astro';
+import SocialProofBar from '../../../components/sections/SocialProofBar.astro';
+import CaseStudy from '../../../components/sections/CaseStudy.astro';
+import TestimonialsDefault from '../../../components/sections/TestimonialsDefault.astro';
+
+// SEO
+const title = "SEO Services for Contractors | Rebel Ape";
+const description = "Local SEO and organic search strategies that get contractors found by customers actively searching for their services. Real rankings, real traffic, real leads.";
+const canonical = "https://therebelape.com/services/seo/";
+const image = "https://RebelApeCDN.b-cdn.net/Rebel%20Website/Homepage/bg-gorilla-direct.webp";
+const type = "website";
+const robots = "index, follow";
+---
+
+<Base {title} {description} {canonical} {image} {type} {robots}>
+  <section>
+    <Hero
+      headline="Get Found by <span class='text-rebel-green'>Local Customers</span>"
+      description="SEO that puts your contracting business at the top of search results when customers need your services."
+      backgroundImage="https://RebelApeCDN.b-cdn.net/Rebel%20Website/Homepage/UOMC-bg.webp"
+      buttonText="Get a Free SEO Audit"
+      buttonHref="/schedule/"
+    />
+    <SocialProofBar />
+  </section>
+
+  <!-- What We Do -->
+  <section class="py-16 bg-white">
+    <div class="max-w-7xl mx-auto px-6">
+      <div class="max-w-3xl mx-auto text-center mb-12">
+        <h2 class="text-4xl md:text-5xl font-black mb-4">SEO That Actually Works</h2>
+        <p class="text-xl text-gray-600">We focus on what matters: getting you found by customers who are ready to hire.</p>
+      </div>
+
+      <div class="grid md:grid-cols-3 gap-8">
+        <div class="bg-slate-50 p-8 rounded-lg">
+          <h3 class="text-2xl font-bold mb-4">Local SEO</h3>
+          <p class="text-gray-600">Dominate local search results and Google Maps. Show up when customers in your area search for your services.</p>
+        </div>
+
+        <div class="bg-slate-50 p-8 rounded-lg">
+          <h3 class="text-2xl font-bold mb-4">Technical SEO</h3>
+          <p class="text-gray-600">Fast-loading, mobile-friendly websites that Google loves. We handle all the technical stuff so you rank higher.</p>
+        </div>
+
+        <div class="bg-slate-50 p-8 rounded-lg">
+          <h3 class="text-2xl font-bold mb-4">Content Strategy</h3>
+          <p class="text-gray-600">Blog posts and service pages optimized to rank for keywords your customers are actually searching for.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Why SEO Matters -->
+  <section class="py-16 bg-slate-100">
+    <div class="max-w-7xl mx-auto px-6">
+      <div class="max-w-3xl mx-auto">
+        <h2 class="text-4xl md:text-5xl font-black mb-8 text-center">Why SEO Matters for Contractors</h2>
+
+        <div class="space-y-6">
+          <div class="bg-white p-6 rounded-lg">
+            <h3 class="text-xl font-bold mb-2">High-Intent Customers</h3>
+            <p class="text-gray-600">People searching for "plumber near me" or "HVAC repair" need your services right now. SEO puts you in front of them at the perfect moment.</p>
+          </div>
+
+          <div class="bg-white p-6 rounded-lg">
+            <h3 class="text-xl font-bold mb-2">Long-Term Results</h3>
+            <p class="text-gray-600">Unlike ads that stop working when you stop paying, SEO builds momentum. Rank once, and you keep getting calls.</p>
+          </div>
+
+          <div class="bg-white p-6 rounded-lg">
+            <h3 class="text-xl font-bold mb-2">Trust & Credibility</h3>
+            <p class="text-gray-600">Customers trust organic search results more than ads. Ranking at the top builds instant credibility for your business.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <CaseStudy />
+  <TestimonialsDefault />
+
+</Base>

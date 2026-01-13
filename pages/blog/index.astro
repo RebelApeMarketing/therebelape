@@ -1,0 +1,168 @@
+---
+import { getCollection } from 'astro:content';
+import Base from '../../layouts/Base.astro';
+import Hero from '../../components/sections/Hero.astro';
+
+// Get all blog posts, filter out drafts, and sort by date
+const allPosts = await getCollection('posts');
+const publishedPosts = allPosts
+  .filter(post => !post.data.draft && post.data.publishDate)
+  .sort((a, b) => {
+    const dateA = a.data.publishDate ? new Date(a.data.publishDate).getTime() : 0;
+    const dateB = b.data.publishDate ? new Date(b.data.publishDate).getTime() : 0;
+    return dateB - dateA;
+  });
+
+// Separate featured posts
+const featuredPosts = publishedPosts.filter(post => post.data.featured);
+const regularPosts = publishedPosts.filter(post => !post.data.featured).slice(0, 9); // Show first 9
+
+// SEO
+const title = "Roofing Marketing Blog | SEO, Google Ads & Lead Generation | Rebel Ape";
+const description = "Expert insights on roofing marketing, SEO, Google Ads, and lead generation strategies. Learn how to get more qualified leads and grow your contracting business.";
+const canonical = "https://therebelape.com/blog/";
+const image = "https://RebelApeCDN.b-cdn.net/rebel-ape-main/blog-og-image.jpg";
+const type = "website";
+const robots = "index,follow";
+---
+
+<Base {title} {description} {canonical} {image} {type} {robots}>
+  <section>
+    <Hero 
+      backgroundImage="https://RebelApeCDN.b-cdn.net/Rebel%20Website/Homepage/bg-gorilla-direct.webp"
+      title="<span class='text-rebel-green'>Marketing Insights</span> That Actually <span class='text-rebel-green'>Work</span>"
+      subtitle="For Roofing Contractors Who Want More Leads"
+      description="No fluff. No theory. Just proven strategies to rank higher in Google, run better ads, and convert more website visitors into paying customers."
+      features={[
+        'SEO Strategies That Rank',
+        'Google Ads Best Practices',
+        'Landing Page Optimization'
+      ]}
+      buttonText="Get Free Marketing Checklist"
+      buttonIcon="download"
+      buttonHref="https://uomc.therebelape.com"
+      fetchpriority="high"
+    />
+
+    <!-- Featured Posts Section -->
+    {featuredPosts.length > 0 && (
+      <section class={`py-16 md:py-24 section-checkers`}>
+        <div class="max-w-7xl mx-auto px-6">
+          <div class="text-center mb-12">
+            <h2 class="text-3xl md:text-4xl font-bold mb-4">Featured Articles</h2>
+            <p class="text-lg text-gray-600">Our most comprehensive guides to help you dominate your market</p>
+          </div>
+          <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 gap-8">
+            {featuredPosts.map(post => (
+              <article class="bg-white rounded-lg shadow-lg overflow-hidden hover:shadow-xl transition-shadow duration-300">
+                {post.data.image && (
+                  <img 
+                    src={post.data.image} 
+                    alt={post.data.title} 
+                    class="w-full h-64 object-cover"
+                  />
+                )}
+                <div class="p-6">
+                  <div class="flex items-center gap-4 mb-4 text-sm text-gray-600">
+                    {post.data.publishDate && (
+                      <time datetime={new Date(post.data.publishDate).toISOString()}>
+                        {new Date(post.data.publishDate).toLocaleDateString('en-US', { 
+                          year: 'numeric', 
+                          month: 'long', 
+                          day: 'numeric' 
+                        })}
+                      </time>
+                    )}
+                    {post.data.categories && (
+                      <span class="bg-rebel-green text-white px-3 py-1 rounded-full text-xs font-semibold">
+                        {post.data.categories[0]}
+                      </span>
+                    )}
+                  </div>
+                  <h3 class="text-2xl font-bold mb-3 leading-tight">
+                    <a 
+                      href={`/blog/${post.slug}/`}
+                      class="text-gray-900 hover:text-rebel-green transition-colors"
+                    >
+                      {post.data.title}
+                    </a>
+                  </h3>
+                  <p class="text-gray-600 mb-4 line-clamp-3">{post.data.description}</p>
+                  <a 
+                    href={`/blog/${post.slug}/`} 
+                    class="inline-flex items-center text-rebel-green font-semibold hover:underline"
+                  >
+                    Read Article
+                    <svg class="w-4 h-4 ml-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                      <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path>
+                    </svg>
+                  </a>
+                </div>
+              </article>
+            ))}
+          </div>
+        </div>
+      </section>
+    )}
+
+    <!-- All Posts Section -->
+    <section class={`py-16 md:py-24 section-slate`}>
+      <div class="max-w-7xl mx-auto px-6">
+        <div class="text-center mb-12">
+          <h2 class="text-3xl md:text-4xl font-bold mb-4">All Articles</h2>
+          <p class="text-lg text-gray-600">Browse our complete library of marketing insights</p>
+        </div>
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+          {regularPosts.map(post => (
+            <article class="bg-white rounded-lg shadow-md overflow-hidden hover:shadow-lg transition-shadow duration-300">
+              {post.data.image && (
+                <img 
+                  src={post.data.image} 
+                  alt={post.data.title}
+                  class="w-full h-48 object-cover"
+                />
+              )}
+              <div class="p-6">
+                <div class="flex items-center gap-4 mb-3 text-sm text-gray-600">
+                  {post.data.publishDate && (
+                    <time datetime={new Date(post.data.publishDate).toISOString()}>
+                      {new Date(post.data.publishDate).toLocaleDateString('en-US', { 
+                        year: 'numeric', 
+                        month: 'short', 
+                        day: 'numeric' 
+                      })}
+                    </time>
+                  )}
+                  {post.data.categories && (
+                    <span class="bg-gray-200 text-gray-700 px-3 py-1 rounded-full text-xs font-semibold">
+                      {post.data.categories[0]}
+                    </span>
+                  )}
+                </div>
+                <h3 class="text-xl font-bold mb-2 leading-tight">
+                  <a 
+                    href={`/blog/${post.slug}/`}
+                    class="text-gray-900 hover:text-rebel-green transition-colors"
+                  >
+                    {post.data.title}
+                  </a>
+                </h3>
+                <p class="text-gray-600 mb-4 line-clamp-3">{post.data.description}</p>
+                <a 
+                  href={`/blog/${post.slug}/`}
+                  class="inline-flex items-center text-rebel-green font-semibold hover:underline"
+                >
+                  Read Article
+                  <svg class="w-4 h-4 ml-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path>
+                  </svg>
+                </a>
+              </div>
+            </article>
+          ))}
+        </div>
+      </div>
+    </section>
+
+  </section>
+</Base>

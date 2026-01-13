@@ -1,0 +1,208 @@
+---
+import Base from '../layouts/Base.astro';
+import Hero from '../components/sections/Hero.astro';
+import SocialProofBar from '../components/sections/SocialProofBar.astro';
+import CaseStudy from '../components/sections/CaseStudy.astro';
+
+import TestimonialsAds from '../components/sections/TestimonialsAds.astro';
+import FAQads from '../components/sections/FAQads.astro';
+
+// SEO
+const title = "PPC Ads for Contractors | Rebel Ape";
+const description = "We manage Google and Meta ads for contractors. Better targeting, cleaner tracking, and real results.";
+const canonical = "https://therebelape.com/services/ppc/";
+const image = "https://RebelApeCDN.b-cdn.net/Rebel%20Website/Homepage/bg-gorilla-direct.webp"; // 1200×630 recommended
+const type = "website"; // or "article" for posts
+const robots = "index, follow"; // optional override
+---
+
+<Base {title} {description} {canonical} {image} {type} {robots}>
+  <section>
+    <Hero 
+      backgroundImage="https://RebelApeCDN.b-cdn.net/Rebel%20Website/Homepage/bg-gorilla-direct.webp"
+      title="More Qualified Leads Through <span class='text-rebel-green'>Strategic Ad Campaigns.</span>"
+      subtitle="Ads Built To <span class='text-rebel-green'>Convert.</span> Campaigns Built To <span class='text-rebel-green'>Close.</span>"
+      description="We run <strong>ads that work.</strong> Strategic targeting. Conversion-focused landing pages. Qualified leads hitting your phone. <strong>That's it.</strong>"
+      features={[
+        'Ads That Actually Convert',
+        'Focused Qualified Leads',
+        'We Measure What Matters'
+      ]}
+      buttonText="Schedule a Call"
+      buttonIcon="calendar"
+      buttonHref="/schedule/"
+      fetchpriority="high"
+    />
+    <SocialProofBar />
+
+    <!-- Strategic Ad Campaigns Section -->
+    <section class="py-16 md:py-24 section-checkers">
+      <div class="max-w-7xl mx-auto px-4">
+        <div class="grid grid-cols-1 lg:grid-cols-2 gap-12 lg:gap-16 items-center">
+          <!-- Image: 50% width on desktop -->
+          <div>
+            <img 
+              src="https://RebelApeCDN.b-cdn.net/Rebel%20Website/google-ads.webp" 
+              alt="Strategic Ad Campaigns"
+              width="600"
+              height="400"
+              class="w-full rounded-lg"
+              loading="lazy"
+            />
+          </div>
+          
+          <!-- Text: 50% width on desktop -->
+          <div>
+            <h2 class="text-4xl md:text-5xl font-bold mb-6">
+              <span class="text-[#32C55F]">Strategic Ad Campaigns</span> That Work
+            </h2>
+            <p class="text-lg text-gray-700 mb-6">
+              We don't just run ads. We build campaigns designed specifically for contractors and home service businesses. Strategic targeting. Conversion-focused messaging. Every dollar tracked and optimized for ROI.
+            </p>
+            <ul class="space-y-4 mb-8">
+              <li class="flex gap-3">
+                <span class="text-[#32C55F] text-xl font-bold">✓</span>
+                <span class="text-gray-700"><strong>Google & Facebook Mastery:</strong> Years of experience running successful campaigns for contractors</span>
+              </li>
+              <li class="flex gap-3">
+                <span class="text-[#32C55F] text-xl font-bold">✓</span>
+                <span class="text-gray-700"><strong>Conversion Tracking:</strong> We know exactly where every lead comes from and what it costs</span>
+              </li>
+              <li class="flex gap-3">
+                <span class="text-[#32C55F] text-xl font-bold">✓</span>
+                <span class="text-gray-700"><strong>Continuous Optimization:</strong> Your campaigns improve daily, not monthly</span>
+              </li>
+              <li class="flex gap-3">
+                <span class="text-[#32C55F] text-xl font-bold">✓</span>
+                <span class="text-gray-700"><strong>Real Results:</strong> More qualified leads. More closed jobs. That's our only focus.</span>
+              </li>
+            </ul>
+            <p class="text-gray-700 mb-8">
+              We handle the entire campaign from strategy to execution. You handle the business.
+            </p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Campaign Management Section -->
+    <section class="py-16 md:py-24 section-slate">
+      <div class="max-w-7xl mx-auto px-4">
+        <div class="grid grid-cols-1 lg:grid-cols-2 gap-12 lg:gap-16 items-center">
+          <!-- Text: 50% width on desktop (right side) -->
+          <div class="order-2 lg:order-1">
+            <h2 class="text-4xl md:text-5xl font-bold mb-6">
+              Full Campaign <span class="text-[#32C55F]">Management</span>
+            </h2>
+            <p class="text-lg text-gray-700 mb-6">
+              From strategy and ad creation to landing pages and lead management, we handle everything. Your budget is maximized. Your time is protected.
+            </p>
+            
+            <div class="mb-8 pb-8 border-b border-gray-300">
+              <h3 class="text-2xl font-bold mb-3">What's Included</h3>
+              <ul class="space-y-2 text-gray-700">
+                <li class="flex gap-3 items-center">
+                  <span class="text-[#32C55F] text-lg">→</span>
+                  <span>Campaign strategy and audience targeting</span>
+                </li>
+                <li class="flex gap-3 items-center">
+                  <span class="text-[#32C55F] text-lg">→</span>
+                  <span>Ad creative development and copywriting</span>
+                </li>
+                <li class="flex gap-3 items-center">
+                  <span class="text-[#32C55F] text-lg">→</span>
+                  <span>Lightning Platform landing pages</span>
+                </li>
+                <li class="flex gap-3 items-center">
+                  <span class="text-[#32C55F] text-lg">→</span>
+                  <span>Daily optimization and monitoring</span>
+                </li>
+              </ul>
+            </div>
+
+            <div class="mb-8">
+              <h3 class="text-2xl font-bold mb-3">Monthly Reporting</h3>
+              <p class="text-gray-700 mb-3">
+                You'll know exactly where your money is going. Transparent reporting on impressions, clicks, conversions, and cost-per-lead.
+              </p>
+              <p class="text-gray-700">
+                No surprises. No vague promises. Just data and results.
+              </p>
+            </div>
+          </div>
+
+          <!-- Image: 50% width on desktop (left side) -->
+          <div class="order-1 lg:order-2">
+            <img 
+              src="https://RebelApeCDN.b-cdn.net/Rebel%20Website/ads-management-s.webp" 
+              alt="Campaign Management"
+              width="600"
+              height="400"
+              class="w-full rounded-lg"
+              loading="lazy"
+            />
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Why Rebel Ape Section -->
+    <section class="py-16 md:py-24 section-checkers">
+      <div class="max-w-7xl mx-auto px-4">
+        <div class="grid grid-cols-1 lg:grid-cols-2 gap-12 lg:gap-16 items-center">
+          <!-- Image - comes first on mobile, left on desktop -->
+          <div class="order-1">
+            <img 
+              src="https://RebelApeCDN.b-cdn.net/Rebel%20Website/ads-authority.webp" 
+              alt="Why Rebel Ape"
+              width="600"
+              height="400"
+              class="w-full rounded-lg shadow-2xl"
+              loading="lazy"
+            />
+          </div>
+
+          <!-- Text - comes second on mobile, right on desktop -->
+          <div class="order-2">
+            <h2 class="text-4xl md:text-5xl font-bold mb-6">
+              Traditional Agencies vs. <span class="text-[#32C55F]">Rebel Ape</span>
+            </h2>
+            <p class="text-xl text-gray-700 mb-6">
+              Most marketing agencies try to be everything to everyone. SEO. Social media. Content. Branding. Design. Ads. The problem? They're mediocre at all of it.
+            </p>
+            <p class="text-lg text-gray-700 mb-8">
+              We're different. We do one thing: get qualified leads for contractors. No blog posts that nobody reads. No vanity metrics like traffic and impressions. Just leads, conversions, and revenue.
+            </p>
+            <div class="space-y-4 mb-8">
+              <div class="bg-white p-4 rounded-lg border-l-4 border-[#32C55F] shadow-2xl">
+                <p class="font-semibold text-gray-900">One Goal, Total Focus</p>
+                <p class="text-gray-700">We measure success by qualified leads and closed jobs. That's it. Everything else is noise.</p>
+              </div>
+              <div class="bg-white p-4 rounded-lg border-l-4 border-[#32C55F] shadow-2xl">
+                <p class="font-semibold text-gray-900">Specialist, Not Generalist</p>
+                <p class="text-gray-700">We specialize in home services. Deep expertise in your market, your customer, your competition.</p>
+              </div>
+              <div class="bg-white p-4 rounded-lg border-l-4 border-[#32C55F] shadow-2xl">
+                <p class="font-semibold text-gray-900">No Fluff, Just Results</p>
+                <p class="text-gray-700">Transparent reporting. Direct access. Real data. You'll never wonder what you're paying for.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    
+    <section class={`py-16 md:py-24 section-slate`}>
+      <CaseStudy />
+    </section>
+
+    <section class="py-16 md:py-24 section-checkers">
+      <TestimonialsAds />
+    </section>
+
+    <section class={`py-16 md:py-24 section-slate`}>
+      <FAQads />
+    </section>
+
+  </section>
+</Base>

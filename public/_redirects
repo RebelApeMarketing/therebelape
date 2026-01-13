@@ -23,8 +23,23 @@ http://www.therebelape.com/*  https://therebelape.com/:splat  301!
 # PAGE SLUG UPDATES
 # ========================================
 
-/website-design-for-contractors/ /website-design/ 301
-/ads-for-contractors/ /ads/ 301
+# Service page restructuring
+/ads/ /services/ppc/ 301
+/ads /services/ppc/ 301
+/services/ads/ /services/ppc/ 301
+/services/ads /services/ppc/ 301
+/website-design/ /services/website-design/ 301
+/website-design /services/website-design/ 301
+
+# Legacy contractor pages
+/website-design-for-contractors/ /services/website-design/ 301
+/ads-for-contractors/ /services/ppc/ 301
+
+# Legal pages restructuring
+/privacy-policy/ /legal/privacy-policy/ 301
+/privacy-policy /legal/privacy-policy/ 301
+/terms-and-conditions/ /legal/terms-and-conditions/ 301
+/terms-and-conditions /legal/terms-and-conditions/ 301
 
 # ========================================
 # LANDING PAGES & SUBDOMAIN REDIRECTS
@@ -52,11 +67,11 @@ https://therebelape.com/request-a-bid/ /contact/ 301!
 
 # CONVERSION SECRETS
 # Main Pages
-https://go.therebelape.com/conversion-secrets /website-design/ 301!
-https://go.therebelape.com/conversion-secrets-2357 /website-design/ 301!
-https://go.therebelape.com/conversion-secrets/ /website-design/ 301!
-https://www.therebelape.com/conversion-secrets /website-design/ 301!
-https://therebelape.com/conversion-secrets/ /website-design/ 301!
+https://go.therebelape.com/conversion-secrets /services/website-design/ 301!
+https://go.therebelape.com/conversion-secrets-2357 /services/website-design/ 301!
+https://go.therebelape.com/conversion-secrets/ /services/website-design/ 301!
+https://www.therebelape.com/conversion-secrets /services/website-design/ 301!
+https://therebelape.com/conversion-secrets/ /services/website-design/ 301!
 
 # ABOUT
 # Main Pages
@@ -87,47 +102,47 @@ https://therebelape.com/referral-program/ /about/ 301!
 # ========================================
 
 # WEBSITE DESIGN - General Pages
-https://therebelape.com/web-design/ /website-design/ 301!
-https://therebelape.com/web-design /website-design/ 301!
-https://therebelape.com/website-design-and-development-consultant/ /website-design/ 301!
-https://therebelape.com/services/plumber-website-design/ /website-design/ 301!
-https://therebelape.com/plumber-website-design/ /website-design/ 301!
-https://therebelape.com/high-converting-website/feed/ /website-design/ 301!
+https://therebelape.com/web-design/ /services/website-design/ 301!
+https://therebelape.com/web-design /services/website-design/ 301!
+https://therebelape.com/website-design-and-development-consultant/ /services/website-design/ 301!
+https://therebelape.com/services/plumber-website-design/ /services/website-design/ 301!
+https://therebelape.com/plumber-website-design/ /services/website-design/ 301!
+https://therebelape.com/high-converting-website/feed/ /services/website-design/ 301!
 
 # WEBSITE DESIGN - Location-Specific Pages
-https://therebelape.com/marketing-services/website-design/ /website-design/ 301!
-https://therebelape.com/marketing-services/website-design/bountiful/ /website-design/ 301!
-https://therebelape.com/plumber-marketing-services/plumber-website-design/ /website-design/ 301!
-https://therebelape.com/plumber-marketing-services/plumber-website-design/plumber-web-design-bountiful/ /website-design/ 301!
-https://therebelape.com/plumber-website-design/bountiful-web-design/ /website-design/ 301!
-https://therebelape.com/web-design/bountiful-web-design/ /website-design/ 301!
-https://therebelape.com/marketing-agencies-utah/seo-for-small-business/seo-and-website-design-in-logan/ /website-design/ 301!
-https://therebelape.com/marketing-agencies-utah/seo-for-small-business/seo-and-website-design-in-las-vegas/ /website-design/ 301!
-https://therebelape.com/marketing-agencies-utah/seo-for-small-business/seo-and-website-design-in-layton/ /website-design/ 301!
-https://therebelape.com/marketing-agencies-utah/seo-for-small-business/seo-website-design-in-saint-george/ /website-design/ 301!
-https://therebelape.com/marketing-agencies-utah/seo-for-small-business/website-design-in-bountiful-ut/ /website-design/ 301!
-https://therebelape.com/marketing-agencies-utah/website-developer-for-small-businesses/ /website-design/ 301!
+https://therebelape.com/marketing-services/website-design/ /services/website-design/ 301!
+https://therebelape.com/marketing-services/website-design/bountiful/ /services/website-design/ 301!
+https://therebelape.com/plumber-marketing-services/plumber-website-design/ /services/website-design/ 301!
+https://therebelape.com/plumber-marketing-services/plumber-website-design/plumber-web-design-bountiful/ /services/website-design/ 301!
+https://therebelape.com/plumber-website-design/bountiful-web-design/ /services/website-design/ 301!
+https://therebelape.com/web-design/bountiful-web-design/ /services/website-design/ 301!
+https://therebelape.com/marketing-agencies-utah/seo-for-small-business/seo-and-website-design-in-logan/ /services/website-design/ 301!
+https://therebelape.com/marketing-agencies-utah/seo-for-small-business/seo-and-website-design-in-las-vegas/ /services/website-design/ 301!
+https://therebelape.com/marketing-agencies-utah/seo-for-small-business/seo-and-website-design-in-layton/ /services/website-design/ 301!
+https://therebelape.com/marketing-agencies-utah/seo-for-small-business/seo-website-design-in-saint-george/ /services/website-design/ 301!
+https://therebelape.com/marketing-agencies-utah/seo-for-small-business/website-design-in-bountiful-ut/ /services/website-design/ 301!
+https://therebelape.com/marketing-agencies-utah/website-developer-for-small-businesses/ /services/website-design/ 301!
 
 # WEBSITE DESIGN - Questionnaire & Resources
-https://therebelape.com/marketing-services/website-design/website-design-questionnaire/ /website-design/ 301!
-https://therebelape.com/plumber-marketing-services/plumber-website-design/website-design-questionnaire/ /website-design/ 301!
-https://therebelape.com/services/plumber-website-design/website-design-examples/ /website-design/ 301!
-https://therebelape.com/web-design-questionnaire/ /website-design/ 301!
-https://therebelape.com/marketing-services/website-design/website-design-examples/ /website-design/ 301!
-https://therebelape.com/plumber-marketing-services/plumber-website-design/website-design-examples/ /website-design/ 301!
-https://therebelape.com/services/plumber-website-design/ /website-design/ 301!
-https://therebelape.com/web-design-examples/ /website-design/ 301!
+https://therebelape.com/marketing-services/website-design/website-design-questionnaire/ /services/website-design/ 301!
+https://therebelape.com/plumber-marketing-services/plumber-website-design/website-design-questionnaire/ /services/website-design/ 301!
+https://therebelape.com/services/plumber-website-design/website-design-examples/ /services/website-design/ 301!
+https://therebelape.com/web-design-questionnaire/ /services/website-design/ 301!
+https://therebelape.com/marketing-services/website-design/website-design-examples/ /services/website-design/ 301!
+https://therebelape.com/plumber-marketing-services/plumber-website-design/website-design-examples/ /services/website-design/ 301!
+https://therebelape.com/services/plumber-website-design/ /services/website-design/ 301!
+https://therebelape.com/web-design-examples/ /services/website-design/ 301!
 
 # WEBSITE DESIGN - Blog & Feed Pages
-https://therebelape.com/category/design/ /website-design/ 301!
-https://therebelape.com/category/design/feed/ /website-design/ 301!
+https://therebelape.com/category/design/ /services/website-design/ 301!
+https://therebelape.com/category/design/feed/ /services/website-design/ 301!
 
 # WEBSITE DESIGN - Client Projects
-https://therebelape.com/our-work/client-work/capener-matthews-dental-website-design/ /website-design/ 301!
-https://therebelape.com/our-work/client-work/develop-your-intuitive-gifts-website-design/ /website-design/ 301!
-https://therebelape.com/our-work/client-work/ellis-printing-website-design/ /website-design/ 301!
-https://therebelape.com/our-work/client-work/out-there-roofing-website-design/ /website-design/ 301!
-https://therebelape.com/our-work/client-work/tnt-social-media-website-design/ /website-design/ 301!
+https://therebelape.com/our-work/client-work/capener-matthews-dental-website-design/ /services/website-design/ 301!
+https://therebelape.com/our-work/client-work/develop-your-intuitive-gifts-website-design/ /services/website-design/ 301!
+https://therebelape.com/our-work/client-work/ellis-printing-website-design/ /services/website-design/ 301!
+https://therebelape.com/our-work/client-work/out-there-roofing-website-design/ /services/website-design/ 301!
+https://therebelape.com/our-work/client-work/tnt-social-media-website-design/ /services/website-design/ 301!
 
 # ========================================
 # SEO & MARKETING CONTENT
@@ -137,7 +152,7 @@ https://therebelape.com/our-work/client-work/tnt-social-media-website-design/ /w
 https://therebelape.com/marketing-agencies-utah/ / 301!
 
 # SEO - City Pages
-https://therebelape.com/marketing-services/website-design/ /website-design/ 301!
+https://therebelape.com/marketing-services/website-design/ /services/website-design/ 301!
 
 
 # ========================================
@@ -216,6 +231,8 @@ https://therebelape.com/about-us/privacy-policy/ /privacy-policy/ 301!
 # TERMS AND CONDITIONS
 https://therebelape.com/legal/terms-and-conditions/ /terms-and-conditions/ 301!
 https://therebelape.com/legal/terms-and-conditions /terms-and-conditions/ 301!
+https://therebelape.com/terms-and-conditions/ /terms-and-conditions/ 301!
+https://therebelape.com/terms-and-conditions /terms-and-conditions/ 301!
 
 # SITEMAP
 https://therebelape.com/html-sitemap/ /sitemap.xml 301!
@@ -468,27 +485,33 @@ https://www.therebelape.com/testimonials/ / 301!
 https://www.therebelape.com/about-rebel-ape-marketing/about-adam-miconi/ / 301!
 
 # ========================================
-# OLD PPC/ADS SERVICES → /ads/
+# OLD PPC/ADS SERVICES → /services/ppc/
 # ========================================
-https://therebelape.com/marketing-services/google-local-service-ads/ /ads/ 301!
-https://therebelape.com/marketing-services/ppc-agency/ /ads/ 301!
-https://therebelape.com/plumber-marketing-services/plumber-google-local-service-ads/ /ads/ 301!
-https://therebelape.com/plumber-marketing-services/plumber-ppc-advertising/ /ads/ 301!
+https://therebelape.com/marketing-services/google-local-service-ads/ /services/ppc/local-service-ads/ 301!
+https://therebelape.com/marketing-services/ppc-agency/ /services/ppc/ 301!
+https://therebelape.com/plumber-marketing-services/plumber-google-local-service-ads/ /services/ppc/local-service-ads/ 301!
+https://therebelape.com/plumber-marketing-services/plumber-ppc-advertising/ /services/ppc/ 301!
+
+# Legacy LSA redirects
+/local-service-ads/ /services/ppc/local-service-ads/ 301
+/local-service-ads /services/ppc/local-service-ads/ 301
+/services/local-service-ads/ /services/ppc/local-service-ads/ 301
+/services/local-service-ads /services/ppc/local-service-ads/ 301
 
 # ========================================
-# OLD SEO SERVICES → /blog/
+# OLD SEO SERVICES → /services/seo/
 # ========================================
-https://therebelape.com/marketing-services/seo/ /blog/ 301!
-https://therebelape.com/marketing-services/seo/ogden/ /blog/ 301!
-https://therebelape.com/marketing-services/seo/salt-lake-city/ /blog/ 301!
-https://therebelape.com/marketing-services/seo/logan/ /blog/ 301!
-https://therebelape.com/marketing-services/seo/las-vegas/ /blog/ 301!
-https://therebelape.com/marketing-services/seo/seo-onboarding-questionnaire/ /blog/ 301!
-https://therebelape.com/marketing-services/seo/layton/ /blog/ 301!
-https://therebelape.com/seo-onboarding/ /blog/ 301!
+https://therebelape.com/marketing-services/seo/ /services/seo/ 301!
+https://therebelape.com/marketing-services/seo/ogden/ /services/seo/ 301!
+https://therebelape.com/marketing-services/seo/salt-lake-city/ /services/seo/ 301!
+https://therebelape.com/marketing-services/seo/logan/ /services/seo/ 301!
+https://therebelape.com/marketing-services/seo/las-vegas/ /services/seo/ 301!
+https://therebelape.com/marketing-services/seo/seo-onboarding-questionnaire/ /services/seo/ 301!
+https://therebelape.com/marketing-services/seo/layton/ /services/seo/ 301!
+https://therebelape.com/seo-onboarding/ /services/seo/ 301!
 
-# PLUMBER SEO → /blog/
-https://therebelape.com/plumber-marketing-services/plumber-seo/ /blog/ 301!
+# PLUMBER SEO → /services/seo/
+https://therebelape.com/plumber-marketing-services/plumber-seo/ /services/seo/ 301!
 https://therebelape.com/plumber-marketing-services/plumber-seo/plumber-seo-layton/ /blog/ 301!
 https://therebelape.com/plumber-marketing-services/plumber-seo/plumber-seo-logan/ /blog/ 301!
 https://therebelape.com/plumber-marketing-services/plumber-seo/plumber-seo-las-vegas/ /blog/ 301!
@@ -526,9 +549,9 @@ https://therebelape.com/category/marketing/ /blog/ 301!
 # ========================================
 # WEBSITE DESIGN PAGES → /website-design/
 # ========================================
-https://therebelape.com/plumber-website-design/website-design-examples/ /website-design/ 301!
-https://therebelape.com/plumber-marketing-services/plumber-website-design/website-design-examples/ /website-design/ 301!
-https://therebelape.com/web-design-questionnaire/ /website-design/ 301!
+https://therebelape.com/plumber-website-design/website-design-examples/ /services/website-design/ 301!
+https://therebelape.com/plumber-marketing-services/plumber-website-design/website-design-examples/ /services/website-design/ 301!
+https://therebelape.com/web-design-questionnaire/ /services/website-design/ 301!
 
 # ========================================
 # CASE STUDIES & PORTFOLIOS → /case-studies/

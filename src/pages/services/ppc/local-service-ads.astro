@@ -1,0 +1,121 @@
+---
+import Base from '../../../layouts/Base.astro';
+import Hero from '../../../components/sections/Hero.astro';
+import SocialProofBar from '../../../components/sections/SocialProofBar.astro';
+import CaseStudy from '../../../components/sections/CaseStudy.astro';
+import TestimonialsDefault from '../../../components/sections/TestimonialsDefault.astro';
+
+// SEO
+const title = "Google Local Service Ads for Contractors | Rebel Ape";
+const description = "Get the Google Guaranteed badge and show up at the very top of search results. We manage your Local Service Ads to get you qualified leads without wasting your budget.";
+const canonical = "https://therebelape.com/services/ppc/local-service-ads/";
+const image = "https://RebelApeCDN.b-cdn.net/Rebel%20Website/Homepage/bg-gorilla-direct.webp";
+const type = "website";
+const robots = "index, follow";
+---
+
+<Base {title} {description} {canonical} {image} {type} {robots}>
+  <section>
+    <Hero
+      headline="Get <span class='text-rebel-green'>Google Guaranteed</span>"
+      description="Show up at the very top of search results with the Google Guaranteed badge. Only pay for actual leads, not clicks."
+      backgroundImage="https://RebelApeCDN.b-cdn.net/Rebel%20Website/Homepage/UOMC-bg.webp"
+      buttonText="Get Started with LSA"
+      buttonHref="/schedule/"
+    />
+    <SocialProofBar />
+  </section>
+
+  <!-- What We Do -->
+  <section class="py-16 bg-white">
+    <div class="max-w-7xl mx-auto px-6">
+      <div class="max-w-3xl mx-auto text-center mb-12">
+        <h2 class="text-4xl md:text-5xl font-black mb-4">Be the First Business Customers See</h2>
+        <p class="text-xl text-gray-600">Local Service Ads appear above everything else—even regular Google Ads.</p>
+      </div>
+
+      <div class="grid md:grid-cols-3 gap-8">
+        <div class="bg-slate-50 p-8 rounded-lg">
+          <h3 class="text-2xl font-bold mb-4">Pay Per Lead</h3>
+          <p class="text-gray-600">Unlike regular ads where you pay per click, LSAs only charge you when a customer actually calls or messages you.</p>
+        </div>
+
+        <div class="bg-slate-50 p-8 rounded-lg">
+          <h3 class="text-2xl font-bold mb-4">Google Guaranteed Badge</h3>
+          <p class="text-gray-600">The green checkmark builds instant trust. Customers know Google has verified your business and quality of work.</p>
+        </div>
+
+        <div class="bg-slate-50 p-8 rounded-lg">
+          <h3 class="text-2xl font-bold mb-4">High-Intent Leads</h3>
+          <p class="text-gray-600">People using LSA are ready to hire right now. They're looking for a licensed, trustworthy contractor they can call immediately.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- How We Manage LSA -->
+  <section class="py-16 bg-slate-100">
+    <div class="max-w-7xl mx-auto px-6">
+      <div class="max-w-3xl mx-auto">
+        <h2 class="text-4xl md:text-5xl font-black mb-8 text-center">How We Manage Your LSA Campaigns</h2>
+
+        <div class="space-y-6">
+          <div class="bg-white p-6 rounded-lg">
+            <h3 class="text-xl font-bold mb-2">Setup & Verification</h3>
+            <p class="text-gray-600">We handle the entire application process, background checks, insurance verification, and licensing to get you Google Guaranteed.</p>
+          </div>
+
+          <div class="bg-white p-6 rounded-lg">
+            <h3 class="text-xl font-bold mb-2">Budget Optimization</h3>
+            <p class="text-gray-600">Set smart budgets that keep you visible during peak times without wasting money. We monitor and adjust based on lead quality.</p>
+          </div>
+
+          <div class="bg-white p-6 rounded-lg">
+            <h3 class="text-xl font-bold mb-2">Lead Dispute Management</h3>
+            <p class="text-gray-600">Got charged for a bad lead? We dispute them for you so you only pay for real customers who are ready to hire.</p>
+          </div>
+
+          <div class="bg-white p-6 rounded-lg">
+            <h3 class="text-xl font-bold mb-2">Review Management</h3>
+            <p class="text-gray-600">Your star rating directly impacts your LSA ranking. We help you get more reviews and respond to feedback professionally.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Why LSA Works -->
+  <section class="py-16 bg-white">
+    <div class="max-w-7xl mx-auto px-6">
+      <div class="max-w-3xl mx-auto text-center">
+        <h2 class="text-4xl md:text-5xl font-black mb-8">Why Local Service Ads Work for Contractors</h2>
+
+        <div class="grid md:grid-cols-2 gap-8 text-left">
+          <div class="bg-slate-50 p-6 rounded-lg">
+            <h3 class="text-xl font-bold mb-2">Top Placement</h3>
+            <p class="text-gray-600">LSAs show up above organic results, Google Ads, and the map pack. You literally can't rank higher.</p>
+          </div>
+
+          <div class="bg-slate-50 p-6 rounded-lg">
+            <h3 class="text-xl font-bold mb-2">Better ROI</h3>
+            <p class="text-gray-600">Pay-per-lead pricing means you're only charged when someone actually contacts you, not for window shoppers.</p>
+          </div>
+
+          <div class="bg-slate-50 p-6 rounded-lg">
+            <h3 class="text-xl font-bold mb-2">Build Trust Fast</h3>
+            <p class="text-gray-600">The Google Guaranteed badge gives customers confidence to call you over competitors without the badge.</p>
+          </div>
+
+          <div class="bg-slate-50 p-6 rounded-lg">
+            <h3 class="text-xl font-bold mb-2">Mobile-First</h3>
+            <p class="text-gray-600">LSAs dominate mobile search where most local searches happen. One tap to call you directly from the ad.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <CaseStudy />
+  <TestimonialsDefault />
+
+</Base>

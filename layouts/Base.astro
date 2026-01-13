@@ -1,0 +1,126 @@
+---
+import '../styles/global.css';
+import Header from '../components/layout/Header.astro';
+import CTAfooter from '../components/sections/CTAfooter.astro';
+import Footer from '../components/layout/Footer.astro';
+
+// SEO
+interface Props {
+  title?: string;
+  description?: string;
+  canonical?: string;
+  image?: string;
+  type?: string;
+  robots?: string;
+  schema?: Record<string, any> | Record<string, any>[];
+  publishedTime?: string;
+  modifiedTime?: string;
+  locale?: string;
+  bodyClass?: string;
+  notes?: Record<string, string>;
+}
+
+const GTM_ID = 'GTM-TS9DGRQB';
+
+const {
+  title = "Rebel Ape Marketing",
+  description,
+  canonical,
+  image,
+  type,
+  robots = "index,follow",
+  schema,
+  publishedTime,
+  modifiedTime,
+  locale,
+  bodyClass = "",
+} = Astro.props as Props;
+---
+
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <!-- Favicons -->
+    <link rel="shortcut icon" href="/favicon.ico" />
+    <link rel="icon" href="/favicon.ico?" sizes="any" />
+    <link rel="icon" type="image/png" href="/favicon-32x32.png?v=1" sizes="32x32" />
+    <link rel="icon" type="image/png" href="/favicon-16x16.png?v=1" sizes="16x16" />
+    <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+    <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#111111" />
+
+    <meta name="viewport" content="width=device-width" />
+
+    <!-- Performance: Preconnect to CDN -->
+    <link rel="preconnect" href="https://rebelapecdn.b-cdn.net">
+    <link rel="dns-prefetch" href="https://connect.facebook.net">
+    <link rel="dns-prefetch" href="https://www.googletagmanager.com">
+
+    <meta name="robots" content={robots}>
+    {schema && (
+      <script type="application/ld+json" set:html={JSON.stringify(schema)} />
+    )}
+    {description && <meta name="description" content={description} />}
+    {canonical && <link rel="canonical" href={canonical} />}
+
+    <!-- Open Graph / Social Media -->
+    <meta property="og:title" content={title} />
+    {description && <meta property="og:description" content={description} />}
+    {canonical && <meta property="og:url" content={canonical} />}
+    <meta property="og:type" content={type || "website"} />
+    {image && <meta property="og:image" content={image} />}
+    {image && <meta property="og:image:width" content="1200" />}
+    {image && <meta property="og:image:height" content="630" />}
+    
+    <!-- Twitter Card -->
+    {image && <meta name="twitter:image" content={image} />}
+    <meta name="twitter:card" content="summary_large_image" />
+    {title && <meta name="twitter:title" content={title} />}
+    {description && <meta name="twitter:description" content={description} />}
+
+    <!-- TruConversion for therebelape.com -->
+    <script type="text/javascript">
+        var _tip = _tip || [];
+        (function(d,s,id){
+            var js, tjs = d.getElementsByTagName(s)[0];
+            if(d.getElementById(id)) { return; }
+            js = d.createElement(s); js.id = id;
+            js.async = true;
+            js.src = d.location.protocol + '//app.truconversion.com/ti-js/33260/e9603.js';
+            tjs.parentNode.insertBefore(js, tjs);
+        }(document, 'script', 'ti-js'));
+    </script>
+                        
+
+    <meta name="generator" content={Astro.generator} />
+    <title>{title}</title>
+  </head> 
+  <body>
+    <noscript>
+      <iframe 
+        src={`https://www.googletagmanager.com/ns.html?id=${GTM_ID}`}
+        height="0" 
+        width="0" 
+        style="display:none;visibility:hidden">
+      </iframe>
+    </noscript>
+    
+    <Header />
+    <slot />
+    <CTAfooter />
+    <Footer />
+
+    <!-- Google Tag Manager -->
+    <script is:inline define:vars={{ GTM_ID }}>
+      (function(w,d,s,l,i){
+        w[l]=w[l]||[];
+        w[l].push({'gtm.start': new Date().getTime(), event:'gtm.js'});
+        var f=d.getElementsByTagName(s)[0], j=d.createElement(s);
+        j.async=true;
+        j.src='https://www.googletagmanager.com/gtm.js?id='+i;
+        f.parentNode.insertBefore(j,f);
+      })(window,document,'script','dataLayer',GTM_ID);
+    </script>
+    <!-- End Google Tag Manager -->
+  </body>
+</html>
