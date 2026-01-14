@@ -358,7 +358,7 @@ This is where it starts looking like a real website. We take your branding (colo
 **What separates pro design from amateur:**
 - **Professional photography matters.** Stock photos of models in hard hats scream "fake." Real photos of your crew on actual job sites build trust. Learn why in our article on [professional photography ROI](/blog/professional-photography-business-roi-benefits/).
 - **White space is your friend.** Cramming everything above the fold makes it look desperate.
-- **Mobile-first design is non-negotiable.** According to Google, [53% of mobile users abandon sites that take over 3 seconds to load](https://www.thinkwithgoogle.com/marketing-strategies/app-and-mobile/mobile-page-speed-new-industry-benchmarks/). If your site doesn't work perfectly on a phone, you're losing money.
+- **Mobile-first design is non-negotiable.** According to Google, 53% of mobile users abandon sites that take over 3 seconds to load. If your site doesn't work perfectly on a phone, you're losing money.
 
 We usually build the theme first (header, footer, overall style) then populate it with your actual content. This keeps everything consistent and makes updates easier down the road.
 
@@ -542,4 +542,4 @@ We've built this process over years of working with roofing contractors and home
 
 If you're ready to stop wasting money on a website that just sits there, let's talk about what a high-converting site could do for your business.
 
-👉 **Schedule a free website audit:** /schedule
+👉 **Schedule a free website audit:** [Schedule](/schedule/)
