@@ -6,7 +6,7 @@ excerpt: "Your designer made it beautiful. Your developer made it fast. So why i
 publishDate: "2019-11-24T03:02:00-07:00"
 lastModified: "2025-01-14T00:00:00-07:00"
 author: "Adam Miconi"
-image: "https://RebelApeCDN.b-cdn.net/rebel-ape-main/registrar.webp"
+image: "https://RebelApeCDN.b-cdn.net/rebel-ape-main/4-vita-components-website.png"
 category: "Home Services Marketing"
 tags: ["website design", "conversion optimization", "landing pages", "contractor marketing", "roofing contractors", "lead generation"]
 draft: false
@@ -25,7 +25,7 @@ schema:
       "@id": "https://therebelape.com/blog/4-vital-components-of-the-website-process/#article",
       "headline": "Why Your Contractor Website Doesn't Get Leads (And the 4 Things That Actually Matter)",
       "description": "Most contractor websites are built to look pretty or work smoothly—but not to generate leads. Here's what actually matters for roofing and home service websites that convert.",
-      "image": "https://RebelApeCDN.b-cdn.net/rebel-ape-main/registrar.webp",
+      "image": "https://RebelApeCDN.b-cdn.net/rebel-ape-main/4-vita-components-website.png",
       "author": {
         "@type": "Person",
         "name": "Adam Miconi",
@@ -217,6 +217,8 @@ Most designers work backward. They start with what looks good, then hope it some
 ## The Four Components of a Website That Actually Converts
 
 Now that we've covered strategy, let's talk about the technical foundation. But I need to translate this into terms that actually matter for your business, not generic web development jargon.
+
+![Comparison of a generic contractor website versus a conversion-focused contractor website showing clear calls to action and service sections](https://RebelApeCDN.b-cdn.net/rebel-ape-main/domain-hosting-design-tracking.png)
 
 ### 1. The Domain (Your Digital Real Estate)
 
