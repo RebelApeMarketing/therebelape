@@ -199,7 +199,7 @@ Slow-loading websites are conversion killers, especially for service businesses 
 
 ### Why It Matters
 
-If your website takes more than 3-5 seconds to load, you're losing potential customers. Period. According to Google, 53% of mobile site visitors leave a page that takes longer than three seconds to load ([source](https://www.thinkwithgoogle.com/marketing-strategies/app-and-mobile/mobile-page-speed-new-industry-benchmarks/)). In emergency situations, every second counts, and customers won't wait for your beautiful but slow website to display.
+If your website takes more than 3-5 seconds to load, you're losing potential customers. Period. According to Google, 53% of mobile site visitors leave a page that takes longer than three seconds to load. In emergency situations, every second counts, and customers won't wait for your beautiful but slow website to display.
 
 They'll simply hit the back button and try the next company in their search results. This is especially true for mobile users with varying connection speeds.
 

@@ -51,7 +51,7 @@ Research and clear communication are paramount when planning your logo design. U
 
 #### Role of design trends
 
-Understanding [current design trends](https://envato.com/blog/graphic-design-trends/) can help you decide on the style you want for your logo. Whether you desire a sleek and modern appearance or a more classic look, being aware of what's popular in design can guide your choices. However, it's essential to strike a balance between trendy and timeless. While embracing current trends can make your logo feel fresh and relevant, it's wise to ensure that the design will still feel appropriate as trends evolve. Consider your brand's long-term goals and how the logo will fit into them as you explore various design trends.
+Understanding current design trends can help you decide on the style you want for your logo. Whether you desire a sleek and modern appearance or a more classic look, being aware of what's popular in design can guide your choices. However, it's essential to strike a balance between trendy and timeless. While embracing current trends can make your logo feel fresh and relevant, it's wise to ensure that the design will still feel appropriate as trends evolve. Consider your brand's long-term goals and how the logo will fit into them as you explore various design trends.
 
 #### Gathering inspirations
 
@@ -197,7 +197,7 @@ Finding designers who have worked in your industry can bring valuable insights i
 
 ### Where to find designers
 
-Whether you're going local or national, there are ample resources to **find a logo designer**. Websites like [Dribbble](https://dribbble.com/AdamMiconi), [Behance](https://www.behance.net/graphicdesbc4f), or [Logopond](https://logopond.com/GraphicDesignByAdam) offer diverse options. If going locally, social networks, local chambers, networking groups, and online social groups for your city can be instrumental in finding the perfect fit. Mention you're looking to **hire a logo designer** or a brand designer, and the right talent may just come to you.
+Whether you're going local or national, there are ample resources to **find a logo designer**. Websites like [Dribbble](https://dribbble.com/AdamMiconi), [Behance](https://www.behance.net/graphicdesbc4f), or Logopond offer diverse options. If going locally, social networks, local chambers, networking groups, and online social groups for your city can be instrumental in finding the perfect fit. Mention you're looking to **hire a logo designer** or a brand designer, and the right talent may just come to you.
 
 Examining a designer's portfolio is more than a visual assessment. It's about understanding their style, versatility, specialization, and how their design approach aligns with your brand's vision. Taking these aspects into account ensures that the designer you hire will deliver a product that resonates with your brand and meets your expectations.
 
@@ -207,7 +207,7 @@ Examining a designer's portfolio is more than a visual assessment. It's about un
 
 - **Identify Your Needs:** Understand the specific style, mood, and aesthetic you want for your project, and identify whether you need a logo designer, brand designer, or other specialization.
 - **Analyze Portfolios:** Look for portfolios that match your desired look and feel. Consider consistency, versatility, and how the designer's work resonates with your brand.
-- **Use Online Platforms:** Explore websites like [Dribbble](https://dribbble.com/AdamMiconi), [Behance](https://www.behance.net/graphicdesbc4f), or [Logopond](https://logopond.com/GraphicDesignByAdam) to find designers with relevant portfolios.
+- **Use Online Platforms:** Explore websites like [Dribbble](https://dribbble.com/AdamMiconi), [Behance](https://www.behance.net/graphicdesbc4f), or Logopond to find designers with relevant portfolios.
 - **Consult Local Networks:** If you're looking for a local designer, ask your social network, local chambers, networking groups, or online social groups for recommendations.
 - **Evaluate Specialization:** Consider whether the designer has specific experience in logo design, general design skills, or experience in your industry.
 - **Contact Potential Designers:** Click the "Hire me" button or fill out a contact form on the designer's online portfolio or reach out through local connections.

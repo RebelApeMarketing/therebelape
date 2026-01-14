@@ -18,8 +18,6 @@ Get started with a great social media marketing campaign. As the ad adage goes, 
 
 [Here are a few stats](https://www.forbes.com/sites/bernardmarr/2018/05/21/how-much-data-do-we-create-every-day-the-mind-blowing-stats-everyone-should-read/#547fd45360ba) from some of the most-used social media platforms in 2017: every minute, Snapchat users share 527,760 photos, users send 456,000 tweets on Twitter, and Instagram users post 46,740 photos.
 
-[Web designers](https://www.visualobjects.com/) may need to continue coming up with creative ways to display this massive amount of content on their sites.
-
 ---
 
 ## Starting A Social Media Marketing Campaign

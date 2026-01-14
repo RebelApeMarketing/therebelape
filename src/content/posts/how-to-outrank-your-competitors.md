@@ -24,11 +24,6 @@ Did you know that an astounding **97% of internet users** do not click past the 
 
 Fortunately, outranking your competitors isn’t an impossible task. You can increase the likelihood of ranking above your competitors in the SERPs (Search Engine Results Page) by ensuring your [website reaps the benefits of Google Ranking Factors](https://therebelape.com/services/seo/).
 
-Google uses a ranking algorithm that filters search results based on certain factors. This algorithm has undergone many updates, such as:
-
-- [Penguin 4.0](https://searchengineland.com/library/google/google-penguin-update)
-- [Possum](https://searchengineland.com/everything-you-need-to-know-about-googles-possum-algorithm-update-258900)
-
 These updates introduced a smarter, more refined, and more semantic search experience.
 
 Although the exact number of Google ranking factors remains Google’s little big secret, SEO experts have identified **200+ ranking factors**. (Yep, [Backlinko’s list](https://backlinko.com/google-ranking-factors) alone is massive.) The key isn’t doing *everything* — it’s focusing on what moves the needle for your business.
