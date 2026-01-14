@@ -7,7 +7,7 @@ author: "Adam Miconi"
 publishDate: "2019-02-20T00:38:00-07:00"
 lastModified: ""
 image: "https://RebelApeCDN.b-cdn.net/rebel-ape-main/google-my-business-listing-selection.webp"
-canonicalUrl: ""
+canonicalUrl: "https://therebelape.com/blog/how-to-add-users-to-google-my-business-listing/"
 tags: []
 draft: false
 ---

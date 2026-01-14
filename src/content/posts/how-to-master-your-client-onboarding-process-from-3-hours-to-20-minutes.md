@@ -7,7 +7,7 @@ author: "Adam Miconi"
 publishDate: "2025-09-26T10:00:00-06:00"
 lastModified: ""
 image: ""
-canonicalUrl: ""
+canonicalUrl: "https://therebelape.com/blog/how-to-master-your-client-onboarding-process-from-3-hours-to-20-minutes/"
 tags: []
 draft: false
 ---

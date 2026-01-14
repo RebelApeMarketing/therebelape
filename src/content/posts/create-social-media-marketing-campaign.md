@@ -7,7 +7,7 @@ author: "Adam Miconi"
 publishDate: "2019-07-05T12:15:00-06:00"
 lastModified: ""
 image: ""
-canonicalUrl: ""
+canonicalUrl: "https://therebelape.com/blog/create-social-media-marketing-campaign/"
 tags: []
 draft: false
 ---

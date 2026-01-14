@@ -7,7 +7,7 @@ author: "Adam Miconi"
 publishDate: "2025-09-24T10:00:00-06:00"
 lastModified: ""
 image: ""
-canonicalUrl: ""
+canonicalUrl: "https://therebelape.com/blog/getting-to-know-your-customer-avatar-the-ultimate-guide-to-better-marketing/"
 tags: []
 draft: false
 ---

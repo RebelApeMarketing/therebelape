@@ -7,7 +7,7 @@ author: "Adam Miconi"
 publishDate: "2021-12-08T10:00:00-07:00"
 lastModified: ""
 image: ""
-canonicalUrl: ""
+canonicalUrl: "https://therebelape.com/blog/xyz-marketing/"
 tags: []
 draft: false
 ---

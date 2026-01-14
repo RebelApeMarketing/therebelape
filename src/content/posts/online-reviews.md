@@ -7,7 +7,7 @@ author: "Adam Miconi"
 publishDate: "2021-06-08T12:50:00-06:00"
 lastModified: ""
 image: ""
-canonicalUrl: ""
+canonicalUrl: "https://therebelape.com/blog/online-reviews/"
 tags: []
 draft: false
 ---

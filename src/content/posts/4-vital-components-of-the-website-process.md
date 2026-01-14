@@ -7,7 +7,7 @@ author: "Adam Miconi"
 publishDate: "2019-11-24T03:02:00-07:00"
 lastModified: ""
 image: "https://RebelApeCDN.b-cdn.net/rebel-ape-main/registrar.webp"
-canonicalUrl: ""
+canonicalUrl: "https://therebelape.com/blog/4-vital-components-of-the-website-process/"
 tags: []
 draft: false
 ---

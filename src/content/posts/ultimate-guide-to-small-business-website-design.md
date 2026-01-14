@@ -7,7 +7,7 @@ author: "Adam Miconi"
 publishDate: "2024-10-05T15:29:00-06:00"
 lastModified: ""
 image: "https://RebelApeCDN.b-cdn.net/rebel-ape-main/NameCheap-Screenshot-1030x710.png"
-canonicalUrl: ""
+canonicalUrl: "https://therebelape.com/blog/ultimate-guide-to-small-business-website-design/"
 tags: []
 draft: false
 ---

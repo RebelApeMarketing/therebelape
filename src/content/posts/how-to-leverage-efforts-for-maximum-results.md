@@ -7,7 +7,7 @@ author: "Adam Miconi"
 publishDate: "2024-09-23T17:47:00-06:00"
 lastModified: ""
 image: ""
-canonicalUrl: ""
+canonicalUrl: "https://therebelape.com/blog/how-to-leverage-efforts-for-maximum-results/"
 tags: []
 draft: false
 ---

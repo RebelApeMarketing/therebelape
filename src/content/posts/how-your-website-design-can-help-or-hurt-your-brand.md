@@ -7,7 +7,7 @@ author: "Adam Miconi"
 publishDate: "2019-03-12T10:00:00-06:00"
 lastModified: ""
 image: "https://RebelApeCDN.b-cdn.net/rebel-ape-main/bad-design-vs-good-design.webp"
-canonicalUrl: ""
+canonicalUrl: "https://therebelape.com/blog/how-your-website-design-can-help-or-hurt-your-brand/"
 tags: []
 draft: false
 ---

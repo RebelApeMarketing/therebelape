@@ -7,7 +7,7 @@ author: "Adam Miconi"
 publishDate: "2020-01-01T23:26:00-07:00"
 lastModified: ""
 image: ""
-canonicalUrl: ""
+canonicalUrl: "https://therebelape.com/blog/how-the-logo-design-process-works/"
 tags: []
 draft: false
 ---

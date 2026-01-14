@@ -7,7 +7,7 @@ author: "Adam Miconi"
 publishDate: "2025-05-22T12:00:00-06:00"
 lastModified: ""
 image: "https://RebelApeCDN.b-cdn.net/rebel-ape-main/business-videos-utah-1030x686.webp"
-canonicalUrl: ""
+canonicalUrl: "https://therebelape.com/blog/when-to-hire-a-professional-videographer-for-your-home-service-company/"
 tags: []
 draft: false
 ---

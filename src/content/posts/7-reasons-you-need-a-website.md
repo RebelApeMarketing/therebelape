@@ -7,7 +7,7 @@ author: "Adam Miconi"
 publishDate: "2019-03-15T12:00:00-06:00"
 lastModified: ""
 image: "https://RebelApeCDN.b-cdn.net/rebel-ape-main/online-business.webp"
-canonicalUrl: ""
+canonicalUrl: "https://therebelape.com/blog/7-reasons-you-need-a-website/"
 tags: []
 draft: false
 ---

@@ -7,7 +7,7 @@ author: "Adam Miconi"
 publishDate: "2025-06-12T21:49:00-06:00"
 lastModified: ""
 image: "https://RebelApeCDN.b-cdn.net/rebel-ape-main/social-media-marketing-group.webp"
-canonicalUrl: ""
+canonicalUrl: "https://therebelape.com/blog/social-media-marketing-business-impact/"
 tags: []
 draft: false
 ---

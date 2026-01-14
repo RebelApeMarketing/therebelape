@@ -7,7 +7,7 @@ author: "Adam Miconi"
 publishDate: "2025-03-25T12:29:00-06:00"
 lastModified: ""
 image: "https://RebelApeCDN.b-cdn.net/rebel-ape-main/seo-tips-for-plumbers-title-tag-optimization-gorilla-magnifying-glass-1030x589.png"
-canonicalUrl: ""
+canonicalUrl: "https://therebelape.com/blog/seo-tips-for-plumbers/"
 tags: []
 draft: false
 ---

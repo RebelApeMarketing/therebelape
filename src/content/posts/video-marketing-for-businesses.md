@@ -7,7 +7,7 @@ author: "Adam Miconi"
 publishDate: "2025-09-01T10:00:00-06:00"
 lastModified: ""
 image: "https://RebelApeCDN.b-cdn.net/rebel-ape-main/Capturing-Authentic-Brand-Stories-Through-Video-Marketing.webp"
-canonicalUrl: ""
+canonicalUrl: "https://therebelape.com/blog/video-marketing-for-businesses/"
 tags: []
 draft: false
 ---

@@ -7,7 +7,7 @@ author: "Adam Miconi"
 publishDate: "2025-09-10T10:00:00-06:00"
 lastModified: ""
 image: ""
-canonicalUrl: ""
+canonicalUrl: "https://therebelape.com/blog/organic-marketing-strategies-for-explosive-business-growth-in-2025/"
 tags: []
 draft: false
 ---

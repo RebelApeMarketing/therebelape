@@ -7,7 +7,7 @@ author: "Adam Miconi"
 publishDate: "2025-03-18T11:54:00-06:00"
 lastModified: ""
 image: "https://RebelApeCDN.b-cdn.net/rebel-ape-main/emergency-plumber-website-call-now-button-1030x589.png"
-canonicalUrl: ""
+canonicalUrl: "https://therebelape.com/blog/plumbing-website-conversion-fixes/"
 tags: []
 draft: false
 ---

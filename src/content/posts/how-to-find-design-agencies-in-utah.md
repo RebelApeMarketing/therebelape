@@ -7,7 +7,7 @@ author: "Adam Miconi"
 publishDate: "2022-08-10T12:55:00-06:00"
 lastModified: ""
 image: ""
-canonicalUrl: ""
+canonicalUrl: "https://therebelape.com/blog/how-to-find-design-agencies-in-utah/"
 tags: []
 draft: false
 ---

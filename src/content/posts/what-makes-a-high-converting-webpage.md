@@ -7,7 +7,7 @@ author: "Adam Miconi"
 publishDate: "2021-09-12T16:09:00-06:00"
 lastModified: ""
 image: "https://RebelApeCDN.b-cdn.net/rebel-ape-main/googles-ranking-algorithm-2021-1030x686.webp"
-canonicalUrl: ""
+canonicalUrl: "https://therebelape.com/blog/what-makes-a-high-converting-webpage/"
 tags: []
 draft: false
 ---

@@ -7,7 +7,7 @@ author: "Adam Miconi"
 publishDate: "2018-12-20T13:07:00-07:00"
 lastModified: ""
 image: "https://RebelApeCDN.b-cdn.net/rebel-ape-main/google-ranking-factor-serps.webp"
-canonicalUrl: ""
+canonicalUrl: "https://therebelape.com/blog/how-to-outrank-your-competitors/"
 tags: []
 draft: false
 ---

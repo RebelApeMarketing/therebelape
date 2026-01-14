@@ -7,7 +7,7 @@ author: "Adam Miconi"
 publishDate: "2020-01-03T01:45:00-07:00"
 lastModified: ""
 image: ""
-canonicalUrl: ""
+canonicalUrl: "https://therebelape.com/blog/google-bert-update/"
 tags: []
 draft: false
 ---

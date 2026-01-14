@@ -7,7 +7,7 @@ author: "Adam Miconi"
 publishDate: "2025-08-31T18:45:00-06:00"
 lastModified: ""
 image: ""
-canonicalUrl: ""
+canonicalUrl: "https://therebelape.com/blog/ai-for-home-service-companies/"
 tags: []
 draft: false
 ---

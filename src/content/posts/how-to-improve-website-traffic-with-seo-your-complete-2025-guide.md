@@ -7,7 +7,7 @@ author: "Adam Miconi"
 publishDate: "2025-09-15T22:25:00-06:00"
 lastModified: ""
 image: ""
-canonicalUrl: ""
+canonicalUrl: "https://therebelape.com/blog/how-to-improve-website-traffic-with-seo-your-complete-2025-guide/"
 tags: []
 draft: false
 ---

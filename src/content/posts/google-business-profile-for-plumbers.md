@@ -7,7 +7,7 @@ author: "Adam Miconi"
 publishDate: "2025-04-21T12:05:00-06:00"
 lastModified: ""
 image: ""
-canonicalUrl: ""
+canonicalUrl: "https://therebelape.com/blog/google-business-profile-for-plumbers/"
 tags: []
 draft: false
 ---

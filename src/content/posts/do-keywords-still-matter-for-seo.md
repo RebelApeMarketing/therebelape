@@ -7,7 +7,7 @@ author: "Adam Miconi"
 publishDate: "2018-05-06T11:00:00-06:00"
 lastModified: ""
 image: "https://RebelApeCDN.b-cdn.net/rebel-ape-main/rebel-ape-analytics-1030x308.jpg"
-canonicalUrl: ""
+canonicalUrl: "https://therebelape.com/blog/do-keywords-still-matter-for-seo/"
 tags: []
 draft: false
 ---

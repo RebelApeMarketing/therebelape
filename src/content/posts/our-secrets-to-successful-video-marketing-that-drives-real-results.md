@@ -7,7 +7,7 @@ author: "Adam Miconi"
 publishDate: "2025-10-03T10:00:00-06:00"
 lastModified: ""
 image: ""
-canonicalUrl: ""
+canonicalUrl: "https://therebelape.com/blog/our-secrets-to-successful-video-marketing-that-drives-real-results/"
 tags: []
 draft: false
 ---

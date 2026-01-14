@@ -7,7 +7,7 @@ author: "Adam Miconi"
 publishDate: "2025-05-27T15:40:00-06:00"
 lastModified: ""
 image: ""
-canonicalUrl: ""
+canonicalUrl: "https://therebelape.com/blog/total-market-domination-with-google-business-profile/"
 tags: []
 draft: false
 ---

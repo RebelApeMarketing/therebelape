@@ -7,7 +7,7 @@ author: "Adam Miconi"
 publishDate: "2025-06-10T12:00:00-06:00"
 lastModified: ""
 image: ""
-canonicalUrl: ""
+canonicalUrl: "https://therebelape.com/blog/social-media-marketing-maximize-strategies/"
 tags: []
 draft: false
 ---

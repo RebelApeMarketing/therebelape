@@ -7,7 +7,7 @@ author: "Adam Miconi"
 publishDate: "2020-02-09T19:05:00-07:00"
 lastModified: ""
 image: ""
-canonicalUrl: ""
+canonicalUrl: "https://therebelape.com/blog/what-is-a-brand-promise/"
 tags: []
 draft: false
 ---

@@ -7,7 +7,7 @@ author: "Adam Miconi"
 publishDate: "2025-05-29T12:00:00-06:00"
 lastModified: ""
 image: ""
-canonicalUrl: ""
+canonicalUrl: "https://therebelape.com/blog/keyword-cannibalization-and-why-you-should-avoid-it/"
 tags: []
 draft: false
 ---

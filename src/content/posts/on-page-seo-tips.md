@@ -7,7 +7,7 @@ author: "Adam Miconi"
 publishDate: "2020-12-10T11:00:00-07:00"
 lastModified: ""
 image: "https://RebelApeCDN.b-cdn.net/rebel-ape-main/headline-tags.webp"
-canonicalUrl: ""
+canonicalUrl: "https://therebelape.com/blog/on-page-seo-tips/"
 tags: [seo]
 draft: false
 ---

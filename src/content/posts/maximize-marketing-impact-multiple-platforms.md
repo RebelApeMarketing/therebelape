@@ -7,7 +7,7 @@ author: "Adam Miconi"
 publishDate: "2023-06-18T21:22:00-06:00"
 lastModified: ""
 image: ""
-canonicalUrl: ""
+canonicalUrl: "https://therebelape.com/blog/maximize-marketing-impact-multiple-platforms/"
 tags: []
 draft: false
 ---

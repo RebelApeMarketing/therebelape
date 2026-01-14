@@ -7,7 +7,7 @@ author: "Adam Miconi"
 publishDate: "2025-09-19T10:00:00-06:00"
 lastModified: ""
 image: ""
-canonicalUrl: ""
+canonicalUrl: "https://therebelape.com/blog/local-seo-services-increase-local-visibility-and-drive-more-customers/"
 tags: []
 draft: false
 ---

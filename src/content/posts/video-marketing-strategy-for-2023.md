@@ -7,7 +7,7 @@ author: "Adam Miconi"
 publishDate: "2022-12-16T01:32:00-07:00"
 lastModified: ""
 image: ""
-canonicalUrl: ""
+canonicalUrl: "https://therebelape.com/blog/video-marketing-strategy-for-2023/"
 tags: []
 draft: false
 ---

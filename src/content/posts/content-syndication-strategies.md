@@ -7,7 +7,7 @@ author: "Adam Miconi"
 publishDate: "2020-11-03T22:50:00-07:00"
 lastModified: ""
 image: "https://RebelApeCDN.b-cdn.net/rebel-ape-main/social-media.webp"
-canonicalUrl: ""
+canonicalUrl: "https://therebelape.com/blog/content-syndication-strategies/"
 tags: []
 draft: false
 ---

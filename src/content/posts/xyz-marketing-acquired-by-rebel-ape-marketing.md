@@ -7,7 +7,7 @@ author: "Adam Miconi"
 publishDate: "2024-10-14T10:00:00-06:00"
 lastModified: ""
 image: ""
-canonicalUrl: ""
+canonicalUrl: "https://therebelape.com/blog/xyz-marketing-acquired-by-rebel-ape-marketing/"
 tags: []
 draft: false
 ---

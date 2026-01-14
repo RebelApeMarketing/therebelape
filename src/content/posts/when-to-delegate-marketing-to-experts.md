@@ -7,7 +7,7 @@ author: "Adam Miconi"
 publishDate: "2025-05-20T12:00:00-06:00"
 lastModified: ""
 image: "https://RebelApeCDN.b-cdn.net/rebel-ape-main/the-gambit-1030x687.webp"
-canonicalUrl: ""
+canonicalUrl: "https://therebelape.com/blog/when-to-delegate-marketing-to-experts/"
 tags: []
 draft: false
 ---

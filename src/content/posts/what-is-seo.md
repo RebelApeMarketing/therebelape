@@ -7,7 +7,7 @@ author: "Adam Miconi"
 publishDate: "2018-04-26T11:00:00-06:00"
 lastModified: ""
 image: "https://RebelApeCDN.b-cdn.net/rebel-ape-main/seo-statistics-rebel-ape.webp"
-canonicalUrl: ""
+canonicalUrl: "https://therebelape.com/blog/what-is-seo/"
 tags: []
 draft: false
 ---

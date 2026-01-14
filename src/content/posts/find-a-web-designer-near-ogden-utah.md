@@ -7,7 +7,7 @@ author: "Adam Miconi"
 publishDate: "2022-08-10T12:57:00-06:00"
 lastModified: ""
 image: ""
-canonicalUrl: ""
+canonicalUrl: "https://therebelape.com/blog/find-a-web-designer-near-ogden-utah/"
 tags: []
 draft: false
 ---

@@ -7,7 +7,7 @@ author: "Adam Miconi"
 publishDate: "2022-11-28T00:11:00-07:00"
 lastModified: ""
 image: ""
-canonicalUrl: ""
+canonicalUrl: "https://therebelape.com/blog/pitfalls-of-stock-photography-for-website-images/"
 tags: []
 draft: false
 ---

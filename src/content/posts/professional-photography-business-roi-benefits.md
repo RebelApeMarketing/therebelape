@@ -7,7 +7,7 @@ author: "Adam Miconi"
 publishDate: "2025-06-05T12:00:00-06:00"
 lastModified: ""
 image: "https://RebelApeCDN.b-cdn.net/rebel-ape-main/professional-photography-for-plumbers-1030x542.webp"
-canonicalUrl: ""
+canonicalUrl: "https://therebelape.com/blog/professional-photography-business-roi-benefits/"
 tags: []
 draft: false
 ---

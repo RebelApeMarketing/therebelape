@@ -7,7 +7,7 @@ author: "Adam Miconi"
 publishDate: "2025-06-17T12:00:00-06:00"
 lastModified: ""
 image: ""
-canonicalUrl: ""
+canonicalUrl: "https://therebelape.com/blog/seo-marketing-guide-business-growth/"
 tags: []
 draft: false
 ---

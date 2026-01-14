@@ -7,7 +7,7 @@ author: "Adam Miconi"
 publishDate: "2025-09-29T10:00:00-06:00"
 lastModified: ""
 image: ""
-canonicalUrl: ""
+canonicalUrl: "https://therebelape.com/blog/our-secret-to-tracking-success-and-making-marketing-predictable/"
 tags: []
 draft: false
 ---

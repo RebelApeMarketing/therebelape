@@ -7,7 +7,7 @@ author: "Adam Miconi"
 publishDate: "2020-04-26T23:49:00-06:00"
 lastModified: ""
 image: ""
-canonicalUrl: ""
+canonicalUrl: "https://therebelape.com/blog/tips-to-keep-your-business-during-the-pandemic/"
 tags: []
 draft: false
 ---

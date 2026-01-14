@@ -7,7 +7,7 @@ author: "Adam Miconi"
 publishDate: "2025-05-27T12:00:00-06:00"
 lastModified: ""
 image: "https://RebelApeCDN.b-cdn.net/rebel-ape-main/seo-graphic-load-times.webp"
-canonicalUrl: ""
+canonicalUrl: "https://therebelape.com/blog/the-ultimate-guide-to-having-an-seo-expert-on-your-marketing-team/"
 tags: []
 draft: false
 ---

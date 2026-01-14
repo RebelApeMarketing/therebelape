@@ -7,7 +7,7 @@ author: "Adam Miconi"
 publishDate: "2019-11-25T00:35:00-07:00"
 lastModified: ""
 image: "https://RebelApeCDN.b-cdn.net/rebel-ape-main/what-is-branding.webp"
-canonicalUrl: ""
+canonicalUrl: "https://therebelape.com/blog/branding-strategies-in-marketing/"
 tags: []
 draft: false
 ---

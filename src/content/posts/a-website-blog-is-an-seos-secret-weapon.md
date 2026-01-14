@@ -7,7 +7,7 @@ author: "Adam Miconi"
 publishDate: "2020-01-04T01:52:00-07:00"
 lastModified: ""
 image: ""
-canonicalUrl: ""
+canonicalUrl: "https://therebelape.com/blog/a-website-blog-is-an-seos-secret-weapon/"
 tags: []
 draft: false
 ---

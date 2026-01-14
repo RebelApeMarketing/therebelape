@@ -7,7 +7,7 @@ author: "Adam Miconi"
 publishDate: "2022-07-18T11:53:00-06:00"
 lastModified: ""
 image: "https://RebelApeCDN.b-cdn.net/rebel-ape-main/clutch-ranks.webp"
-canonicalUrl: ""
+canonicalUrl: "https://therebelape.com/blog/clutchs-2022-leading-web-designer-from-utah/"
 tags: []
 draft: false
 ---

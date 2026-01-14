@@ -7,7 +7,7 @@ author: "Adam Miconi"
 publishDate: "2023-08-11T22:33:00-06:00"
 lastModified: ""
 image: "https://RebelApeCDN.b-cdn.net/rebel-ape-main/determine-the-logo-design.webp"
-canonicalUrl: ""
+canonicalUrl: "https://therebelape.com/blog/how-to-hire-a-logo-designer/"
 tags: []
 draft: false
 ---

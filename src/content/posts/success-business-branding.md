@@ -7,7 +7,7 @@ author: "Adam Miconi"
 publishDate: "2019-07-03T12:00:00-06:00"
 lastModified: ""
 image: ""
-canonicalUrl: ""
+canonicalUrl: "https://therebelape.com/blog/success-business-branding/"
 tags: []
 draft: false
 ---

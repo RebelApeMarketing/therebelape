@@ -7,7 +7,7 @@ author: "Adam Miconi"
 publishDate: "2019-03-01T12:00:00-07:00"
 lastModified: ""
 image: ""
-canonicalUrl: ""
+canonicalUrl: "https://therebelape.com/blog/5-reasons-you-need-social-media-marketing/"
 tags: []
 draft: false
 ---

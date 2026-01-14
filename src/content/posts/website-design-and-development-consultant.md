@@ -7,7 +7,7 @@ author: "Adam Miconi"
 publishDate: "2022-08-10T13:01:00-06:00"
 lastModified: ""
 image: ""
-canonicalUrl: ""
+canonicalUrl: "https://therebelape.com/blog/website-design-and-development-consultant/"
 tags: []
 draft: false
 ---
