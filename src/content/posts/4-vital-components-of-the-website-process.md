@@ -7,6 +7,7 @@ publishDate: "2019-11-24T03:02:00-07:00"
 lastModified: "2025-01-14T00:00:00-15:24"
 author: "Adam Miconi"
 image: "https://RebelApeCDN.b-cdn.net/rebel-ape-main/4-vita-components-website.png"
+canonicalUrl: "https://therebelape.com/blog/4-vital-components-of-the-website-process/"
 category: "Home Services Marketing"
 tags: ["website design", "conversion optimization", "landing pages", "contractor marketing", "roofing contractors", "lead generation"]
 draft: false
@@ -67,7 +68,7 @@ schema:
       },
       "contactPoint": {
         "@type": "ContactPoint",
-        "telephone": "+1-XXX-XXX-XXXX",
+        "telephone": "+1-801-917-4310",
         "contactType": "Customer Service"
       }
     },
@@ -98,7 +99,7 @@ schema:
           "@type": "ListItem",
           "position": 2,
           "name": "Blog",
-          "item": "https://therebelape.com/blog"
+          "item": "https://therebelape.com/blog/"
         },
         {
           "@type": "ListItem",
@@ -200,7 +201,7 @@ This isn't because designers and developers are trying to rip you off. It's beca
 
 So they do what they know: They make something that looks impressive and works smoothly. Something they can screenshot for Instagram. Something that makes other designers say "nice work."
 
-Meanwhile, you're wondering [why your $5,000 website isn't generating $500,000 in revenue](https://therebelape.com/blog/7-reasons-you-need-a-website).
+Meanwhile, you're wondering [why your $5,000 website isn't generating $500,000 in revenue](https://therebelape.com/blog/7-reasons-you-need-a-website/).
 
 The problem is fundamental. Most contractors hire based on referrals, not based on who can solve their biggest problem. You need leads. They're selling aesthetics and functionality. Those things matter, but they're secondary to the actual purpose of your website.
 
@@ -252,7 +253,7 @@ When we need maximum speed—for landing pages or high-traffic campaigns—we us
 
 This is where most contractors get screwed.
 
-Your website isn't just the design and hosting. It's connected to a whole ecosystem of marketing tools: [Google Analytics](https://therebelape.com/blog/how-to-setup-google-analytics), Google Ads, Meta Pixel, conversion tracking codes, tag managers, and more.
+Your website isn't just the design and hosting. It's connected to a whole ecosystem of marketing tools: [Google Analytics](https://therebelape.com/blog/how-to-setup-google-analytics/), Google Ads, Meta Pixel, conversion tracking codes, tag managers, and more.
 
 When we audit a new client's setup, here's what we typically find:
 
@@ -282,13 +283,13 @@ Here's where the purpose-first approach matters most. A beautiful homepage with 
 
 When you send ad traffic to a generic homepage, two things happen: Your cost per click goes up (Google penalizes you for poor relevance), and your conversion rate drops (visitors don't find what they expected). We've seen clients cut their cost per lead in half just by creating dedicated landing pages that match their ad messaging.
 
-**Persuasive content that presells your service.** Most contractor websites explain what they do. [Great contractor websites](https://therebelape.com/blog/high-converting-website-design-guide) explain why they do it better. They include specific processes, case studies, guarantee details, and trust signals in the exact spots where prospects are deciding whether to call.
+**Persuasive content that presells your service.** Most contractor websites explain what they do. [Great contractor websites](https://therebelape.com/blog/high-converting-website-design-guide/) explain why they do it better. They include specific processes, case studies, guarantee details, and trust signals in the exact spots where prospects are deciding whether to call.
 
-This isn't about clever copywriting tricks. It's about understanding that when someone lands on your website, they're evaluating you against competitors. If your content is generic—if you sound exactly like every other roofer in your market—they have no reason to choose you. [Your brand consistency matters](https://therebelape.com/blog/success-business-branding) more than you think.
+This isn't about clever copywriting tricks. It's about understanding that when someone lands on your website, they're evaluating you against competitors. If your content is generic—if you sound exactly like every other roofer in your market—they have no reason to choose you. [Your brand consistency matters](https://therebelape.com/blog/success-business-branding/) more than you think.
 
-**Trust signals in the right places.** Reviews, certifications, years in business, insurance verification, BBB rating—[these trust elements matter](https://therebelape.com/blog/increase-website-trust), but only if they're positioned where prospects are actually looking for reassurance. Burying them in your footer is useless. Featuring them prominently above your contact form is strategic.
+**Trust signals in the right places.** Reviews, certifications, years in business, insurance verification, BBB rating—[these trust elements matter](https://therebelape.com/blog/increase-website-trust/), but only if they're positioned where prospects are actually looking for reassurance. Burying them in your footer is useless. Featuring them prominently above your contact form is strategic.
 
-**A clear path to conversion.** Whether it's a phone number, a contact form, or a quote request, it needs to be obvious and easy. We don't need fancy chatbots or complex multi-step forms. We need a [phone number that clicks to call on mobile](https://therebelape.com/blog/phone-number-on-your-website) and a form that loads instantly and works on the first try.
+**A clear path to conversion.** Whether it's a phone number, a contact form, or a quote request, it needs to be obvious and easy. We don't need fancy chatbots or complex multi-step forms. We need a [phone number that clicks to call on mobile](https://therebelape.com/blog/phone-number-on-your-website/) and a form that loads instantly and works on the first try.
 
 ## The Pattern We See with Every New Client
 
@@ -328,7 +329,7 @@ The fix: Own your stuff. Domain, hosting, Analytics, Ads account, phone number�
 
 **Mistake #3: Sending all your ad traffic to your homepage.** Your homepage is like a store directory. It tells people where everything is. But when someone clicks an ad for emergency roof repair, they don't want a directory—they want the emergency repair department.
 
-The fix: Build dedicated landing pages for each service and ad campaign. Match the message from the ad to the headline on the page. Remove navigation distractions. Make the conversion path obvious. This single change typically cuts cost per lead by 30-50%. [Learn more about what makes a high-converting webpage](https://therebelape.com/blog/what-makes-a-high-converting-webpage).
+The fix: Build dedicated landing pages for each service and ad campaign. Match the message from the ad to the headline on the page. Remove navigation distractions. Make the conversion path obvious. This single change typically cuts cost per lead by 30-50%. [Learn more about what makes a high-converting webpage](https://therebelape.com/blog/what-makes-a-high-converting-webpage/).
 
 **Mistake #4: Launching without proper tracking.** If you can't measure it, you can't improve it. Most contractor websites have Analytics installed (maybe), but no conversion tracking, no call tracking, and no way to know which ads generate actual leads versus which ads generate clicks.
 
@@ -336,7 +337,7 @@ The fix: Install everything before you spend a dollar on ads. Google Analytics, 
 
 **Mistake #5: Being afraid to change anything.** We get pushback on this constantly. "We've had the same hosting for 10 years." "If we migrate the site, everything will break." "The last time we changed something, it went down for a week."
 
-Look, those fears are valid. But they're also why you're stuck with a slow website, outdated tracking, and a design that doesn't convert. The fix isn't to never change anything. The fix is to [work with someone](https://therebelape.com/blog/when-to-delegate-marketing-to-experts) who backs everything up first, tests thoroughly, and has a rollback plan if something goes wrong.
+Look, those fears are valid. But they're also why you're stuck with a slow website, outdated tracking, and a design that doesn't convert. The fix isn't to never change anything. The fix is to [work with someone](https://therebelape.com/blog/when-to-delegate-marketing-to-experts/) who backs everything up first, tests thoroughly, and has a rollback plan if something goes wrong.
 
 ## The Rebel Ape Process: What Actually Happens
 
@@ -350,7 +351,7 @@ We also define the strategy: What's the primary goal of this website? Drive quot
 
 **Week 2-3: Technical Foundation**
 
-We set up proper hosting (if needed), install tracking correctly, and create the technical infrastructure for a fast, reliable website. This is the unglamorous work that nobody sees but makes everything else possible. We make sure [your on-page SEO fundamentals](https://therebelape.com/blog/on-page-seo-tips) are solid from day one.
+We set up proper hosting (if needed), install tracking correctly, and create the technical infrastructure for a fast, reliable website. This is the unglamorous work that nobody sees but makes everything else possible. We make sure [your on-page SEO fundamentals](https://therebelape.com/blog/on-page-seo-tips/) are solid from day one.
 
 **Week 3-5: Strategic Design and Content**
 
