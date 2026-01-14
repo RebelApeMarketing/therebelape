@@ -18,7 +18,7 @@ Content Syndication Strategies Guide To Get Website Traffic
 <figure class="wp-block-audio"><audio src="https://RebelApeCDN.b-cdn.net/rebel-ape-main/Project_Content-Syndication-Strategies-Guide-To-Get-Website-Traffic.mp3" controls="controls"></audio>
 <figcaption class="wp-element-caption">Let AI read it for you.</figcaption></figure>
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube">
-<div class="wp-block-embed__wrapper">https://youtu.be/jXHvVsnjKPw</div>
+<div class="wp-block-embed__wrapper">https://www.youtube.com/watch?v=jXHvVsnjKPw</div>
 <figcaption class="wp-element-caption">Watch Instead Of Read</figcaption></figure>
 Spread your blog content and get more <a href="https://therebelape.com/website-is-not-ranking/">website traffic by these Content Syndication Strategies</a>.
 
@@ -45,7 +45,7 @@ If you’re going to make a blog post, you should share your content. That’s a
 
 The first place to share your is to control your own content syndication on <a href="https://therebelape.com/create-social-media-marketing-campaign/">social media</a>.
 
-Social media platforms like <a href="https://www.facebook.com/" target="_blank" rel="noreferrer noopener">Facebook</a>, <a href="https://x.com/" target="_blank" rel="noreferrer noopener">Twitter</a>, <a href="https://www.pinterest.com/" target="_blank" rel="noreferrer noopener">Pinterest</a>, <a href="https://medium.com/" target="_blank" rel="noreferrer noopener">Medium</a>, and <a href="http://quora.com/" target="_blank" rel="noreferrer noopener">Quora</a>, are great syndication opportunities. Sharing your original content on many platforms means a wider audience and a more diverse crowd.
+Social media platforms like <a href="https://www.facebook.com/" target="_blank" rel="noreferrer noopener">Facebook</a>, <a href="https://x.com/" target="_blank" rel="noreferrer noopener">Twitter</a>, <a href="https://www.pinterest.com/" target="_blank" rel="noreferrer noopener">Pinterest</a>, <a href="https://medium.com/" target="_blank" rel="noreferrer noopener">Medium</a>, and <a href="https://www.quora.com/" target="_blank" rel="noreferrer noopener">Quora</a>, are great syndication opportunities. Sharing your original content on many platforms means a wider audience and a more diverse crowd.
 
 The great thing about platforms like Medium and LinkedIn is that you get to use a canonical tag. <strong>The canonical tag lets the search engine know that the blog post is duplicate content and your blog post on your site is the original content.</strong>
 

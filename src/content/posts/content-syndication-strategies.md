@@ -14,7 +14,7 @@ draft: false
 [
 Let AI read it for you.
 
-https://youtu.be/jXHvVsnjKPw
+https://www.youtube.com/watch?v=jXHvVsnjKPw
 Watch Instead Of Read
 Spread your blog content and get more website traffic by these Content Syndication Strategies](https://therebelape.com/blog/website-is-not-ranking/).
 
@@ -37,7 +37,7 @@ If you’re going to make a blog post, you should share your content. That’s a
 
 The first place to share your is to control your own content syndication on [social media](https://therebelape.com/blog/create-social-media-marketing-campaign/).
 
-Social media platforms like [Facebook](https://www.facebook.com/), [X](https://x.com/), [Pinterest](https://www.pinterest.com/), [Medium](https://medium.com/), and [Quora](http://quora.com/), are great syndication opportunities. Sharing your original content on many platforms means a wider audience and a more diverse crowd.
+Social media platforms like [Facebook](https://www.facebook.com/), [X](https://x.com/), [Pinterest](https://www.pinterest.com/), [Medium](https://medium.com/), and [Quora](https://www.quora.com/), are great syndication opportunities. Sharing your original content on many platforms means a wider audience and a more diverse crowd.
 
 The great thing about platforms like Medium and LinkedIn is that you get to use a canonical tag. **The canonical tag lets the search engine know that the blog post is duplicate content and your blog post on your site is the original content.**
 

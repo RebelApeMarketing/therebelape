@@ -27,9 +27,9 @@ Plumbing Website Conversion Fixes – 6 Ways to Turn Visitors into Leads
 <p><strong><em>Watch this quick video to see exactly how conversion issues impact plumbing businesses and how you can fix them.</em></strong></p>
 <!-- /wp:paragraph -->
 
-<!-- wp:embed {"url":"https://youtu.be/rf6QDu_y1m0?si=Zb3tPD0NtkzYgGVS","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
+<!-- wp:embed {"url":"https://www.youtube.com/watch?v=rf6QDu_y1m0","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-https://youtu.be/rf6QDu_y1m0?si=Zb3tPD0NtkzYgGVS
+https://www.youtube.com/watch?v=rf6QDu_y1m0
 </div></figure>
 <!-- /wp:embed -->
 

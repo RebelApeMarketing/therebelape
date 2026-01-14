@@ -15,7 +15,7 @@ If you're a plumber and you're not fully leveraging your **Google Business Prof
 
 This guide walks you through exactly how to optimize, manage, and leverage your Google Business Profile to get more plumbing jobs consistently.
 
-https://youtu.be/knJqyfL2f-A
+https://www.youtube.com/watch?v=knJqyfL2f-A
 
 ## Why a Google Business Profile for Plumbers Matters
 

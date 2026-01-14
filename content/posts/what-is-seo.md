@@ -143,4 +143,3 @@ If you’re ready to improve your rankings and authority, reach out [here](https
 - [Moz](https://moz.com/learn/seo/what-is-seo)
 - [Search Engine People](https://www.searchenginepeople.com/blog/40-unbelievable-seo-statistics-need-know.html)
 - [Search Engine Journal](https://www.searchenginejournal.com/24-eye-popping-seo-statistics/42665/)
-- [We Are Social](https://edubirdie.com/blog/global-digital-report-2018)

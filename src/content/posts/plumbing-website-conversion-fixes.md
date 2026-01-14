@@ -17,7 +17,7 @@ draft: false
 
 ***Watch this quick video to see exactly how conversion issues impact plumbing businesses and how you can fix them.***
 
-https://youtu.be/rf6QDu_y1m0?si=Zb3tPD0NtkzYgGVS
+https://www.youtube.com/watch?v=rf6QDu_y1m0
 
 It doesn't matter if you have 400, 600, or even 1,000 visitors per month. If they're not converting into calls, bookings, or revenue, that traffic is essentially worthless. You're leaving money on the table every single day.
 

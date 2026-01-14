@@ -15,9 +15,9 @@ draft: false
 <!-- TODO: Paste the post content here. -->
 How To Hire The Right Logo Designer For Your Business [GUIDE]
 
-<!-- wp:embed {"url":"https://youtu.be/dC7dCcH7Www","type":"video","providerNameSlug":"youtube","responsive":true} -->
+<!-- wp:embed {"url":"https://www.youtube.com/watch?v=dC7dCcH7Www","type":"video","providerNameSlug":"youtube","responsive":true} -->
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube"><div class="wp-block-embed__wrapper">
-https://youtu.be/dC7dCcH7Www
+https://www.youtube.com/watch?v=dC7dCcH7Www
 </div></figure>
 <!-- /wp:embed -->
 
@@ -1215,9 +1215,9 @@ https://youtu.be/dC7dCcH7Www
 <p><strong>A:</strong> Establish a collaborative relationship by respecting the designer's professional opinions while providing honest and constructive feedback. Trusting their expertise doesn't mean relinquishing your input but finding a balance that aligns with the project's vision.</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:embed {"url":"https://youtu.be/JOgzcVu7jvg","type":"video","providerNameSlug":"youtube","responsive":true} -->
+<!-- wp:embed {"url":"https://www.youtube.com/watch?v=JOgzcVu7jvg","type":"video","providerNameSlug":"youtube","responsive":true} -->
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube"><div class="wp-block-embed__wrapper">
-https://youtu.be/JOgzcVu7jvg
+https://www.youtube.com/watch?v=JOgzcVu7jvg
 </div></figure>
 <!-- /wp:embed -->
 

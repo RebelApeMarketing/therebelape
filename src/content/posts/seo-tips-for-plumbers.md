@@ -17,7 +17,7 @@ You've invested in a beautiful website with all the bells and whistles. The desi
 
 When someone searches for a "plumber near me" or "emergency water heater repair," are they finding you or your competitors? Search engine visibility is the difference between a thriving business with a steady flow of new customers and one that struggles to keep the phone ringing.
 
-https://youtu.be/PBExn-KgH84?si=DW3P4vE9LIIUpgpG
+https://www.youtube.com/watch?v=PBExn-KgH84
 
 The good news is that with the right SEO (Search Engine Optimization) strategies, you can dramatically improve your website's visibility and start capturing the leads that are currently going to your competition.
 

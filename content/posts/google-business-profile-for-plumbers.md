@@ -23,9 +23,9 @@ Google Business Profile for Plumbers: How to Dominate Local Search
 <p>This guide walks you through exactly how to optimize, manage, and leverage your Google Business Profile to get more plumbing jobs consistently.</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:embed {"url":"https://youtu.be/knJqyfL2f-A","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
+<!-- wp:embed {"url":"https://www.youtube.com/watch?v=knJqyfL2f-A","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-https://youtu.be/knJqyfL2f-A
+https://www.youtube.com/watch?v=knJqyfL2f-A
 </div></figure>
 <!-- /wp:embed -->
 

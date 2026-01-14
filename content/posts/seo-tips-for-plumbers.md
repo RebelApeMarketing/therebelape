@@ -27,9 +27,9 @@ SEO Tips for Plumbers: 7 Essential Strategies to Outrank Your Competitors
 <p>When someone searches for a "plumber near me" or "emergency water heater repair," are they finding you or your competitors? Search engine visibility is the difference between a thriving business with a steady flow of new customers and one that struggles to keep the phone ringing.</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:embed {"url":"https://youtu.be/PBExn-KgH84?si=DW3P4vE9LIIUpgpG","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
+<!-- wp:embed {"url":"https://www.youtube.com/watch?v=PBExn-KgH84","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-https://youtu.be/PBExn-KgH84?si=DW3P4vE9LIIUpgpG
+https://www.youtube.com/watch?v=PBExn-KgH84
 </div></figure>
 <!-- /wp:embed -->
 
