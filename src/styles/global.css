@@ -55,7 +55,15 @@ background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/s
   background: linear-gradient(135deg, #f1f5f9 0%, #cbd5e1 100%);
 }
 
-/* Pose */
+/* Blog Post Styles */
+
+/* Remove top margin from first heading */
+.prose h1:first-of-type,
+.prose h2:first-of-type,
+.prose > h1:first-child,
+.prose > h2:first-child {
+  margin-top: 0 !important;
+}
 
 article h1 {
   @apply text-4xl font-bold mb-4 mt-8;
@@ -73,13 +81,41 @@ article p {
   @apply mb-4 text-slate-700 leading-relaxed;
 }
 
-article ul,
+/* Link styles with higher specificity */
+.prose a,
+article a,
+.blog-post a {
+  color: #069c4b !important;
+  text-decoration: underline !important;
+  transition: all 0.2s ease-in-out;
+}
+
+.prose a:hover,
+article a:hover,
+.blog-post a:hover {
+  text-decoration: none !important;
+}
+
+article ul {
+  @apply mb-4 ml-6 list-disc;
+}
+
 article ol {
-  @apply mb-4 ml-6;
+  @apply mb-4 ml-6 list-decimal;
 }
 
 article li {
   @apply mb-2;
+}
+
+article ul ul,
+article ol ul {
+  @apply list-disc ml-6;
+}
+
+article ul ol,
+article ol ol {
+  @apply list-decimal ml-6;
 }
 
 article strong {
