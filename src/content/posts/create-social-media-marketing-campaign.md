@@ -1,8 +1,8 @@
 ---
 title: "How To Create A Great Social Media Marketing Campaign"
 slug: "create-social-media-marketing-campaign"
-description: ""
-excerpt: ""
+description: "Create social media campaigns that actually work. Learn the strategic framework for goal setting, audience research, and continuous optimization that drives results."
+excerpt: "Content is king, but strategy is everything. With millions of posts created every minute, your social media campaign needs a solid strategy to stand out. Discover the proven framework for setting goals, researching audiences, and analyzing performance that turns campaigns into success stories."
 author: "Adam Miconi"
 publishDate: "2019-07-05T12:15:00-06:00"
 lastModified: ""

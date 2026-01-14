@@ -1,13 +1,13 @@
 ---
 title: "Building Your Brand With Online Reviews: How to Get Them"
 slug: "online-reviews"
-description: ""
-excerpt: ""
+description: "Online reviews directly impact sales and reputation. Learn how to generate more positive reviews, respond strategically, and leverage social proof for business growth."
+excerpt: "Reviews can make or break your business in today's digital marketplace. Discover proven strategies for generating more positive online reviews, responding effectively to all feedback, overcoming negative reviews, and leveraging social proof to build trust and drive conversions."
 author: "Adam Miconi"
 publishDate: "2021-06-08T12:50:00-06:00"
 lastModified: ""
 image: ""
-canonicalUrl: ""
+canonicalUrl: "https://therebelape.com/blog/online-reviews/"
 tags: []
 draft: false
 ---

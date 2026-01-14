@@ -1,8 +1,8 @@
 ---
 title: "How to Setup Google Analytics for WordPress"
 slug: "how-to-setup-google-analytics"
-description: ""
-excerpt: ""
+description: "Set up Google Analytics correctly from the start. Learn proper configuration, tracking setup, and essential reports that provide actionable insights for business growth."
+excerpt: "Google Analytics is powerful, but only when configured properly. This step-by-step guide shows you how to set up tracking correctly, configure essential settings, understand key metrics, and extract actionable insights that inform smarter marketing decisions and drive measurable business results."
 author: "Adam Miconi"
 publishDate: "2018-04-28T10:00:00-06:00"
 lastModified: ""

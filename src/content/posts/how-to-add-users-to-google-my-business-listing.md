@@ -1,8 +1,8 @@
 ---
 title: "How To Easily Add Users To Google My Business Listing"
 slug: "how-to-add-users-to-google-my-business-listing"
-description: ""
-excerpt: ""
+description: "Learn how to add users to your Google Business Profile safely. Master permission levels to collaborate with your team while maintaining account security and control."
+excerpt: "Managing your Google Business Profile effectively requires team collaboration, but you need to do it right. This guide shows you exactly how to add users, assign appropriate permission levels, and maintain security while empowering your team to manage your local search presence."
 author: "Adam Miconi"
 publishDate: "2019-02-20T00:38:00-07:00"
 lastModified: ""

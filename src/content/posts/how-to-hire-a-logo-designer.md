@@ -1,8 +1,8 @@
 ---
 title: "How To Hire The Right Logo Designer For Your Business [GUIDE]"
 slug: "how-to-hire-a-logo-designer"
-description: ""
-excerpt: ""
+description: "Hiring a logo designer requires knowing what to look for. Learn how to find, evaluate, and work with designers who create memorable brand identities that last."
+excerpt: "Your logo is often the first impression customers have of your business, so hiring the right designer matters. Learn how to evaluate portfolios, understand pricing, ask the right questions, and work effectively with logo designers to create a brand identity that drives business success."
 author: "Adam Miconi"
 publishDate: "2023-08-11T22:33:00-06:00"
 lastModified: ""

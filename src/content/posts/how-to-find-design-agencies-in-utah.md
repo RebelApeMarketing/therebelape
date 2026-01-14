@@ -1,8 +1,8 @@
 ---
 title: "How to find design agencies in Utah?"
 slug: "how-to-find-design-agencies-in-utah"
-description: ""
-excerpt: ""
+description: "Finding the right design agency in Utah shouldn't be complicated. Learn what to look for in a creative partner and why Rebel Ape delivers exceptional results."
+excerpt: "Choosing a design agency can feel overwhelming with so many options available. This guide helps Utah businesses find the perfect creative partner by outlining what to look for, questions to ask, and how Rebel Ape Marketing's approach delivers exceptional design and marketing results."
 author: "Adam Miconi"
 publishDate: "2022-08-10T12:55:00-06:00"
 lastModified: ""

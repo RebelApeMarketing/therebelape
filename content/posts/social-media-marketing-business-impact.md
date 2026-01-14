@@ -1,13 +1,13 @@
 ---
 title: "The Critical Business Impact of Social Media Marketing in 2025"
 slug: "social-media-marketing-business-impact"
-description: ""
-excerpt: ""
+description: "Measure social media marketing's true business impact. Learn how to track ROI, optimize campaigns, and leverage social platforms for measurable growth and revenue."
+excerpt: "Social media marketing delivers real business value when approached strategically. Discover how to measure true ROI beyond vanity metrics, optimize campaigns for conversions, build engaged communities, and leverage social platforms to drive measurable revenue growth."
 author: "Adam Miconi"
 publishDate: "2025-06-12T21:49:00-06:00"
 lastModified: ""
 image: "https://RebelApeCDN.b-cdn.net/rebel-ape-main/social-media-marketing-group.webp"
-canonicalUrl: ""
+canonicalUrl: "https://therebelape.com/blog/social-media-marketing-business-impact/"
 tags: []
 draft: false
 ---

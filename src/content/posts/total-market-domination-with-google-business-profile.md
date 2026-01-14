@@ -1,8 +1,8 @@
 ---
 title: "Total Market Domination With Google Business Profile"
 slug: "total-market-domination-with-google-business-profile"
-description: ""
-excerpt: ""
+description: "Dominate your local market with a fully optimized Google Business Profile. Learn advanced strategies that maximize visibility and generate consistent qualified leads."
+excerpt: "Your Google Business Profile is the most powerful free marketing tool available for local businesses. Discover advanced optimization strategies that dominate local search results, generate more reviews, improve map rankings, and drive consistent qualified leads to your business."
 author: "Adam Miconi"
 publishDate: "2025-05-27T15:40:00-06:00"
 lastModified: ""

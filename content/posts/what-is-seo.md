@@ -1,13 +1,13 @@
 ---
 title: "What Is SEO and Why Do You Need It?"
 slug: "what-is-seo"
-description: ""
-excerpt: ""
+description: "Understand what SEO really is and why it matters for your business. Learn proven strategies to rank higher in Google and drive more qualified traffic to your site."
+excerpt: "With 75% of users never scrolling past page one of Google, your search ranking directly impacts your bottom line. Discover what SEO is, why it's essential for business growth, and how strategic optimization can drive more traffic and sales."
 author: "Adam Miconi"
 publishDate: "2018-04-26T11:00:00-06:00"
 lastModified: ""
 image: "https://RebelApeCDN.b-cdn.net/rebel-ape-main/seo-statistics-rebel-ape.webp"
-canonicalUrl: ""
+canonicalUrl: "https://therebelape.com/blog/what-is-seo/"
 tags: []
 draft: false
 ---

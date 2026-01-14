@@ -1,13 +1,13 @@
 ---
 title: "XYZ Marketing Has Partnered With Rebel Ape Marketing"
 slug: "xyz-marketing"
-description: ""
-excerpt: ""
+description: "Learn about XYZ Marketing's history, services, and approach to helping businesses grow through strategic marketing and design solutions before joining Rebel Ape."
+excerpt: "XYZ Marketing built a reputation for delivering results-driven marketing and design services to local businesses. Explore their history, service approach, and client success stories that led to their strategic partnership with Rebel Ape Marketing."
 author: "Adam Miconi"
 publishDate: "2021-12-08T10:00:00-07:00"
 lastModified: ""
 image: ""
-canonicalUrl: ""
+canonicalUrl: "https://therebelape.com/blog/xyz-marketing/"
 tags: []
 draft: false
 ---

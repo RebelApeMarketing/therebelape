@@ -1,8 +1,8 @@
 ---
-title: "Google : Google’s Largest Update Released Since RankBrain"
+title: "Google : Google's Largest Update Released Since RankBrain"
 slug: "google-bert-update"
-description: ""
-excerpt: ""
+description: "Google BERT changed how search engines understand language. Learn what this major algorithm update means for your SEO strategy and content creation approach."
+excerpt: "Google's BERT update represents the largest algorithm change in five years, transforming how search engines understand natural language and context. Discover what this means for your SEO strategy, why quality content matters more than ever, and how to adapt your website for this new era."
 author: "Adam Miconi"
 publishDate: "2020-01-03T01:45:00-07:00"
 lastModified: ""

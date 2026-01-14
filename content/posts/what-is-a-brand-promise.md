@@ -1,13 +1,13 @@
 ---
 title: "What Is A Brand Promise and Why It’s Important?"
 slug: "what-is-a-brand-promise"
-description: ""
-excerpt: ""
+description: "Your brand promise defines customer expectations and differentiates your business. Learn how to craft compelling promises that drive loyalty and premium positioning."
+excerpt: "A brand promise is more than a tagline—it's the fundamental commitment you make to customers. Discover how to develop authentic brand promises that resonate with target audiences, differentiate from competitors, and create the foundation for lasting customer loyalty."
 author: "Adam Miconi"
 publishDate: "2020-02-09T19:05:00-07:00"
 lastModified: ""
 image: ""
-canonicalUrl: ""
+canonicalUrl: "https://therebelape.com/blog/what-is-a-brand-promise/"
 tags: []
 draft: false
 ---

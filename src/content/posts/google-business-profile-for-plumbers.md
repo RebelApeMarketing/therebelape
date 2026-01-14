@@ -1,8 +1,8 @@
 ---
 title: "Google Business Profile for Plumbers: How to Dominate Local Search"
 slug: "google-business-profile-for-plumbers"
-description: ""
-excerpt: ""
+description: "Plumbers: stop leaving money on the table. Learn how to optimize your Google Business Profile to dominate local search and generate consistent plumbing leads."
+excerpt: "If you're not leveraging your Google Business Profile, you're handing customers to competitors. This comprehensive guide shows plumbers exactly how to claim, optimize, and manage their profile to rank higher in local search, get more reviews, and generate consistent high-quality leads."
 author: "Adam Miconi"
 publishDate: "2025-04-21T12:05:00-06:00"
 lastModified: ""

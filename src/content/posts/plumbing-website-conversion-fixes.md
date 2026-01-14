@@ -1,8 +1,8 @@
 ---
 title: "Plumbing Website Conversion Fixes – 6 Ways to Turn Visitors into Leads"
 slug: "plumbing-website-conversion-fixes"
-description: ""
-excerpt: ""
+description: "Fix common plumbing website conversion problems that cost you leads every day. Learn quick wins that turn more visitors into paying customers immediately."
+excerpt: "Your plumbing website might be generating traffic but failing to convert visitors into customers. Discover the most common conversion killers on plumbing websites and the quick fixes that improve trust, reduce friction, and turn more browsers into booked jobs."
 author: "Adam Miconi"
 publishDate: "2025-03-18T11:54:00-06:00"
 lastModified: ""

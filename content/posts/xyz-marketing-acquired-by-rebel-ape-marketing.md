@@ -1,13 +1,13 @@
 ---
 title: "XYZ Marketing Acquired by Rebel Ape Marketing"
 slug: "xyz-marketing-acquired-by-rebel-ape-marketing"
-description: ""
-excerpt: ""
+description: "Rebel Ape Marketing acquires XYZ Marketing to expand services and geographic reach. Learn what this strategic acquisition means for clients and business growth."
+excerpt: "Strategic acquisitions expand capabilities and market reach. Discover how Rebel Ape Marketing's acquisition of XYZ Marketing strengthens service offerings, expands geographic coverage, and delivers enhanced value to clients through combined expertise and resources."
 author: "Adam Miconi"
 publishDate: "2024-10-14T10:00:00-06:00"
 lastModified: ""
 image: ""
-canonicalUrl: ""
+canonicalUrl: "https://therebelape.com/blog/xyz-marketing-acquired-by-rebel-ape-marketing/"
 tags: []
 draft: false
 ---

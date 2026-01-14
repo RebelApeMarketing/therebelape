@@ -1,8 +1,8 @@
 ---
 title: "When to Hire a Professional Videographer For Your Home Service Company"
 slug: "when-to-hire-a-professional-videographer-for-your-home-service-company"
-description: ""
-excerpt: ""
+description: "Home service companies need professional video to compete effectively. Learn when to hire videographers and how quality video content drives leads and revenue growth."
+excerpt: "Professional video elevates home service companies above DIY-looking competitors. Discover when investing in professional videography makes sense, what to look for in videographers, and how quality video content builds trust and generates consistent qualified leads."
 author: "Adam Miconi"
 publishDate: "2025-05-22T12:00:00-06:00"
 lastModified: ""

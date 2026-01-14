@@ -1,13 +1,13 @@
 ---
 title: "5 Reasons You Need Social Media Marketing"
 slug: "5-reasons-you-need-social-media-marketing"
-description: ""
-excerpt: ""
+description: "Learn why 97% of marketers say social media is critical for business success. Discover five powerful reasons to leverage social platforms for growth and engagement."
+excerpt: "With billions of users spending hours daily on social platforms, your business can't afford to sit on the sidelines. Discover five compelling reasons why social media marketing is essential for increasing brand awareness, customer engagement, and cost-effective business growth."
 author: "Adam Miconi"
 publishDate: "2019-03-01T12:00:00-07:00"
 lastModified: ""
 image: ""
-canonicalUrl: ""
+canonicalUrl: "https://therebelape.com/blog/5-reasons-you-need-social-media-marketing/"
 tags: []
 draft: false
 ---

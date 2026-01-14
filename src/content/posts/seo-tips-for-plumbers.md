@@ -1,8 +1,8 @@
 ---
 title: "SEO Tips for Plumbers: 7 Essential Strategies to Outrank Your Competitors"
 slug: "seo-tips-for-plumbers"
-description: ""
-excerpt: ""
+description: "Plumbers: dominate local search with these proven SEO tips. Learn optimization strategies specifically designed for plumbing businesses to generate more leads and jobs."
+excerpt: "Plumbing businesses have unique SEO needs and opportunities. Discover the specific optimization strategies that help plumbers rank higher in local search, attract emergency service calls, build review authority, and generate consistent qualified leads without expensive advertising."
 author: "Adam Miconi"
 publishDate: "2025-03-25T12:29:00-06:00"
 lastModified: ""

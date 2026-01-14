@@ -1,8 +1,8 @@
 ---
 title: "Why Video Marketing Should Be A Main Component Of Your Marketing Strategy For 20235"
 slug: "video-marketing-strategy-for-2023"
-description: ""
-excerpt: ""
+description: "Develop a winning video marketing strategy for maximum ROI. Learn planning, production, distribution, and optimization tactics that drive engagement and conversions."
+excerpt: "Effective video marketing requires strategic planning beyond just creating content. This comprehensive guide reveals how to develop video strategies that align with business goals, reach target audiences, maximize engagement, and deliver measurable returns on your video marketing investment."
 author: "Adam Miconi"
 publishDate: "2022-12-16T01:32:00-07:00"
 lastModified: ""

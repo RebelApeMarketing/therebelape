@@ -1,13 +1,13 @@
 ---
-title: "Clutch Hails Rebel Ape Marketing as 2022’s Leading Web Designer from Utah"
+title: "Clutch Hails Rebel Ape Marketing as 2022's Leading Web Designer from Utah"
 slug: "clutchs-2022-leading-web-designer-from-utah"
-description: ""
-excerpt: ""
+description: "Rebel Ape Marketing recognized as Utah's top web designer for 2022 by Clutch. Discover why leading businesses trust our bespoke design and SEO solutions."
+excerpt: "We're thrilled to announce that Clutch has officially recognized Rebel Ape Marketing as one of Utah's top-performing web design companies in 2022. This prestigious award celebrates our commitment to helping small businesses increase traffic and generate quality leads through exceptional design and strategic SEO."
 author: "Adam Miconi"
 publishDate: "2022-07-18T11:53:00-06:00"
 lastModified: ""
 image: "https://RebelApeCDN.b-cdn.net/rebel-ape-main/clutch-ranks.webp"
-canonicalUrl: ""
+canonicalUrl: "https://therebelape.com/blog/clutchs-2022-leading-web-designer-from-utah/"
 tags: []
 draft: false
 ---

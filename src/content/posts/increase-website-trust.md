@@ -1,8 +1,8 @@
 ---
 title: "Increase Website Trust To Increase Conversions"
 slug: "increase-website-trust"
-description: ""
-excerpt: ""
+description: "Build website trust that converts visitors into customers. Learn the essential elements that establish credibility and overcome buyer hesitation in digital spaces."
+excerpt: "Online trust is harder to build than in-person trust, yet it's essential for conversions. Discover the proven elements that increase website trustworthiness—from social proof and security signals to professional design and transparent policies—that overcome skepticism and drive more sales."
 author: "Adam Miconi"
 publishDate: "2021-12-07T10:00:00-07:00"
 lastModified: ""

@@ -1,8 +1,8 @@
 ---
 title: "How to Outrank Your Competitor in Google SERP"
 slug: "how-to-outrank-your-competitors"
-description: ""
-excerpt: ""
+description: "Outrank competitors in search results with proven SEO strategies. Learn how to analyze competition, identify opportunities, and dominate your market's search rankings."
+excerpt: "Watching competitors dominate search results while you struggle for visibility is frustrating. This comprehensive guide reveals the strategic SEO approaches for analyzing competitor weaknesses, identifying ranking opportunities, and implementing tactics that help you outrank competition and capture more organic traffic."
 author: "Adam Miconi"
 publishDate: "2018-12-20T13:07:00-07:00"
 lastModified: ""

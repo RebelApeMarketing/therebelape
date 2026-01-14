@@ -1,8 +1,8 @@
 ---
 title: "The Ultimate Guide to Building a Small Business Website and Getting Found Online"
 slug: "ultimate-guide-to-small-business-website-design"
-description: ""
-excerpt: ""
+description: "Small business website design requires balancing aesthetics, functionality, and conversion optimization. Learn how to create websites that drive measurable business results."
+excerpt: "Small businesses need websites that work as hard as they do. This ultimate guide reveals the essential elements of effective small business website design—from strategic planning and user experience to conversion optimization and mobile responsiveness—that turn visitors into customers."
 author: "Adam Miconi"
 publishDate: "2024-10-05T15:29:00-06:00"
 lastModified: ""

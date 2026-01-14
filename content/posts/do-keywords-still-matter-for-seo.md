@@ -1,13 +1,13 @@
 ---
-title: "Do keywords still matter for SEO in 2023? Less than you may think, and here’s why…"
+title: "Do keywords still matter for SEO in 2023? Less than you may think, and here's why…"
 slug: "do-keywords-still-matter-for-seo"
-description: ""
-excerpt: ""
+description: "Keywords matter less than you think in modern SEO. Discover what Google actually cares about now and how to use keywords properly without outdated tactics."
+excerpt: "Keywords still matter for SEO, but not the way they used to. Google's evolved beyond simple keyword matching to understand intent, relevance, and context. Learn why keyword stuffing fails, how to use long-tail keywords strategically, and what actually drives rankings in 2023."
 author: "Adam Miconi"
 publishDate: "2018-05-06T11:00:00-06:00"
 lastModified: ""
 image: "https://RebelApeCDN.b-cdn.net/rebel-ape-main/rebel-ape-analytics-1030x308.webp"
-canonicalUrl: ""
+canonicalUrl: "https://therebelape.com/blog/do-keywords-still-matter-for-seo/"
 tags: []
 draft: false
 ---

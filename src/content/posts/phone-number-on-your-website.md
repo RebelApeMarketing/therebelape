@@ -1,8 +1,8 @@
 ---
 title: "Why a Phone Number On Your Website is One of the Best Converting Items"
 slug: "phone-number-on-your-website"
-description: ""
-excerpt: ""
+description: "Your phone number placement impacts conversions more than you think. Learn strategic positioning and design choices that increase calls and capture more leads."
+excerpt: "Making it easy for customers to call you seems obvious, yet many websites hide contact information. Discover the strategic best practices for phone number placement, formatting, and click-to-call implementation that remove friction and increase inbound calls from qualified prospects."
 author: "Adam Miconi"
 publishDate: "2022-12-20T16:38:00-07:00"
 lastModified: ""

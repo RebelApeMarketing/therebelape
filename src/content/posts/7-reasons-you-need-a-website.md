@@ -1,8 +1,8 @@
 ---
 title: "7 Reasons You Need a Website More Than Ever. #4 Will Shock You!"
 slug: "7-reasons-you-need-a-website"
-description: ""
-excerpt: ""
+description: "Discover why your business needs a website to compete in today's market. From 24/7 accessibility to attracting new customers, learn the game-changing benefits."
+excerpt: "Your competitors already have websites working for them around the clock. Without one, you're losing sales and missing opportunities. Discover seven compelling reasons why a professional website is essential for business growth and customer acquisition in today's digital marketplace."
 author: "Adam Miconi"
 publishDate: "2019-03-15T12:00:00-06:00"
 lastModified: ""

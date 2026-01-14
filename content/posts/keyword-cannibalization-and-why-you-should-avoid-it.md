@@ -1,13 +1,13 @@
 ---
 title: "Keyword Cannibalization And Why You Should Avoid It"
 slug: "keyword-cannibalization-and-why-you-should-avoid-it"
-description: ""
-excerpt: ""
+description: "Keyword cannibalization silently destroys SEO performance. Learn what it is, how to identify it on your website, and proven strategies to fix it for better rankings."
+excerpt: "Your own pages might be competing against each other in search results, undermining your SEO efforts. Discover what keyword cannibalization is, why it hurts rankings, how to identify problem areas on your site, and strategic solutions that consolidate authority and improve search performance."
 author: "Adam Miconi"
 publishDate: "2025-05-29T12:00:00-06:00"
 lastModified: ""
 image: ""
-canonicalUrl: ""
+canonicalUrl: "https://therebelape.com/blog/keyword-cannibalization-and-why-you-should-avoid-it/"
 tags: []
 draft: false
 ---

@@ -1,13 +1,13 @@
 ---
 title: "Why Your Website is Not Ranking?"
 slug: "website-is-not-ranking"
-description: ""
-excerpt: ""
+description: "Website not ranking in search results? Learn the common reasons pages fail to rank and proven solutions that improve visibility and drive organic traffic growth."
+excerpt: "Watching your website languish in search obscurity is frustrating, especially after investing time and money. Discover the most common reasons websites fail to rank—from technical issues and content problems to competition and authority gaps—plus actionable solutions that improve search visibility."
 author: "Adam Miconi"
 publishDate: "2019-03-08T13:00:00-07:00"
 lastModified: ""
 image: ""
-canonicalUrl: ""
+canonicalUrl: "https://therebelape.com/blog/website-is-not-ranking/"
 tags: []
 draft: false
 ---

@@ -1,8 +1,8 @@
 ---
 title: "Tips to Keep Your Business During the Pandemic"
 slug: "tips-to-keep-your-business-during-the-pandemic"
-description: ""
-excerpt: ""
+description: "Keep your business thriving during challenging times. Learn adaptive strategies for maintaining operations, serving customers, and finding growth opportunities during uncertainty."
+excerpt: "Economic uncertainty and disruption test every business, but strategic adaptation creates survival and growth opportunities. Discover practical strategies for maintaining operations, serving customers effectively, reducing costs, and identifying new opportunities during challenging market conditions."
 author: "Adam Miconi"
 publishDate: "2020-04-26T23:49:00-06:00"
 lastModified: ""

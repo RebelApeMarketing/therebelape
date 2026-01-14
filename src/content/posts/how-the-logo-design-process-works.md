@@ -1,8 +1,8 @@
 ---
 title: "How The Logo Design Process Works"
 slug: "how-the-logo-design-process-works"
-description: ""
-excerpt: ""
+description: "Understand the professional logo design process from concept to completion. Learn what to expect when creating a memorable brand identity that stands out."
+excerpt: "A great logo doesn't happen by accident—it's the result of a strategic design process. Discover the step-by-step approach professional designers use to create memorable, effective logos that capture your brand essence and resonate with your target audience for lasting impact."
 author: "Adam Miconi"
 publishDate: "2020-01-01T23:26:00-07:00"
 lastModified: ""

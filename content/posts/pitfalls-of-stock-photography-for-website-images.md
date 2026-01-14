@@ -1,13 +1,13 @@
 ---
 title: "The Pitfalls Of Using Stock Photography For Website Images"
 slug: "pitfalls-of-stock-photography-for-website-images"
-description: ""
-excerpt: ""
+description: "Stock photography can undermine brand authenticity and trust. Learn why custom images outperform stock photos and how to build visual authenticity on your website."
+excerpt: "Those generic stock photos might be hurting your brand more than helping. Discover why overused stock photography undermines trust and authenticity, how it impacts conversions, and strategic alternatives that build genuine connections with your audience through authentic visual content."
 author: "Adam Miconi"
 publishDate: "2022-11-28T00:11:00-07:00"
 lastModified: ""
 image: ""
-canonicalUrl: ""
+canonicalUrl: "https://therebelape.com/blog/pitfalls-of-stock-photography-for-website-images/"
 tags: []
 draft: false
 ---

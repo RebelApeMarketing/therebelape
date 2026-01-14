@@ -1,13 +1,13 @@
 ---
 title: "Basic On Page SEO Tips To Help Your Site Rank | Step-By-Step Guide"
 slug: "on-page-seo-tips"
-description: ""
-excerpt: ""
+description: "Master on-page SEO with these proven optimization techniques. Learn how to optimize content, structure, and technical elements that improve search rankings and traffic."
+excerpt: "On-page SEO forms the foundation of search visibility. Discover essential optimization techniques for titles, meta descriptions, headers, content, images, and technical elements that help search engines understand your pages and rank them higher for valuable keywords."
 author: "Adam Miconi"
 publishDate: "2020-12-10T11:00:00-07:00"
 lastModified: ""
 image: "https://RebelApeCDN.b-cdn.net/rebel-ape-main/headline-tags.webp"
-canonicalUrl: ""
+canonicalUrl: "https://therebelape.com/blog/on-page-seo-tips/"
 tags: []
 draft: false
 ---

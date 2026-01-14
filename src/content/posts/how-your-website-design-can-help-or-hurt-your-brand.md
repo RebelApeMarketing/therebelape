@@ -1,8 +1,8 @@
 ---
 title: "How Your Website Design Can Destroy Your Brand"
 slug: "how-your-website-design-can-help-or-hurt-your-brand"
-description: ""
-excerpt: ""
+description: "Your website design directly impacts brand perception and business results. Learn how design choices either strengthen or undermine your brand's credibility and value."
+excerpt: "First impressions happen in milliseconds, and your website design is often that crucial first touchpoint. Discover how design elements like layout, color, typography, and user experience either build trust and credibility or drive potential customers straight to competitors."
 author: "Adam Miconi"
 publishDate: "2019-03-12T10:00:00-06:00"
 lastModified: ""

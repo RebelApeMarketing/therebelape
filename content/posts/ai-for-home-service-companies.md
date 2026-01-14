@@ -1,13 +1,13 @@
 ---
-title: "Your Competition Is Already Using AI: Why Home Service Companies Can’t Afford to Wait"
+title: "Your Competition Is Already Using AI: Why Home Service Companies Can't Afford to Wait"
 slug: "ai-for-home-service-companies"
-description: ""
-excerpt: ""
+description: "While you manually handle calls, competitors use AI to capture leads 24/7. Discover how home service companies leverage AI to dominate their local markets."
+excerpt: "Your competitors are using AI to answer every call, follow up instantly, and dominate search results while you're stuck playing phone tag. Discover how AI systems are transforming home service businesses and why waiting to implement them costs you revenue daily."
 author: "Adam Miconi"
 publishDate: "2025-08-31T18:45:00-06:00"
 lastModified: ""
 image: ""
-canonicalUrl: ""
+canonicalUrl: "https://therebelape.com/blog/ai-for-home-service-companies/"
 tags: []
 draft: false
 ---

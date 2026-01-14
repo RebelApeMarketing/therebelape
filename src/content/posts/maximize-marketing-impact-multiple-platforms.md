@@ -1,8 +1,8 @@
 ---
 title: "Maximize Marketing Impact: Harnessing the Power of Multiple Platforms"
 slug: "maximize-marketing-impact-multiple-platforms"
-description: ""
-excerpt: ""
+description: "Maximize marketing impact across multiple platforms without spreading yourself thin. Learn strategic approaches for omnichannel marketing that delivers consistent results."
+excerpt: "Being everywhere isn't the same as being effective everywhere. Learn how to maximize marketing impact across multiple platforms through strategic channel selection, consistent messaging, and integrated campaigns that amplify reach while maintaining focus and efficiency."
 author: "Adam Miconi"
 publishDate: "2023-06-18T21:22:00-06:00"
 lastModified: ""

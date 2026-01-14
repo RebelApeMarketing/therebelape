@@ -1,8 +1,8 @@
 ---
 title: "How to Master Your Client Onboarding Process: From 3 Hours to 20 Minutes"
 slug: "how-to-master-your-client-onboarding-process-from-3-hours-to-20-minutes"
-description: ""
-excerpt: ""
+description: "Transform your client onboarding from a 3-hour nightmare to a streamlined 20-minute process. Learn automation strategies that improve client experience and save time."
+excerpt: "Client onboarding shouldn't consume your entire day. Discover the exact system for reducing onboarding time from 3 hours to just 20 minutes through strategic automation, clear processes, and smart tools that improve both efficiency and client satisfaction while freeing you to focus on revenue-generating activities."
 author: "Adam Miconi"
 publishDate: "2025-09-26T10:00:00-06:00"
 lastModified: ""
