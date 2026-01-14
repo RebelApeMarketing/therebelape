@@ -81,18 +81,16 @@ article p {
   @apply mb-4 text-slate-700 leading-relaxed;
 }
 
-/* Link styles with higher specificity */
-.prose a,
-article a,
-.blog-post a {
+/* Link styles with higher specificity - only within blog post content */
+.blog-post .prose a,
+.blog-post article a {
   color: #069c4b !important;
   text-decoration: underline !important;
   transition: all 0.2s ease-in-out;
 }
 
-.prose a:hover,
-article a:hover,
-.blog-post a:hover {
+.blog-post .prose a:hover,
+.blog-post article a:hover {
   text-decoration: none !important;
 }
 

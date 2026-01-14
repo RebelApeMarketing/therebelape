@@ -38,9 +38,11 @@ if (items && items.length > 0) {
   segments.forEach((segment, index) => {
     path += `/${segment}`;
     const label = labels[segment] || slugToLabel(segment);
+    // Ensure trailing slash for consistency
+    const href = path.endsWith('/') ? path : path + '/';
     breadcrumbs.push({
       label,
-      href: path
+      href
     });
   });
 } else {
@@ -53,8 +55,9 @@ const uniqueBreadcrumbs = breadcrumbs.filter((item, index, self) =>
 );
 
 // Find current page based on pathname
-const isCurrentPage = (href: string) => {
-  return currentPath === href || (href !== '/' && currentPath.startsWith(href + '/'));
+// Only the last breadcrumb item should be marked as current
+const isCurrentPage = (href: string, index: number) => {
+  return index === uniqueBreadcrumbs.length - 1;
 };
 ---
 
@@ -64,7 +67,7 @@ const isCurrentPage = (href: string) => {
       <nav class="flex items-center justify-center" aria-label="Breadcrumb">
         <ol class="flex items-center gap-2 font-light text-sm">
           {uniqueBreadcrumbs.map((item, index) => {
-            const isCurrent = isCurrentPage(item.href);
+            const isCurrent = isCurrentPage(item.href, index);
             return (
               <li class="flex items-center gap-2">
                 {isCurrent ? (
