@@ -396,6 +396,32 @@ Your website needs to be found. That means proper [on-page SEO](https://therebel
 
 Your website and [Google Business Profile](https://therebelape.com/services/google-business-profile/) work together. If you're not optimizing both, you're leaving money on the table. Check out our guide to [total market domination with Google Business Profile](https://therebelape.com/blog/total-market-domination-with-google-business-profile/) and our [Google Business Profile service for plumbers](https://therebelape.com/blog/google-business-profile-for-plumbers/) (applies to all home service businesses).
 
+## Frequently Asked Questions
+
+**Can I grow my home service business on word-of-mouth alone?**
+
+Word-of-mouth works until it doesn't. You can get to $500K-$1M on referrals alone, but it's inconsistent, seasonal, and caps your growth. If each customer refers 0.5 new customers, you're mathematically limited. To scale past $2M, you need predictable lead generation, and that requires a conversion-optimized website as your marketing hub.
+
+**Why isn't my current contractor website generating leads?**
+
+Most contractor websites fail because they prioritize looking pretty over converting visitors. They lack clear calls-to-action, don't address customer objections, have weak trust signals, and aren't optimized for how people actually make buying decisions. A website needs to digitize your in-person sales process, not just display information.
+
+**How much should a contractor website cost?**
+
+Price depends on whether you want a brochure or a sales tool. Template sites cost $500-$3,000 but rarely convert. Conversion-optimized websites designed specifically for home service businesses typically range from $10,000-$30,000+. However, when you do the ROI math—if each lead is worth $500-$2,000 and you close 20-30% of them—a proper website pays for itself in months, not years.
+
+**What makes a home service website convert?**
+
+Four elements: persuasive copy that speaks to pain points, trust signals like reviews and credentials, prequalification that answers objections before they call, and conversion optimization that makes booking stupid-easy. It's about digitizing your in-person sales process—everything that makes you effective face-to-face needs to be on the page.
+
+**Do I need a new website if mine still works?**
+
+If your website was built before 2020 and hasn't been updated, it's probably costing you leads. Google's Core Web Vitals updates, mobile-first indexing, and changing user expectations mean even a 2019 website needs significant updates. Technology changes fast—what worked 3-5 years ago is outdated today. If your competitors have modern, conversion-optimized sites and you don't, you're losing market share.
+
+**Can't I just use Facebook or Google My Business instead of a website?**
+
+Social media and Google Business Profile are traffic sources, not destinations. When someone clicks your ad, searches for you, or sees your post, where do they go to actually book? Your website. Without a solid website, every marketing dollar you spend has a leak in it. Facebook can change its algorithm overnight—you can't control that. You can control your website.
+
 ## The Bottom Line
 
 Word-of-mouth got you here. But it won't get you to $2M, $5M, or beyond.
