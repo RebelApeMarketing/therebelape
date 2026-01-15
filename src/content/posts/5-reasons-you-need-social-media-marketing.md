@@ -6,7 +6,7 @@ excerpt: "Most contractors think social media is a waste of time or that AI can 
 author: "Adam Miconi"
 publishDate: "2019-03-01T12:00:00-07:00"
 lastModified: "2025-01-14T19:24:00-07:00"
-image: "/images/blog/contractor-social-media.jpg"
+image: ""
 canonicalUrl: "https://therebelape.com/blog/5-reasons-you-need-social-media-marketing/"
 category: "Home Services Marketing"
 tags: ["social media marketing", "contractor marketing", "video marketing", "brand building", "content strategy"]

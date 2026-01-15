@@ -6,7 +6,7 @@ excerpt: "On-page SEO forms the foundation of search visibility. Discover essent
 author: "Adam Miconi"
 publishDate: "2020-12-10T11:00:00-07:00"
 lastModified: ""
-image: "https://RebelApeCDN.b-cdn.net/rebel-ape-main/headline-tags.webp"
+image: "https://RebelApeCDN.b-cdn.net/featured-basic-on-page-seo-tips.webp"
 canonicalUrl: "https://therebelape.com/blog/on-page-seo-tips/"
 tags: [seo]
 draft: false

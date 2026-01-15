@@ -6,7 +6,7 @@ excerpt: "Every year someone declares SEO dead, and every year they're wrong. Di
 author: "Adam Miconi"
 publishDate: "2019-03-14T13:00:00-06:00"
 lastModified: ""
-image: "https://RebelApeCDN.b-cdn.net/rebel-ape-main/neither-dead-nor-dying.webp"
+image: "https://RebelApeCDN.b-cdn.net/featured-seo-dead.webp"
 canonicalUrl: "https://therebelape.com/blog/is-seo-dead/"
 tags: []
 draft: false

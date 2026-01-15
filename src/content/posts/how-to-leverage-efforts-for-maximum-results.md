@@ -6,7 +6,7 @@ excerpt: "Stop working harder and start working smarter. Discover proven strateg
 author: "Adam Miconi"
 publishDate: "2024-09-23T17:47:00-06:00"
 lastModified: ""
-image: ""
+image: "https://RebelApeCDN.b-cdn.net/featured-how-to-leverage-your-calendar.webp"
 canonicalUrl: "https://therebelape.com/blog/how-to-leverage-efforts-for-maximum-results/"
 tags: []
 draft: false

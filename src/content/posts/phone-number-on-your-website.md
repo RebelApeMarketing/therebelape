@@ -6,7 +6,7 @@ excerpt: "Making it easy for customers to call you seems obvious, yet many websi
 author: "Adam Miconi"
 publishDate: "2022-12-20T16:38:00-07:00"
 lastModified: ""
-image: ""
+image: "https://RebelApeCDN.b-cdn.net/featured-phone-number-on-your-website.webp"
 canonicalUrl: "https://therebelape.com/blog/phone-number-on-your-website/"
 tags: []
 draft: false

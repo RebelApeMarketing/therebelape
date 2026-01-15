@@ -6,7 +6,7 @@ excerpt: "Your Google Business Profile is the most powerful free marketing tool 
 author: "Adam Miconi"
 publishDate: "2025-05-27T15:40:00-06:00"
 lastModified: ""
-image: ""
+image: "https://RebelApeCDN.b-cdn.net/featured-total-market-domination-rebel-ape.webp"
 canonicalUrl: "https://therebelape.com/blog/total-market-domination-with-google-business-profile/"
 tags: []
 draft: false

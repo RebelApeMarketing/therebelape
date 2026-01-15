@@ -6,7 +6,7 @@ excerpt: "Online trust is harder to build than in-person trust, yet it's essenti
 author: "Adam Miconi"
 publishDate: "2021-12-07T10:00:00-07:00"
 lastModified: ""
-image: ""
+image: "https://RebelApeCDN.b-cdn.net/featured-increase-website-trust.webp"
 canonicalUrl: "https://therebelape.com/blog/increase-website-trust/"
 tags: []
 draft: false

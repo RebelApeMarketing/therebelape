@@ -6,7 +6,7 @@ excerpt: "We've designed dozens of contractor websites. The ones that convert fo
 author: "Adam Miconi"
 publishDate: "2021-12-06T10:00:00-07:00"
 lastModified: "2026-01-07T15:00:00-07:00"
-image: "https://RebelApeCDN.b-cdn.net/rebel-ape-main/website-professional-design.webp"
+image: "https://RebelApeCDN.b-cdn.net/featured-high-converting-webpage.webp"
 canonicalUrl: "https://therebelape.com/blog/high-converting-website-design-guide/"
 tags: ["website design", "conversion optimization", "landing pages", "contractor marketing", "roofing contractors"]
 draft: false
@@ -27,8 +27,8 @@ schema:
       "description": "Most contractor websites look good but don't convert. Learn our proven 5-step design process that helped our roofing clients generate $120K in 8 months with conversion rates hitting 25%.",
       "image": {
         "@type": "ImageObject",
-        "@id": "https://RebelApeCDN.b-cdn.net/rebel-ape-main/website-professional-design.webp",
-        "url": "https://RebelApeCDN.b-cdn.net/rebel-ape-main/website-professional-design.webp",
+        "@id": "https://RebelApeCDN.b-cdn.net/featured-high-converting-webpage.webp",
+        "url": "https://RebelApeCDN.b-cdn.net/featured-high-converting-webpage.webp",
         "width": 1200,
         "height": 630
       },

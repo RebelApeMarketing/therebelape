@@ -6,7 +6,7 @@ excerpt: "SEO marketing combines search optimization with strategic business gro
 author: "Adam Miconi"
 publishDate: "2025-06-17T12:00:00-06:00"
 lastModified: ""
-image: ""
+image: "https://RebelApeCDN.b-cdn.net/featured-seo-marketing.webp"
 canonicalUrl: "https://therebelape.com/blog/seo-marketing-guide-business-growth/"
 tags: []
 draft: false

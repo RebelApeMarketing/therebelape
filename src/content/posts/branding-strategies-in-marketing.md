@@ -6,7 +6,7 @@ excerpt: "Your brand is more than a logo—it's the promise you make to customer
 author: "Adam Miconi"
 publishDate: "2019-11-25T00:35:00-07:00"
 lastModified: ""
-image: "https://RebelApeCDN.b-cdn.net/rebel-ape-main/what-is-branding.webp"
+image: "https://RebelApeCDN.b-cdn.net/featured-branding-strategies-in-marketing.webp"
 canonicalUrl: "https://therebelape.com/blog/branding-strategies-in-marketing/"
 tags: []
 draft: false

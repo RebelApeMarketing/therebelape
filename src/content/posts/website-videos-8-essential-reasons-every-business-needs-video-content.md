@@ -6,7 +6,7 @@ excerpt: "Video content isn't optional anymore—it's essential for competitive 
 author: "Adam Miconi"
 publishDate: "2025-09-08T10:00:00-06:00"
 lastModified: ""
-image: "https://RebelApeCDN.b-cdn.net/rebel-ape-main/Video-Marketing-on-Mobile-Devices-1030x580.webp"
+image: "https://RebelApeCDN.b-cdn.net/featured-8-essential-reasons-every-business-needs-video-content.webp"
 canonicalUrl: "https://therebelape.com/blog/website-videos-8-essential-reasons-every-business-needs-video-content/"
 tags: []
 draft: false

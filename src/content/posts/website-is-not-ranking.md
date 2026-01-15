@@ -6,7 +6,7 @@ excerpt: "Watching your website languish in search obscurity is frustrating, esp
 author: "Adam Miconi"
 publishDate: "2019-03-08T13:00:00-07:00"
 lastModified: ""
-image: ""
+image: "https://RebelApeCDN.b-cdn.net/featured-why-your-website-may-not-be-ranking.webp"
 canonicalUrl: "https://therebelape.com/blog/website-is-not-ranking/"
 tags: []
 draft: false

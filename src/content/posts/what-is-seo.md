@@ -6,7 +6,7 @@ excerpt: "With 75% of users never scrolling past page one of Google, your search
 author: "Adam Miconi"
 publishDate: "2018-04-26T11:00:00-06:00"
 lastModified: ""
-image: "https://RebelApeCDN.b-cdn.net/rebel-ape-main/seo-statistics-rebel-ape.webp"
+image: "https://RebelApeCDN.b-cdn.net/featured-what-is-seo.webp"
 canonicalUrl: "https://therebelape.com/blog/what-is-seo/"
 tags: []
 draft: false

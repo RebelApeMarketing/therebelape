@@ -6,7 +6,7 @@ excerpt: "DIY marketing seems cost-effective until you calculate wasted time and
 author: "Adam Miconi"
 publishDate: "2025-05-20T12:00:00-06:00"
 lastModified: ""
-image: "https://RebelApeCDN.b-cdn.net/rebel-ape-main/the-gambit-1030x687.webp"
+image: "https://RebelApeCDN.b-cdn.net/featured-when-to-delegate-marketing-to-experts.webp"
 canonicalUrl: "https://therebelape.com/blog/when-to-delegate-marketing-to-experts/"
 tags: []
 draft: false

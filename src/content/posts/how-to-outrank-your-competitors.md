@@ -6,7 +6,7 @@ excerpt: "Watching competitors dominate search results while you struggle for vi
 author: "Adam Miconi"
 publishDate: "2018-12-20T13:07:00-07:00"
 lastModified: ""
-image: "https://RebelApeCDN.b-cdn.net/rebel-ape-main/google-ranking-factor-serps.webp"
+image: ""
 canonicalUrl: "https://therebelape.com/blog/how-to-outrank-your-competitors/"
 tags: []
 draft: false

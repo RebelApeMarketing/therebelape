@@ -6,7 +6,7 @@ excerpt: "Managing your Google Business Profile effectively requires team collab
 author: "Adam Miconi"
 publishDate: "2019-02-20T00:38:00-07:00"
 lastModified: ""
-image: "https://RebelApeCDN.b-cdn.net/rebel-ape-main/google-my-business-listing-selection.webp"
+image: "https://RebelApeCDN.b-cdn.net/featured-google-my-business-logo.webp"
 canonicalUrl: "https://therebelape.com/blog/how-to-add-users-to-google-my-business-listing/"
 tags: []
 draft: false

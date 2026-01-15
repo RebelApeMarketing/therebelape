@@ -6,7 +6,7 @@ excerpt: "A brand promise is more than a tagline—it's the fundamental commitme
 author: "Adam Miconi"
 publishDate: "2020-02-09T19:05:00-07:00"
 lastModified: ""
-image: ""
+image: "https://RebelApeCDN.b-cdn.net/featured-brand-promise.webp"
 canonicalUrl: "https://therebelape.com/blog/what-is-a-brand-promise/"
 tags: []
 draft: false

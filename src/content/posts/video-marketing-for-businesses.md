@@ -6,7 +6,7 @@ excerpt: "Video isn't just another content format—it's the most engaging and p
 author: "Adam Miconi"
 publishDate: "2025-09-01T10:00:00-06:00"
 lastModified: ""
-image: "https://RebelApeCDN.b-cdn.net/rebel-ape-main/Capturing-Authentic-Brand-Stories-Through-Video-Marketing.webp"
+image: "https://RebelApeCDN.b-cdn.net/featured-video-marketing-blog-post-rebel-ape-marketing.webp"
 canonicalUrl: "https://therebelape.com/blog/video-marketing-for-businesses/"
 tags: []
 draft: false

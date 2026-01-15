@@ -6,7 +6,7 @@ excerpt: "If you're not leveraging your Google Business Profile, you're handing 
 author: "Adam Miconi"
 publishDate: "2025-04-21T12:05:00-06:00"
 lastModified: ""
-image: ""
+image: "https://RebelApeCDN.b-cdn.net/featured-google-business-profile-for-plumbers.webp"
 canonicalUrl: "https://therebelape.com/blog/google-business-profile-for-plumbers/"
 tags: []
 draft: false

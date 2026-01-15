@@ -6,7 +6,7 @@ excerpt: "XYZ Marketing built a reputation for delivering results-driven marketi
 author: "Adam Miconi"
 publishDate: "2021-12-08T10:00:00-07:00"
 lastModified: ""
-image: ""
+image: "https://RebelApeCDN.b-cdn.net/featured-xyz-marketing-partnership.webp"
 canonicalUrl: "https://therebelape.com/blog/xyz-marketing/"
 tags: []
 draft: false

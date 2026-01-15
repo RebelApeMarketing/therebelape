@@ -6,7 +6,7 @@ excerpt: "Online marketing isn't just another channel—it's a growth accelerato
 author: "Adam Miconi"
 publishDate: "2025-06-19T12:00:00-06:00"
 lastModified: ""
-image: ""
+image: "https://RebelApeCDN.b-cdn.net/featured-online-marketing.webp"
 canonicalUrl: "https://therebelape.com/blog/online-marketing-business-growth-trajectory/"
 tags: []
 draft: false

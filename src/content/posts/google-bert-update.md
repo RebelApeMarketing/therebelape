@@ -6,7 +6,7 @@ excerpt: "Google's BERT update represents the largest algorithm change in five y
 author: "Adam Miconi"
 publishDate: "2020-01-03T01:45:00-07:00"
 lastModified: ""
-image: ""
+image: "https://RebelApeCDN.b-cdn.net/featured-google-bert.webp"
 canonicalUrl: "https://therebelape.com/blog/google-bert-update/"
 tags: []
 draft: false

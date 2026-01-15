@@ -6,7 +6,7 @@ excerpt: "Your own pages might be competing against each other in search results
 author: "Adam Miconi"
 publishDate: "2025-05-29T12:00:00-06:00"
 lastModified: ""
-image: ""
+image: "https://RebelApeCDN.b-cdn.net/featured-what-is-keyword-cannibalization.webp"
 canonicalUrl: "https://therebelape.com/blog/keyword-cannibalization-and-why-you-should-avoid-it/"
 tags: []
 draft: false

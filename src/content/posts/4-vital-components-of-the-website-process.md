@@ -6,7 +6,7 @@ excerpt: "Your designer made it beautiful. Your developer made it fast. So why i
 publishDate: "2019-11-24T03:02:00-07:00"
 lastModified: "2025-01-14T14:24:00-07:00"
 author: "Adam Miconi"
-image: "https://RebelApeCDN.b-cdn.net/rebel-ape-main/4-vita-components-website.png"
+image: "https://RebelApeCDN.b-cdn.net/featured-4-vital-components.webp"
 canonicalUrl: "https://therebelape.com/blog/4-vital-components-of-the-website-process/"
 category: "Home Services Marketing"
 tags: ["website design", "conversion optimization", "landing pages", "contractor marketing", "roofing contractors", "lead generation"]

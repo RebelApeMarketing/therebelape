@@ -6,7 +6,7 @@ excerpt: "Keywords still matter for SEO, but not the way they used to. Google's 
 author: "Adam Miconi"
 publishDate: "2018-05-06T11:00:00-06:00"
 lastModified: ""
-image: "https://RebelApeCDN.b-cdn.net/rebel-ape-main/rebel-ape-analytics-1030x308.jpg"
+image: "https://RebelApeCDN.b-cdn.net/featured-do-keywords-still-matter.webp"
 canonicalUrl: "https://therebelape.com/blog/do-keywords-still-matter-for-seo/"
 tags: []
 draft: false

@@ -6,7 +6,7 @@ excerpt: "Those generic stock photos might be hurting your brand more than helpi
 author: "Adam Miconi"
 publishDate: "2022-11-28T00:11:00-07:00"
 lastModified: ""
-image: ""
+image: "https://RebelApeCDN.b-cdn.net/featured-stock-photography-for-website-images.webp"
 canonicalUrl: "https://therebelape.com/blog/pitfalls-of-stock-photography-for-website-images/"
 tags: []
 draft: false

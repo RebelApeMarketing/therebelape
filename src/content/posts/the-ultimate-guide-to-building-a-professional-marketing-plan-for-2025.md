@@ -6,7 +6,7 @@ excerpt: "Marketing without a plan is just expensive guesswork. This comprehensi
 author: "Adam Miconi"
 publishDate: "2025-09-22T10:00:00-06:00"
 lastModified: ""
-image: ""
+image: "https://RebelApeCDN.b-cdn.net/featured-the-ultimate-guide-to-building-a-professional-marketing-plan-for-2025.webp"
 canonicalUrl: "https://therebelape.com/blog/the-ultimate-guide-to-building-a-professional-marketing-plan-for-2025/"
 tags: []
 draft: false
