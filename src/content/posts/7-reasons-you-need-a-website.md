@@ -3,7 +3,7 @@ title: "Why Home Service Companies Need a Website (And Why Yours Probably Doesn'
 slug: "why-home-service-companies-need-a-website"
 description: "Word-of-mouth keeps you small. Learn why conversion-optimized websites are the foundation of scalable contractor marketing and how to avoid the three types of websites that waste your money."
 excerpt: "Most contractors rely on word-of-mouth and stay stuck at the same revenue for years. The ones who scale past $2M have one thing in common: a website built for conversions, not just looking pretty. Here's why your current website probably isn't working and what actually matters."
-publishDate: "2019-03-15T012:00:00-07:00"
+publishDate: "2019-03-15T12:00:00-07:00"
 lastModified: "2026-01-14T22:00:00-07:00"
 author: "Adam Miconi"
 image: "https://RebelApeCDN.b-cdn.net/rebel-ape-main/why-home-service-companies-need-a-website.png"
