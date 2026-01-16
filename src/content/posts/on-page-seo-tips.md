@@ -118,7 +118,6 @@ Still talking about image sizes, once uploaded it is also good practice to have 
 I like running this software because it can help reduce the size of previously uncompressed images that were uploaded and sometimes further reduce an image currently uploading without compromising the quality.
 
 ### Alt Tags
-<img src="photography.webp" alt="This is your alt description" />
 
 **An alt tag, also known as an alt attribute or alt description, is an HTML code snippet that allows the search engines to understand what the image is about and also increases the user experience for those using screen readers.**
 
