@@ -80,7 +80,7 @@ Why Video Marketing Should Be A Main Component Of Your Marketing Strategy For 20
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Video offers an entertaining and informative way to showcase a company’s features and advantages while keeping viewers engaged with clever visuals and storytelling. Video is also incredibly accessible and helps boost your SEO when shared on <a href="https://therebelape.com/5-reasons-you-need-social-media-marketing/">social media</a> platforms. Video allows a company to bridge the gap between potential customers who don't know anything about them yet, to those who are ready to buy right away.</p>
+<p>Video offers an entertaining and informative way to showcase a company’s features and advantages while keeping viewers engaged with clever visuals and storytelling. Video is also incredibly accessible and helps boost your SEO when shared on <a href="/5-reasons-you-need-social-media-marketing/">social media</a> platforms. Video allows a company to bridge the gap between potential customers who don't know anything about them yet, to those who are ready to buy right away.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -96,7 +96,7 @@ Why Video Marketing Should Be A Main Component Of Your Marketing Strategy For 20
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Video not only provides an easy way to connect directly with your target audience but can also be used across multiple platforms; you can post or embed it to your website, share it on <a href="https://therebelape.com/create-social-media-marketing-campaign/">social media</a>, include it in emails, and even turn it into a TV ad – all without breaking the bank.</p>
+<p>Video not only provides an easy way to connect directly with your target audience but can also be used across multiple platforms; you can post or embed it to your website, share it on <a href="/create-social-media-marketing-campaign/">social media</a>, include it in emails, and even turn it into a TV ad – all without breaking the bank.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -124,7 +124,7 @@ Why Video Marketing Should Be A Main Component Of Your Marketing Strategy For 20
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Video content also has a high rate of success when it comes to search engine optimization, meaning your website will become more accessible and visible in Google's search engine results pages. Video marketing helps you reach wider audiences while giving you the ability to communicate complex concepts in a simpler manner. With 2023 quickly approaching, the use of video in your <a href="https://therebelape.com/branding-strategies-in-marketing/">marketing strategy is sure to set you up for success when it comes to furthering brand</a> recognition and increasing conversions.</p>
+<p>Video content also has a high rate of success when it comes to search engine optimization, meaning your website will become more accessible and visible in Google's search engine results pages. Video marketing helps you reach wider audiences while giving you the ability to communicate complex concepts in a simpler manner. With 2023 quickly approaching, the use of video in your <a href="/branding-strategies-in-marketing/">marketing strategy is sure to set you up for success when it comes to furthering brand</a> recognition and increasing conversions.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->
@@ -136,7 +136,7 @@ Why Video Marketing Should Be A Main Component Of Your Marketing Strategy For 20
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Video content can be used to help showcase your <a href="https://therebelape.com/how-to-design-a-brand-identity-like-a-professional/">brand identity</a> and promote products or services. It also helps build relationships with customers by giving them a look into who you are and the story behind your product or service. By taking advantage of <a href="https://blog.hubspot.com/marketing/video-marketing">Video Marketing strategies</a>, you have the power to captivate audiences and tell powerful stories that go beyond conventional ways of marketing.</p>
+<p>Video content can be used to help showcase your <a href="/how-to-design-a-brand-identity-like-a-professional/">brand identity</a> and promote products or services. It also helps build relationships with customers by giving them a look into who you are and the story behind your product or service. By taking advantage of <a href="https://blog.hubspot.com/marketing/video-marketing">Video Marketing strategies</a>, you have the power to captivate audiences and tell powerful stories that go beyond conventional ways of marketing.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->
@@ -148,5 +148,5 @@ Why Video Marketing Should Be A Main Component Of Your Marketing Strategy For 20
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Fortunately, Rebel Ape Marketing can help your company with video marketing. We produce high-quality videos that are <a href="/blog/on-page-seo-tips/">optimized for SEO</a> and designed to convert viewers into leads and customers. <a href="https://therebelape.com/contact/" data-type="page" data-id="1323">Contact us today</a> to learn more about how we can help you use video to achieve your business goals.</p>
+<p>Fortunately, Rebel Ape Marketing can help your company with video marketing. We produce high-quality videos that are <a href="/blog/on-page-seo-tips/">optimized for SEO</a> and designed to convert viewers into leads and customers. <a href="/contact/" data-type="page" data-id="1323">Contact us today</a> to learn more about how we can help you use video to achieve your business goals.</p>
 <!-- /wp:paragraph -->

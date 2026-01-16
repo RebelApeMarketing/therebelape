@@ -26,7 +26,7 @@ Even though content is still king, content has to be seen to pass along a messag
 
 Strategy can make or break your entire campaign. Low-quality content can succeed with great strategy, while high-quality content can fail with poor—or nonexistent—strategy.
 
-Here’s our approach to creating a great [social media marketing campaign](https://therebelape.com/blog/5-reasons-you-need-social-media-marketing/).
+Here’s our approach to creating a great [social media marketing campaign](/blog/5-reasons-you-need-social-media-marketing/).
 
 ### Goal Setting To Test Social Media
 
@@ -74,8 +74,8 @@ Creating a successful social media marketing campaign is all about strategy:
 - **Conduct research** to identify the best path forward  
 - **Analyze continuously** to improve performance over time  
 
-If you want to work with top-tier [graphic designers](https://themanifest.com/) and [web designers in Utah](https://clutch.co/), [contact us](https://therebelape.com/contact/).
+If you want to work with top-tier [graphic designers](https://themanifest.com/) and [web designers in Utah](https://clutch.co/), [contact us](/contact/).
 
 You can also explore our work here:  
 - [Website Design Gallery](/services/website-design/)  
-- [Logo Design Gallery](https://therebelape.com/logo-designs-gallery/)
+- [Logo Design Gallery](/logo-designs-gallery/)

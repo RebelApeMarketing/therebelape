@@ -610,7 +610,7 @@ https://www.youtube.com/watch?v=PBExn-KgH84
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Even with a typical conversion rate of 2-5%, <a href="https://therebelape.com/how-to-improve-website-traffic-with-seo-your-complete-2025-guide/">more traffic</a> means more opportunities to capture leads. The more visitors you attract, the more likely you are to connect with someone who has an immediate need for your services—whether it's an emergency repair, a new installation, or a maintenance call.</p>
+<p>Even with a typical conversion rate of 2-5%, <a href="/how-to-improve-website-traffic-with-seo-your-complete-2025-guide/">more traffic</a> means more opportunities to capture leads. The more visitors you attract, the more likely you are to connect with someone who has an immediate need for your services—whether it's an emergency repair, a new installation, or a maintenance call.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -622,7 +622,7 @@ https://www.youtube.com/watch?v=PBExn-KgH84
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>At Rebel Ape Marketing, we specialize in helping plumbing and home service businesses improve their online visibility and capture more leads. Our Local Accelerator program is designed to analyze your website, identify opportunities for improvement, and create a customized <a href="https://therebelape.com/the-ultimate-guide-to-building-a-professional-marketing-plan-for-2025/">marketing plan</a> that drives results.</p>
+<p>At Rebel Ape Marketing, we specialize in helping plumbing and home service businesses improve their online visibility and capture more leads. Our Local Accelerator program is designed to analyze your website, identify opportunities for improvement, and create a customized <a href="/the-ultimate-guide-to-building-a-professional-marketing-plan-for-2025/">marketing plan</a> that drives results.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -661,7 +661,7 @@ https://www.youtube.com/watch?v=PBExn-KgH84
 
 <!-- wp:list -->
 <ul class="wp-block-list"><!-- wp:list-item -->
-<li><a href="https://therebelape.com/plumbing-website-conversion-fixes/" data-type="post" data-id="9889">Plumbing Website Conversion Fixes – 6 Ways to Turn Visitors into Leads</a></li>
+<li><a href="/plumbing-website-conversion-fixes/" data-type="post" data-id="9889">Plumbing Website Conversion Fixes – 6 Ways to Turn Visitors into Leads</a></li>
 <!-- /wp:list-item --></ul>
 <!-- /wp:list -->
 

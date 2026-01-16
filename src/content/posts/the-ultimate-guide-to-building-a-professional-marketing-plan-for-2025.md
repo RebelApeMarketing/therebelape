@@ -133,7 +133,7 @@ A professional marketing plan includes clear metrics for measuring success and s
 
 ### Key Performance Indicators
 
-Establish specific, [measurable KPIs](https://therebelape.com/blog/our-secret-to-tracking-success-and-making-marketing-predictable/) that align with your business objectives:
+Establish specific, [measurable KPIs](/blog/our-secret-to-tracking-success-and-making-marketing-predictable/) that align with your business objectives:
 
 - Lead generation and conversion rates
 - Customer acquisition costs
@@ -149,7 +149,7 @@ Regularly analyze performance data to identify areas for improvement and optimiz
 
 Creating and implementing a&nbsp;**professional marketing plan**&nbsp;requires strategic thinking, consistent execution, and ongoing optimization. While the framework provided in this guide gives you the foundation for success, many businesses benefit from professional expertise to maximize their marketing effectiveness.
 
-At Rebel Ape Marketing, we specialize in developing comprehensive [marketing strategies](https://therebelape.com/blog/how-we-develop-our-powerful-marketing-strategies/) that integrate audience research, compelling messaging, and multi-channel implementation. Our experienced team understands the complexities of modern marketing and can help you navigate the challenges of creating cohesive campaigns that drive measurable results.
+At Rebel Ape Marketing, we specialize in developing comprehensive [marketing strategies](/blog/how-we-develop-our-powerful-marketing-strategies/) that integrate audience research, compelling messaging, and multi-channel implementation. Our experienced team understands the complexities of modern marketing and can help you navigate the challenges of creating cohesive campaigns that drive measurable results.
 
 We work with businesses to develop customized marketing plans that align with specific goals, target audiences, and competitive landscapes. Our approach ensures that every element of your marketing strategy works together to reinforce your core message and drive business growth.
 

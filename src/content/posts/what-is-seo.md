@@ -24,7 +24,7 @@ You need great SEO — **Search Engine Optimization**.
 
 ## What is SEO?
 
-[Search engine optimization](https://therebelape.com/seo/) is a series of on-page and off-page (off-site) strategies and technical factors that help your website show up more often when people search on Google (or other search engines).
+[Search engine optimization](/seo/) is a series of on-page and off-page (off-site) strategies and technical factors that help your website show up more often when people search on Google (or other search engines).
 
 The better your SEO, the more likely your site is to appear higher for the keywords and phrases your customers are searching for.
 
@@ -38,7 +38,7 @@ SEO is built using things like:
 - Backlinks (links from other websites)
 - Technical improvements (site structure, speed, crawlability, etc.)
 
-If that sounds like something you don’t want to spend your life doing, that’s exactly why businesses hire SEO specialists (and yes — [Rebel Ape Marketing can help](https://therebelape.com/contact/)).
+If that sounds like something you don’t want to spend your life doing, that’s exactly why businesses hire SEO specialists (and yes — [Rebel Ape Marketing can help](/contact/)).
 
 ---
 
@@ -57,7 +57,7 @@ Old-school tactics like these can now get your site penalized:
 
 SEO done correctly can sometimes show early movement, but most of the real gains happen **over time** as your site builds authority and relevance.
 
-Even if you publish great content, another website with strong technical SEO and higher authority can still outrank you. (Here are some practical [on-page SEO tips](https://therebelape.com/blog/on-page-seo-tips/) if you’re working on this yourself.)
+Even if you publish great content, another website with strong technical SEO and higher authority can still outrank you. (Here are some practical [on-page SEO tips](/blog/on-page-seo-tips/) if you’re working on this yourself.)
 
 ---
 
@@ -97,7 +97,7 @@ Google’s algorithms change constantly, so staying on top of SEO can feel like 
 
 With billions of people online, it’s important to tap into that attention and drive the *right* people to your website.
 
-The more pages you have [ranking higher](https://therebelape.com/blog/how-to-outrank-your-competitors/), the more opportunities you have to pull in traffic — and the more competitor traffic you’re taking back.
+The more pages you have [ranking higher](/blog/how-to-outrank-your-competitors/), the more opportunities you have to pull in traffic — and the more competitor traffic you’re taking back.
 
 Without SEO, a big chunk of that traffic goes to the businesses above you.
 
@@ -128,13 +128,13 @@ We support businesses in and around Ogden, Utah (and beyond) through SEO strateg
 
 - Technical improvements
 - On-page optimization
-- Site audits for weaknesses and opportunities ([audit your site here](https://therebelape.com/blog/on-page-seo-tips/))
+- Site audits for weaknesses and opportunities ([audit your site here](/blog/on-page-seo-tips/))
 - Content planning and growth
 - Authority building
 
-With the right process, your website can steadily grow traffic, increase visibility, and compete for the top spots in the [Google search results](https://therebelape.com/blog/how-to-outrank-your-competitors/).
+With the right process, your website can steadily grow traffic, increase visibility, and compete for the top spots in the [Google search results](/blog/how-to-outrank-your-competitors/).
 
-If you’re ready to improve your rankings and authority, reach out [here](https://therebelape.com/contact/).
+If you’re ready to improve your rankings and authority, reach out [here](/contact/).
 
 ---
 

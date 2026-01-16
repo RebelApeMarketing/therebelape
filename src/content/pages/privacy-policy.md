@@ -98,4 +98,4 @@ We may update this Privacy Policy at any time. The updated date will be shown at
 If you have any questions or concerns about this Privacy Policy or our data practices, contact us at:
 
 📧 [info@therebelape.com](mailto:info@therebelape.com)  
-📍 [https://therebelape.com/contact/](https://therebelape.com/contact/)
+📍 [https://therebelape.com/contact/](/contact/)

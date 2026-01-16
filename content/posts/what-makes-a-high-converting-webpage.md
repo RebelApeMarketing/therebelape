@@ -32,12 +32,12 @@ What Makes A High Converting Webpage?
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>A few of the elements that make up a <a href="https://therebelape.com/high-converting-website-design-guide/">high converting website</a> are the following:</p>
+<p>A few of the elements that make up a <a href="/high-converting-website-design-guide/">high converting website</a> are the following:</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:list {"ordered":true} -->
 <ol class="wp-block-list"><!-- wp:list-item -->
-<li>Professional <a href="https://therebelape.com/website-design-and-development-consultant/">website design</a></li>
+<li>Professional <a href="/website-design-and-development-consultant/">website design</a></li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
@@ -98,7 +98,7 @@ What Makes A High Converting Webpage?
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>The <a href="https://therebelape.com/blog/how-to-outrank-your-competitors/">strategies</a> behind the website are the reason why a website works or not. The <a href="https://therebelape.com/video-marketing-strategy-for-2023/">marketing strategy</a> will emphasize web design. So, there is more to a website than selecting a theme. Though it may be beautiful, it doesn't mean that it will convert. This is why there are some very ugly websites that convert very well.</p>
+<p>The <a href="/blog/how-to-outrank-your-competitors/">strategies</a> behind the website are the reason why a website works or not. The <a href="/video-marketing-strategy-for-2023/">marketing strategy</a> will emphasize web design. So, there is more to a website than selecting a theme. Though it may be beautiful, it doesn't mean that it will convert. This is why there are some very ugly websites that convert very well.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -106,11 +106,11 @@ What Makes A High Converting Webpage?
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>The website layout is an essential element when it comes to <a href="https://therebelape.com/services/website-design/" data-type="link" data-id="https://therebelape.com/services/website-design/">website design.</a> This section will be the roadmap on how the users navigate the website and will guide them to each element. By having an effective layout, users move through the website as you wish them to.</p>
+<p>The website layout is an essential element when it comes to <a href="/services/website-design/" data-type="link" data-id="/services/website-design/">website design.</a> This section will be the roadmap on how the users navigate the website and will guide them to each element. By having an effective layout, users move through the website as you wish them to.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Within the website layout, you need to create unity throughout the site which helps the brand. What this means is that the website, images, and other content all match. The looks, colors, and vibe of the <a href="https://therebelape.com/how-your-website-design-can-help-or-hurt-your-brand/">website all help enforce the brand</a>.</p>
+<p>Within the website layout, you need to create unity throughout the site which helps the brand. What this means is that the website, images, and other content all match. The looks, colors, and vibe of the <a href="/how-your-website-design-can-help-or-hurt-your-brand/">website all help enforce the brand</a>.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -134,7 +134,7 @@ What Makes A High Converting Webpage?
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>Some of the most powerful items are logos from other <a href="https://therebelape.com/success-business-branding/">brands your company does business</a> with. These can also be awards won and other logo-based items. Logos show that you are an actual company and work with other brands.</p>
+<p>Some of the most powerful items are logos from other <a href="/success-business-branding/">brands your company does business</a> with. These can also be awards won and other logo-based items. Logos show that you are an actual company and work with other brands.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -158,7 +158,7 @@ What Makes A High Converting Webpage?
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>Another very useful element to add trust to your website is to show case studies. These are outlines of the success you have had with other <a href="https://therebelape.com/clients/">clients</a>.</p>
+<p>Another very useful element to add trust to your website is to show case studies. These are outlines of the success you have had with other <a href="/clients/">clients</a>.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -174,7 +174,7 @@ What Makes A High Converting Webpage?
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>An overlooked high conversion webpage <a href="https://therebelape.com/phone-number-on-your-website/">item is the phone number</a>. It can often be one of the best converting features you have. The phone number can help in a few ways. First, it acts as a trust builder. Having a phone number on the website shows users that you are a company with high standards. A company that holds service in the highest regard. It also gives them the ability to reach you whenever they like and there is<br>Though the phone number added anywhere helps, one of the best places is the top right of the website. This is often one of the primary high converting items.</p>
+<p>An overlooked high conversion webpage <a href="/phone-number-on-your-website/">item is the phone number</a>. It can often be one of the best converting features you have. The phone number can help in a few ways. First, it acts as a trust builder. Having a phone number on the website shows users that you are a company with high standards. A company that holds service in the highest regard. It also gives them the ability to reach you whenever they like and there is<br>Though the phone number added anywhere helps, one of the best places is the top right of the website. This is often one of the primary high converting items.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -495,7 +495,7 @@ What Makes A High Converting Webpage?
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li><strong>Use Internal Linking: </strong>Adding internal links to relevant content on your website helps visitors navigate and explore more of your site. Plus, it's great for <a class="wpil_keyword_link" href="https://therebelape.com/seo/" title="SEO" data-wpil-keyword-link="linked">SEO</a>!</li>
+<li><strong>Use Internal Linking: </strong>Adding internal links to relevant content on your website helps visitors navigate and explore more of your site. Plus, it's great for <a class="wpil_keyword_link" href="/seo/" title="SEO" data-wpil-keyword-link="linked">SEO</a>!</li>
 <!-- /wp:list-item --></ol>
 <!-- /wp:list -->
 
@@ -512,7 +512,7 @@ What Makes A High Converting Webpage?
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>You can decrease the file size of<a href="https://therebelape.com/pitfalls-of-stock-photography-for-website-images/"> images to further speed up your website</a>. The optimal file sizes for images depend on how much traffic your site receives. You should aim for smaller than 1MB to improve load times. It’s best to have an image as small as possible. We strive for as few kilobits as possible.</p>
+<p>You can decrease the file size of<a href="/pitfalls-of-stock-photography-for-website-images/"> images to further speed up your website</a>. The optimal file sizes for images depend on how much traffic your site receives. You should aim for smaller than 1MB to improve load times. It’s best to have an image as small as possible. We strive for as few kilobits as possible.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -576,7 +576,7 @@ What Makes A High Converting Webpage?
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>This could mean using local <a href="https://therebelape.com/do-keywords-still-matter-for-seo/">keywords</a>, showing ads in specific places, offering deals for local customers, and using local influencers or reviews to build trust.</p>
+<p>This could mean using local <a href="/do-keywords-still-matter-for-seo/">keywords</a>, showing ads in specific places, offering deals for local customers, and using local influencers or reviews to build trust.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -588,7 +588,7 @@ What Makes A High Converting Webpage?
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>An element that helps a website convert is a sitemap. This is often overlooked by many businesses of various sizes. A sitemap makes it easy for people to move around your website smoothly. Plus, it's good for <a href="https://therebelape.com/what-is-seo/">SEO</a>, which means it helps your site show up better on search engines.</p>
+<p>An element that helps a website convert is a sitemap. This is often overlooked by many businesses of various sizes. A sitemap makes it easy for people to move around your website smoothly. Plus, it's good for <a href="/what-is-seo/">SEO</a>, which means it helps your site show up better on search engines.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -608,7 +608,7 @@ What Makes A High Converting Webpage?
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Usually, the user might go to your site and read a couple of <a href="https://therebelape.com/a-website-blog-is-an-seos-secret-weapon/">articles on your blog</a> before leaving. But they might come back at a later date after receiving promotional offers in their inbox from you. An email opt-in form can help for this purpose. It’s also used to maintain communication with those users who become customers!<br>You can use many effective strategies to increase your email opt-in rates:</p>
+<p>Usually, the user might go to your site and read a couple of <a href="/a-website-blog-is-an-seos-secret-weapon/">articles on your blog</a> before leaving. But they might come back at a later date after receiving promotional offers in their inbox from you. An email opt-in form can help for this purpose. It’s also used to maintain communication with those users who become customers!<br>You can use many effective strategies to increase your email opt-in rates:</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:list -->
@@ -625,7 +625,7 @@ What Makes A High Converting Webpage?
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li>Show a pop-up immediately after someone has entered their details into a form. or product cart – this can <a href="https://therebelape.com/increase-website-trust/">increase conversions</a> by almost 300%</li>
+<li>Show a pop-up immediately after someone has entered their details into a form. or product cart – this can <a href="/increase-website-trust/">increase conversions</a> by almost 300%</li>
 <!-- /wp:list-item --></ul>
 <!-- /wp:list -->
 
@@ -680,5 +680,5 @@ What Makes A High Converting Webpage?
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>If you have any questions about these strategies or would like to have some implemented on your website. Please feel free to contact us by filling out the form below or visiting our<a href="https://therebelape.com/contact/"> contact page</a>.</p>
+<p>If you have any questions about these strategies or would like to have some implemented on your website. Please feel free to contact us by filling out the form below or visiting our<a href="/contact/"> contact page</a>.</p>
 <!-- /wp:paragraph -->

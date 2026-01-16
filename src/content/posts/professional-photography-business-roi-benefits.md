@@ -32,7 +32,7 @@ Pretty much every single form of social media gives you the option to post and s
 
 What does this mean for you? It means that making use of a&nbsp;**professional photographer**&nbsp;holds massive potential for generating engagement from your audience. This in turn expands your reach even wider and presents your services to even more potential customers.
 
-Think of it this way: Imagine you're scrolling on social media and you come across a post from a&nbsp;[home service business](https://therebelape.com/services/). The before-and-after photos of their work are so impressive that you immediately take notice. You send the post to a friend who's been dealing with a similar issue at their home. By that evening, they're scheduling an appointment with that company, and the next week you're seeing their positive review on social media saying, "You've got to try this service!"
+Think of it this way: Imagine you're scrolling on social media and you come across a post from a&nbsp;[home service business](/services/). The before-and-after photos of their work are so impressive that you immediately take notice. You send the post to a friend who's been dealing with a similar issue at their home. By that evening, they're scheduling an appointment with that company, and the next week you're seeing their positive review on social media saying, "You've got to try this service!"
 
 In this example, not only did the work of a&nbsp;**professional photographer**&nbsp;trigger the desire to try out this service, but it facilitated shareability that brought in additional business. Photography created by an expert has the potential to evoke those emotions about your brand as well, and comes with the benefit of natural, organic sharing.
 
@@ -43,7 +43,7 @@ Imagine you're browsing for a contractor to remodel your kitchen. As you're scro
 Why did this work? A&nbsp;**professional photographer**&nbsp;did a great job adjusting lighting, editing, and capturing the details that help you see what your life would be like after using that service. In other words, they helped your imagination visualize how your life would improve by hiring that company.
 
 - According to research, 67% of consumers say that the quality of product or service images is "very important" when making a purchase decision
-- [Professional websites](https://therebelape.com/services/website-design/)&nbsp;with high-quality photography convert 108% more visitors than those with lower-quality images
+- [Professional websites](/services/website-design/)&nbsp;with high-quality photography convert 108% more visitors than those with lower-quality images
 - The decision to hire a home service professional is heavily influenced by the quality of their portfolio images
 
 The better the quality of the photo, the more you're going to touch that part of a customer's imagination that will help them visualize their life after using your service.
@@ -60,7 +60,7 @@ Science has proven that images stick in people's minds. Utilizing this aspect of
 - Scientists have discovered that the brain can recognize things it sees within 100 milliseconds. This means that the better photography you use, the more recognizable your brand can become.
 - According to research, around two-thirds of people are visual learners. This means that if you're wanting people to learn about your service, and do so quickly, then professional photos are essential.
 
-The more eye-catching your photos are, the more they are going to cling to people's memories, and the higher the chances that they'll remember how you have the solution to their problem.&nbsp;**Professional photographers**&nbsp;are specially trained to craft photos that will stand out among the rest and establish your&nbsp;[brand identity](https://therebelape.com/services/plumber-logo-design-service/).
+The more eye-catching your photos are, the more they are going to cling to people's memories, and the higher the chances that they'll remember how you have the solution to their problem.&nbsp;**Professional photographers**&nbsp;are specially trained to craft photos that will stand out among the rest and establish your&nbsp;[brand identity](/services/plumber-logo-design-service/).
 
 ## Professional Photographers Use Equipment That Delivers Results
 
@@ -85,6 +85,6 @@ For home service businesses specifically,&nbsp;**professional photography**&nbsp
 
 ## Make Your Brand Picture Perfect With Rebel Ape Marketing
 
-If you're ready to get photos that will reflect the quality of your services, build trust, and catch the attention of your customers, then start today with&nbsp;[Rebel Ape Marketing](https://therebelape.com/about/). Our photographers spend countless hours practicing and perfecting their skills in order to present your business in the best possible light.
+If you're ready to get photos that will reflect the quality of your services, build trust, and catch the attention of your customers, then start today with&nbsp;[Rebel Ape Marketing](/about/). Our photographers spend countless hours practicing and perfecting their skills in order to present your business in the best possible light.
 
-Schedule a time today to meet with our team. You can find all the ways that your business can benefit from having a&nbsp;**professional photographer**&nbsp;on your team. You can&nbsp;[contact us](https://therebelape.com/contact/)&nbsp;through our website or give us a call.
+Schedule a time today to meet with our team. You can find all the ways that your business can benefit from having a&nbsp;**professional photographer**&nbsp;on your team. You can&nbsp;[contact us](/contact/)&nbsp;through our website or give us a call.

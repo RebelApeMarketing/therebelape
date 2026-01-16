@@ -36,20 +36,20 @@ draft: false
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Getting started on boosting the quality of your <strong>social media marketing</strong> is not difficult. There are simple steps you can take to improve your profile in order to get better results from <a href="https://therebelape.com/how-to-master-your-client-onboarding-process-from-3-hours-to-20-minutes/">potential clientele</a>:</p>
+<p>Getting started on boosting the quality of your <strong>social media marketing</strong> is not difficult. There are simple steps you can take to improve your profile in order to get better results from <a href="/how-to-master-your-client-onboarding-process-from-3-hours-to-20-minutes/">potential clientele</a>:</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:list {"ordered":true} -->
 <ol class="wp-block-list"><!-- wp:list-item -->
-<li><strong>Make sure your brand name is clear.</strong>&nbsp;People need to be able to find you, and if they can't because your social media handle is different than your actual business name, then they're going to give up trying. Consistency across platforms is key for&nbsp;<a href="https://therebelape.com/services/plumber-logo-design-service/">brand recognition</a>.</li>
+<li><strong>Make sure your brand name is clear.</strong>&nbsp;People need to be able to find you, and if they can't because your social media handle is different than your actual business name, then they're going to give up trying. Consistency across platforms is key for&nbsp;<a href="/services/plumber-logo-design-service/">brand recognition</a>.</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li><strong>Pay attention to the quality of your profile picture.</strong>&nbsp;Nobody wants to see a grainy or blurred photo or logo as the face of your company. Make the effort to use a clear and professional image so that you can show that you are proud of who you are. For&nbsp;<a href="https://therebelape.com/services/">home service businesses</a>, this might be your logo or a professional headshot of the owner.</li>
+<li><strong>Pay attention to the quality of your profile picture.</strong>&nbsp;Nobody wants to see a grainy or blurred photo or logo as the face of your company. Make the effort to use a clear and professional image so that you can show that you are proud of who you are. For&nbsp;<a href="/services/">home service businesses</a>, this might be your logo or a professional headshot of the owner.</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li><strong>Give people a place to buy.</strong>&nbsp;In your bio, include a link to your company website. You want to give them a way to get to that "contact us" button, and it's easier to hit a link than it is to get out of the app, open the browser, type it in, then hit enter. The less effort you can ask of potential customers, the more easily they will reach out. Make sure your&nbsp;<a href="https://therebelape.com/services/website-design/">website is optimized</a>&nbsp;to convert this traffic.</li>
+<li><strong>Give people a place to buy.</strong>&nbsp;In your bio, include a link to your company website. You want to give them a way to get to that "contact us" button, and it's easier to hit a link than it is to get out of the app, open the browser, type it in, then hit enter. The less effort you can ask of potential customers, the more easily they will reach out. Make sure your&nbsp;<a href="/services/website-design/">website is optimized</a>&nbsp;to convert this traffic.</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
@@ -88,7 +88,7 @@ draft: false
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>For&nbsp;<a href="https://therebelape.com/services/plumber-digital-marketing-agency/">home service businesses</a>, this might mean using Instagram Stories to show before/after project results, creating TikTok tutorials for simple home maintenance, or using LinkedIn's newsletter feature to share industry expertise.</p>
+<p>For&nbsp;<a href="/services/plumber-digital-marketing-agency/">home service businesses</a>, this might mean using Instagram Stories to show before/after project results, creating TikTok tutorials for simple home maintenance, or using LinkedIn's newsletter feature to share industry expertise.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->
@@ -168,7 +168,7 @@ draft: false
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Different calls-to-action work better for different stages of the&nbsp;<a href="https://therebelape.com/services/plumber-digital-marketing-agency/">customer journey</a>. For awareness content, "Learn more" might be appropriate, while consideration content might use "See our work," and decision-stage content should use more direct CTAs like "Call now."</p>
+<p>Different calls-to-action work better for different stages of the&nbsp;<a href="/services/plumber-digital-marketing-agency/">customer journey</a>. For awareness content, "Learn more" might be appropriate, while consideration content might use "See our work," and decision-stage content should use more direct CTAs like "Call now."</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->
@@ -176,7 +176,7 @@ draft: false
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>We get it. You've got a business to run and it doesn't feel that way if you're scrolling through social media all day. So don't.&nbsp;<a href="https://therebelape.com/about/">Rebel Ape Marketing</a>&nbsp;is proud to offer you professional&nbsp;<strong>social media marketing</strong>&nbsp;management so that you can focus fully on other areas of your business.</p>
+<p>We get it. You've got a business to run and it doesn't feel that way if you're scrolling through social media all day. So don't.&nbsp;<a href="/about/">Rebel Ape Marketing</a>&nbsp;is proud to offer you professional&nbsp;<strong>social media marketing</strong>&nbsp;management so that you can focus fully on other areas of your business.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -184,5 +184,5 @@ draft: false
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><a href="https://therebelape.com/contact/">Contact Rebel Ape Marketing</a>&nbsp;today to make social media a vital part of your marketing strategy.</p>
+<p><a href="/contact/">Contact Rebel Ape Marketing</a>&nbsp;today to make social media a vital part of your marketing strategy.</p>
 <!-- /wp:paragraph -->

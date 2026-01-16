@@ -19,7 +19,7 @@ It will be many of your potential client's first points of contact. As a result,
 
 ## They Consider Your Ideas&nbsp;
 
-You are a pro in your field. As a result, you are aware of what you are offering and have a general concept of how to market it to potential clients. You are the only one who truly understands your industry. You probably don't want to collaborate with a web design](https://therebelape.com/blog/clutchs-2022-leading-web-designer-from-utah/) business if they don't listen to your suggestions.
+You are a pro in your field. As a result, you are aware of what you are offering and have a general concept of how to market it to potential clients. You are the only one who truly understands your industry. You probably don't want to collaborate with a web design](/blog/clutchs-2022-leading-web-designer-from-utah/) business if they don't listen to your suggestions.
 
 Your designer should implement your suggestions, not start their own side project. An organization that values collaboration will embrace your ideas and apply best practices to make them a reality.
 
@@ -35,7 +35,7 @@ If you had something that worked, that would be beneficial. You can be sure that
 
 ## The CMS-Related Design&nbsp;
 
-For your website, you require a content management system. If you don't have it, you'll be [phoning a developer every other day to make updates to your website](https://therebelape.com/blog/phone-number-on-your-website/). Any of the web design agencies in Utah worth their salt is knowledgeable about the top content management systems (WordPress, Drupal, Magento). If your designer advises creating a static HTML website, you should locate a time machine and travel to the 1990s.
+For your website, you require a content management system. If you don't have it, you'll be [phoning a developer every other day to make updates to your website](/blog/phone-number-on-your-website/). Any of the web design agencies in Utah worth their salt is knowledgeable about the top content management systems (WordPress, Drupal, Magento). If your designer advises creating a static HTML website, you should locate a time machine and travel to the 1990s.
 
 ## They Are Aware of Responsive Design&nbsp;
 
@@ -63,16 +63,16 @@ The idea that "if it looks good, they'll convert" no longer works. When developi
 
 You could believe that having a web design business that exclusively served one industry would be fantastic. After all, they must be familiar with cat leashes if they just create web pages for cat leashes. Perhaps, but it also means you'll most likely get a generic website that looks exactly like the other 75 cat leash websites they made this year.
 
-It is more likely that a web [design firm that deals with a wide range of sectors will develop a distinctive website](https://therebelape.com/blog/website-design-and-development-consultant/) that will appeal to a larger audience. Instead of being the same as the competition, your website must stand out.
+It is more likely that a web [design firm that deals with a wide range of sectors will develop a distinctive website](/blog/website-design-and-development-consultant/) that will appeal to a larger audience. Instead of being the same as the competition, your website must stand out.
 
 ## They Have Experience Working Both Locally And Nationally
 
-You require a web design company that is knowledgeable in both, whether you are a local firm or a national brand. Your new website might not be built for major [success if your designer has only worked with local businesses](https://therebelape.com/blog/success-business-branding/).
+You require a web design company that is knowledgeable in both, whether you are a local firm or a national brand. Your new website might not be built for major [success if your designer has only worked with local businesses](/blog/success-business-branding/).
 
 On the other hand, your website's chances of helping you achieve your company objectives are better the more audiences your designer is familiar with. Having a designer that can think both big and little would be beneficial.
 
 ## We Are Among The Leading Design Agencies In Utah
 
-The last [thing you need from a new website](https://therebelape.com/blog/4-vital-components-of-the-website-process/) is a look that would have been in style ten years ago. Modern design trends and the newest technologies must be kept up with by a web designer. If a company has a website that is up to date, customers are far more likely to trust it.
+The last [thing you need from a new website](/blog/4-vital-components-of-the-website-process/) is a look that would have been in style ten years ago. Modern design trends and the newest technologies must be kept up with by a web designer. If a company has a website that is up to date, customers are far more likely to trust it.
 
 Good design firms update their websites with the latest trends. A web designer needs to be knowledgeable about a wide range of styles and components, including responsive design, flat design, and parallax scrolling.

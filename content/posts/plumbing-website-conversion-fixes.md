@@ -46,7 +46,7 @@ https://www.youtube.com/watch?v=rf6QDu_y1m0
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>The good news? This problem is often much easier to fix than a traffic problem. Below, I'll walk you through six straightforward steps to dramatically <a href="https://therebelape.com/services/website-design/">increase your website's conversion rate</a> and start turning those visitors into actual revenue.</p>
+<p>The good news? This problem is often much easier to fix than a traffic problem. Below, I'll walk you through six straightforward steps to dramatically <a href="/services/website-design/">increase your website's conversion rate</a> and start turning those visitors into actual revenue.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":9971,"sizeSlug":"large","linkDestination":"none"} -->
@@ -113,7 +113,7 @@ https://www.youtube.com/watch?v=rf6QDu_y1m0
 
 <!-- wp:list {"ordered":true} -->
 <ol class="wp-block-list"><!-- wp:list-item -->
-<li>Log into your <a href="https://therebelape.com/services/website-design/">website builder</a> or contact your web developer today</li>
+<li>Log into your <a href="/services/website-design/">website builder</a> or contact your web developer today</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
@@ -558,7 +558,7 @@ https://www.youtube.com/watch?v=rf6QDu_y1m0
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Ready to get started? Whether you want a free website audit or you're looking to implement our <strong>Silverback Authority Method&#x2122;</strong> to get a complete marketing system integrated into your company, <a href="https://therebelape.com/contact/">contact Rebel Ape Marketing today</a>. We'll help you transform your website into a conversion machine that keeps your phones ringing and your trucks rolling.</p>
+<p>Ready to get started? Whether you want a free website audit or you're looking to implement our <strong>Silverback Authority Method&#x2122;</strong> to get a complete marketing system integrated into your company, <a href="/contact/">contact Rebel Ape Marketing today</a>. We'll help you transform your website into a conversion machine that keeps your phones ringing and your trucks rolling.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->

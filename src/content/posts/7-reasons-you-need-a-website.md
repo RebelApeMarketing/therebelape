@@ -232,7 +232,7 @@ But Jon did the math. He looked at what each job was worth. He looked at how man
 
 That's what happens when you invest in a system instead of hoping word-of-mouth will magically scale.
 
-The reality is this: word-of-mouth keeps you small. A [conversion-optimized website](https://therebelape.com/blog/high-converting-website-design-guide/) built on persuasion, trust, and optimization keeps you growing.
+The reality is this: word-of-mouth keeps you small. A [conversion-optimized website](/blog/high-converting-website-design-guide/) built on persuasion, trust, and optimization keeps you growing.
 
 ## Why Your Current Website Doesn't Work
 
@@ -276,7 +276,7 @@ Here's the reality: **if your website looks like a template, customers assume yo
 
 None of these websites convert because they weren't built for conversion. They were built to exist.
 
-If you want a deeper dive into why [your website design can hurt your brand](https://therebelape.com/blog/how-your-website-design-can-help-or-hurt-your-brand/), or what actually [makes a webpage convert](https://therebelape.com/blog/what-makes-a-high-converting-webpage/), we've covered those topics extensively.
+If you want a deeper dive into why [your website design can hurt your brand](/blog/how-your-website-design-can-help-or-hurt-your-brand/), or what actually [makes a webpage convert](/blog/what-makes-a-high-converting-webpage/), we've covered those topics extensively.
 
 ## What Actually Matters: The Conversion Framework
 
@@ -284,9 +284,9 @@ Let's cut through the bullshit.
 
 **It's not about beauty. It's not about functionality. It's about conversions.**
 
-When we [build websites for contractors](https://therebelape.com/services/website-design/), we're not asking "does this look good?" We're asking "does this make money?"
+When we [build websites for contractors](/services/website-design/), we're not asking "does this look good?" We're asking "does this make money?"
 
-There are four elements that determine whether a website converts or not. I call them [the 4 vital components of the website process](https://therebelape.com/blog/4-vital-components-of-the-website-process/):
+There are four elements that determine whether a website converts or not. I call them [the 4 vital components of the website process](/blog/4-vital-components-of-the-website-process/):
 
 ### 1. Persuasion
 
@@ -296,7 +296,7 @@ See the difference? One is generic. The other addresses a real problem and offer
 
 ### 2. Trust
 
-Why should anyone believe you? You need social proof—reviews, testimonials, case studies, credentials. [Increasing website trust](https://therebelape.com/blog/increase-website-trust/) isn't optional. It's the difference between someone calling you or calling your competitor.
+Why should anyone believe you? You need social proof—reviews, testimonials, case studies, credentials. [Increasing website trust](/blog/increase-website-trust/) isn't optional. It's the difference between someone calling you or calling your competitor.
 
 Show them you're the real deal. Display your Google reviews. Show photos of your actual crew. List your certifications. Make it obvious that you're not some fly-by-night operation.
 
@@ -314,17 +314,17 @@ Every element on your site should guide visitors toward one action: calling you 
 
 This framework digitizes your in-person sales process. Everything that makes you effective face-to-face—addressing concerns, building trust, explaining value—needs to be on the page.
 
-If you want to dive deeper, check out our full breakdown of [what makes a high-converting website](https://therebelape.com/blog/high-converting-website-design-guide/) and our [ultimate guide to small business website design](https://therebelape.com/blog/ultimate-guide-to-small-business-website-design/).
+If you want to dive deeper, check out our full breakdown of [what makes a high-converting website](/blog/high-converting-website-design-guide/) and our [ultimate guide to small business website design](/blog/ultimate-guide-to-small-business-website-design/).
 
 ## The Website as Your Marketing Hub
 
 Here's why everything runs through your website:
 
-**SEO** - When someone Googles "roofing contractors near me," where do they go when they click your result? Your website. If it doesn't convert them, [your SEO efforts](https://therebelape.com/services/seo/) are wasted.
+**SEO** - When someone Googles "roofing contractors near me," where do they go when they click your result? Your website. If it doesn't convert them, [your SEO efforts](/services/seo/) are wasted.
 
-**Google Ads** - You're spending $3,000/month on [PPC campaigns](https://therebelape.com/services/ppc/), and when someone clicks, where do they land? Your website. If it's slow, confusing, or doesn't convert, you just burned that ad spend.
+**Google Ads** - You're spending $3,000/month on [PPC campaigns](/services/ppc/), and when someone clicks, where do they land? Your website. If it's slow, confusing, or doesn't convert, you just burned that ad spend.
 
-**Local Service Ads** - Same story. [Google's Local Service Ads](https://therebelape.com/services/ppc/local-service-ads/) send traffic to your site. If it sucks, you're wasting money.
+**Local Service Ads** - Same story. [Google's Local Service Ads](/services/ppc/local-service-ads/) send traffic to your site. If it sucks, you're wasting money.
 
 **Social Media** - You post on Facebook, Instagram, wherever. Great. But where do people go to actually book? Your website.
 
@@ -332,7 +332,7 @@ Here's why everything runs through your website:
 
 Without a solid website, every other marketing dollar you spend has a leak in it. You're paying to drive traffic to a broken funnel.
 
-We've seen contractors waste thousands on [Google Ads](https://therebelape.com/blog/how-to-improve-website-traffic-with-seo-your-complete-2025-guide/) because their landing page didn't convert. We've seen others dominate [local SEO](https://therebelape.com/blog/local-seo-services-increase-local-visibility-and-drive-more-customers/) but lose leads because their site didn't have clear calls-to-action.
+We've seen contractors waste thousands on [Google Ads](/blog/how-to-improve-website-traffic-with-seo-your-complete-2025-guide/) because their landing page didn't convert. We've seen others dominate [local SEO](/blog/local-seo-services-increase-local-visibility-and-drive-more-customers/) but lose leads because their site didn't have clear calls-to-action.
 
 Your website is the hub. Everything else is just traffic.
 
@@ -362,7 +362,7 @@ Jon put it perfectly: "I was shook with sticker shock. I remember thinking 'ther
 
 He went from startup to seven figures because he invested in the system instead of looking for the cheapest option.
 
-If you're still on the fence about whether to hire a professional or try to do it yourself, read our post on [when to delegate marketing to experts](https://therebelape.com/blog/when-to-delegate-marketing-to-experts/) and the [strategic advantages of hiring a professional marketing agency](https://therebelape.com/blog/professional-marketing-agency-strategic-advantages/).
+If you're still on the fence about whether to hire a professional or try to do it yourself, read our post on [when to delegate marketing to experts](/blog/when-to-delegate-marketing-to-experts/) and the [strategic advantages of hiring a professional marketing agency](/blog/professional-marketing-agency-strategic-advantages/).
 
 ## Common Mistakes to Avoid
 
@@ -386,15 +386,15 @@ Your website isn't a digital business card. It's a sales tool. Every page should
 
 **5. Not Tracking Performance**
 
-If you can't measure it, you can't improve it. Set up proper analytics so you know where your leads are coming from and what's working. We've written extensively about [our secret to tracking success and making marketing predictable](https://therebelape.com/blog/our-secret-to-tracking-success-and-making-marketing-predictable/) and [how to set up Google Analytics](https://therebelape.com/blog/how-to-setup-google-analytics/).
+If you can't measure it, you can't improve it. Set up proper analytics so you know where your leads are coming from and what's working. We've written extensively about [our secret to tracking success and making marketing predictable](/blog/our-secret-to-tracking-success-and-making-marketing-predictable/) and [how to set up Google Analytics](/blog/how-to-setup-google-analytics/).
 
 **6. Forgetting About SEO**
 
-Your website needs to be found. That means proper [on-page SEO](https://therebelape.com/blog/on-page-seo-tips/), fast load times, and content that answers the questions your customers are actually asking. We cover this in depth in our [SEO marketing guide for business growth](https://therebelape.com/blog/seo-marketing-guide-business-growth/).
+Your website needs to be found. That means proper [on-page SEO](/blog/on-page-seo-tips/), fast load times, and content that answers the questions your customers are actually asking. We cover this in depth in our [SEO marketing guide for business growth](/blog/seo-marketing-guide-business-growth/).
 
 **7. Not Optimizing Your Google Business Profile**
 
-Your website and [Google Business Profile](https://therebelape.com/services/google-business-profile/) work together. If you're not optimizing both, you're leaving money on the table. Check out our guide to [total market domination with Google Business Profile](https://therebelape.com/blog/total-market-domination-with-google-business-profile/) and our [Google Business Profile service for plumbers](https://therebelape.com/blog/google-business-profile-for-plumbers/) (applies to all home service businesses).
+Your website and [Google Business Profile](/services/google-business-profile/) work together. If you're not optimizing both, you're leaving money on the table. Check out our guide to [total market domination with Google Business Profile](/blog/total-market-domination-with-google-business-profile/) and our [Google Business Profile service for plumbers](/blog/google-business-profile-for-plumbers/) (applies to all home service businesses).
 
 ## Frequently Asked Questions
 
@@ -430,8 +430,8 @@ Your website isn't a luxury or a "nice to have." It's the foundation of every ma
 
 Most contractors treat their website like a brochure—something that exists but doesn't really do anything. The ones who scale treat it like what it is: a 24/7 salesperson that never takes a day off, never gets tired, and works while you sleep.
 
-The game has changed. Your competitors are investing in [conversion-optimized websites](https://therebelape.com/blog/high-converting-website-design-guide/), running [strategic PPC campaigns](https://therebelape.com/services/ppc/), and [dominating local search](https://therebelape.com/blog/local-seo-services-increase-local-visibility-and-drive-more-customers/). If you're still relying on word-of-mouth and a 2015 website, you're already behind.
+The game has changed. Your competitors are investing in [conversion-optimized websites](/blog/high-converting-website-design-guide/), running [strategic PPC campaigns](/services/ppc/), and [dominating local search](/blog/local-seo-services-increase-local-visibility-and-drive-more-customers/). If you're still relying on word-of-mouth and a 2015 website, you're already behind.
 
-If you're ready to stop leaving money on the table and want a website that actually works, [let's talk](https://therebelape.com/contact/). We've helped contractors go from startups to seven figures. We can show you exactly how we'd approach your market and what it would take to dominate it.
+If you're ready to stop leaving money on the table and want a website that actually works, [let's talk](/contact/). We've helped contractors go from startups to seven figures. We can show you exactly how we'd approach your market and what it would take to dominate it.
 
 Or keep doing what you're doing. Just don't be surprised when your competitor with the better website keeps growing while you stay stuck.

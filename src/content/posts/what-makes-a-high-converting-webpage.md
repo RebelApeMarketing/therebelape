@@ -18,9 +18,9 @@ When it comes to creating a high converting website, there are a few crucial ele
 
 As we dig into these elements, not everything needs to be on a website, but having many of these items can help. Even with that said, some of these items, like trustworthiness, are crucial.
 
-A few of the elements that make up a [high converting website](https://therebelape.com/blog/high-converting-website-design-guide/) are the following:
+A few of the elements that make up a [high converting website](/blog/high-converting-website-design-guide/) are the following:
 
-1. Professional [website design](https://therebelape.com/blog/website-design-and-development-consultant/)
+1. Professional [website design](/blog/website-design-and-development-consultant/)
 2. Elements that build trust
 3. An easy-to-find phone number
 4. Call to action
@@ -39,13 +39,13 @@ A few of the elements that make up a [high converting website](https://therebela
 
 Every single page on your website that a customer may visit needs to have a goal. Without a goal, the chances of a conversion drop. There is no reason to have information on the web page without it serving a purpose.
 
-The [strategies](https://therebelape.com/blog/how-to-outrank-your-competitors/) behind the website are the reason why a website works or not. The [marketing strategy](https://therebelape.com/blog/video-marketing-strategy-for-2023/) will emphasize web design. So, there is more to a website than selecting a theme. Though it may be beautiful, it doesn't mean that it will convert. This is why there are some very ugly websites that convert very well.
+The [strategies](https://therebelape.com/blog/how-to-outrank-your-competitors/) behind the website are the reason why a website works or not. The [marketing strategy](/blog/video-marketing-strategy-for-2023/) will emphasize web design. So, there is more to a website than selecting a theme. Though it may be beautiful, it doesn't mean that it will convert. This is why there are some very ugly websites that convert very well.
 
 When considering what should go into the strategy behind a website, there are a few items to consider. Those items are layout, unity, and brand.
 
-The website layout is an essential element when it comes to [website design.](https://therebelape.com/services/website-design/) This section will be the roadmap on how the users navigate the website and will guide them to each element. By having an effective layout, users move through the website as you wish them to.
+The website layout is an essential element when it comes to [website design.](/services/website-design/) This section will be the roadmap on how the users navigate the website and will guide them to each element. By having an effective layout, users move through the website as you wish them to.
 
-Within the website layout, you need to create unity throughout the site which helps the brand. What this means is that the website, images, and other content all match. The looks, colors, and vibe of the [website all help enforce the brand](https://therebelape.com/blog/how-your-website-design-can-help-or-hurt-your-brand/).
+Within the website layout, you need to create unity throughout the site which helps the brand. What this means is that the website, images, and other content all match. The looks, colors, and vibe of the [website all help enforce the brand](/blog/how-your-website-design-can-help-or-hurt-your-brand/).
 
 When these elements come together, you begin to build trust. With trust, you influence users to become fans of your brand.
 
@@ -57,7 +57,7 @@ There are a few elements that can add trust that can help with adding trust. Tho
 
 ### **Add partner logos to the website.**
 
-Some of the most powerful items are logos from other [brands your company does business](https://therebelape.com/blog/success-business-branding/) with. These can also be awards won and other logo-based items. Logos show that you are an actual company and work with other brands.
+Some of the most powerful items are logos from other [brands your company does business](/blog/success-business-branding/) with. These can also be awards won and other logo-based items. Logos show that you are an actual company and work with other brands.
 
 Parter logos added to a website may be in a simple row, grid, or carousel. It doesn't matter how they display as long as they can show users the trust they hold.
 
@@ -77,7 +77,7 @@ These are the basics when it comes to high converting webpage design. Once you h
 
 ## **A phone number is one of the best items for a high converting webpage.**
 
-An overlooked high conversion webpage [item is the phone number](https://therebelape.com/blog/phone-number-on-your-website/). It can often be one of the best converting features you have. The phone number can help in a few ways. First, it acts as a trust builder. Having a phone number on the website shows users that you are a company with high standards. A company that holds service in the highest regard. It also gives them the ability to reach you whenever they like and there isThough the phone number added anywhere helps, one of the best places is the top right of the website. This is often one of the primary high converting items.
+An overlooked high conversion webpage [item is the phone number](/blog/phone-number-on-your-website/). It can often be one of the best converting features you have. The phone number can help in a few ways. First, it acts as a trust builder. Having a phone number on the website shows users that you are a company with high standards. A company that holds service in the highest regard. It also gives them the ability to reach you whenever they like and there isThough the phone number added anywhere helps, one of the best places is the top right of the website. This is often one of the primary high converting items.
 
 Another high-converting location is at the bottom of the website in the footer. Placing the phone number at the bottom allows users to locate it if they've made it through all the content. If they now want to contact you, it's easy to find out how.
 
@@ -85,7 +85,7 @@ On top of that, it gives users a great way to contact you and also helps with lo
 
 ## **Add Call-To-Actions Throughout The Website.**
 
-To [optimize your website's](https://therebelape.com/blog/on-page-seo-tips/) conversion rate, it is crucial to have call-to-actions scattered throughout the website.
+To [optimize your website's](/blog/on-page-seo-tips/) conversion rate, it is crucial to have call-to-actions scattered throughout the website.
 
 But how can you write strong call-to-actions that inspire your visitors to take action?
 
@@ -209,15 +209,15 @@ Here are some tips to increase your website's dwell time:
 2. **Improve Website Navigation:** An easy-to-use website helps visitors find what they're looking for, increasing the time they spend on your site.
 3. **Optimize for Mobile**: A mobile-ready website is a must-have! With more users accessing websites via mobile devices, it's crucial to ensure your site is responsive and mobile-friendly.
 4. **Add Videos and Images:** People love visuals! Incorporate videos and images into your content to make it more engaging and interactive.
-5. **Use Internal Linking: **Adding internal links to relevant content on your website helps visitors navigate and explore more of your site. Plus, it's great for [SEO](https://therebelape.com/seo/)!
+5. **Use Internal Linking: **Adding internal links to relevant content on your website helps visitors navigate and explore more of your site. Plus, it's great for [SEO](/seo/)!
 
 A Good example is "What Makes A High Converting Webpage" (this article). It provides insights for marketers and entrepreneurs about what makes a good website. This will keep readers on the page and encourage them to continue reading.
 
 ### **Optimize your images to further improve loading speed.**
 
-A fast-loading[website increases dwell times and also aids in SEO](https://therebelape.com/blog/on-page-seo-tips/). This will allow your website to bring in more traffic. The more traffic your website brings in, the more opportunity for conversions.
+A fast-loading[website increases dwell times and also aids in SEO](/blog/on-page-seo-tips/). This will allow your website to bring in more traffic. The more traffic your website brings in, the more opportunity for conversions.
 
-You can decrease the file size of[images to further speed up your website](https://therebelape.com/blog/pitfalls-of-stock-photography-for-website-images/). The optimal file sizes for images depend on how much traffic your site receives. You should aim for smaller than 1MB to improve load times. It’s best to have an image as small as possible. We strive for as few kilobits as possible.
+You can decrease the file size of[images to further speed up your website](/blog/pitfalls-of-stock-photography-for-website-images/). The optimal file sizes for images depend on how much traffic your site receives. You should aim for smaller than 1MB to improve load times. It’s best to have an image as small as possible. We strive for as few kilobits as possible.
 
 Google says that reducing image file types is one of the best ways to increase page loading speeds.If you are not familiar with image compression software, don’t worry. There are many free or paid tools available to help decrease the size of your images. One of these programs is TinyPNG which can reduce image file sizes by an average of 54%.
 
@@ -249,13 +249,13 @@ This can boost your chances of turning them into customers because people often 
 
 To use localization and geodata well, start by figuring out who your target audience is and what they like. You can learn about your potential customers' ages, interests, and behaviors by using tools like Google Analytics and Facebook Insights, as well as conducting market research. After that, create content and marketing campaigns that align with what your audience wants.
 
-This could mean using local [keywords](https://therebelape.com/blog/do-keywords-still-matter-for-seo/), showing ads in specific places, offering deals for local customers, and using local influencers or reviews to build trust.
+This could mean using local [keywords](/blog/do-keywords-still-matter-for-seo/), showing ads in specific places, offering deals for local customers, and using local influencers or reviews to build trust.
 
 When you put localization and geodata together, you can make a super-targeted marketing plan that brings in more visitors, keeps them interested, and turns them into customers. So, don't miss out on the power of location-based marketing. Start boosting your conversions now!
 
 ## **A sitemap is a great element that can affect conversions.**
 
-An element that helps a website convert is a sitemap. This is often overlooked by many businesses of various sizes. A sitemap makes it easy for people to move around your website smoothly. Plus, it's good for [SEO](https://therebelape.com/blog/what-is-seo/), which means it helps your site show up better on search engines.
+An element that helps a website convert is a sitemap. This is often overlooked by many businesses of various sizes. A sitemap makes it easy for people to move around your website smoothly. Plus, it's good for [SEO](/blog/what-is-seo/), which means it helps your site show up better on search engines.
 
 The cool thing about a sitemap is that it gives both people and search engines a peek into how your website is put together. It shows how things are organized and divides them into sections. This means that both website visitors and search engine crawlers can find all the pages on the site.
 
@@ -265,12 +265,12 @@ A good sitemap shows your site’s hierarchy. It makes sure there is nothing mis
 
 Email opt-in forms are an amazing tool for a high-converting website. By using email, you can often still convert the lead after they have left your site without the intent to return.
 
-Usually, the user might go to your site and read a couple of [articles on your blog](https://therebelape.com/blog/a-website-blog-is-an-seos-secret-weapon/) before leaving. But they might come back at a later date after receiving promotional offers in their inbox from you. An email opt-in form can help for this purpose. It’s also used to maintain communication with those users who become customers!You can use many effective strategies to increase your email opt-in rates:
+Usually, the user might go to your site and read a couple of [articles on your blog](/blog/a-website-blog-is-an-seos-secret-weapon/) before leaving. But they might come back at a later date after receiving promotional offers in their inbox from you. An email opt-in form can help for this purpose. It’s also used to maintain communication with those users who become customers!You can use many effective strategies to increase your email opt-in rates:
 
 - Place an opt-in box that is easy to spot on every page – above the fold, but not too intrusive.
 - Show a pop-up immediately after someone has entered their details into a form. This can increase conversions by almost 300%.
 - Place it in the header or footer of your site.
-- Show a pop-up immediately after someone has entered their details into a form. or product cart – this can [increase conversions](https://therebelape.com/blog/increase-website-trust/) by almost 300%
+- Show a pop-up immediately after someone has entered their details into a form. or product cart – this can [increase conversions](/blog/increase-website-trust/) by almost 300%
 
 Email forms are a great way to stay in contact with your user base. These people who are interested in your product will get value from your emails. It gives the option to nurture the user until they are ready to make a sale.
 
@@ -294,4 +294,4 @@ Make it easy for potential customers to contact you by prominently displaying yo
 
 Leverage localization and geodata for targeted marketing, don't forget to include a sitemap, incorporate email opt-ins, and offer enticing freebies to encourage user action.
 
-If you have any questions about these strategies or would like to have some implemented on your website. Please feel free to contact us by filling out the form below or visiting our[contact page](https://therebelape.com/contact/).
+If you have any questions about these strategies or would like to have some implemented on your website. Please feel free to contact us by filling out the form below or visiting our[contact page](/contact/).

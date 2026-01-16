@@ -27,4 +27,4 @@ Clutch evaluates countless service providers based on their strict selection cri
 
 We owe this exciting moment to our clients who have entrusted us with their invaluable projects. It’s a huge honor for us to be their trusted partners let alone win an award because of their confidence in our abilities. Thank you to very much everyone who supported us through highs and lows. We look forward to welcoming more possibilities with all of you!
 
-Web design isn’t our only forte. Connect with the Rebel Ape Marketing team and work with Utah’s finest one-stop-shop for everything digital. Don’t be a stranger and [give us a call](https://therebelape.com/contact/) today.
+Web design isn’t our only forte. Connect with the Rebel Ape Marketing team and work with Utah’s finest one-stop-shop for everything digital. Don’t be a stranger and [give us a call](/contact/) today.

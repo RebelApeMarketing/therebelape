@@ -34,7 +34,7 @@ When it comes to becoming an industry leader,&nbsp;**professional content writin
 - Painstakingly performs research to back up their writing with sources, building your credibility as an expert in your industry
 - Creates comprehensive resources that demonstrate your deep understanding of customer problems and solutions
 
-And the amazing thing is, you can apply this to practically any kind of&nbsp;[home service business](https://therebelape.com/services/). If you run a plumbing company, a writer can help you become an authority in water conservation and home maintenance. For an HVAC business, a writer will help you establish yourself as the expert on indoor air quality and energy efficiency. If you offer home remodeling, a writer can make you the go-to resource for design trends and material selection.
+And the amazing thing is, you can apply this to practically any kind of&nbsp;[home service business](/services/). If you run a plumbing company, a writer can help you become an authority in water conservation and home maintenance. For an HVAC business, a writer will help you establish yourself as the expert on indoor air quality and energy efficiency. If you offer home remodeling, a writer can make you the go-to resource for design trends and material selection.
 
 All of this and more shows customers that not only do you perform a service, you also know how to elevate it to the next level. This can have customers not only coming to your business, but also coming back and referring others.
 
@@ -46,7 +46,7 @@ Search engines, like Google, are there to take the questions people are asking, 
 
 So what does this have to do with&nbsp;**professional content writing**?
 
-Getting to that top spot is vital to gaining traction as a company, and it takes a lot of work. Writers and&nbsp;[SEO experts](https://therebelape.com/services/seo/)&nbsp;put their heads together to generate content that, among other things, is relevant and informative. This increases your chances of search engines, particularly Google, ranking you higher.
+Getting to that top spot is vital to gaining traction as a company, and it takes a lot of work. Writers and&nbsp;[SEO experts](/services/seo/)&nbsp;put their heads together to generate content that, among other things, is relevant and informative. This increases your chances of search engines, particularly Google, ranking you higher.
 
 Why is ranking so important?
 
@@ -54,7 +54,7 @@ Why is ranking so important?
 - Google owns an astounding almost 92% of the worldwide search engine market. The next highest search engine would be Bing, with only a 2.86% hold of the market. Given these statistics, it becomes clearer how much of an effect ranking higher can have on traffic for your business
 - *Professional content writing*&nbsp;is your pathway to capturing this valuable search traffic and converting it into leads
 
-Content writers and SEO experts help your&nbsp;[website rank higher](https://therebelape.com/services/website-design/)&nbsp;by producing content that answers people's questions in a way that search engines can recognize and reward.
+Content writers and SEO experts help your&nbsp;[website rank higher](/services/website-design/)&nbsp;by producing content that answers people's questions in a way that search engines can recognize and reward.
 
 ![Keyboard on a desk ready for a professional content writer](https://RebelApeCDN.b-cdn.net/rebel-ape-main/content-writing-utah-1030x687.webp)
 
@@ -70,8 +70,8 @@ The same holds true for just about any home service. Using&nbsp;**professional c
 
 ## Become An Authority With Rebel Ape's Professional Content Writing Services
 
-Today is the day to create content that can help you rise in the ranks of search engines. If you're ready to build a reputation as an authority in your field, then talk to&nbsp;[Rebel Ape Marketing](https://therebelape.com/about/)&nbsp;about all the ways you can benefit from our&nbsp;**professional content writing services**.
+Today is the day to create content that can help you rise in the ranks of search engines. If you're ready to build a reputation as an authority in your field, then talk to&nbsp;[Rebel Ape Marketing](/about/)&nbsp;about all the ways you can benefit from our&nbsp;**professional content writing services**.
 
 You can see your website content expand, partnering with SEO, in order to increase your chances of rising up the ranks of Google, Bing, and other search engines. With high-quality&nbsp;**professional content writing**, you can see yourself become an authority in your field.
 
-[Contact us today](https://therebelape.com/contact/)&nbsp;and let's begin developing your unique marketing strategy, complete with professional content writing that sets you apart from the competition.
+[Contact us today](/contact/)&nbsp;and let's begin developing your unique marketing strategy, complete with professional content writing that sets you apart from the competition.

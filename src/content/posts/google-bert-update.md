@@ -27,7 +27,7 @@ With Google now understanding the search queries as the human searcher intends, 
 
 ## How is SEO affected by BERT?
 
-There will be a few changes in terms of [SEO](https://therebelape.com/seo/). The first is going to be backlink profiles. Backlinks have been becoming less important year after year, though they still make up a large percentage of SEO work.
+There will be a few changes in terms of [SEO](/seo/). The first is going to be backlink profiles. Backlinks have been becoming less important year after year, though they still make up a large percentage of SEO work.
 
 Keywords are also becoming less relevant over time as well as we are moving into phrase searches and relevant context. Since everyone uses different phrases for search, Google is now putting more relevance on the words such as “for” and “to” which where easier omitted.
 
@@ -41,10 +41,10 @@ Continue working on your websites as you always have. Continue to build your cit
 
 We always recommend building and maintaining a blog that covers a wide array of topics on queries that people are searching for. This is a great method for building the relevance of your website and grabbing keywords and keyphrases. Though we may be seeing some shifts here with BERT, it’s going to continue being a valuable source for content creation.
 
-It’s important to [talk to an SEO](https://therebelape.com/seo/) to find the best practices to maintain your site and help it improve its ranks and authority over time by making sure the site is responsive, there are no broken links, and the content is relevant to the search.
+It’s important to [talk to an SEO](/seo/) to find the best practices to maintain your site and help it improve its ranks and authority over time by making sure the site is responsive, there are no broken links, and the content is relevant to the search.
 
 ## We would love to help!
 
-If you want to talk about your [website or how to improve your SEO](https://therebelape.com/blog/on-page-seo-tips/) for search, we would love to take the time to talk with you about the health of your site and what direction you want to take your marketing. [Contact us](https://therebelape.com/contact/) today to get started!
+If you want to talk about your [website or how to improve your SEO](/blog/on-page-seo-tips/) for search, we would love to take the time to talk with you about the health of your site and what direction you want to take your marketing. [Contact us](/contact/) today to get started!
 
 If you have any questions or comments, feel free to start or join the discussion below. We love to interact with our readers whenever they want to talk.

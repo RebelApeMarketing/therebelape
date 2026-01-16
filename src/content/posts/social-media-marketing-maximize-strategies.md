@@ -21,11 +21,11 @@ Here are four proven ways to improve your chances of reaching the clients that a
 
 They say you shouldn't judge a book by its cover, but it's important to put your best foot forward all the same. Because, often, a person will judge the quality of a business by the state of its social media profiles.
 
-Getting started on boosting the quality of your **social media marketing** is not difficult. There are simple steps you can take to improve your profile in order to get better results from [potential clientele](https://therebelape.com/blog/how-to-master-your-client-onboarding-process-from-3-hours-to-20-minutes/):
+Getting started on boosting the quality of your **social media marketing** is not difficult. There are simple steps you can take to improve your profile in order to get better results from [potential clientele](/blog/how-to-master-your-client-onboarding-process-from-3-hours-to-20-minutes/):
 
-1. **Make sure your brand name is clear.**&nbsp;People need to be able to find you, and if they can't because your social media handle is different than your actual business name, then they're going to give up trying. Consistency across platforms is key for&nbsp;[brand recognition](https://therebelape.com/services/plumber-logo-design-service/).
-2. **Pay attention to the quality of your profile picture.**&nbsp;Nobody wants to see a grainy or blurred photo or logo as the face of your company. Make the effort to use a clear and professional image so that you can show that you are proud of who you are. For&nbsp;[home service businesses](https://therebelape.com/services/), this might be your logo or a professional headshot of the owner.
-3. **Give people a place to buy.**&nbsp;In your bio, include a link to your company website. You want to give them a way to get to that "contact us" button, and it's easier to hit a link than it is to get out of the app, open the browser, type it in, then hit enter. The less effort you can ask of potential customers, the more easily they will reach out. Make sure your&nbsp;[website is optimized](https://therebelape.com/services/website-design/)&nbsp;to convert this traffic.
+1. **Make sure your brand name is clear.**&nbsp;People need to be able to find you, and if they can't because your social media handle is different than your actual business name, then they're going to give up trying. Consistency across platforms is key for&nbsp;[brand recognition](/services/plumber-logo-design-service/).
+2. **Pay attention to the quality of your profile picture.**&nbsp;Nobody wants to see a grainy or blurred photo or logo as the face of your company. Make the effort to use a clear and professional image so that you can show that you are proud of who you are. For&nbsp;[home service businesses](/services/), this might be your logo or a professional headshot of the owner.
+3. **Give people a place to buy.**&nbsp;In your bio, include a link to your company website. You want to give them a way to get to that "contact us" button, and it's easier to hit a link than it is to get out of the app, open the browser, type it in, then hit enter. The less effort you can ask of potential customers, the more easily they will reach out. Make sure your&nbsp;[website is optimized](/services/website-design/)&nbsp;to convert this traffic.
 4. **Complete every possible field.**&nbsp;Fill out your business hours, location, services offered, and contact information. The more complete your profile, the more professional you appear and the easier it is for customers to take action.
 
 ## 2. Embrace New Features in Your Social Media Marketing
@@ -40,7 +40,7 @@ Shunning these new features of&nbsp;**social media marketing**&nbsp;lowers your 
 
 The rule of thumb is that when a platform releases a new feature, explore it, get to know it, and brainstorm how you can incorporate it into your content. The more readily you embrace it, the more you can get on the forefront of the wave of users picking it up.
 
-For&nbsp;[home service businesses](https://therebelape.com/services/plumber-digital-marketing-agency/), this might mean using Instagram Stories to show before/after project results, creating TikTok tutorials for simple home maintenance, or using LinkedIn's newsletter feature to share industry expertise.
+For&nbsp;[home service businesses](/services/plumber-digital-marketing-agency/), this might mean using Instagram Stories to show before/after project results, creating TikTok tutorials for simple home maintenance, or using LinkedIn's newsletter feature to share industry expertise.
 
 ## 3. Engage Authentically With Social Media Marketing
 
@@ -73,12 +73,12 @@ You could be a plumbing company that offers the world's best drain cleaning serv
 
 You want people to contact you, don't you? The truth is, even if they want to, many won't until you tell them exactly how.
 
-Different calls-to-action work better for different stages of the&nbsp;[customer journey](https://therebelape.com/services/plumber-digital-marketing-agency/). For awareness content, "Learn more" might be appropriate, while consideration content might use "See our work," and decision-stage content should use more direct CTAs like "Call now."
+Different calls-to-action work better for different stages of the&nbsp;[customer journey](/services/plumber-digital-marketing-agency/). For awareness content, "Learn more" might be appropriate, while consideration content might use "See our work," and decision-stage content should use more direct CTAs like "Call now."
 
 ## Maximize Your Social Media Marketing With Rebel Ape
 
-We get it. You've got a business to run and it doesn't feel that way if you're scrolling through social media all day. So don't.&nbsp;[Rebel Ape Marketing](https://therebelape.com/about/)&nbsp;is proud to offer you professional&nbsp;**social media marketing**&nbsp;management so that you can focus fully on other areas of your business.
+We get it. You've got a business to run and it doesn't feel that way if you're scrolling through social media all day. So don't.&nbsp;[Rebel Ape Marketing](/about/)&nbsp;is proud to offer you professional&nbsp;**social media marketing**&nbsp;management so that you can focus fully on other areas of your business.
 
 You can rest easy knowing that you'll be getting consistent posting that makes the most of social media's algorithms in order to give you a fighting chance at being noticed. Leave the liking, commenting, and sharing to us. All you have to worry about is taking care of your new clients.
 
-[Contact Rebel Ape Marketing](https://therebelape.com/contact/)&nbsp;today to make social media a vital part of your marketing strategy.
+[Contact Rebel Ape Marketing](/contact/)&nbsp;today to make social media a vital part of your marketing strategy.

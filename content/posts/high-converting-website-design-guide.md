@@ -20,7 +20,7 @@ A High Converting Website Should Be Professionally Designed
 <!-- /wp:audio -->
 
 <!-- wp:heading {"level":6} -->
-<h6 class="wp-block-heading">Here is why a <a href="https://therebelape.com/what-makes-a-high-converting-webpage/">high converting website</a> should be professionally designed.&nbsp;</h6>
+<h6 class="wp-block-heading">Here is why a <a href="/what-makes-a-high-converting-webpage/">high converting website</a> should be professionally designed.&nbsp;</h6>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
@@ -44,7 +44,7 @@ A High Converting Website Should Be Professionally Designed
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>The goal and the <a href="https://therebelape.com/blog/on-page-seo-tips/">website strategy</a> is the secret sauce to get customers to convert. The strategy will inform decisions and help achieve the desired outcome of the website.&nbsp;</p>
+<p>The goal and the <a href="/blog/on-page-seo-tips/">website strategy</a> is the secret sauce to get customers to convert. The strategy will inform decisions and help achieve the desired outcome of the website.&nbsp;</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -68,7 +68,7 @@ A High Converting Website Should Be Professionally Designed
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>With the strategy in place, we have the heart of the website. It’s there for a purpose and used to give life to the rest of the <a href="https://therebelape.com/services/seo/">website design</a>. It’s one aspect and you can’t achieve goals with a half-baked plan.&nbsp;</p>
+<p>With the strategy in place, we have the heart of the website. It’s there for a purpose and used to give life to the rest of the <a href="/services/seo/">website design</a>. It’s one aspect and you can’t achieve goals with a half-baked plan.&nbsp;</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -88,11 +88,11 @@ A High Converting Website Should Be Professionally Designed
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>All major <a href="https://therebelape.com/branding-strategies-in-marketing/">brands have a strategy</a> behind their website. They have a reason why every element is where it is. They are refining it based on the data the website receives from the user activity.&nbsp;</p>
+<p>All major <a href="/branding-strategies-in-marketing/">brands have a strategy</a> behind their website. They have a reason why every element is where it is. They are refining it based on the data the website receives from the user activity.&nbsp;</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><a href="https://therebelape.com/how-to-setup-google-analytics/">Google Analytics</a> is great for this and you can take it even further with heat mapping and other software. As you continue to get data, it’s important to add it to the website. If data says users aren’t moving through the site, get with your designer to find out why.&nbsp;</p>
+<p><a href="/how-to-setup-google-analytics/">Google Analytics</a> is great for this and you can take it even further with heat mapping and other software. As you continue to get data, it’s important to add it to the website. If data says users aren’t moving through the site, get with your designer to find out why.&nbsp;</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->
@@ -116,7 +116,7 @@ A High Converting Website Should Be Professionally Designed
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>With amateur designs, many companies find they were putting money into a new design. The designer still couldn’t execute their vision before they found us. Not saying you need to use us, but it’s best to find a capable <a href="https://therebelape.com/how-to-find-design-agencies-in-utah/">designer or agency</a>.&nbsp;</p>
+<p>With amateur designs, many companies find they were putting money into a new design. The designer still couldn’t execute their vision before they found us. Not saying you need to use us, but it’s best to find a capable <a href="/how-to-find-design-agencies-in-utah/">designer or agency</a>.&nbsp;</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->
@@ -140,7 +140,7 @@ A High Converting Website Should Be Professionally Designed
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>There are many reasons you need a professional <a href="https://therebelape.com/website-design-and-development-consultant/">design for a high converting website</a>. You need a strategy, a goal, a <a href="https://therebelape.com/7-reasons-you-need-a-website/">reason behind the website</a>. Then you should wireframe the <a href="https://therebelape.com/increase-website-trust/">website to make sure it flows and builds trust</a>. The more you do this, the more trust is created, and the chance for a conversion increases.</p>
+<p>There are many reasons you need a professional <a href="/website-design-and-development-consultant/">design for a high converting website</a>. You need a strategy, a goal, a <a href="/7-reasons-you-need-a-website/">reason behind the website</a>. Then you should wireframe the <a href="/increase-website-trust/">website to make sure it flows and builds trust</a>. The more you do this, the more trust is created, and the chance for a conversion increases.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -148,5 +148,5 @@ A High Converting Website Should Be Professionally Designed
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>If you have any questions on creating a high converting website, feel free to <a href="https://therebelape.com/contact/">contact us</a> here at Rebel Ape Marketing to help you achieve your conversion goals.&nbsp;</p>
+<p>If you have any questions on creating a high converting website, feel free to <a href="/contact/">contact us</a> here at Rebel Ape Marketing to help you achieve your conversion goals.&nbsp;</p>
 <!-- /wp:paragraph -->

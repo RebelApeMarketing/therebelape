@@ -310,7 +310,7 @@ The Ultimate Guide to Building a Professional Marketing Plan for 2025
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>Establish specific, <a href="https://therebelape.com/our-secret-to-tracking-success-and-making-marketing-predictable/">measurable KPIs</a> that align with your business objectives:</p>
+<p>Establish specific, <a href="/our-secret-to-tracking-success-and-making-marketing-predictable/">measurable KPIs</a> that align with your business objectives:</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:list -->
@@ -352,7 +352,7 @@ The Ultimate Guide to Building a Professional Marketing Plan for 2025
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>At Rebel Ape Marketing, we specialize in developing comprehensive <a href="https://therebelape.com/blog/how-we-develop-our-powerful-marketing-strategies/">marketing strategies</a> that integrate audience research, compelling messaging, and multi-channel implementation. Our experienced team understands the complexities of modern marketing and can help you navigate the challenges of creating cohesive campaigns that drive measurable results.</p>
+<p>At Rebel Ape Marketing, we specialize in developing comprehensive <a href="/blog/how-we-develop-our-powerful-marketing-strategies/">marketing strategies</a> that integrate audience research, compelling messaging, and multi-channel implementation. Our experienced team understands the complexities of modern marketing and can help you navigate the challenges of creating cohesive campaigns that drive measurable results.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->

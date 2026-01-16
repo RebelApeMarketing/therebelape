@@ -27,7 +27,7 @@ schema:
       "description": "Most contractor websites are built to look pretty or work smoothly—but not to generate leads. Here's what actually matters for roofing and home service websites that convert.",
       "image": {
         "@type": "ImageObject",
-        "url": "https://RebelApeCDN.b-cdn.net/rebel-ape-main/registrar.webp",
+        "url": "https://RebelApeCDN.b-cdn.net/featured-4-vital-components.webp",
         "width": 1200,
         "height": 630
       },
@@ -241,7 +241,7 @@ This isn't because designers and developers are trying to rip you off. It's beca
 
 So they do what they know: They make something that looks impressive and works smoothly. Something they can screenshot for Instagram. Something that makes other designers say "nice work."
 
-Meanwhile, you're wondering [why your $5,000 website isn't generating $500,000 in revenue](https://therebelape.com/blog/7-reasons-you-need-a-website).
+Meanwhile, you're wondering [why your $5,000 website isn't generating $500,000 in revenue](/blog/7-reasons-you-need-a-website/).
 
 The problem is fundamental. Most contractors hire based on referrals, not based on who can solve their biggest problem. You need leads. They're selling aesthetics and functionality. Those things matter, but they're secondary to the actual purpose of your website.
 
@@ -251,7 +251,7 @@ Before we talk about domains and hosting and all the technical stuff, let's get 
 
 Your website should drive leads, prequalify buyers, presell your service, or achieve another specific revenue goal. Everything else—the pretty design, the smooth functionality, the mobile responsiveness—is only valuable if it supports that goal.
 
-When we [build websites for roofing contractors](https://therebelape.com/services/website-design/), we start with the intent. Are we trying to capture emergency repair calls? Generate estimates for full replacements? Build your email list for seasonal campaigns? Every design choice, every line of copy, every button placement flows from that strategic purpose.
+When we [build websites for roofing contractors](/services/website-design/), we start with the intent. Are we trying to capture emergency repair calls? Generate estimates for full replacements? Build your email list for seasonal campaigns? Every design choice, every line of copy, every button placement flows from that strategic purpose.
 
 Most designers work backward. They start with what looks good, then hope it somehow generates results.
 
@@ -281,7 +281,7 @@ Here's why this matters: **Hosting affects your website speed, which affects you
 
 Cheap hosting means slow loading times. Slow loading times mean visitors leave before your page loads. High bounce rates mean Google charges you more per click because they see your site as lower quality.
 
-We see this constantly with inherited websites. A contractor is paying $8/month for budget hosting, then wondering why their $3,000/month [Google Ads budget](https://therebelape.com/services/ppc/) isn't working. The slow website is killing their Quality Score and inflating their cost per click.
+We see this constantly with inherited websites. A contractor is paying $8/month for budget hosting, then wondering why their $3,000/month [Google Ads budget](/services/ppc/) isn't working. The slow website is killing their Quality Score and inflating their cost per click.
 
 **Rebel Ape's approach:** We use WordPress hosting for most contractor websites because it gives everyone on both teams easy access to make updates and pull data. Not everyone on our team is a developer, and neither is everyone on yours. When you need to update your service area or add a new crew member photo, you shouldn't need to call a developer.
 
@@ -291,7 +291,7 @@ When we need maximum speed—for landing pages or high-traffic campaigns—we us
 
 This is where most contractors get screwed.
 
-Your website isn't just the design and hosting. It's connected to a whole ecosystem of marketing tools: [Google Analytics](https://therebelape.com/blog/how-to-setup-google-analytics), Google Ads, Meta Pixel, conversion tracking codes, tag managers, and more.
+Your website isn't just the design and hosting. It's connected to a whole ecosystem of marketing tools: [Google Analytics](/blog/how-to-setup-google-analytics/), Google Ads, Meta Pixel, conversion tracking codes, tag managers, and more.
 
 When we audit a new client's setup, here's what we typically find:
 
@@ -321,13 +321,13 @@ Here's where the purpose-first approach matters most. A beautiful homepage with 
 
 When you send ad traffic to a generic homepage, two things happen: Your cost per click goes up (Google penalizes you for poor relevance), and your conversion rate drops (visitors don't find what they expected). We've seen clients cut their cost per lead in half just by creating dedicated landing pages that match their ad messaging.
 
-**Persuasive content that presells your service.** Most contractor websites explain what they do. [Great contractor websites](https://therebelape.com/blog/high-converting-website-design-guide) explain why they do it better. They include specific processes, case studies, guarantee details, and trust signals in the exact spots where prospects are deciding whether to call.
+**Persuasive content that presells your service.** Most contractor websites explain what they do. [Great contractor websites](/blog/high-converting-website-design-guide/) explain why they do it better. They include specific processes, case studies, guarantee details, and trust signals in the exact spots where prospects are deciding whether to call.
 
-This isn't about clever copywriting tricks. It's about understanding that when someone lands on your website, they're evaluating you against competitors. If your content is generic—if you sound exactly like every other roofer in your market—they have no reason to choose you. [Your brand consistency matters](https://therebelape.com/blog/success-business-branding) more than you think.
+This isn't about clever copywriting tricks. It's about understanding that when someone lands on your website, they're evaluating you against competitors. If your content is generic—if you sound exactly like every other roofer in your market—they have no reason to choose you. [Your brand consistency matters](/blog/success-business-branding/) more than you think.
 
-**Trust signals in the right places.** Reviews, certifications, years in business, insurance verification, BBB rating—[these trust elements matter](https://therebelape.com/blog/increase-website-trust), but only if they're positioned where prospects are actually looking for reassurance. Burying them in your footer is useless. Featuring them prominently above your contact form is strategic. Your [Google Business Profile](https://therebelape.com/services/google-business-profile/) reviews should also be integrated into your website to maximize trust.
+**Trust signals in the right places.** Reviews, certifications, years in business, insurance verification, BBB rating—[these trust elements matter](/blog/increase-website-trust/), but only if they're positioned where prospects are actually looking for reassurance. Burying them in your footer is useless. Featuring them prominently above your contact form is strategic. Your [Google Business Profile](/services/google-business-profile/) reviews should also be integrated into your website to maximize trust.
 
-**A clear path to conversion.** Whether it's a phone number, a contact form, or a quote request, it needs to be obvious and easy. We don't need fancy chatbots or complex multi-step forms. We need a [phone number that clicks to call on mobile](https://therebelape.com/blog/phone-number-on-your-website) and a form that loads instantly and works on the first try.
+**A clear path to conversion.** Whether it's a phone number, a contact form, or a quote request, it needs to be obvious and easy. We don't need fancy chatbots or complex multi-step forms. We need a [phone number that clicks to call on mobile](/blog/phone-number-on-your-website/) and a form that loads instantly and works on the first try.
 
 ## The Pattern We See with Every New Client
 
@@ -367,7 +367,7 @@ The fix: Own your stuff. Domain, hosting, Analytics, Ads account, phone number�
 
 **Mistake #3: Sending all your ad traffic to your homepage.** Your homepage is like a store directory. It tells people where everything is. But when someone clicks an ad for emergency roof repair, they don't want a directory—they want the emergency repair department.
 
-The fix: Build dedicated landing pages for each service and ad campaign. Match the message from the ad to the headline on the page. Remove navigation distractions. Make the conversion path obvious. This single change typically cuts cost per lead by 30-50%. [Learn more about what makes a high-converting webpage](https://therebelape.com/blog/what-makes-a-high-converting-webpage).
+The fix: Build dedicated landing pages for each service and ad campaign. Match the message from the ad to the headline on the page. Remove navigation distractions. Make the conversion path obvious. This single change typically cuts cost per lead by 30-50%. [Learn more about what makes a high-converting webpage](/blog/what-makes-a-high-converting-webpage/).
 
 **Mistake #4: Launching without proper tracking.** If you can't measure it, you can't improve it. Most contractor websites have Analytics installed (maybe), but no conversion tracking, no call tracking, and no way to know which ads generate actual leads versus which ads generate clicks.
 
@@ -375,7 +375,7 @@ The fix: Install everything before you spend a dollar on ads. Google Analytics, 
 
 **Mistake #5: Being afraid to change anything.** We get pushback on this constantly. "We've had the same hosting for 10 years." "If we migrate the site, everything will break." "The last time we changed something, it went down for a week."
 
-Look, those fears are valid. But they're also why you're stuck with a slow website, outdated tracking, and a design that doesn't convert. The fix isn't to never change anything. The fix is to [work with someone](https://therebelape.com/blog/when-to-delegate-marketing-to-experts) who backs everything up first, tests thoroughly, and has a rollback plan if something goes wrong.
+Look, those fears are valid. But they're also why you're stuck with a slow website, outdated tracking, and a design that doesn't convert. The fix isn't to never change anything. The fix is to [work with someone](/blog/when-to-delegate-marketing-to-experts/) who backs everything up first, tests thoroughly, and has a rollback plan if something goes wrong.
 
 ## The Rebel Ape Process: What Actually Happens
 
@@ -389,7 +389,7 @@ We also define the strategy: What's the primary goal of this website? Drive quot
 
 **Week 2-3: Technical Foundation**
 
-We set up proper hosting (if needed), install tracking correctly, and create the technical infrastructure for a fast, reliable website. This is the unglamorous work that nobody sees but makes everything else possible. We make sure [your on-page SEO fundamentals](https://therebelape.com/blog/on-page-seo-tips) are solid from day one.
+We set up proper hosting (if needed), install tracking correctly, and create the technical infrastructure for a fast, reliable website. This is the unglamorous work that nobody sees but makes everything else possible. We make sure [your on-page SEO fundamentals](/blog/on-page-seo-tips/) are solid from day one.
 
 **Week 3-5: Strategic Design and Content**
 
@@ -435,6 +435,6 @@ If you already have a website that isn't working, audit it honestly:
 
 The gap between a website that costs you money and a website that makes you money isn't as big as you think. Usually it's not a complete rebuild—it's fixing strategic problems that nobody noticed because they were focused on the wrong things.
 
-That's what we do at Rebel Ape. We build contractor websites that generate leads, not just websites that look nice in screenshots. Our approach combines [strategic website design](https://therebelape.com/services/website-design/), [SEO optimization](https://therebelape.com/services/seo/), and [PPC management](https://therebelape.com/services/ppc/) to create a complete lead generation system.
+That's what we do at Rebel Ape. We build contractor websites that generate leads, not just websites that look nice in screenshots. Our approach combines [strategic website design](/services/website-design/), [SEO optimization](/services/seo/), and [PPC management](/services/ppc/) to create a complete lead generation system.
 
-Want us to audit your current setup? [Get in touch](https://therebelape.com/contact/). We'll tell you exactly what's working, what isn't, and what it would take to fix it.
+Want us to audit your current setup? [Get in touch](/contact/). We'll tell you exactly what's working, what isn't, and what it would take to fix it.

@@ -28,7 +28,7 @@ The Ultimate Guide to Building a Small Business Website and Getting Found Online
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>This post is for small business owners who want more information about the ultimate guide to small business website design before bringing on an agency or those who want to build their <a href="https://therebelape.com/plumbing-website-conversion-fixes/" data-type="post" data-id="9889">plumbing or home service website that converts</a> by themselves. However, it's also informative if you're considering the pros and cons of managing your online presence on your own as you navigate the ultimate guide to small business website design.</p>
+<p>This post is for small business owners who want more information about the ultimate guide to small business website design before bringing on an agency or those who want to build their <a href="/plumbing-website-conversion-fixes/" data-type="post" data-id="9889">plumbing or home service website that converts</a> by themselves. However, it's also informative if you're considering the pros and cons of managing your online presence on your own as you navigate the ultimate guide to small business website design.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading {"className":"wp-block-heading"} -->
@@ -388,7 +388,7 @@ The Ultimate Guide to Building a Small Business Website and Getting Found Online
 <!-- /wp:list -->
 
 <!-- wp:paragraph -->
-<p>If you still haven't had enough of small business website tricks, then check out this blog post on <a href="https://therebelape.com/what-makes-a-high-converting-webpage/">What Makes a High Converting Website</a>.</p>
+<p>If you still haven't had enough of small business website tricks, then check out this blog post on <a href="/what-makes-a-high-converting-webpage/">What Makes a High Converting Website</a>.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->

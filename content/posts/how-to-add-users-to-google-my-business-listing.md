@@ -14,7 +14,7 @@ draft: false
 
 You may need to add users to Google My Business to unlock the full range of benefits for your business.
 
-Optimizing your Google My Business (GMB) listing can [boost your SEO](https://therebelape.com/seo/) and help your business rank higher in search results — especially in Google Maps. Your GMB profile allows you to add photos and videos, publish posts, answer questions, and share important updates that generate interest and trust.
+Optimizing your Google My Business (GMB) listing can [boost your SEO](/seo/) and help your business rank higher in search results — especially in Google Maps. Your GMB profile allows you to add photos and videos, publish posts, answer questions, and share important updates that generate interest and trust.
 
 There are many elements involved in properly optimizing a Google My Business account, and user access is a critical one.
 
@@ -129,6 +129,6 @@ Your Google My Business listing requires ongoing maintenance to deliver consiste
 
 An experienced agency can handle this for you, but even if you manage it yourself, this guide will help ensure your listing remains accurate and optimized.
 
-If you have questions about adding users to Google My Business, feel free to leave a comment. If you’re looking for [website design](https://therebelape.com/services/website-design/) or help improving your local visibility, [contact us](https://therebelape.com/contact/).
+If you have questions about adding users to Google My Business, feel free to leave a comment. If you’re looking for [website design](/services/website-design/) or help improving your local visibility, [contact us](/contact/).
 
 ---

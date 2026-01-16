@@ -28,7 +28,7 @@ This causes a series of problems to arise:
 - Both pages end up dropping in rank, which means your website's chances lower of being people's first go-to
 - The click-through rate (CTR) for both pages decreases (remember, the first three search results receive the majority of clicks). This means less traffic going to your website and therefore much more difficulty being seen
 - Diminished conversion, meaning lower chances for sales, which in turn causes less income for your business
-- Your [website's SEO effectiveness](https://therebelape.com/services/seo/) is reduced despite your content creation efforts
+- Your [website's SEO effectiveness](/services/seo/) is reduced despite your content creation efforts
 - Google may view your site as having thin content or attempting to manipulate rankings
 
 True to its name, your pages end up cannibalizing one another's results. Rather than being a single one-stop shop for the information your customers are looking for, you would be left with two or more moderately good articles that are constantly competing against each other.
@@ -64,13 +64,13 @@ Often, finding&nbsp;**keyword cannibalization**&nbsp;is as simple as making a Go
 
 ## Fixing The Keyword Cannibalization Issue
 
-The upside is that while&nbsp;**keyword cannibalization**&nbsp;can be a blow to your SEO, it is one that you can certainly bounce back from. The following solutions could do more than just clear up the effects of cannibalization, they could possibly improve your&nbsp;[website's overall ranking](https://therebelape.com/services/website-design/)&nbsp;as well.
+The upside is that while&nbsp;**keyword cannibalization**&nbsp;can be a blow to your SEO, it is one that you can certainly bounce back from. The following solutions could do more than just clear up the effects of cannibalization, they could possibly improve your&nbsp;[website's overall ranking](/services/website-design/)&nbsp;as well.
 
 ### Combining Articles
 
 *Often, the key to resolving keyword cannibalization is not in deleting one of your blogs, but actually in combining them.*Adding together two moderately successful articles increases your chances of having a single high-ranking "Complete Guide."
 
-For&nbsp;[home service businesses](https://therebelape.com/services/), this might mean combining separate articles about "water heater maintenance" and "water heater troubleshooting" into a comprehensive "Complete Guide to Water Heater Care."
+For&nbsp;[home service businesses](/services/), this might mean combining separate articles about "water heater maintenance" and "water heater troubleshooting" into a comprehensive "Complete Guide to Water Heater Care."
 
 ### Find Long-Tailed Keywords
 
@@ -80,9 +80,9 @@ When a keyword is "long-tailed," it is generally longer (between 3-5 words), whi
 
 ## Optimize Your Website With Rebel Ape Marketing
 
-Today is the day to start trying to rank higher on search engines. If you're ready to end problems like&nbsp;**keyword cannibalization**&nbsp;and others that are holding your website back, then&nbsp;[contact Rebel Ape Marketing](https://therebelape.com/contact/)&nbsp;today.
+Today is the day to start trying to rank higher on search engines. If you're ready to end problems like&nbsp;**keyword cannibalization**&nbsp;and others that are holding your website back, then&nbsp;[contact Rebel Ape Marketing](/contact/)&nbsp;today.
 
-Our&nbsp;[SEO experts](https://therebelape.com/services/seo/)&nbsp;know what to look for in order to spot keyword cannibalization and, more importantly, we have the time and knowledge to make the necessary changes. That takes the work off your plate so that you can work on your business.
+Our&nbsp;[SEO experts](/services/seo/)&nbsp;know what to look for in order to spot keyword cannibalization and, more importantly, we have the time and knowledge to make the necessary changes. That takes the work off your plate so that you can work on your business.
 
 Get started now. Contact us today and we can get started creating a strategy designed to find your audience and reach out to them.
 

@@ -31,7 +31,7 @@ When you decide to run your podcasting through XYZ Marketing, all you have to do
 
 ## Marketing Videos
 
-Videos are a great form of marketing and one of the most powerful strategies](https://therebelape.com/blog/video-marketing-strategy-for-2023/) you can implement on your website and other social platforms. When it comes to videos we now offer a large variety of different videos you can use in any of your marketing campaigns.
+Videos are a great form of marketing and one of the most powerful strategies](/blog/video-marketing-strategy-for-2023/) you can implement on your website and other social platforms. When it comes to videos we now offer a large variety of different videos you can use in any of your marketing campaigns.
 
 ## Brand Message Videos
 

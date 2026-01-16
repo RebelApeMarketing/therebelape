@@ -22,7 +22,7 @@ Did you know that an astounding **97% of internet users** do not click past the 
 
 ## Google Ranking Factors
 
-Fortunately, outranking your competitors isn’t an impossible task. You can increase the likelihood of ranking above your competitors in the SERPs (Search Engine Results Page) by ensuring your [website reaps the benefits of Google Ranking Factors](https://therebelape.com/seo/).
+Fortunately, outranking your competitors isn’t an impossible task. You can increase the likelihood of ranking above your competitors in the SERPs (Search Engine Results Page) by ensuring your [website reaps the benefits of Google Ranking Factors](/seo/).
 
 Google uses a ranking algorithm that filters search results based on certain factors. This algorithm has undergone many updates, such as:
 
@@ -61,11 +61,11 @@ With that in mind, here are some of the most important Google ranking factors th
 
 Google’s Possum update diversified local search results based on proximity, address, price, and other factors. These improvements can work in your favor — as long as your site is built correctly.
 
-If you want help implementing these properly, [contact us](https://therebelape.com/contact/) and we’ll help you tighten everything up.
+If you want help implementing these properly, [contact us](/contact/) and we’ll help you tighten everything up.
 
 ## Website Analysis
 
-A website analysis is required before any [SEO](https://therebelape.com/website-is-not-ranking/) work starts.
+A website analysis is required before any [SEO](/website-is-not-ranking/) work starts.
 
 This analysis is an in-depth look at your site’s structure and performance. It’s one of the most important stages because it uncovers what’s currently working, what’s broken, and what needs to be prioritized.
 
@@ -248,7 +248,7 @@ This helps:
 
 Social media can support SEO indirectly by building brand awareness, trust, and content distribution.
 
-See: [Social media marketing campaign](https://therebelape.com/create-social-media-marketing-campaign/)
+See: [Social media marketing campaign](/create-social-media-marketing-campaign/)
 
 ### Integration
 

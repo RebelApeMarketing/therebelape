@@ -56,7 +56,7 @@ XYZ Marketing Has Partnered With Rebel Ape Marketing
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p><a href="https://therebelape.com/video-marketing-strategy-for-2023/">Videos are a great form of marketing and one of the most powerful strategies</a> you can implement on your website and other social platforms. When it comes to videos we now offer a large variety of different videos you can use in any of your marketing campaigns.</p>
+<p><a href="/video-marketing-strategy-for-2023/">Videos are a great form of marketing and one of the most powerful strategies</a> you can implement on your website and other social platforms. When it comes to videos we now offer a large variety of different videos you can use in any of your marketing campaigns.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->

@@ -17,9 +17,9 @@ Getting your site's new content to rank in Google search or other search engines
 
 **To get started, I've been updating this article to make it a complete guide to basic on-page SEO to increase your search results.**
 
-It's important to know a few [on-page SEO](https://therebelape.com/seo/las-vegas-seo/) tips and tricks to help you quickly get started with page optimization. This is so your website complies with what Google and other search engines are looking for, making it easier to be found on their search engine and get search traffic.
+It's important to know a few [on-page SEO](/seo/las-vegas-seo/) tips and tricks to help you quickly get started with page optimization. This is so your website complies with what Google and other search engines are looking for, making it easier to be found on their search engine and get search traffic.
 
-There are some basic [page optimization aspects that you need to include with your website](https://therebelape.com/blog/on-page-seo-tips/), many of which you may have never thought about before. Learning [rudimentary SEO](https://ahrefs.com/blog/seo-basics/) can significantly benefit your site SEO.
+There are some basic [page optimization aspects that you need to include with your website](/blog/on-page-seo-tips/), many of which you may have never thought about before. Learning [rudimentary SEO](https://ahrefs.com/blog/seo-basics/) can significantly benefit your site SEO.
 
 ## Before We Get Started With Search Engine Optimization
 
@@ -29,7 +29,7 @@ Sometimes your page is ranking in the search engine results for something you ma
 
 However, if you haven't done much to your page and it isn't ranking well, there are a few things we can do to enhance your search engine optimization to drive more organic traffic.
 
-I've tried to make this as much of a complete guide to [on-page SEO](https://therebelape.com/seo/) as possible. If there is anything you would like to see added, please feel free to ask.
+I've tried to make this as much of a complete guide to [on-page SEO](/seo/) as possible. If there is anything you would like to see added, please feel free to ask.
 
 So, here we go!
 
@@ -39,7 +39,7 @@ So, here we go!
 
 The reason this is important is when you start to target relevant keywords and start to rank higher in the search engine results, you can often lower your pay-per-click advertising and bring organic traffic for related keywords.
 
-When you create [high-quality content](https://therebelape.com/services/content-writing/), add in proper URL structures, increase page speed, and many other things, you will often achieve higher rankings because Google's algorithm begins to favor your website.
+When you create [high-quality content](/services/content-writing/), add in proper URL structures, increase page speed, and many other things, you will often achieve higher rankings because Google's algorithm begins to favor your website.
 
 ![Headline Tags](https://RebelApeCDN.b-cdn.net/rebel-ape-main/headline-tags.webp)
 
@@ -87,13 +87,13 @@ Another example regarding H-tags is present on this very page. The phrase "Getti
 
 ### H4, H5, and H6 Tags
 
-The h4-h6 tags can be used to further nest your content. Often, the h-tags are misused as styling elements to make fonts bolder or darker, but the actual use is for site hierarchy. It is important to use proper CSS for styling text and not use title tags for that purpose. This adds to your [site's technical SEO](https://therebelape.com/blog/on-page-seo-tips/) which is important to keep clean and optimized.
+The h4-h6 tags can be used to further nest your content. Often, the h-tags are misused as styling elements to make fonts bolder or darker, but the actual use is for site hierarchy. It is important to use proper CSS for styling text and not use title tags for that purpose. This adds to your [site's technical SEO](/blog/on-page-seo-tips/) which is important to keep clean and optimized.
 
 ![Photography](https://RebelApeCDN.b-cdn.net/Rebel%20Website/photography.webp)
 
 ## Do I Need To Add Images?
 
-It is important to use images, videos, [graphic design](https://therebelape.com/services/graphic-design/) and other multimedia elements to bring attention to the webpage. Consumers are drawn to multimedia, which is why Google uses the presence of multimedia content as a ranking factor.
+It is important to use images, videos, [graphic design](/services/graphic-design/) and other multimedia elements to bring attention to the webpage. Consumers are drawn to multimedia, which is why Google uses the presence of multimedia content as a ranking factor.
 
 Additionally, you should ensure that the file name of the image contains relevant keywords for the page. If it has previously been uploaded, you will have to re-upload it with the proper name. Otherwise, upload it with the new file name.
 
@@ -101,7 +101,7 @@ It's best to make sure your images are named with relevant keywords similar to w
 
 ### Image Sizes
 
-Image sizes play a significant role when it comes to on-page [SEO](https://therebelape.com/services/seo/) and technical SEO factors. The size of the image directly influences the page speed which is a large ranking factor Google uses to rank your site.
+Image sizes play a significant role when it comes to on-page [SEO](/services/seo/) and technical SEO factors. The size of the image directly influences the page speed which is a large ranking factor Google uses to rank your site.
 
 **If you have large images that slow downloading time, it can directly affect the user experience which can affect your rankings.**
 
@@ -179,7 +179,7 @@ When writing your meta description, try to include your target keyword and possi
 
 ## Categories And Tags
 
-Categories should be broad and general. You should try to limit the overall [number of categories used on your website](https://therebelape.com/blog/phone-number-on-your-website/). Tags should be more specific and you can use as many tags as you like on your page.
+Categories should be broad and general. You should try to limit the overall [number of categories used on your website](/blog/phone-number-on-your-website/). Tags should be more specific and you can use as many tags as you like on your page.
 
 For example, a blog post describing proper tooth cleaning to prevent oral health problems should be categorized under "general dentistry" or another broad term. It can then be tagged with terms like "tooth cleaning," "oral health problems," "oral health prevention," and more.
 
@@ -201,7 +201,7 @@ I've covered site speed in other articles but here we are again because it is so
 
 **Actual site [speed is greatly dependent on the quality of website](/blog/on-page-seo-tips/) hosting you use.**
 
-I've used various hosts for my [website designs](https://therebelape.com/services/website-design/) and each one behaves slightly different from the others. As of this writing, the majority of my websites are currently sitting on Siteground which has been one of my favorite hosts so far and my main website now resides on Kinsta. They have quick servers, helpful staff, and I haven't had any major issues.
+I've used various hosts for my [website designs](/services/website-design/) and each one behaves slightly different from the others. As of this writing, the majority of my websites are currently sitting on Siteground which has been one of my favorite hosts so far and my main website now resides on Kinsta. They have quick servers, helpful staff, and I haven't had any major issues.
 
 **A great website host can be one of the quickest ways to speed up your website if it's running on any type of budget host.**
 
@@ -225,7 +225,7 @@ If both of those are optimized, you can also add a caching service to help speed
 
 ### Website Cache
 
-Caching will take the pages and [images on your website](https://therebelape.com/blog/pitfalls-of-stock-photography-for-website-images/) and save them in such a way that they can be delivered to you as quickly as possible and at the smallest file size possible. The daunting task of caching your website has become simplified into a plugin. Each caching plugin may look different, but overall, the functions are similar. Try out various caching plugins to find your favorite.
+Caching will take the pages and [images on your website](/blog/pitfalls-of-stock-photography-for-website-images/) and save them in such a way that they can be delivered to you as quickly as possible and at the smallest file size possible. The daunting task of caching your website has become simplified into a plugin. Each caching plugin may look different, but overall, the functions are similar. Try out various caching plugins to find your favorite.
 
 When it comes to free caching software, I do like Siteground's SG Optimizer since it is designed to work directly with their servers and works very nicely, adds significant speed boosts, and they keep it updated.
 

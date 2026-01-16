@@ -44,7 +44,7 @@ Google : Google's Largest Update Released Since RankBrain
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>There will be a few changes in terms of <a class="wpil_keyword_link" href="https://therebelape.com/seo/" title="SEO" data-wpil-keyword-link="linked">SEO</a>. The first is going to be backlink profiles. Backlinks have been becoming less important year after year, though they still make up a large percentage of SEO work.</p>
+<p>There will be a few changes in terms of <a class="wpil_keyword_link" href="/seo/" title="SEO" data-wpil-keyword-link="linked">SEO</a>. The first is going to be backlink profiles. Backlinks have been becoming less important year after year, though they still make up a large percentage of SEO work.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -72,7 +72,7 @@ Google : Google's Largest Update Released Since RankBrain
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>It’s important to <a href="https://therebelape.com/seo/">talk to an SEO</a> to find the best practices to maintain your site and help it improve its ranks and authority over time by making sure the site is responsive, there are no broken links, and the content is relevant to the search.</p>
+<p>It’s important to <a href="/seo/">talk to an SEO</a> to find the best practices to maintain your site and help it improve its ranks and authority over time by making sure the site is responsive, there are no broken links, and the content is relevant to the search.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->
@@ -80,7 +80,7 @@ Google : Google's Largest Update Released Since RankBrain
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>If you want to talk about your <a href="https://therebelape.com/blog/on-page-seo-tips/">website or how to improve your SEO</a> for search, we would love to take the time to talk with you about the health of your site and what direction you want to take your marketing. <a href="https://therebelape.com/contact/">Contact us</a> today to get started!</p>
+<p>If you want to talk about your <a href="/blog/on-page-seo-tips/">website or how to improve your SEO</a> for search, we would love to take the time to talk with you about the health of your site and what direction you want to take your marketing. <a href="/contact/">Contact us</a> today to get started!</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->

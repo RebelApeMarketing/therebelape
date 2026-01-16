@@ -39,7 +39,7 @@ Tips to Keep Your Business During the Pandemic
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Blogging is a valuable tool in expanding the&nbsp;<a href="/blog/content-syndication-strategies/">content of your website</a>. Now is the time to start&nbsp;<a href="https://therebelape.com/a-website-blog-is-an-seos-secret-weapon/">blogging</a>&nbsp;and blog like crazy to expand your website and keep your business during the pandemic as much as possible.</p>
+<p>Blogging is a valuable tool in expanding the&nbsp;<a href="/blog/content-syndication-strategies/">content of your website</a>. Now is the time to start&nbsp;<a href="/a-website-blog-is-an-seos-secret-weapon/">blogging</a>&nbsp;and blog like crazy to expand your website and keep your business during the pandemic as much as possible.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->
@@ -79,7 +79,7 @@ Tips to Keep Your Business During the Pandemic
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>Everyone emphasizes the power of social media, which is why you likely have heard it over and over again. This is because it is an effective way to promote your business. <a href="https://therebelape.com/create-social-media-marketing-campaign/">Social media</a> is free advertising for your business, but you shouldn’t try to promote to your family and friends.</p>
+<p>Everyone emphasizes the power of social media, which is why you likely have heard it over and over again. This is because it is an effective way to promote your business. <a href="/create-social-media-marketing-campaign/">Social media</a> is free advertising for your business, but you shouldn’t try to promote to your family and friends.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -95,7 +95,7 @@ Tips to Keep Your Business During the Pandemic
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Establishing a solid&nbsp;<a href="https://therebelape.com/what-is-a-brand-promise/">brand image</a>&nbsp;is important in increasing the satisfaction and loyalty of your customers. This means that you need to stay consistent with the colors, fonts, logos, messages, vibe, and additional factors of your website and business’s marketing strategies.&nbsp;</p>
+<p>Establishing a solid&nbsp;<a href="/what-is-a-brand-promise/">brand image</a>&nbsp;is important in increasing the satisfaction and loyalty of your customers. This means that you need to stay consistent with the colors, fonts, logos, messages, vibe, and additional factors of your website and business’s marketing strategies.&nbsp;</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -103,7 +103,7 @@ Tips to Keep Your Business During the Pandemic
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>If you don’t feel like your company has a great,&nbsp;<a href="https://therebelape.com/branding-strategies-in-marketing/">well-established brand</a>, you should strive to take the steps to outline your brand and ensure that it is cohesive across the board. Our expert services can help guide you throughout this process.&nbsp;</p>
+<p>If you don’t feel like your company has a great,&nbsp;<a href="/branding-strategies-in-marketing/">well-established brand</a>, you should strive to take the steps to outline your brand and ensure that it is cohesive across the board. Our expert services can help guide you throughout this process.&nbsp;</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->
@@ -127,7 +127,7 @@ Tips to Keep Your Business During the Pandemic
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>It can certainly be hard to accomplish all of these aspects on your own, especially when you are unaware of the best techniques and methods to accomplish this. Here at Rebel Ape Marketing, we are dedicated to providing you with the information and <a href="/blog/on-page-seo-tips/">services that you need to optimize your online</a> presence. We can help with a wide array of aspects consistent with your marketing, including building a website, <a href="https://therebelape.com/logo-design/">designing superior logos</a>, developing a marketing strategy, and many other things. Not sure where to begin? Let’s talk!</p>
+<p>It can certainly be hard to accomplish all of these aspects on your own, especially when you are unaware of the best techniques and methods to accomplish this. Here at Rebel Ape Marketing, we are dedicated to providing you with the information and <a href="/blog/on-page-seo-tips/">services that you need to optimize your online</a> presence. We can help with a wide array of aspects consistent with your marketing, including building a website, <a href="/logo-design/">designing superior logos</a>, developing a marketing strategy, and many other things. Not sure where to begin? Let’s talk!</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -139,5 +139,5 @@ Tips to Keep Your Business During the Pandemic
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>These services can help you to establish your brand and <a href="/blog/on-page-seo-tips/">improve the content of your website</a>. To learn more about how our services can improve your website, as well as how incredibly important it is during this time,&nbsp;<a href="https://therebelape.com/contact/">contact our experts at Rebel Ape Marketing today!</a></p>
+<p>These services can help you to establish your brand and <a href="/blog/on-page-seo-tips/">improve the content of your website</a>. To learn more about how our services can improve your website, as well as how incredibly important it is during this time,&nbsp;<a href="/contact/">contact our experts at Rebel Ape Marketing today!</a></p>
 <!-- /wp:paragraph -->

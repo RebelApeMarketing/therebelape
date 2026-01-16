@@ -15,7 +15,7 @@ draft: false
 
 400. That's the number of different ways you could open a chess match. It's also the number of ways your opponent can respond. As the game progresses, the number of potential movements only increases. To spare you the math, let's just say that "endless possibilities" in chess are not too far from the truth.
 
-When you sit down at that checkered board, you're not just sitting down with pawns and rooks, knights and bishops, a king, and a queen. You're faced with 400 possibilities, but it all comes down to one choice. Suddenly, the game is a little more daunting. If you want to win, you need a [strategy](https://therebelape.com/blog/go-to-market-strategy-the-5-essential-elements-for-business-success/). If you want to win big, you need the Gambit.
+When you sit down at that checkered board, you're not just sitting down with pawns and rooks, knights and bishops, a king, and a queen. You're faced with 400 possibilities, but it all comes down to one choice. Suddenly, the game is a little more daunting. If you want to win, you need a [strategy](/blog/go-to-market-strategy-the-5-essential-elements-for-business-success/). If you want to win big, you need the Gambit.
 
 The board is set, the pieces are in place, and the game has begun. Now, what will your next move be?
 
@@ -51,17 +51,17 @@ You've heard the phrase, "You've got to spend money to make money," right? In bu
 
 This is not a work exemption. Part of having a strategy is sticking to it. Improvement is an ongoing process, not just an event. Keep in mind that in the gambit of chess, your opponent's moves require responses, just as they must react to yours. You might find yourself making more than one Gambit before victory is fully yours.
 
-That's precisely why&nbsp;[partnering with a specialized marketing team](https://therebelape.com/services/)&nbsp;is "The Gambit" worth embracing. By hiring one, the money you spend and the control you relinquish are directed towards giving you a greater grasp on your business as a whole. What initially sounds like giving up power is actually giving you room to expand your capabilities and become more self-reliant. We've seen this transformation happen with our clients time and again.
+That's precisely why&nbsp;[partnering with a specialized marketing team](/services/)&nbsp;is "The Gambit" worth embracing. By hiring one, the money you spend and the control you relinquish are directed towards giving you a greater grasp on your business as a whole. What initially sounds like giving up power is actually giving you room to expand your capabilities and become more self-reliant. We've seen this transformation happen with our clients time and again.
 
 ## Growth Outside Of The Comfort Zone
 
 We recently worked with a client who grew her business from a seed. She was knowledgeable in her field and was yielding success. The checkered board was laid out before her, and she knew her pieces. But after a while, growth required more hands than two. To sustain growth and uphold the sought-after quality, she found herself compelled to initiate a strategic move—the gambit.
 
-That's when she reached out to&nbsp;[Rebel Ape Marketing](https://therebelape.com/about/). It was a sacrifice she was making, one that would take her out of her comfort zone for a little while. But she was willing to relinquish control of her marketing in favor of greater control and an increase in quality. By making this move, she gained the freedom to improve in her field, becoming better at what she does, while we expanded her control over the board. Checkmate.
+That's when she reached out to&nbsp;[Rebel Ape Marketing](/about/). It was a sacrifice she was making, one that would take her out of her comfort zone for a little while. But she was willing to relinquish control of her marketing in favor of greater control and an increase in quality. By making this move, she gained the freedom to improve in her field, becoming better at what she does, while we expanded her control over the board. Checkmate.
 
 ## Don't Put Off Improvement
 
-Not long ago, another client came to us. For years, he had a product that he believed in, but he found that by doing everything alone, his growth had stagnated. The moment called for "The Gambit," where he entrusted us with control over&nbsp;[SEO and digital marketing](https://therebelape.com/services/seo/). By crafting a strategic plan and executing the calculated move based on the acquired data, we unearthed invaluable feedback. This feedback has been harnessed to propel his product's visibility. Meanwhile, his workload has lessened, giving him more room to move and more freedom to focus on improving his business.
+Not long ago, another client came to us. For years, he had a product that he believed in, but he found that by doing everything alone, his growth had stagnated. The moment called for "The Gambit," where he entrusted us with control over&nbsp;[SEO and digital marketing](/services/seo/). By crafting a strategic plan and executing the calculated move based on the acquired data, we unearthed invaluable feedback. This feedback has been harnessed to propel his product's visibility. Meanwhile, his workload has lessened, giving him more room to move and more freedom to focus on improving his business.
 
 ## Your Board Is Set. It's Your Move
 
@@ -73,7 +73,7 @@ When a parent hands the keys of the car over to their teenager, it's a sign of t
 
 Just like the chess master who sacrifices a pawn to gain the board, just like the parent who finally hands over the keys, you, as the business owner, have the opportunity to make your opening move. 400 potential openings, and you get to make your choice. How liberating is that?
 
-We want to see you make the right choice. Which is why we extend this call to action: Are you ready to give up some control of your&nbsp;[digital marketing](https://therebelape.com/services/plumber-digital-marketing-agency/)&nbsp;to gain control over your company? Are you ready to employ "The Gambit" of strategic marketing?
+We want to see you make the right choice. Which is why we extend this call to action: Are you ready to give up some control of your&nbsp;[digital marketing](/services/plumber-digital-marketing-agency/)&nbsp;to gain control over your company? Are you ready to employ "The Gambit" of strategic marketing?
 
 The board is set, the pieces are in place, and the game has begun. Now it's your turn; make it "the Gambit" move.
 
@@ -85,6 +85,6 @@ Here's a closing paragraph to add to the end of the post that targets home servi
 
 If you run a home service company, especially a plumbing business, you understand the chess game of managing operations, technicians, customer service, and growth all at once. Your expertise lies in providing exceptional service, not in mastering the constantly evolving digital marketing landscape.
 
-When you delegate your marketing to Rebel Ape, you're making the strategic Gambit that has helped countless plumbers and home service professionals dominate their local markets. Our specialized&nbsp;[plumber marketing services](https://therebelape.com/services/)&nbsp;are designed specifically for businesses like yours, with proven strategies that generate leads while you focus on what you do best. The most successful plumbing companies know exactly when to delegate marketing to experts—and that time is now.
+When you delegate your marketing to Rebel Ape, you're making the strategic Gambit that has helped countless plumbers and home service professionals dominate their local markets. Our specialized&nbsp;[plumber marketing services](/services/)&nbsp;are designed specifically for businesses like yours, with proven strategies that generate leads while you focus on what you do best. The most successful plumbing companies know exactly when to delegate marketing to experts—and that time is now.
 
-[Contact us today](https://therebelape.com/contact/) to discuss how our targeted approach can transform your business growth trajectory and help you claim checkmate in your market.
+[Contact us today](/contact/) to discuss how our targeted approach can transform your business growth trajectory and help you claim checkmate in your market.

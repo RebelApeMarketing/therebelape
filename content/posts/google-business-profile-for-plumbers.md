@@ -16,7 +16,7 @@ draft: false
 Google Business Profile for Plumbers: How to Dominate Local Search
 
 <!-- wp:paragraph -->
-<p>If you're a plumber and you're not fully leveraging your <strong>Google Business Profile for Plumbers</strong>, you're leaving serious money on the table. This isn’t just some minor <a href="https://therebelape.com/plumber-seo/">plumber SEO</a> tweak—it’s one of the most powerful tools you have to show up in local search, get found on maps, and generate calls from high-intent customers in your area.</p>
+<p>If you're a plumber and you're not fully leveraging your <strong>Google Business Profile for Plumbers</strong>, you're leaving serious money on the table. This isn’t just some minor <a href="/plumber-seo/">plumber SEO</a> tweak—it’s one of the most powerful tools you have to show up in local search, get found on maps, and generate calls from high-intent customers in your area.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -307,10 +307,10 @@ https://www.youtube.com/watch?v=knJqyfL2f-A
 
 <!-- wp:list -->
 <ul class="wp-block-list"><!-- wp:list-item -->
-<li><a href="https://therebelape.com/seo-tips-for-plumbers/">SEO Tips for Plumbers</a>: Simple strategies to help your plumbing business rank higher in search.</li>
+<li><a href="/seo-tips-for-plumbers/">SEO Tips for Plumbers</a>: Simple strategies to help your plumbing business rank higher in search.</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li><a href="https://therebelape.com/plumbing-website-conversion-fixes/">Plumbing Website Conversion Fixes</a>: Turn more visitors into paying customers with these quick wins.</li>
+<li><a href="/plumbing-website-conversion-fixes/">Plumbing Website Conversion Fixes</a>: Turn more visitors into paying customers with these quick wins.</li>
 <!-- /wp:list-item --></ul>
 <!-- /wp:list -->

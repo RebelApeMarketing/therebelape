@@ -28,7 +28,7 @@ Increase Website Trust To Increase Conversions
 <p>Without social signals, it’s unlikely that your website is going to gain the trust for conversion. Conversion value is necessary to have a successful business.</p>
 <!-- /wp:paragraph -->
 <!-- wp:paragraph -->
-<p>Trust is one of the main elements of conversion any <a href="https://therebelape.com/7-reasons-you-need-a-website/">website needs</a> if it’s going to scale up in size. There are many other elements to aid in conversion, but trust is one of the main factors.</p>
+<p>Trust is one of the main elements of conversion any <a href="/7-reasons-you-need-a-website/">website needs</a> if it’s going to scale up in size. There are many other elements to aid in conversion, but trust is one of the main factors.</p>
 <!-- /wp:paragraph -->
 <!-- wp:heading -->
 <h2>Include partner logos to increase website trust</h2>
@@ -37,7 +37,7 @@ Increase Website Trust To Increase Conversions
 <p>By including partner logos on a website, you can increase website trust. The trust flow can also increase the trustworthiness of your website in the eyes of a user. This can increase chances for conversions which may not happen if there are no trust signals.</p>
 <!-- /wp:paragraph -->
 <!-- wp:paragraph -->
-<p>Not only that but it’s great for <a href="https://therebelape.com/seo/">SEO</a> purposes by increasing the authority on your website in the eyes of Google.</p>
+<p>Not only that but it’s great for <a href="/seo/">SEO</a> purposes by increasing the authority on your website in the eyes of Google.</p>
 <!-- /wp:paragraph -->
 <!-- wp:paragraph -->
 <p>A few things that partner logos can achieve:</p>
@@ -111,10 +111,10 @@ Increase Website Trust To Increase Conversions
 <h2>It’s an easy step, get started!</h2>
 <!-- /wp:heading -->
 <!-- wp:paragraph -->
-<p>So what are you waiting for? Implementing these tactics to your marketing campaign is simple to do. They can be achieved in very little time as well. If you don’t have time to do it yourself, you can hire a <a href="https://therebelape.com/graphic-design/">graphic designer</a> to do this for you. When done right, you can watch the results start to come in.</p>
+<p>So what are you waiting for? Implementing these tactics to your marketing campaign is simple to do. They can be achieved in very little time as well. If you don’t have time to do it yourself, you can hire a <a href="/graphic-design/">graphic designer</a> to do this for you. When done right, you can watch the results start to come in.</p>
 <!-- /wp:paragraph -->
 <!-- wp:paragraph -->
-<p>You can even add these results to goals in <a href="https://therebelape.com/how-to-setup-google-analytics/">Google Analytics</a> or other tracking software. Then you can see if your results are being achieved. You can track how much, by implementing partner logos, case studies, and other trust signals.</p>
+<p>You can even add these results to goals in <a href="/how-to-setup-google-analytics/">Google Analytics</a> or other tracking software. Then you can see if your results are being achieved. You can track how much, by implementing partner logos, case studies, and other trust signals.</p>
 <!-- /wp:paragraph -->
 <!-- wp:paragraph -->
 <p>Like anything, social proof is what makes the results. Talking about yourself doesn’t achieve much. Getting other people to talk about you achieves much more. With a strong marketing strategy, you can control the conversation. You control what people are saying about your company. You can take advantage of the results and that can put you over your competition.</p>
@@ -123,7 +123,7 @@ Increase Website Trust To Increase Conversions
 <h2>Need help to increase website trust?</h2>
 <!-- /wp:heading -->
 <!-- wp:paragraph -->
-<p>Not everybody has access to a graphic designer or other people who can help them. Yet, it's important to get these <a href="https://therebelape.com/blog/how-to-outrank-your-competitors/">strategies on your website</a>. If you need help, please feel free to reach out to us a <a href="https://therebelape.com/about/">Rebel Ape</a> Marketing to help you. Then you can have partner logos, case studies, and other trust signals on your website as well.</p>
+<p>Not everybody has access to a graphic designer or other people who can help them. Yet, it's important to get these <a href="/blog/how-to-outrank-your-competitors/">strategies on your website</a>. If you need help, please feel free to reach out to us a <a href="https://therebelape.com/about/">Rebel Ape</a> Marketing to help you. Then you can have partner logos, case studies, and other trust signals on your website as well.</p>
 <!-- /wp:paragraph -->
 <!-- wp:paragraph -->
 <p>Also, if you’ve enjoyed this post consider sharing it with somebody who could also value from it. By helping others, you’re going to strengthen the bonds that your company has with clients. Let's get started!</p>

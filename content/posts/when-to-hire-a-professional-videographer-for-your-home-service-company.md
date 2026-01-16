@@ -20,7 +20,7 @@ When to Hire a Professional Videographer For Your Home Service Company
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>One of the worst things for businesses is to miss opportunities. What is holding you back from maximizing your potential through <a href="https://therebelape.com/video-marketing-for-businesses/">video marketing</a>?</p>
+<p>One of the worst things for businesses is to miss opportunities. What is holding you back from maximizing your potential through <a href="/video-marketing-for-businesses/">video marketing</a>?</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:list -->
@@ -144,7 +144,7 @@ When to Hire a Professional Videographer For Your Home Service Company
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>For cornerstone content that represents your brand, attempting DIY video might mean you spent all that time, money, and effort for underwhelming results. How much would that end up costing you in time and effort that could be spent on building your&nbsp;<a href="https://therebelape.com/services/">business</a>&nbsp;instead?</p>
+<p>For cornerstone content that represents your brand, attempting DIY video might mean you spent all that time, money, and effort for underwhelming results. How much would that end up costing you in time and effort that could be spent on building your&nbsp;<a href="/services/">business</a>&nbsp;instead?</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:list -->
@@ -162,7 +162,7 @@ When to Hire a Professional Videographer For Your Home Service Company
 <!-- /wp:list -->
 
 <!-- wp:paragraph -->
-<p>Don't scroll through competitors' professionally-produced videos in envy when you can have amazing brand videos of your own by utilizing the right people. You don't have to be a video expert; we've got that covered. All you have to do is contact&nbsp;<a href="https://therebelape.com/about/">Rebel Ape Marketing</a>&nbsp;and watch as we craft the videos that showcase your unique voice and products.</p>
+<p>Don't scroll through competitors' professionally-produced videos in envy when you can have amazing brand videos of your own by utilizing the right people. You don't have to be a video expert; we've got that covered. All you have to do is contact&nbsp;<a href="/about/">Rebel Ape Marketing</a>&nbsp;and watch as we craft the videos that showcase your unique voice and products.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->
@@ -188,7 +188,7 @@ When to Hire a Professional Videographer For Your Home Service Company
 <!-- /wp:list -->
 
 <!-- wp:paragraph -->
-<p>So what does this mean for your business? It means by neglecting to make videos a part of your&nbsp;<a href="https://therebelape.com/services/plumber-digital-marketing-agency/">marketing strategy</a>, you are missing out on potential clients and business. There are tons of customers looking for what you have to offer, who could find you through strategic video content—both professional and smartphone-created.</p>
+<p>So what does this mean for your business? It means by neglecting to make videos a part of your&nbsp;<a href="/services/plumber-digital-marketing-agency/">marketing strategy</a>, you are missing out on potential clients and business. There are tons of customers looking for what you have to offer, who could find you through strategic video content—both professional and smartphone-created.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->
@@ -210,7 +210,7 @@ When to Hire a Professional Videographer For Your Home Service Company
 <!-- /wp:list -->
 
 <!-- wp:paragraph -->
-<p>For&nbsp;<a href="https://therebelape.com/services/website-design/">home service businesses</a>, this balanced approach allows you to:</p>
+<p>For&nbsp;<a href="/services/website-design/">home service businesses</a>, this balanced approach allows you to:</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:list -->

@@ -251,7 +251,7 @@ Here's what's actually happening: Most contractors see social media as another t
 
 And yeah, that's completely useless.
 
-But here's the truth most [marketing agencies](https://therebelape.com/blog/professional-marketing-agency-strategic-advantages/) won't tell you: social media isn't about lead generation. It's about showing who you are, testing your marketing messages for free, and making your [Google Ads campaigns](https://therebelape.com/services/ppc/) work 30% more efficiently.
+But here's the truth most [marketing agencies](/blog/professional-marketing-agency-strategic-advantages/) won't tell you: social media isn't about lead generation. It's about showing who you are, testing your marketing messages for free, and making your [Google Ads campaigns](/services/ppc/) work 30% more efficiently.
 
 **TL;DR:** Social media isn't about posting pretty pictures or going viral. It's about authentic content that shows your brand, tests messaging before you spend money on ads, and creates message consistency across all your marketing channels. Your first 100 videos will suck, but that's exactly where you find your voice.
 
@@ -259,7 +259,7 @@ But here's the truth most [marketing agencies](https://therebelape.com/blog/prof
 
 Let's cut through the BS.
 
-Most marketing agencies focus solely on ads because ads drive revenue fast. [PPC management](https://therebelape.com/services/ppc/) pays the bills. I get it - we run plenty of Google Ads campaigns ourselves.
+Most marketing agencies focus solely on ads because ads drive revenue fast. [PPC management](/services/ppc/) pays the bills. I get it - we run plenty of Google Ads campaigns ourselves.
 
 But here's what's changing: AI is flooding the internet with generic content. ChatGPT can write blog posts, create social media captions, and generate email sequences. Which means authentic human content - the rough, real, unpolished stuff - is becoming your biggest differentiator.
 
@@ -295,13 +295,13 @@ Here's how we actually use social media with our contractor clients, and it has 
 
 ### 1. Align Social Content With Your Current Ad Campaigns
 
-When we run a [Google Ads campaign](https://therebelape.com/services/ppc/) or [Local Service Ads](https://therebelape.com/services/ppc/local-service-ads/) for a client, we create matching social content with the same message.
+When we run a [Google Ads campaign](/services/ppc/) or [Local Service Ads](/services/ppc/local-service-ads/) for a client, we create matching social content with the same message.
 
 Same offer. Same positioning. Same language.
 
-This creates message consistency across every touchpoint. Someone sees your Facebook ad about same-day HVAC repair. Then they visit your [website](https://therebelape.com/services/website-design/). Then they check out your social media feed. If the message resonates across all three channels, it doesn't feel like advertising anymore - it feels like, "Yeah, this company really does focus on fast response."
+This creates message consistency across every touchpoint. Someone sees your Facebook ad about same-day HVAC repair. Then they visit your [website](/services/website-design/). Then they check out your social media feed. If the message resonates across all three channels, it doesn't feel like advertising anymore - it feels like, "Yeah, this company really does focus on fast response."
 
-This approach actually hides your ads and makes them more efficient. Instead of one isolated ad impression, you're creating multiple touchpoints reinforcing the same message. Your [brand consistency](https://therebelape.com/blog/success-business-branding/) compounds.
+This approach actually hides your ads and makes them more efficient. Instead of one isolated ad impression, you're creating multiple touchpoints reinforcing the same message. Your [brand consistency](/blog/success-business-branding/) compounds.
 
 ### 2. Shoot Rough, Authentic Videos (You Don't Need a Film Crew)
 
@@ -317,7 +317,7 @@ People come to meet her specifically because they saw those videos and felt like
 
 For contractors, the approach is simple:
 - Film 10-15 short videos in one afternoon (job site walkthroughs, quick tips, problem explanations)
-- Let your [marketing agency](https://therebelape.com/blog/when-to-delegate-marketing-to-experts/) edit and publish them
+- Let your [marketing agency](/blog/when-to-delegate-marketing-to-experts/) edit and publish them
 - Or have the agency create the content strategy, and you shoot it
 
 You don't need fancy equipment. Your phone camera is fine. What matters is showing your real voice and real expertise.
@@ -326,13 +326,13 @@ You don't need fancy equipment. Your phone camera is fine. What matters is showi
 
 This is where social media becomes genuinely valuable for marketing.
 
-Before we invest thousands in a new [Google Ads campaign](https://therebelape.com/blog/lead-generation-best-practices-master-conversion-strategies-for-2025/) or rebuild a [landing page](https://therebelape.com/blog/high-converting-website-design-guide/), we test the messaging on social media first.
+Before we invest thousands in a new [Google Ads campaign](/blog/lead-generation-best-practices-master-conversion-strategies-for-2025/) or rebuild a [landing page](/blog/high-converting-website-design-guide/), we test the messaging on social media first.
 
 We add UTM parameters and phone tracking to social posts. Then we watch what happens.
 
 Which posts get the most engagement? Which ones drive website visits? Which messaging leads to actual phone calls?
 
-The winners get pushed to paid advertising or [SEO content](https://therebelape.com/services/seo/). The losers get abandoned before we waste money on them.
+The winners get pushed to paid advertising or [SEO content](/services/seo/). The losers get abandoned before we waste money on them.
 
 It's preliminary market testing that costs almost nothing.
 
@@ -346,7 +346,7 @@ Use scheduling tools. Film 20 videos in a single afternoon. Write captions for a
 
 Then forget about it until it's time to film the next batch.
 
-[Video marketing](https://therebelape.com/blog/our-secrets-to-successful-video-marketing-that-drives-real-results/) for contractors doesn't require daily attention - it requires one focused effort per month or quarter, then automation.
+[Video marketing](/blog/our-secrets-to-successful-video-marketing-that-drives-real-results/) for contractors doesn't require daily attention - it requires one focused effort per month or quarter, then automation.
 
 ## What to Actually Post (Without Overthinking It)
 
@@ -366,9 +366,9 @@ Here's what actually works:
 
 **Problem-solving** - "Homeowner called with this issue. Here's what was actually causing it."
 
-The common thread? It's all real. It's all you. It's all showing your [brand personality](https://therebelape.com/blog/how-to-design-a-brand-identity-like-a-professional/).
+The common thread? It's all real. It's all you. It's all showing your [brand personality](/blog/how-to-design-a-brand-identity-like-a-professional/).
 
-And critically - align these posts with your current [marketing campaigns](https://therebelape.com/blog/the-ultimate-guide-to-building-a-professional-marketing-plan-for-2025/). If you're running ads about emergency HVAC repair, post social content about emergency response. If your [SEO strategy](https://therebelape.com/blog/seo-marketing-guide-business-growth/) targets roof replacements, post content about roof replacement processes.
+And critically - align these posts with your current [marketing campaigns](/blog/the-ultimate-guide-to-building-a-professional-marketing-plan-for-2025/). If you're running ads about emergency HVAC repair, post social content about emergency response. If your [SEO strategy](/blog/seo-marketing-guide-business-growth/) targets roof replacements, post content about roof replacement processes.
 
 Everything reinforces everything else.
 
@@ -380,7 +380,7 @@ I know it's tempting. ChatGPT can write captions. It can generate post ideas. It
 
 And it's all garbage.
 
-Your audience can tell when content is AI-generated. It's bland. It's generic. It sounds like everyone else. [Professional content writing](https://therebelape.com/blog/professional-content-writing-business-authority-benefits/) requires a human voice, especially for building brand authority.
+Your audience can tell when content is AI-generated. It's bland. It's generic. It sounds like everyone else. [Professional content writing](/blog/professional-content-writing-business-authority-benefits/) requires a human voice, especially for building brand authority.
 
 AI can help with editing or formatting. But the ideas, the opinions, the voice? That needs to be yours.
 
@@ -394,7 +394,7 @@ Stop waiting. Start posting.
 
 **Mistake #3: Treating Social Like Direct Lead Generation**
 
-Social media isn't [Google Ads](https://therebelape.com/blog/lead-generation-best-practices-master-conversion-strategies-for-2025/). People aren't on Facebook actively searching for a roofer.
+Social media isn't [Google Ads](/blog/lead-generation-best-practices-master-conversion-strategies-for-2025/). People aren't on Facebook actively searching for a roofer.
 
 Social media works indirectly:
 - Someone sees your content and remembers your name
@@ -408,7 +408,7 @@ It's not about immediate conversions. It's about brand presence and making your 
 
 Random posts about random topics don't move the needle.
 
-Your social content should align with your [overall marketing strategy](https://therebelape.com/blog/how-we-develop-our-powerful-marketing-strategies/). If you're running a campaign about roof inspections, post about roof inspections. If you're targeting a specific neighborhood, post content relevant to that area.
+Your social content should align with your [overall marketing strategy](/blog/how-we-develop-our-powerful-marketing-strategies/). If you're running a campaign about roof inspections, post about roof inspections. If you're targeting a specific neighborhood, post content relevant to that area.
 
 Strategy doesn't mean complicated. It means intentional.
 
@@ -418,7 +418,7 @@ Here's my honest advice: shoot the videos yourself. Film your jobs. Capture the 
 
 Then hand it off.
 
-Hire a low-cost videographer to follow you around for a day and capture 50 clips. Or hire a basic editor to cut your phone videos and add captions. Or let your [marketing agency](https://therebelape.com/services/) handle publishing and scheduling.
+Hire a low-cost videographer to follow you around for a day and capture 50 clips. Or hire a basic editor to cut your phone videos and add captions. Or let your [marketing agency](/services/) handle publishing and scheduling.
 
 The rough content needs to be authentic. The editing and consistency can be outsourced.
 
@@ -432,7 +432,7 @@ Add tracking:
 - Track which posts drive website visits
 - Monitor which content gets saved and shared
 
-We use this data to identify winning messages. Then we invest real money promoting those winners through [paid advertising](https://therebelape.com/services/ppc/) or optimizing for [organic search](https://therebelape.com/services/seo/).
+We use this data to identify winning messages. Then we invest real money promoting those winners through [paid advertising](/services/ppc/) or optimizing for [organic search](/services/seo/).
 
 Social media becomes your R&D department for marketing messages.
 
@@ -452,4 +452,4 @@ Your first 100 videos will be terrible. Most people won't watch them. That's fin
 
 Stop waiting to be perfect. Start showing who you really are.
 
-And if you need help building a [complete marketing strategy](https://therebelape.com/blog/the-ultimate-guide-to-building-a-professional-marketing-plan-for-2025/) that integrates social media with advertising, SEO, and web design, [let's talk](https://therebelape.com/contact/). We'll help you figure out what's actually worth doing and what's just a waste of time.
+And if you need help building a [complete marketing strategy](/blog/the-ultimate-guide-to-building-a-professional-marketing-plan-for-2025/) that integrates social media with advertising, SEO, and web design, [let's talk](/contact/). We'll help you figure out what's actually worth doing and what's just a waste of time.

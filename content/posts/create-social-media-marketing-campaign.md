@@ -76,8 +76,8 @@ Creating a successful social media marketing campaign is all about strategy:
 - **Conduct research** to identify the best path forward  
 - **Analyze continuously** to improve performance over time  
 
-If you want to work with top-tier [graphic designers](https://themanifest.com/) and [web designers in Utah](https://clutch.co/), [contact us](https://therebelape.com/contact/).
+If you want to work with top-tier [graphic designers](https://themanifest.com/) and [web designers in Utah](https://clutch.co/), [contact us](/contact/).
 
 You can also explore our work here:  
 - [Website Design Gallery](/services/website-design/)  
-- [Logo Design Gallery](https://therebelape.com/logo-designs-gallery/)  
+- [Logo Design Gallery](/logo-designs-gallery/)  

@@ -16,7 +16,7 @@ draft: false
 Video Marketing for Businesses: 5 Essential Tips for Growth
 
 <!-- wp:paragraph -->
-<p>Video marketing for businesses has become one of the most powerful tools for growth in today's digital landscape. Are you wondering whether this investment is worth it for your company? Curious about the costs and potential ROI of creating brand videos? Here's everything you need to know about how video marketing can transform your business, attract more customers, and boost your <a href="https://therebelape.com/services/seo/">search engine rankings</a>.</p>
+<p>Video marketing for businesses has become one of the most powerful tools for growth in today's digital landscape. Are you wondering whether this investment is worth it for your company? Curious about the costs and potential ROI of creating brand videos? Here's everything you need to know about how video marketing can transform your business, attract more customers, and boost your <a href="/services/seo/">search engine rankings</a>.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->
@@ -174,7 +174,7 @@ Video Marketing for Businesses: 5 Essential Tips for Growth
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><strong>Social Media Amplification</strong>: Videos are highly shareable, extending your reach organically. Social media engagement from video content can increase organic traffic by up to 41%, leading to improved <a href="https://therebelape.com/services/seo/">search engine rankings</a>.</p>
+<p><strong>Social Media Amplification</strong>: Videos are highly shareable, extending your reach organically. Social media engagement from video content can increase organic traffic by up to 41%, leading to improved <a href="/services/seo/">search engine rankings</a>.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->

@@ -34,7 +34,7 @@ Regardless of the rationale, some businesses abstain from&nbsp;**social media ma
 - Speaking of Facebook, 75% of "business-to-consumer" marketers have found customers because of that platform.
 - What's more, an astounding 92% of people ages 18–29 are social media users, 85% of those aged 30-49, an impressive 78% of those aged 50–64, and still a significant 52% of those aged 65 and older.
 
-Underestimating the power of&nbsp;**social media marketing**&nbsp;could hinder you from connecting with your most loyal customers. Embracing it unlocks new opportunities for your&nbsp;[home service business](https://therebelape.com/services/).
+Underestimating the power of&nbsp;**social media marketing**&nbsp;could hinder you from connecting with your most loyal customers. Embracing it unlocks new opportunities for your&nbsp;[home service business](/services/).
 
 ## What Social Media Marketing Can Do For Your Business
 
@@ -52,11 +52,11 @@ Promoting your company through&nbsp;**social media marketing**&nbsp;will give po
 
 ### Social Media Marketing Helps Turn Your Business Into A Recognizable Brand
 
-Consider your favorite brands—ones that are instantly recognizable without explicit mention.&nbsp;**Social media marketing**can guide your&nbsp;[company's brand identity](https://therebelape.com/services/plumber-logo-design-service/)&nbsp;toward that level of recognition. While it takes time (even major brands didn't achieve instant renown), the investment is valuable.
+Consider your favorite brands—ones that are instantly recognizable without explicit mention.&nbsp;**Social media marketing**can guide your&nbsp;[company's brand identity](/services/plumber-logo-design-service/)&nbsp;toward that level of recognition. While it takes time (even major brands didn't achieve instant renown), the investment is valuable.
 
 It's important to distinguish between marketing and branding. Marketing presents offers to drive sales, while branding shapes how the company appears to the public. Marketing showcases products and services; branding focuses on logos, fonts, and designs for recognition.
 
-Social media provides an ideal canvas for branding, particularly as many platforms revolve around visuals. Leverage this chance to craft posts that familiarize potential customers with your brand and establish your company as a leader in the&nbsp;[home service industry](https://therebelape.com/services/website-design/).
+Social media provides an ideal canvas for branding, particularly as many platforms revolve around visuals. Leverage this chance to craft posts that familiarize potential customers with your brand and establish your company as a leader in the&nbsp;[home service industry](/services/website-design/).
 
 ### Social Media Marketing Helps You Provide Responsive Customer Service
 
@@ -81,14 +81,14 @@ Beyond just promotion and customer engagement,&nbsp;**social media marketing**&n
 - Analyze demographic data about your followers to better target your marketing efforts
 - Observe competitor strategies and performance to identify opportunities in the market
 
-For&nbsp;[home service businesses](https://therebelape.com/services/plumber-digital-marketing-agency/), these insights can help shape everything from service offerings to pricing strategies to promotional messaging.
+For&nbsp;[home service businesses](/services/plumber-digital-marketing-agency/), these insights can help shape everything from service offerings to pricing strategies to promotional messaging.
 
 ## Make Social Media Marketing A Core Part Of Your Strategy With Rebel Ape
 
 To be successful with&nbsp;**social media marketing**, you need to create posts that will engage people and make them interested in your business. It takes time and effort to make this process work effectively, and we would be lying if we said it was easy.
 
-But what if there was a way to have all of this quality content, without requiring you to spend all of that time and effort? Well, you can with&nbsp;[Rebel Ape Marketing](https://therebelape.com/about/). We understand the critical importance of building your brand through&nbsp;**social media marketing**, which is why you can have an expert work hard to consistently produce quality content that your followers want to see. Meanwhile, you can focus on improving your business, knowing that there is one less thing on your plate.
+But what if there was a way to have all of this quality content, without requiring you to spend all of that time and effort? Well, you can with&nbsp;[Rebel Ape Marketing](/about/). We understand the critical importance of building your brand through&nbsp;**social media marketing**, which is why you can have an expert work hard to consistently produce quality content that your followers want to see. Meanwhile, you can focus on improving your business, knowing that there is one less thing on your plate.
 
-Sounds pretty good, right? Here's how you can get started:&nbsp;[Contact us today](https://therebelape.com/contact/). We would love to meet with you and develop a&nbsp;**social media marketing**&nbsp;strategy tailor-fit to your business's unique needs. You will have a full-time marketing team in your corner, searching for your customers, and creating content that we can direct to them.
+Sounds pretty good, right? Here's how you can get started:&nbsp;[Contact us today](/contact/). We would love to meet with you and develop a&nbsp;**social media marketing**&nbsp;strategy tailor-fit to your business's unique needs. You will have a full-time marketing team in your corner, searching for your customers, and creating content that we can direct to them.
 
 Go with Rebel Ape Marketing today. We are your next level in&nbsp;**social media marketing**.

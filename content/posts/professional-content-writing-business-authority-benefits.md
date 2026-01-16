@@ -76,7 +76,7 @@ How Professional Content Writing Transforms Your Business Authority
 <!-- /wp:list -->
 
 <!-- wp:paragraph -->
-<p>And the amazing thing is, you can apply this to practically any kind of&nbsp;<a href="https://therebelape.com/services/">home service business</a>. If you run a plumbing company, a writer can help you become an authority in water conservation and home maintenance. For an HVAC business, a writer will help you establish yourself as the expert on indoor air quality and energy efficiency. If you offer home remodeling, a writer can make you the go-to resource for design trends and material selection.</p>
+<p>And the amazing thing is, you can apply this to practically any kind of&nbsp;<a href="/services/">home service business</a>. If you run a plumbing company, a writer can help you become an authority in water conservation and home maintenance. For an HVAC business, a writer will help you establish yourself as the expert on indoor air quality and energy efficiency. If you offer home remodeling, a writer can make you the go-to resource for design trends and material selection.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -100,7 +100,7 @@ How Professional Content Writing Transforms Your Business Authority
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Getting to that top spot is vital to gaining traction as a company, and it takes a lot of work. Writers and&nbsp;<a href="https://therebelape.com/services/seo/">SEO experts</a>&nbsp;put their heads together to generate content that, among other things, is relevant and informative. This increases your chances of search engines, particularly Google, ranking you higher.</p>
+<p>Getting to that top spot is vital to gaining traction as a company, and it takes a lot of work. Writers and&nbsp;<a href="/services/seo/">SEO experts</a>&nbsp;put their heads together to generate content that, among other things, is relevant and informative. This increases your chances of search engines, particularly Google, ranking you higher.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -122,7 +122,7 @@ How Professional Content Writing Transforms Your Business Authority
 <!-- /wp:list -->
 
 <!-- wp:paragraph -->
-<p>Content writers and SEO experts help your&nbsp;<a href="https://therebelape.com/services/website-design/">website rank higher</a>&nbsp;by producing content that answers people's questions in a way that search engines can recognize and reward.</p>
+<p>Content writers and SEO experts help your&nbsp;<a href="/services/website-design/">website rank higher</a>&nbsp;by producing content that answers people's questions in a way that search engines can recognize and reward.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":13859,"sizeSlug":"large","linkDestination":"none"} -->
@@ -154,7 +154,7 @@ How Professional Content Writing Transforms Your Business Authority
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>Today is the day to create content that can help you rise in the ranks of search engines. If you're ready to build a reputation as an authority in your field, then talk to&nbsp;<a href="https://therebelape.com/about/">Rebel Ape Marketing</a>&nbsp;about all the ways you can benefit from our&nbsp;<strong>professional content writing services</strong>.</p>
+<p>Today is the day to create content that can help you rise in the ranks of search engines. If you're ready to build a reputation as an authority in your field, then talk to&nbsp;<a href="/about/">Rebel Ape Marketing</a>&nbsp;about all the ways you can benefit from our&nbsp;<strong>professional content writing services</strong>.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -162,5 +162,5 @@ How Professional Content Writing Transforms Your Business Authority
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><a href="https://therebelape.com/contact/">Contact us today</a>&nbsp;and let's begin developing your unique marketing strategy, complete with professional content writing that sets you apart from the competition.</p>
+<p><a href="/contact/">Contact us today</a>&nbsp;and let's begin developing your unique marketing strategy, complete with professional content writing that sets you apart from the competition.</p>
 <!-- /wp:paragraph -->

@@ -11,7 +11,7 @@ canonicalUrl: "https://therebelape.com/blog/google-business-profile-for-plumbers
 tags: []
 draft: false
 ---
-If you're a plumber and you're not fully leveraging your **Google Business Profile for Plumbers**, you're leaving serious money on the table. This isn’t just some minor [plumber SEO](https://therebelape.com/plumber-seo/) tweak—it’s one of the most powerful tools you have to show up in local search, get found on maps, and generate calls from high-intent customers in your area.
+If you're a plumber and you're not fully leveraging your **Google Business Profile for Plumbers**, you're leaving serious money on the table. This isn’t just some minor [plumber SEO](/plumber-seo/) tweak—it’s one of the most powerful tools you have to show up in local search, get found on maps, and generate calls from high-intent customers in your area.
 
 This guide walks you through exactly how to optimize, manage, and leverage your Google Business Profile to get more plumbing jobs consistently.
 
@@ -146,5 +146,5 @@ Want to go deeper?&nbsp;[Download our Google Business Profile Checklist](https:/
 
 Looking to level up even more?
 
-- [SEO Tips for Plumbers](https://therebelape.com/blog/seo-tips-for-plumbers/): Simple strategies to help your plumbing business rank higher in search.
-- [Plumbing Website Conversion Fixes](https://therebelape.com/blog/plumbing-website-conversion-fixes/): Turn more visitors into paying customers with these quick wins.
+- [SEO Tips for Plumbers](/blog/seo-tips-for-plumbers/): Simple strategies to help your plumbing business rank higher in search.
+- [Plumbing Website Conversion Fixes](/blog/plumbing-website-conversion-fixes/): Turn more visitors into paying customers with these quick wins.

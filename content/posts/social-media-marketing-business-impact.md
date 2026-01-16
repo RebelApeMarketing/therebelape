@@ -70,7 +70,7 @@ The Critical Business Impact of Social Media Marketing in 2025
 <!-- /wp:list -->
 
 <!-- wp:paragraph -->
-<p>Underestimating the power of&nbsp;<strong>social media marketing</strong>&nbsp;could hinder you from connecting with your most loyal customers. Embracing it unlocks new opportunities for your&nbsp;<a href="https://therebelape.com/services/">home service business</a>.</p>
+<p>Underestimating the power of&nbsp;<strong>social media marketing</strong>&nbsp;could hinder you from connecting with your most loyal customers. Embracing it unlocks new opportunities for your&nbsp;<a href="/services/">home service business</a>.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->
@@ -112,7 +112,7 @@ The Critical Business Impact of Social Media Marketing in 2025
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>Consider your favorite brands—ones that are instantly recognizable without explicit mention.&nbsp;<strong>Social media marketing</strong>can guide your&nbsp;<a href="https://therebelape.com/services/plumber-logo-design-service/">company's brand identity</a>&nbsp;toward that level of recognition. While it takes time (even major brands didn't achieve instant renown), the investment is valuable.</p>
+<p>Consider your favorite brands—ones that are instantly recognizable without explicit mention.&nbsp;<strong>Social media marketing</strong>can guide your&nbsp;<a href="/services/plumber-logo-design-service/">company's brand identity</a>&nbsp;toward that level of recognition. While it takes time (even major brands didn't achieve instant renown), the investment is valuable.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -120,7 +120,7 @@ The Critical Business Impact of Social Media Marketing in 2025
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Social media provides an ideal canvas for branding, particularly as many platforms revolve around visuals. Leverage this chance to craft posts that familiarize potential customers with your brand and establish your company as a leader in the&nbsp;<a href="https://therebelape.com/services/website-design/">home service industry</a>.</p>
+<p>Social media provides an ideal canvas for branding, particularly as many platforms revolve around visuals. Leverage this chance to craft posts that familiarize potential customers with your brand and establish your company as a leader in the&nbsp;<a href="/services/website-design/">home service industry</a>.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading {"level":3} -->
@@ -184,7 +184,7 @@ The Critical Business Impact of Social Media Marketing in 2025
 <!-- /wp:list -->
 
 <!-- wp:paragraph -->
-<p>For&nbsp;<a href="https://therebelape.com/services/plumber-digital-marketing-agency/">home service businesses</a>, these insights can help shape everything from service offerings to pricing strategies to promotional messaging.</p>
+<p>For&nbsp;<a href="/services/plumber-digital-marketing-agency/">home service businesses</a>, these insights can help shape everything from service offerings to pricing strategies to promotional messaging.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->
@@ -196,11 +196,11 @@ The Critical Business Impact of Social Media Marketing in 2025
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>But what if there was a way to have all of this quality content, without requiring you to spend all of that time and effort? Well, you can with&nbsp;<a href="https://therebelape.com/about/">Rebel Ape Marketing</a>. We understand the critical importance of building your brand through&nbsp;<strong>social media marketing</strong>, which is why you can have an expert work hard to consistently produce quality content that your followers want to see. Meanwhile, you can focus on improving your business, knowing that there is one less thing on your plate.</p>
+<p>But what if there was a way to have all of this quality content, without requiring you to spend all of that time and effort? Well, you can with&nbsp;<a href="/about/">Rebel Ape Marketing</a>. We understand the critical importance of building your brand through&nbsp;<strong>social media marketing</strong>, which is why you can have an expert work hard to consistently produce quality content that your followers want to see. Meanwhile, you can focus on improving your business, knowing that there is one less thing on your plate.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Sounds pretty good, right? Here's how you can get started:&nbsp;<a href="https://therebelape.com/contact/">Contact us today</a>. We would love to meet with you and develop a&nbsp;<strong>social media marketing</strong>&nbsp;strategy tailor-fit to your business's unique needs. You will have a full-time marketing team in your corner, searching for your customers, and creating content that we can direct to them.</p>
+<p>Sounds pretty good, right? Here's how you can get started:&nbsp;<a href="/contact/">Contact us today</a>. We would love to meet with you and develop a&nbsp;<strong>social media marketing</strong>&nbsp;strategy tailor-fit to your business's unique needs. You will have a full-time marketing team in your corner, searching for your customers, and creating content that we can direct to them.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->

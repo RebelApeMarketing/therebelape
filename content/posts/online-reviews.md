@@ -68,7 +68,7 @@ Building Your Brand With Online Reviews: How to Get Them
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>When you sign up on GMB, it will automatically start tracking your customers' behavior online when they search for your business name or contact info. The best part is that <a href="https://therebelape.com/how-to-add-users-to-google-my-business-listing/">Google My Business</a> will only track those people who are actively looking but also become a valuable platform, if not the most important platform to garner reviews.</p>
+<p>When you sign up on GMB, it will automatically start tracking your customers' behavior online when they search for your business name or contact info. The best part is that <a href="/how-to-add-users-to-google-my-business-listing/">Google My Business</a> will only track those people who are actively looking but also become a valuable platform, if not the most important platform to garner reviews.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -144,7 +144,7 @@ Building Your Brand With Online Reviews: How to Get Them
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>As mentioned, we want to make all reviews positive reviews. You may not be able to remove negative reviews, but you can make them positive. It's possible to earn the trust of your customer by providing a <a href="https://therebelape.com/seo/">professional and timely service</a>, responding maturely when they come across bad reviews, and making sure you are always on time with their response. Taking these steps will help earn more good reviews which will lead to increased revenue for the company.</p>
+<p>As mentioned, we want to make all reviews positive reviews. You may not be able to remove negative reviews, but you can make them positive. It's possible to earn the trust of your customer by providing a <a href="/seo/">professional and timely service</a>, responding maturely when they come across bad reviews, and making sure you are always on time with their response. Taking these steps will help earn more good reviews which will lead to increased revenue for the company.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->

@@ -76,7 +76,7 @@ The Pitfalls Of Using Stock Photography For Website Images
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Using stock photography isn't always the best option for your business, but it may be a cost-effective choice in the short term. Consider using stock photography as a temporary solution until you're able to invest in <a href="https://therebelape.com/seo/">professional photography services</a>.</p>
+<p>Using stock photography isn't always the best option for your business, but it may be a cost-effective choice in the short term. Consider using stock photography as a temporary solution until you're able to invest in <a href="/seo/">professional photography services</a>.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -88,7 +88,7 @@ The Pitfalls Of Using Stock Photography For Website Images
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p><a href="https://therebelape.com/blog/how-to-outrank-your-competitors/">Google rewards websites that use custom images with higher rankings</a> in search engine results pages. Not only does it provide a better overall experience for website visitors, but using high-quality photography can help increase organic traffic to your site. This further adds to the reasons why not to use stock photography for website images.</p>
+<p><a href="/blog/how-to-outrank-your-competitors/">Google rewards websites that use custom images with higher rankings</a> in search engine results pages. Not only does it provide a better overall experience for website visitors, but using high-quality photography can help increase organic traffic to your site. This further adds to the reasons why not to use stock photography for website images.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -104,7 +104,7 @@ The Pitfalls Of Using Stock Photography For Website Images
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Custom photography is the best way to ensure your website looks <a href="https://therebelape.com/how-to-design-a-brand-identity-like-a-professional/">professional and conveys your brand’s</a> message accurately. Using stock images for your website images can become a costly mistake, so always opt for high-quality custom photographs.</p>
+<p>Custom photography is the best way to ensure your website looks <a href="/how-to-design-a-brand-identity-like-a-professional/">professional and conveys your brand’s</a> message accurately. Using stock images for your website images can become a costly mistake, so always opt for high-quality custom photographs.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -116,7 +116,7 @@ The Pitfalls Of Using Stock Photography For Website Images
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>Using custom photography gives viewers a sense of authenticity that can’t be achieved with stock images. Custom photos capture the essence of your business, provide an honest portrayal, and create trust with potential customers. Stock photography has its place in <a href="https://therebelape.com/how-your-website-design-can-help-or-hurt-your-brand/">website design</a>, but it shouldn't be used as the main source of visual content.</p>
+<p>Using custom photography gives viewers a sense of authenticity that can’t be achieved with stock images. Custom photos capture the essence of your business, provide an honest portrayal, and create trust with potential customers. Stock photography has its place in <a href="/how-your-website-design-can-help-or-hurt-your-brand/">website design</a>, but it shouldn't be used as the main source of visual content.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -160,7 +160,7 @@ The Pitfalls Of Using Stock Photography For Website Images
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>If you would like to talk about getting a <a href="https://therebelape.com/website-design-and-development-consultant/" data-type="post" data-id="6111">website designed</a> by Rebel Ape Marketing, <a href="https://therebelape.com/contact/" data-type="page" data-id="1323">contact us</a> today. Our team of experienced web designers and developers will work with you to create the perfect website that meets your needs and effectively communicates your brand message. We look forward to hearing from you!</p>
+<p>If you would like to talk about getting a <a href="/website-design-and-development-consultant/" data-type="post" data-id="6111">website designed</a> by Rebel Ape Marketing, <a href="/contact/" data-type="page" data-id="1323">contact us</a> today. Our team of experienced web designers and developers will work with you to create the perfect website that meets your needs and effectively communicates your brand message. We look forward to hearing from you!</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
