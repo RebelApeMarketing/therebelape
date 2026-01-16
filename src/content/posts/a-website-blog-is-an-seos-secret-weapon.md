@@ -6,7 +6,7 @@ excerpt: "Top companies aren't blogging for fun—they're using it to crush thei
 author: "Adam Miconi"
 publishDate: "2020-01-04T01:52:00-07:00"
 lastModified: ""
-image: ""
+image: "https://RebelApeCDN.b-cdn.net/featured-website-blog-secret-weapon.webp"
 canonicalUrl: "https://therebelape.com/blog/a-website-blog-is-an-seos-secret-weapon/"
 tags: []
 draft: false

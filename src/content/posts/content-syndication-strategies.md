@@ -6,7 +6,7 @@ excerpt: "Creating amazing content means nothing if nobody sees it. Learn the st
 author: "Adam Miconi"
 publishDate: "2020-11-03T22:50:00-07:00"
 lastModified: ""
-image: "https://RebelApeCDN.b-cdn.net/rebel-ape-main/social-media.webp"
+image: "https://RebelApeCDN.b-cdn.net/featured-syndicating-your-content.webp"
 canonicalUrl: "https://therebelape.com/blog/content-syndication-strategies/"
 tags: []
 draft: false
