@@ -6,7 +6,7 @@ excerpt: "Google Analytics is powerful, but only when configured properly. This 
 author: "Adam Miconi"
 publishDate: "2018-04-28T10:00:00-06:00"
 lastModified: ""
-image: ""
+image: "https://RebelApeCDN.b-cdn.net/featured-google-analytics-sign-in.webp"
 canonicalUrl: "https://therebelape.com/blog/how-to-setup-google-analytics/"
 tags: []
 draft: false
