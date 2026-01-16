@@ -132,7 +132,7 @@ At Rebel Ape Marketing, we've helped home service companies from roofing contrac
 
 Our Silverback Authority Method has proven effective across multiple verticals—from roofing and plumbing to landscaping and electrical work. We've even helped businesses in unique niches like Vegas wedding chapels and appliance repair companies dominate their local markets.
 
-**Book a free strategy session today.**&nbsp;We'll audit your current lead generation and follow-up processes, identify the gaps your competitors are exploiting, and show you exactly how our AI-powered marketing framework can transform your business.
+**Book a free strategy session today.** We'll audit your current lead generation and follow-up processes, identify the gaps your competitors are exploiting, and show you exactly how our AI-powered marketing framework can transform your business.
 
 Don't let another day pass while your competition captures the leads you should be getting. The time to act is now.
 

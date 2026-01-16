@@ -352,7 +352,7 @@ Intellectual property and usage rights are complex matters that need to be expli
 
 #### Intellectual property considerations
 
-The contract should clearly define the ownership rights of the design, whether it's full rights, limited rights, or something else. Make sure you understand these terms, as they govern how you can use and reproduce the design. If you need full ownership, ensure that it's specified in the contract when you hire a logo designer.&nbsp;
+The contract should clearly define the ownership rights of the design, whether it's full rights, limited rights, or something else. Make sure you understand these terms, as they govern how you can use and reproduce the design. If you need full ownership, ensure that it's specified in the contract when you hire a logo designer. 
 
 #### Usage restrictions and licensing
 

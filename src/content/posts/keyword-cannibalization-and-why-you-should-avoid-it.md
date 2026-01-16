@@ -11,15 +11,15 @@ canonicalUrl: "https://therebelape.com/blog/keyword-cannibalization-and-why-you-
 tags: []
 draft: false
 ---
-Let's face it, there's really no context where "cannibalization" is a positive word.&nbsp;**Keyword cannibalization**&nbsp;is no different. When it happens, you compete against yourself in order to rank. This in turn causes you to drop in the ranks of search engines like Google, Bing, and others. We're going to go over how keyword cannibalization hurts your website, how to recognize it, and how to fix it.
+Let's face it, there's really no context where "cannibalization" is a positive word. **Keyword cannibalization** is no different. When it happens, you compete against yourself in order to rank. This in turn causes you to drop in the ranks of search engines like Google, Bing, and others. We're going to go over how keyword cannibalization hurts your website, how to recognize it, and how to fix it.
 
 Content is important for rising up the ranks of search engines through SEO. Writing quality, relevant content utilizing keyword phrases helps Google know that you can knowledgeably answer questions that people are asking. So the better you cover topics, using keywords that fit, the more you could potentially rise up those rankings.
 
-**Keyword cannibalization**&nbsp;holds you back from showing Google that you can answer your customer's questions. Instead, it leads search engines to compete your pages against one another to discover which one better suits the keyword used.
+**Keyword cannibalization** holds you back from showing Google that you can answer your customer's questions. Instead, it leads search engines to compete your pages against one another to discover which one better suits the keyword used.
 
 ## What Is Keyword Cannibalization And How Does It Work?
 
-**Keyword cannibalization**&nbsp;occurs when you have multiple blogs, articles, or phrases that are ranking for the same keyword. While that might sound like you'll just appear more often in search results and therefore increase your traffic, it actually tends to have the opposite effect on your SEO.
+**Keyword cannibalization** occurs when you have multiple blogs, articles, or phrases that are ranking for the same keyword. While that might sound like you'll just appear more often in search results and therefore increase your traffic, it actually tends to have the opposite effect on your SEO.
 
 Why does this happen? By having multiple articles that could more easily, and more effectively, be one definitive blog, and optimizing them to rank the same specific keyword, your pages are essentially being made to compete against one another. In turn, Google, unsure which one should rank higher, will simply let both drift downward.
 
@@ -53,37 +53,37 @@ Popular SEO analytics tools state that you can find cannibalization issues by di
 
 ("Intent" is the reason why a person made a particular search. Was it for information? Shopping? A search for a specific website? Google works to provide the most relevant information to best respond to the intent of a search. Which is why their mission statement is "to organize the world's information and make it universally accessible and useful.")
 
-In other words, if you have multiple pages targeting the same keyword and are basically answering the same question but in different words, then odds are you have a&nbsp;**keyword cannibalization**&nbsp;issue on your hands.
+In other words, if you have multiple pages targeting the same keyword and are basically answering the same question but in different words, then odds are you have a **keyword cannibalization** issue on your hands.
 
 ### Site Search
 
-Often, finding&nbsp;**keyword cannibalization**&nbsp;is as simple as making a Google search of your website. If you suspect that your website might be competing with itself for a certain keyword, here's how to find out:
+Often, finding **keyword cannibalization** is as simple as making a Google search of your website. If you suspect that your website might be competing with itself for a certain keyword, here's how to find out:
 
 - Google "site:(your website).com" followed by the keyword you think might be cannibalizing
 - Look at your pages and see what position they're ranking. Which pages are showing up? If two of your pages are in the top two positions, then you're doing all right! However, if you're low on page one, even as far as position 6, 7, or 8 especially, then you're most likely experiencing **keyword cannibalization**
 
 ## Fixing The Keyword Cannibalization Issue
 
-The upside is that while&nbsp;**keyword cannibalization**&nbsp;can be a blow to your SEO, it is one that you can certainly bounce back from. The following solutions could do more than just clear up the effects of cannibalization, they could possibly improve your&nbsp;[website's overall ranking](/services/website-design/)&nbsp;as well.
+The upside is that while **keyword cannibalization** can be a blow to your SEO, it is one that you can certainly bounce back from. The following solutions could do more than just clear up the effects of cannibalization, they could possibly improve your [website's overall ranking](/services/website-design/) as well.
 
 ### Combining Articles
 
 *Often, the key to resolving keyword cannibalization is not in deleting one of your blogs, but actually in combining them.*Adding together two moderately successful articles increases your chances of having a single high-ranking "Complete Guide."
 
-For&nbsp;[home service businesses](/services/), this might mean combining separate articles about "water heater maintenance" and "water heater troubleshooting" into a comprehensive "Complete Guide to Water Heater Care."
+For [home service businesses](/services/), this might mean combining separate articles about "water heater maintenance" and "water heater troubleshooting" into a comprehensive "Complete Guide to Water Heater Care."
 
 ### Find Long-Tailed Keywords
 
-When it comes to&nbsp;**keyword cannibalization**, generality is not your friend. Niching down the topics of your articles to be more specific, and using keywords that do the same, is good insurance against having your own pages compete against each other.
+When it comes to **keyword cannibalization**, generality is not your friend. Niching down the topics of your articles to be more specific, and using keywords that do the same, is good insurance against having your own pages compete against each other.
 
 When a keyword is "long-tailed," it is generally longer (between 3-5 words), which forces greater specifics. This in turn helps your blog posts to reach a targeted demographic, because you'd be using the phrases that more ready-to-buy shoppers are searching for.
 
 ## Optimize Your Website With Rebel Ape Marketing
 
-Today is the day to start trying to rank higher on search engines. If you're ready to end problems like&nbsp;**keyword cannibalization**&nbsp;and others that are holding your website back, then&nbsp;[contact Rebel Ape Marketing](/contact/)&nbsp;today.
+Today is the day to start trying to rank higher on search engines. If you're ready to end problems like **keyword cannibalization** and others that are holding your website back, then [contact Rebel Ape Marketing](/contact/) today.
 
-Our&nbsp;[SEO experts](/services/seo/)&nbsp;know what to look for in order to spot keyword cannibalization and, more importantly, we have the time and knowledge to make the necessary changes. That takes the work off your plate so that you can work on your business.
+Our [SEO experts](/services/seo/) know what to look for in order to spot keyword cannibalization and, more importantly, we have the time and knowledge to make the necessary changes. That takes the work off your plate so that you can work on your business.
 
 Get started now. Contact us today and we can get started creating a strategy designed to find your audience and reach out to them.
 
-Say goodbye to&nbsp;**keyword cannibalization**&nbsp;with Rebel Ape Marketing.
+Say goodbye to **keyword cannibalization** with Rebel Ape Marketing.

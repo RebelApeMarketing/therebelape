@@ -31,7 +31,7 @@ Now consider the same party, and somebody else is talking about that person. The
 Testimonials do the same thing. Even if they are on your website, the chances of liking the company are a lot more. This is because other people are saying great things. This is better than you saying great things about your own company, the same elements are in play.
 ## Use case studies as social proof
 When it comes to social proof, case studies are one of the main elements that you can use. Case studies build that authority and trust in your user base. A case study shows that you have had great success by showing the proof behind what you have done.
-A case study shows value since they can call the company themselves and verify the claims. If a user follows up on the claim and contacts the company in the case study,&nbsp; they can verify the information. Once verified, the likelihood of a conversion increases.
+A case study shows value since they can call the company themselves and verify the claims. If a user follows up on the claim and contacts the company in the case study,  they can verify the information. Once verified, the likelihood of a conversion increases.
 Here are a few things that a blog post can include:
 - A return on investment
 - The scope of work included

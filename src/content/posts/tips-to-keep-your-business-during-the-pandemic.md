@@ -23,7 +23,7 @@ The vast majority of people turn to the internet to find businesses to purchase 
 
 The more content that is available on your website, the more often potential customers will find your website. This means that it is an important time to add to the content on your website.
 
-Blogging is a valuable tool in expanding the&nbsp;[content of your website](/blog/content-syndication-strategies/). Now is the time to start&nbsp;[blogging](/blog/a-website-blog-is-an-seos-secret-weapon/)&nbsp;and blog like crazy to expand your website and keep your business during the pandemic as much as possible.
+Blogging is a valuable tool in expanding the [content of your website](/blog/content-syndication-strategies/). Now is the time to start [blogging](/blog/a-website-blog-is-an-seos-secret-weapon/) and blog like crazy to expand your website and keep your business during the pandemic as much as possible.
 
 ## Add Sales Funnels. These Can Be Hidden Gems For Leads and Sales.
 
@@ -39,7 +39,7 @@ Adding sales funnels to your website can go a long way toward aiding in various 
 
 Speaking of sales funnels, now is a great time to focus on building your email list. This can help you to more effectively communicate with your clients and advertise for specific events or products.
 
-An effective way to build your email list is by giving away something that you have that people want. Make sure that you make it valuable and appealing to customers, rather than just providing a sales piece. This can substantially help to draw customers in. &nbsp;
+An effective way to build your email list is by giving away something that you have that people want. Make sure that you make it valuable and appealing to customers, rather than just providing a sales piece. This can substantially help to draw customers in.  
 
 ## Make Some Noise On Social Media. It’s Easy To Be The Loudest When Everyone Is Whispering.
 
@@ -51,17 +51,17 @@ Go into a group on a social media site and offer responses with real value. This
 
 Your brand is an incredibly important aspect of your business. An effective brand will help to get your name out and improve the image that customers have of your company. You should strive to promote your brand anywhere possible in order to increase awareness of your company.
 
-Establishing a solid&nbsp;[brand image](/blog/what-is-a-brand-promise/)&nbsp;is important in increasing the satisfaction and loyalty of your customers. This means that you need to stay consistent with the colors, fonts, logos, messages, vibe, and additional factors of your website and business’s marketing strategies.&nbsp;
+Establishing a solid [brand image](/blog/what-is-a-brand-promise/) is important in increasing the satisfaction and loyalty of your customers. This means that you need to stay consistent with the colors, fonts, logos, messages, vibe, and additional factors of your website and business’s marketing strategies. 
 
 When you focus on establishing a solid brand, you will have more control over the image of your company. This can go a long way toward improving your customer base and building relationships with your customers ensuring your business during the pandemic.
 
-If you don’t feel like your company has a great,&nbsp;[well-established brand](/blog/branding-strategies-in-marketing/), you should strive to take the steps to outline your brand and ensure that it is cohesive across the board. Our expert services can help guide you throughout this process.&nbsp;
+If you don’t feel like your company has a great, [well-established brand](/blog/branding-strategies-in-marketing/), you should strive to take the steps to outline your brand and ensure that it is cohesive across the board. Our expert services can help guide you throughout this process. 
 
 ## Use That Email List, Even If It’s Brand New!
 
 Do you have or are working on building an email list? Now is an incredibly beneficial time to start making use of it. Send out emails to your customer base to ensure that you remain at the front of their minds. However, it is important to not make every email a sales pitch. The emails you send can include various messages for your customers to keep the online presence of your business during the pandemic.
 
-Send value, information, tips, tricks, and more. *Then*&nbsp;ask for a sale, rather than focusing primarily on the sales pitch. This is incredibly important to ensure that your customers find value in your emails, rather than simply hitting the “unsubscribe” button.&nbsp;
+Send value, information, tips, tricks, and more. *Then* ask for a sale, rather than focusing primarily on the sales pitch. This is incredibly important to ensure that your customers find value in your emails, rather than simply hitting the “unsubscribe” button. 
 
 ## Do Something!
 
@@ -69,8 +69,8 @@ Many people are in the same position as you during this difficult time. The majo
 
 It can certainly be hard to accomplish all of these aspects on your own, especially when you are unaware of the best techniques and methods to accomplish this. Here at Rebel Ape Marketing, we are dedicated to providing you with the information and [services that you need to optimize your online](/blog/on-page-seo-tips/) presence. We can help with a wide array of aspects consistent with your marketing, including building a website, [designing superior logos](/logo-design/), developing a marketing strategy, and many other things. Not sure where to begin? Let’s talk!
 
-In this difficult time, it can never hurt to take whatever steps possible to&nbsp;[protect your business](https://www.cnbc.com/2020/03/26/how-to-keep-your-business-afloat-amid-the-coronavirus-downturn.html). Though your doors are likely closed, there are many available options that can aid in keeping your business during the pandemic.
+In this difficult time, it can never hurt to take whatever steps possible to [protect your business](https://www.cnbc.com/2020/03/26/how-to-keep-your-business-afloat-amid-the-coronavirus-downturn.html). Though your doors are likely closed, there are many available options that can aid in keeping your business during the pandemic.
 
 Emphasizing your website and creating a superior marketing plan can go a long way toward giving you a step above your competitors. Here at Rebel Ape Marketing, we are capable of providing you with the guidance and expertise necessary to [optimize your website](/blog/on-page-seo-tips/) and keep your business relevant and competitive.
 
-These services can help you to establish your brand and [improve the content of your website](/blog/on-page-seo-tips/). To learn more about how our services can improve your website, as well as how incredibly important it is during this time,&nbsp;[contact our experts at Rebel Ape Marketing today!](/contact/)
+These services can help you to establish your brand and [improve the content of your website](/blog/on-page-seo-tips/). To learn more about how our services can improve your website, as well as how incredibly important it is during this time, [contact our experts at Rebel Ape Marketing today!](/contact/)

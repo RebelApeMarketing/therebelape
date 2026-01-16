@@ -29,7 +29,7 @@ Before you can optimize anything, you’ve got to have full access. I’ve seen 
 
 Getting verified and becoming the primary owner is a non-negotiable step. That way, you’re protected long-term and can invite your marketing agency or team in as collaborators—not gatekeepers.
 
-Go to&nbsp;google.com/business, search for your business, and claim it. If you already have a listing, request ownership. If you don’t, create one and verify it right away—Google will usually send a postcard to your physical address to make sure you're legit.
+Go to google.com/business, search for your business, and claim it. If you already have a listing, request ownership. If you don’t, create one and verify it right away—Google will usually send a postcard to your physical address to make sure you're legit.
 
 ## Step 2: Fully Optimize Your Profile
 
@@ -39,7 +39,7 @@ This is your chance to speak Google’s language. You’re basically feeding it 
 
 ### &#x2714; Business Categories
 
-Your primary category should be&nbsp;**Plumber**. Then add a few relevant secondary categories like&nbsp;**Water Heater Installation**,&nbsp;**Drain Cleaning**, or&nbsp;**Sewer Services**—but keep it tight. Don’t add 20 categories. Just focus on what you really do.
+Your primary category should be **Plumber**. Then add a few relevant secondary categories like **Water Heater Installation**, **Drain Cleaning**, or **Sewer Services**—but keep it tight. Don’t add 20 categories. Just focus on what you really do.
 
 ### &#x2714; Services
 
@@ -122,7 +122,7 @@ Google. Every time. Yelp is fine to have, but Google reviews influence local ran
 
 ### **Can I outsource this to a marketing company?**
 
-Absolutely—but&nbsp;*you*&nbsp;should still own the profile. Give them editor access, not primary ownership.
+Absolutely—but *you* should still own the profile. Give them editor access, not primary ownership.
 
 ### **How fast will I see results?**
 
@@ -138,9 +138,9 @@ If this feels like a lot to manage, don’t stress—we can help. At [Rebel Ape 
 
 ## Ready to Get Found?
 
-Let’s make sure your plumbing company is the first thing people see when they search.&nbsp;[Book a free discovery call](https://go.therebelape.com/schedule)&nbsp;or give us a shout at&nbsp;**(801) 917-4310**.
+Let’s make sure your plumbing company is the first thing people see when they search. [Book a free discovery call](https://go.therebelape.com/schedule) or give us a shout at **(801) 917-4310**.
 
-Want to go deeper?&nbsp;[Download our Google Business Profile Checklist](https://go.therebelape.com/checklist)&nbsp;to make sure you’re doing everything right.
+Want to go deeper? [Download our Google Business Profile Checklist](https://go.therebelape.com/checklist) to make sure you’re doing everything right.
 
 ## Keep Learning
 

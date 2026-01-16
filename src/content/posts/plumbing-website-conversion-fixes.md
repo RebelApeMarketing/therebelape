@@ -216,7 +216,7 @@ As a bonus tip, set up automated text responses for missed calls. This allows yo
 
 ### Take Action
 
-1. Test your website speed using&nbsp;[Google PageSpeed Insights](https://pagespeed.web.dev/),&nbsp;[Lighthouse](https://developer.chrome.com/docs/lighthouse/), or&nbsp;[GTmetrix](https://gtmetrix.com/)&nbsp;(my personal favorite for ease of use)
+1. Test your website speed using [Google PageSpeed Insights](https://pagespeed.web.dev/), [Lighthouse](https://developer.chrome.com/docs/lighthouse/), or [GTmetrix](https://gtmetrix.com/) (my personal favorite for ease of use)
 2. Identify and fix the elements slowing down your site, such as improper code, unoptimized images, excessive plugins, and render-blocking resources
 3. Work with your web developer to implement speed optimizations
 4. Set up automated text responses for missed calls

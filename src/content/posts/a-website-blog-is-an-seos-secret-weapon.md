@@ -21,7 +21,7 @@ A blog is one of the greatest tools available to you to become an industry autho
 
 But first, to cover what SEO is](/blog/what-is-seo/) and how it can help your site. [SEO stands for Search Engine Optimization](/blog/on-page-seo-tips/). It’s a series of techniques to help your website [rank higher](/blog/how-to-outrank-your-competitors/) when people do a search and your website can provide them with accurate information they are looking for. In addition, [SEO](/services/seo/) has some technical factors to help them navigate your website, download content faster, and various other things, but for this, we will focus on keywords.
 
-## How an SEO driven Website blog can help your business.&nbsp;
+## How an SEO driven Website blog can help your business. 
 
 It’s important to know a few things about SEO when it comes to blogging. Not only by utilizing these great techniques can help your blog [outrank your competitors](/blog/how-to-outrank-your-competitors/) but it will also [help your site rank higher](/blog/on-page-seo-tips/) in the Google Search Engine Results Page, SERPS.
 

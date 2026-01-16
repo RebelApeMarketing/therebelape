@@ -127,7 +127,7 @@ Why is it important? A good domain name makes your business easy to find and mem
 
 How can you do it? Visit registrars like NameCheap or GoDaddy, search for an available name, and register it.
 
-You will need to connect your domain with an A Record or nameserver. This is usually easy to do and the Registrar’s chat can usually help.&nbsp;
+You will need to connect your domain with an A Record or nameserver. This is usually easy to do and the Registrar’s chat can usually help. 
 
 ![](https://RebelApeCDN.b-cdn.net/rebel-ape-main/SiteGround-Hosting-1030x710.png)
 
@@ -137,7 +137,7 @@ Decide on a hosting provider that suits your needs. For beginners, SiteGround is
 
 Why is it important? Good hosting ensures your website is fast and always accessible.
 
-With SiteGround, they even have a wizard that can help you easily connect your domain without any complicated setups. Cloudways provides you everything you need up front, you just need to enter it at the registrar you chose.&nbsp;
+With SiteGround, they even have a wizard that can help you easily connect your domain without any complicated setups. Cloudways provides you everything you need up front, you just need to enter it at the registrar you chose. 
 
 ![](https://RebelApeCDN.b-cdn.net/rebel-ape-main/Blog-Tool-Publishing-Platform-and-CMS-–-WordPress.org_-1030x710.png)
 
