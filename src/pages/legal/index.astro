@@ -5,9 +5,8 @@ import SocialProofBar from '../../../components/sections/SocialProofBar.astro';
 import CaseStudy from '../../../components/sections/CaseStudy.astro';
 import TestimonialsDefault from '../../../components/sections/TestimonialsDefault.astro';
 
-// SEO
-const title = "Google Business Profile Management | Rebel Ape";
-const description = "Optimize your Google Business Profile to dominate local search and Google Maps. More visibility, more reviews, more customers calling you.";
+const title = "Legal | Rebel Ape Marketing";
+const description = "Terms of Service, Privacy Policy, and legal information for Rebel Ape Marketing services.";
 const canonical = "https://therebelape.com/legal/";
 const image = "https://RebelApeCDN.b-cdn.net/bg-gorilla-direct.webp";
 const type = "website";
@@ -15,84 +14,112 @@ const robots = "index, follow";
 ---
 
 <Base {title} {description} {canonical} {image} {type} {robots}>
-  <section>
-    <Hero
-      title="Own the <span class='text-rebel-green'>Map Pack</span>"
-      subtitle="Dominate Local Search. <span class='text-rebel-green'>Get More Calls.</span>"
-      description="Optimize your Google Business Profile to show up first when customers search for contractors in your area."
-      backgroundImage="https://RebelApeCDN.b-cdn.net/Rebel%20Website/Homepage/UOMC-bg.webp"
-      features={[
-        'Top 3 Map Pack Rankings',
-        '5-Star Review Strategy',
-        'Profile Optimization'
-      ]}
-      buttonText="Get a Free Profile Audit"
-      buttonIcon="calendar"
-      buttonHref="/schedule/"
-      fetchpriority="high"
-    />
-    <SocialProofBar />
+  <!-- Header -->
+  <section class="py-16 bg-slate-900">
+    <div class="max-w-4xl mx-auto px-6 text-center">
+      <h1 class="text-4xl md:text-5xl font-black text-white mb-4">Legal</h1>
+      <p class="text-xl text-gray-300">Terms of Service, Privacy Policy, and important legal information</p>
+    </div>
   </section>
 
-  <!-- What We Do -->
+  <!-- Legal Content -->
   <section class="py-16 bg-white">
-    <div class="max-w-7xl mx-auto px-6">
-      <div class="max-w-3xl mx-auto text-center mb-12">
-        <h2 class="text-4xl md:text-5xl font-black mb-4">Show Up Where Customers Are Looking</h2>
-        <p class="text-xl text-gray-600">Most local searches happen on Google Maps. We make sure you're at the top.</p>
+    <div class="max-w-4xl mx-auto px-6">
+      
+      <!-- Terms of Service -->
+      <div class="mb-16">
+        <h2 class="text-3xl font-black mb-6">Terms of Service</h2>
+        <p class="text-sm text-gray-500 mb-6">Last Updated: January 2026</p>
+        
+        <div class="prose prose-lg max-w-none">
+          <h3 class="text-2xl font-bold mb-4">1. Agreement to Terms</h3>
+          <p class="mb-6 text-gray-700">By accessing or using Rebel Ape Marketing's services, you agree to be bound by these Terms of Service. If you disagree with any part of these terms, you may not access our services.</p>
+
+          <h3 class="text-2xl font-bold mb-4">2. Services</h3>
+          <p class="mb-6 text-gray-700">Rebel Ape Marketing provides digital marketing services including but not limited to landing page development, Google Ads management, Meta Ads management, and marketing consulting for home service companies.</p>
+
+          <h3 class="text-2xl font-bold mb-4">3. Client Responsibilities</h3>
+          <p class="mb-4 text-gray-700">Clients agree to:</p>
+          <ul class="list-disc pl-6 mb-6 text-gray-700 space-y-2">
+            <li>Provide accurate and timely information required for service delivery</li>
+            <li>Review and approve deliverables within agreed-upon timeframes</li>
+            <li>Maintain active communication throughout the engagement</li>
+            <li>Pay invoices according to agreed payment terms</li>
+          </ul>
+
+          <h3 class="text-2xl font-bold mb-4">4. Payment Terms</h3>
+          <p class="mb-6 text-gray-700">Payment terms are outlined in individual service agreements. Late payments may result in suspension of services. All fees are non-refundable unless otherwise specified in writing.</p>
+
+          <h3 class="text-2xl font-bold mb-4">5. Intellectual Property</h3>
+          <p class="mb-6 text-gray-700">Upon full payment, clients receive ownership of custom work created specifically for them. Rebel Ape Marketing retains rights to pre-existing templates, frameworks, and methodologies. We reserve the right to showcase client work in our portfolio unless otherwise agreed in writing.</p>
+
+          <h3 class="text-2xl font-bold mb-4">6. Service Performance</h3>
+          <p class="mb-6 text-gray-700">While we work diligently to achieve optimal results, Rebel Ape Marketing does not guarantee specific outcomes, rankings, or ROI. Marketing performance depends on multiple factors including market conditions, competition, and client cooperation.</p>
+
+          <h3 class="text-2xl font-bold mb-4">7. Termination</h3>
+          <p class="mb-6 text-gray-700">Either party may terminate services with 30 days written notice. Clients are responsible for payment of all services rendered up to the termination date. Early termination fees may apply as outlined in individual service agreements.</p>
+
+          <h3 class="text-2xl font-bold mb-4">8. Limitation of Liability</h3>
+          <p class="mb-6 text-gray-700">Rebel Ape Marketing's liability is limited to the amount paid for services in the preceding 12 months. We are not liable for indirect, incidental, or consequential damages.</p>
+        </div>
       </div>
 
-      <div class="grid md:grid-cols-3 gap-8">
-        <div class="bg-slate-50 p-8 rounded-lg">
-          <h3 class="text-2xl font-bold mb-4">Profile Optimization</h3>
-          <p class="text-gray-600">Complete setup with the right categories, hours, services, and descriptions that help you rank higher in local search.</p>
-        </div>
+      <!-- Privacy Policy -->
+      <div class="mb-16 pt-16 border-t border-gray-200">
+        <h2 class="text-3xl font-black mb-6">Privacy Policy</h2>
+        <p class="text-sm text-gray-500 mb-6">Last Updated: January 2026</p>
+        
+        <div class="prose prose-lg max-w-none">
+          <h3 class="text-2xl font-bold mb-4">Information We Collect</h3>
+          <p class="mb-4 text-gray-700">We collect information that you provide directly to us, including:</p>
+          <ul class="list-disc pl-6 mb-6 text-gray-700 space-y-2">
+            <li>Name, email address, phone number, and company information</li>
+            <li>Payment and billing information</li>
+            <li>Communications between you and Rebel Ape Marketing</li>
+            <li>Website analytics and usage data</li>
+          </ul>
 
-        <div class="bg-slate-50 p-8 rounded-lg">
-          <h3 class="text-2xl font-bold mb-4">Review Management</h3>
-          <p class="text-gray-600">Get more 5-star reviews and respond to all feedback. Reviews are one of the biggest ranking factors for local search.</p>
-        </div>
+          <h3 class="text-2xl font-bold mb-4">How We Use Your Information</h3>
+          <p class="mb-4 text-gray-700">We use collected information to:</p>
+          <ul class="list-disc pl-6 mb-6 text-gray-700 space-y-2">
+            <li>Provide, maintain, and improve our services</li>
+            <li>Process transactions and send related information</li>
+            <li>Send technical notices and support messages</li>
+            <li>Communicate about services, offers, and updates</li>
+            <li>Monitor and analyze trends and usage</li>
+          </ul>
 
-        <div class="bg-slate-50 p-8 rounded-lg">
-          <h3 class="text-2xl font-bold mb-4">Regular Updates</h3>
-          <p class="text-gray-600">Posts, photos, and updates that keep your profile active and engaging. Google rewards businesses that stay active.</p>
+          <h3 class="text-2xl font-bold mb-4">Information Sharing</h3>
+          <p class="mb-6 text-gray-700">We do not sell your personal information. We may share information with service providers who assist in our operations, or as required by law. All third parties are bound by confidentiality obligations.</p>
+
+          <h3 class="text-2xl font-bold mb-4">Data Security</h3>
+          <p class="mb-6 text-gray-700">We implement appropriate security measures to protect your personal information. However, no method of transmission over the Internet is 100% secure, and we cannot guarantee absolute security.</p>
+
+          <h3 class="text-2xl font-bold mb-4">Your Rights</h3>
+          <p class="mb-6 text-gray-700">You have the right to access, correct, or delete your personal information. Contact us at your request email to exercise these rights.</p>
+
+          <h3 class="text-2xl font-bold mb-4">Cookies</h3>
+          <p class="mb-6 text-gray-700">We use cookies and similar tracking technologies to track activity on our website. You can instruct your browser to refuse cookies, though some features may not function properly.</p>
         </div>
       </div>
+
+      <!-- Disclaimer -->
+      <div class="pt-16 border-t border-gray-200">
+        <h2 class="text-3xl font-black mb-6">Disclaimer</h2>
+        
+        <div class="prose prose-lg max-w-none">
+          <p class="mb-6 text-gray-700">The information provided on this website and through our services is for general informational purposes only. All information is provided in good faith, however we make no representation or warranty of any kind regarding the accuracy, adequacy, validity, reliability, or completeness of any information.</p>
+
+          <p class="mb-6 text-gray-700">Your use of our services and reliance on any information is solely at your own risk. We are not liable for any losses or damages in connection with the use of our services.</p>
+
+          <h3 class="text-2xl font-bold mb-4 mt-8">Contact Information</h3>
+          <p class="mb-2 text-gray-700"><strong>Rebel Ape Marketing</strong></p>
+          <p class="mb-2 text-gray-700">North Ogden, Utah</p>
+          <p class="mb-6 text-gray-700">For legal inquiries, please contact us through our website contact form.</p>
+        </div>
+      </div>
+
     </div>
   </section>
-
-  <!-- Why GBP Matters -->
-  <section class="py-16 bg-slate-100">
-    <div class="max-w-7xl mx-auto px-6">
-      <div class="max-w-3xl mx-auto">
-        <h2 class="text-4xl md:text-5xl font-black mb-8 text-center">Why Your Google Business Profile Matters</h2>
-
-        <div class="space-y-6">
-          <div class="bg-white p-6 rounded-lg">
-            <h3 class="text-xl font-bold mb-2">The Map Pack is Everything</h3>
-            <p class="text-gray-600">The top 3 businesses in Google Maps get the majority of clicks. We optimize your profile to get you in that coveted spot.</p>
-          </div>
-
-          <div class="bg-white p-6 rounded-lg">
-            <h3 class="text-xl font-bold mb-2">Mobile-First</h3>
-            <p class="text-gray-600">Most local searches happen on mobile. Your Google Business Profile is the first thing customers see when they need your services.</p>
-          </div>
-
-          <div class="bg-white p-6 rounded-lg">
-            <h3 class="text-xl font-bold mb-2">Build Trust Fast</h3>
-            <p class="text-gray-600">Photos, reviews, and Q&A build instant credibility. A fully optimized profile makes customers confident to call you.</p>
-          </div>
-
-          <div class="bg-white p-6 rounded-lg">
-            <h3 class="text-xl font-bold mb-2">It's Free</h3>
-            <p class="text-gray-600">Google Business Profile is completely free. Not optimizing it is leaving money on the table.</p>
-          </div>
-        </div>
-      </div>
-    </div>
-  </section>
-
-  <CaseStudy />
-  <TestimonialsDefault />
 
 </Base>
