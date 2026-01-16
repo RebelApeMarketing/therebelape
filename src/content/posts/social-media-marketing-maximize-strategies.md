@@ -6,7 +6,7 @@ excerpt: "Social media success requires more than posting regularly. Discover st
 author: "Adam Miconi"
 publishDate: "2025-06-10T12:00:00-06:00"
 lastModified: ""
-image: ""
+image: "https://RebelApeCDN.b-cdn.net/featured-social-media-marketing-gorilla.webp"
 canonicalUrl: "https://therebelape.com/blog/social-media-marketing-maximize-strategies/"
 tags: []
 draft: false
