@@ -33,7 +33,7 @@ Your needs may be as immediate as a logo for your business or a more long-term b
 
 ### 2. Discovery Phase
 
-After we have discussed the details of the project, we can move into the discovery phase. During this phase, we draw out many different preliminary designs. This is essentially a phase of experimentation, where we try many different strategies and techniques to craft a design that captures the intended look and mood. A [great logo](https://looka.com/logo-ideas/) can say many different things about a company, so we take the time to craft possibilities that will help you ensure that your logo makes the statement that you desire for your company.
+After we have discussed the details of the project, we can move into the discovery phase. During this phase, we draw out many different preliminary designs. This is essentially a phase of experimentation, where we try many different strategies and techniques to craft a design that captures the intended look and mood. A great logo can say many different things about a company, so we take the time to craft possibilities that will help you ensure that your logo makes the statement that you desire for your company.
 
 ### 3. Refinement
 

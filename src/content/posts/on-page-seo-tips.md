@@ -93,7 +93,7 @@ The h4-h6 tags can be used to further nest your content. Often, the h-tags are m
 
 ## Do I Need To Add Images?
 
-It is important to use images, videos, [graphic design](/services/services/website-design/) and other multimedia elements to bring attention to the webpage. Consumers are drawn to multimedia, which is why Google uses the presence of multimedia content as a ranking factor.
+It is important to use images, videos, [graphic design](/services/website-design/) and other multimedia elements to bring attention to the webpage. Consumers are drawn to multimedia, which is why Google uses the presence of multimedia content as a ranking factor.
 
 Additionally, you should ensure that the file name of the image contains relevant keywords for the page. If it has previously been uploaded, you will have to re-upload it with the proper name. Otherwise, upload it with the new file name.
 
@@ -107,7 +107,7 @@ Image sizes play a significant role when it comes to on-page [SEO](/services/seo
 
 It's also important to understand that just because you may not notice the page speed, it doesn't mean Google won't.
 
-Use a service like [GT Metrix](https://https://pagespeed.web.dev//) or [Pingdom](https://tools.pingdom.com/) to determine how long it takes to load an image. You can also see file sizes directly in WordPress under your Media Library.
+Use a service like [GT Metrix](https://pagespeed.web.dev//) or [Pingdom](https://tools.pingdom.com/) to determine how long it takes to load an image. You can also see file sizes directly in WordPress under your Media Library.
 
 If you have a large photo that needs to be resized, the best option would be to reduce the size before you upload it in a program like Photoshop. However, if you don't have access to any photo editing software, you can reduce the size before uploading using [tinyjpg.com](https://tinyjpg.com/) and then resizing the image once in WordPress.
 
@@ -120,18 +120,13 @@ Still talking about image sizes, once uploaded it is also good practice to have 
 I like running this software because it can help reduce the size of previously uncompressed images that were uploaded and sometimes further reduce an image currently uploading without compromising the quality.
 
 ### Alt Tags
-
-```html
 <img src="photography.webp" alt="This is your alt description" />
-```
 
 **An alt tag, also known as an alt attribute or alt description, is an HTML code snippet that allows the search engines to understand what the image is about and also increases the user experience for those using screen readers.**
 
 Alt tags and alt text—all these terms are interchangeable—are the tag that tells Google exactly what your photo is about. Alt text is an incredibly important part of SEO for images.
 
 Describe the images using the alt text in a few descriptive words and include related keywords if possible. This tag is the `alt=` attribute and can be easily modified in the WordPress Media Library.
-
-![Interlinking](https://RebelApeCDN.b-cdn.net/Rebel%20Website/interlinking.webp)
 
 ## Linking Your Site
 
@@ -163,8 +158,6 @@ It's best to link to a site that contains something supporting the topic you are
 
 Make sure that the site you link to is a reputable website. This link creates what is known as a Link Neighborhood. If the site you link to isn't reputable, Google will assume that your site lives in this "bad neighborhood" and it will negatively impact your rankings. Essentially, your site will be considered to not be reputable by association with the bad site. [External links](https://ahrefs.com/blog/links-with-traffic-study/) can help with your overall search engine rankings.
 
-![Meta Data](https://RebelApeCDN.b-cdn.net/Rebel%20Website/meta-data.webp)
-
 ## Adding Meta Data
 
 **The SEO metadata is what the user sees on the Google search results page and includes the page title and meta description of the page which can encourage click-through rates.**
@@ -190,8 +183,6 @@ These are just a few tips to help you understand some basic SEO principles. SEO 
 The higher your site ranks in Google search results, the more organic traffic your website will get and the more likely you will be to reach your target audience.
 
 A professional company (eh hem, shameless self promotion, Rebel Ape Marketing) may be able to make ranking your website much easier but often comes with a substantial investment.
-
-![WP Rocket Dashboard](https://RebelApeCDN.b-cdn.net/Rebel%20Website/wp-rocket-dashboard.webp)
 
 ## Site Speed
 

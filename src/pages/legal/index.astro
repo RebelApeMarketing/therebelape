@@ -1,0 +1,98 @@
+---
+import Base from '../../../layouts/Base.astro';
+import Hero from '../../../components/sections/Hero.astro';
+import SocialProofBar from '../../../components/sections/SocialProofBar.astro';
+import CaseStudy from '../../../components/sections/CaseStudy.astro';
+import TestimonialsDefault from '../../../components/sections/TestimonialsDefault.astro';
+
+// SEO
+const title = "Google Business Profile Management | Rebel Ape";
+const description = "Optimize your Google Business Profile to dominate local search and Google Maps. More visibility, more reviews, more customers calling you.";
+const canonical = "https://therebelape.com/legal/";
+const image = "https://RebelApeCDN.b-cdn.net/bg-gorilla-direct.webp";
+const type = "website";
+const robots = "index, follow";
+---
+
+<Base {title} {description} {canonical} {image} {type} {robots}>
+  <section>
+    <Hero
+      title="Own the <span class='text-rebel-green'>Map Pack</span>"
+      subtitle="Dominate Local Search. <span class='text-rebel-green'>Get More Calls.</span>"
+      description="Optimize your Google Business Profile to show up first when customers search for contractors in your area."
+      backgroundImage="https://RebelApeCDN.b-cdn.net/Rebel%20Website/Homepage/UOMC-bg.webp"
+      features={[
+        'Top 3 Map Pack Rankings',
+        '5-Star Review Strategy',
+        'Profile Optimization'
+      ]}
+      buttonText="Get a Free Profile Audit"
+      buttonIcon="calendar"
+      buttonHref="/schedule/"
+      fetchpriority="high"
+    />
+    <SocialProofBar />
+  </section>
+
+  <!-- What We Do -->
+  <section class="py-16 bg-white">
+    <div class="max-w-7xl mx-auto px-6">
+      <div class="max-w-3xl mx-auto text-center mb-12">
+        <h2 class="text-4xl md:text-5xl font-black mb-4">Show Up Where Customers Are Looking</h2>
+        <p class="text-xl text-gray-600">Most local searches happen on Google Maps. We make sure you're at the top.</p>
+      </div>
+
+      <div class="grid md:grid-cols-3 gap-8">
+        <div class="bg-slate-50 p-8 rounded-lg">
+          <h3 class="text-2xl font-bold mb-4">Profile Optimization</h3>
+          <p class="text-gray-600">Complete setup with the right categories, hours, services, and descriptions that help you rank higher in local search.</p>
+        </div>
+
+        <div class="bg-slate-50 p-8 rounded-lg">
+          <h3 class="text-2xl font-bold mb-4">Review Management</h3>
+          <p class="text-gray-600">Get more 5-star reviews and respond to all feedback. Reviews are one of the biggest ranking factors for local search.</p>
+        </div>
+
+        <div class="bg-slate-50 p-8 rounded-lg">
+          <h3 class="text-2xl font-bold mb-4">Regular Updates</h3>
+          <p class="text-gray-600">Posts, photos, and updates that keep your profile active and engaging. Google rewards businesses that stay active.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Why GBP Matters -->
+  <section class="py-16 bg-slate-100">
+    <div class="max-w-7xl mx-auto px-6">
+      <div class="max-w-3xl mx-auto">
+        <h2 class="text-4xl md:text-5xl font-black mb-8 text-center">Why Your Google Business Profile Matters</h2>
+
+        <div class="space-y-6">
+          <div class="bg-white p-6 rounded-lg">
+            <h3 class="text-xl font-bold mb-2">The Map Pack is Everything</h3>
+            <p class="text-gray-600">The top 3 businesses in Google Maps get the majority of clicks. We optimize your profile to get you in that coveted spot.</p>
+          </div>
+
+          <div class="bg-white p-6 rounded-lg">
+            <h3 class="text-xl font-bold mb-2">Mobile-First</h3>
+            <p class="text-gray-600">Most local searches happen on mobile. Your Google Business Profile is the first thing customers see when they need your services.</p>
+          </div>
+
+          <div class="bg-white p-6 rounded-lg">
+            <h3 class="text-xl font-bold mb-2">Build Trust Fast</h3>
+            <p class="text-gray-600">Photos, reviews, and Q&A build instant credibility. A fully optimized profile makes customers confident to call you.</p>
+          </div>
+
+          <div class="bg-white p-6 rounded-lg">
+            <h3 class="text-xl font-bold mb-2">It's Free</h3>
+            <p class="text-gray-600">Google Business Profile is completely free. Not optimizing it is leaving money on the table.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <CaseStudy />
+  <TestimonialsDefault />
+
+</Base>

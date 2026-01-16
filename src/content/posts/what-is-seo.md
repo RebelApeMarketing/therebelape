@@ -135,11 +135,3 @@ We support businesses in and around Ogden, Utah (and beyond) through SEO strateg
 With the right process, your website can steadily grow traffic, increase visibility, and compete for the top spots in the [Google search results](/blog/how-to-outrank-your-competitors/).
 
 If you’re ready to improve your rankings and authority, reach out [here](/contact/).
-
----
-
-## Sources
-
-- [Moz](https://moz.com/learn/seo/what-is-seo)
-- [Search Engine People](https://www.searchenginepeople.com/blog/40-unbelievable-seo-statistics-need-know.html)
-- [Search Engine Journal](https://www.searchenginejournal.com/24-eye-popping-seo-statistics/42665/)

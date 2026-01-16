@@ -19,7 +19,7 @@ As AI begins to propel our technology forward, Google is utilizing it in such a 
 
 ## What is BERT and how is it applied to search?
 
-This recent update is known as [Google BERT](https://developers.google.com/search/docs/fundamentals/ai-overview) which stands for Bidirectional Encoder Representations from Transformers and is a network-based technique for natural language processing (NLP). Currently, BERT is being applied to around 1-10 searches or approximately 10% of all searches in English. More languages are going to continue to roll out at a later date.
+This recent update is known as Google BERT which stands for Bidirectional Encoder Representations from Transformers and is a network-based technique for natural language processing (NLP). Currently, BERT is being applied to around 1-10 searches or approximately 10% of all searches in English. More languages are going to continue to roll out at a later date.
 
 BERT is more than advancements in AI and software. BERT is so complex that the current technology was limiting the advancements so new hardware is now being rolled out called [Cloud TPU’s](https://cloud.google.com/blog/products/ai-machine-learning/cloud-tpu-pods-break-ai-training-records).
 

@@ -245,7 +245,6 @@ To help you further improve your plumbing website's performance, we've compiled 
 
 - [Google's Guide to Local Business SEO](https://support.google.com/business/)
 - [Moz Local SEO Learning Center](https://https://developers.google.com/search/docs/fundamentals/seo-starter-guide)
-- [BrightLocal's Guide to Service Area Business SEO](https://www.brightlocal.com/learn/local-seo-for-service-area-businesses/)
 
 You might also enjoy our related articles:
 
