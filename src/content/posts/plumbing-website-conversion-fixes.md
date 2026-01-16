@@ -6,7 +6,7 @@ excerpt: "Your plumbing website might be generating traffic but failing to conve
 author: "Adam Miconi"
 publishDate: "2025-03-18T11:54:00-06:00"
 lastModified: ""
-image: "https://RebelApeCDN.b-cdn.net/rebel-ape-main/emergency-plumber-website-call-now-button-1030x589.png"
+image: "https://RebelApeCDN.b-cdn.net/featured-your-website-is-costing-you-money.webp"
 canonicalUrl: "https://therebelape.com/blog/plumbing-website-conversion-fixes/"
 tags: []
 draft: false

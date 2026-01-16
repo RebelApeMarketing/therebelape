@@ -6,7 +6,7 @@ excerpt: "Choosing between a freelance web designer and a professional agency ca
 author: "Adam Miconi"
 publishDate: "2022-08-10T12:57:00-06:00"
 lastModified: ""
-image: ""
+image: "https://RebelApeCDN.b-cdn.net/featured-content-writing-utah.webp"
 canonicalUrl: "https://therebelape.com/blog/find-a-web-designer-near-ogden-utah/"
 tags: []
 draft: false
