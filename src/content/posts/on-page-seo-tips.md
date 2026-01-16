@@ -89,8 +89,6 @@ Another example regarding H-tags is present on this very page. The phrase "Getti
 
 The h4-h6 tags can be used to further nest your content. Often, the h-tags are misused as styling elements to make fonts bolder or darker, but the actual use is for site hierarchy. It is important to use proper CSS for styling text and not use title tags for that purpose. This adds to your [site's technical SEO](/blog/on-page-seo-tips/) which is important to keep clean and optimized.
 
-![Photography](https://RebelApeCDN.b-cdn.net/Rebel%20Website/photography.webp)
-
 ## Do I Need To Add Images?
 
 It is important to use images, videos, [graphic design](/services/website-design/) and other multimedia elements to bring attention to the webpage. Consumers are drawn to multimedia, which is why Google uses the presence of multimedia content as a ranking factor.
@@ -107,7 +105,7 @@ Image sizes play a significant role when it comes to on-page [SEO](/services/seo
 
 It's also important to understand that just because you may not notice the page speed, it doesn't mean Google won't.
 
-Use a service like [GT Metrix](https://pagespeed.web.dev//) or [Pingdom](https://tools.pingdom.com/) to determine how long it takes to load an image. You can also see file sizes directly in WordPress under your Media Library.
+Use a service like [GT Metrix](https://pagespeed.web.dev/) or [Pingdom](https://tools.pingdom.com/) to determine how long it takes to load an image. You can also see file sizes directly in WordPress under your Media Library.
 
 If you have a large photo that needs to be resized, the best option would be to reduce the size before you upload it in a program like Photoshop. However, if you don't have access to any photo editing software, you can reduce the size before uploading using [tinyjpg.com](https://tinyjpg.com/) and then resizing the image once in WordPress.
 
