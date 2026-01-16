@@ -6,7 +6,7 @@ excerpt: "Brand identity goes far beyond a logo—it's the complete visual and e
 author: "Adam Miconi"
 publishDate: "2019-07-01T12:00:00-06:00"
 lastModified: ""
-image: ""
+image: "https://RebelApeCDN.b-cdn.net/featured-brand-identity.webp"
 canonicalUrl: "https://therebelape.com/blog/how-to-design-a-brand-identity-like-a-professional/"
 tags: []
 draft: false

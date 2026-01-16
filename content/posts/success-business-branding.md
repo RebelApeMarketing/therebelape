@@ -6,7 +6,7 @@ excerpt: "Successful branding separates commodity businesses from premium brands
 author: "Adam Miconi"
 publishDate: "2019-07-03T12:00:00-06:00"
 lastModified: ""
-image: ""
+image: "https://RebelApeCDN.b-cdn.net/featured-rebel-ape-theme.webp"
 canonicalUrl: "https://therebelape.com/blog/success-business-branding/"
 tags: []
 draft: false

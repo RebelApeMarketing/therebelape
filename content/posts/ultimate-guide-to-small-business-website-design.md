@@ -6,7 +6,7 @@ excerpt: "Small businesses need websites that work as hard as they do. This ulti
 author: "Adam Miconi"
 publishDate: "2024-10-05T15:29:00-06:00"
 lastModified: ""
-image: "https://RebelApeCDN.b-cdn.net/rebel-ape-main/NameCheap-Screenshot-1030x710.webp"
+image: "https://RebelApeCDN.b-cdn.net/featured-diy-guide-to-building-your-own-website-large.webp"
 canonicalUrl: "https://therebelape.com/blog/ultimate-guide-to-small-business-website-design/"
 tags: []
 draft: false

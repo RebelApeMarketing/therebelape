@@ -6,7 +6,7 @@ excerpt: "A great logo doesn't happen by accident—it's the result of a strateg
 author: "Adam Miconi"
 publishDate: "2020-01-01T23:26:00-07:00"
 lastModified: ""
-image: ""
+image: "https://RebelApeCDN.b-cdn.net/featured-graphic-design.webp"
 canonicalUrl: "https://therebelape.com/blog/how-the-logo-design-process-works/"
 tags: []
 draft: false

@@ -6,7 +6,7 @@ excerpt: "Billboard advertising reaches up to 70% of your local market when done
 author: "Adam Miconi"
 publishDate: "2025-09-12T10:00:00-06:00"
 lastModified: ""
-image: ""
+image: "https://RebelApeCDN.b-cdn.net/featured-3-proven-ways-to-capture-attention-and-drive-results.webp"
 canonicalUrl: "https://therebelape.com/blog/billboard-advertising-strategies-3-proven-ways-to-capture-attention-and-drive-results/"
 tags: []
 draft: false

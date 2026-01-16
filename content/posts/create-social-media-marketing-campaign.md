@@ -6,7 +6,7 @@ excerpt: "Content is king, but strategy is everything. With millions of posts cr
 author: "Adam Miconi"
 publishDate: "2019-07-05T12:15:00-06:00"
 lastModified: ""
-image: ""
+image: "https://RebelApeCDN.b-cdn.net/featured-social-media-marketing.webp"
 canonicalUrl: "https://therebelape.com/blog/create-social-media-marketing-campaign/"
 tags: []
 draft: false
