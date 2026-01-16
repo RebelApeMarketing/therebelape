@@ -11,7 +11,6 @@ canonicalUrl: "https://therebelape.com/blog/pitfalls-of-stock-photography-for-we
 tags: []
 draft: false
 ---
-[Let AI read it for you!
 
 The pitfalls of using stock photography for website images. Let's face it; professional photography](https://xyzmktg.com) can be expensive. When budget constraints are an issue, many businesses turn to stock photography as a cost-effective alternative.
 
