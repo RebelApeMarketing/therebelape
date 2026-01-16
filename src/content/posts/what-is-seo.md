@@ -24,7 +24,7 @@ You need great SEO — **Search Engine Optimization**.
 
 ## What is SEO?
 
-[Search engine optimization](/seo/) is a series of on-page and off-page (off-site) strategies and technical factors that help your website show up more often when people search on Google (or other search engines).
+[Search engine optimization]( /services/seo/) is a series of on-page and off-page (off-site) strategies and technical factors that help your website show up more often when people search on Google (or other search engines).
 
 The better your SEO, the more likely your site is to appear higher for the keywords and phrases your customers are searching for.
 

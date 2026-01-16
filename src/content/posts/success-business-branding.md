@@ -20,7 +20,7 @@ Colors, images, and fonts can all be combined to maximize their impact on your p
 
 ## What is Brand Identity?
 
-Your brand’s identity is essentially everything that makes up your business. This includes the company’s mission, [logos](/logo-design/), colors, fonts, practices, vision, tone, and voice. These are both the [visual and internal components](/graphic-design/) that make up the company.
+Your brand’s identity is essentially everything that makes up your business. This includes the company’s mission, [logos](/services/website-design/), colors, fonts, practices, vision, tone, and voice. These are both the [visual and internal components](/services/website-design/) that make up the company.
 
 Effective brand identity will be consistent across all platforms, ensuring that everything matches and retains consistency. It requires a good deal of thought to maintain a consistent brand identity. Writing clear guidelines for additional content can make it much easier to ensure that the components of your brand’s identity stay consistent across multiple platforms.
 

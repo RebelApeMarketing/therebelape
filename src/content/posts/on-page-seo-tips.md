@@ -17,7 +17,7 @@ Getting your site's new content to rank in Google search or other search engines
 
 **To get started, I've been updating this article to make it a complete guide to basic on-page SEO to increase your search results.**
 
-It's important to know a few [on-page SEO](/seo/las-vegas-seo/) tips and tricks to help you quickly get started with page optimization. This is so your website complies with what Google and other search engines are looking for, making it easier to be found on their search engine and get search traffic.
+It's important to know a few [on-page SEO](/services/seo/) tips and tricks to help you quickly get started with page optimization. This is so your website complies with what Google and other search engines are looking for, making it easier to be found on their search engine and get search traffic.
 
 There are some basic [page optimization aspects that you need to include with your website](/blog/on-page-seo-tips/), many of which you may have never thought about before. Learning [rudimentary SEO](https://ahrefs.com/blog/seo-basics/) can significantly benefit your site SEO.
 
@@ -29,7 +29,7 @@ Sometimes your page is ranking in the search engine results for something you ma
 
 However, if you haven't done much to your page and it isn't ranking well, there are a few things we can do to enhance your search engine optimization to drive more organic traffic.
 
-I've tried to make this as much of a complete guide to [on-page SEO](/seo/) as possible. If there is anything you would like to see added, please feel free to ask.
+I've tried to make this as much of a complete guide to [on-page SEO]( /services/seo/) as possible. If there is anything you would like to see added, please feel free to ask.
 
 So, here we go!
 
@@ -39,7 +39,7 @@ So, here we go!
 
 The reason this is important is when you start to target relevant keywords and start to rank higher in the search engine results, you can often lower your pay-per-click advertising and bring organic traffic for related keywords.
 
-When you create [high-quality content](/services/content-writing/), add in proper URL structures, increase page speed, and many other things, you will often achieve higher rankings because Google's algorithm begins to favor your website.
+When you create [high-quality content](/services/), add in proper URL structures, increase page speed, and many other things, you will often achieve higher rankings because Google's algorithm begins to favor your website.
 
 ![Headline Tags](https://RebelApeCDN.b-cdn.net/rebel-ape-main/headline-tags.webp)
 
@@ -93,7 +93,7 @@ The h4-h6 tags can be used to further nest your content. Often, the h-tags are m
 
 ## Do I Need To Add Images?
 
-It is important to use images, videos, [graphic design](/services/graphic-design/) and other multimedia elements to bring attention to the webpage. Consumers are drawn to multimedia, which is why Google uses the presence of multimedia content as a ranking factor.
+It is important to use images, videos, [graphic design](/services/services/website-design/) and other multimedia elements to bring attention to the webpage. Consumers are drawn to multimedia, which is why Google uses the presence of multimedia content as a ranking factor.
 
 Additionally, you should ensure that the file name of the image contains relevant keywords for the page. If it has previously been uploaded, you will have to re-upload it with the proper name. Otherwise, upload it with the new file name.
 
@@ -107,7 +107,7 @@ Image sizes play a significant role when it comes to on-page [SEO](/services/seo
 
 It's also important to understand that just because you may not notice the page speed, it doesn't mean Google won't.
 
-Use a service like [GT Metrix](https://gtmetrix.com/) or [Pingdom](https://tools.pingdom.com/) to determine how long it takes to load an image. You can also see file sizes directly in WordPress under your Media Library.
+Use a service like [GT Metrix](https://https://pagespeed.web.dev//) or [Pingdom](https://tools.pingdom.com/) to determine how long it takes to load an image. You can also see file sizes directly in WordPress under your Media Library.
 
 If you have a large photo that needs to be resized, the best option would be to reduce the size before you upload it in a program like Photoshop. However, if you don't have access to any photo editing software, you can reduce the size before uploading using [tinyjpg.com](https://tinyjpg.com/) and then resizing the image once in WordPress.
 

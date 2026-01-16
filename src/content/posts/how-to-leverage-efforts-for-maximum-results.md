@@ -63,7 +63,7 @@ Each mental transition requires:
 - Shifting perspective and thinking style
 - Accessing different tools and resources
 
-For [marketing teams](/services/plumber-digital-marketing-agency/), these transitions can consume up to 40% of productive time. By grouping similar marketing tasks, professionals create efficiency through:
+For [marketing teams](/services/seo/), these transitions can consume up to 40% of productive time. By grouping similar marketing tasks, professionals create efficiency through:
 
 - **Momentum**: Each task in a category builds on the mental framework established by the previous task
 - **Resource Optimization**: Similar tools and references remain accessible throughout the work block
@@ -135,7 +135,7 @@ Structure your marketing calendar with dedicated focus periods:
 
 ### 4. Maximize Marketing Output Through Batching
 
-For [content-heavy marketing strategies](/services/plumber-content-writing-service/), batching similar deliverables creates enormous efficiency:
+For [content-heavy marketing strategies](/services/), batching similar deliverables creates enormous efficiency:
 
 - Develop multiple client proposals using the same framework
 - Create several weeks of social content in a single production day

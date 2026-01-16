@@ -40,7 +40,7 @@ At the end of the day, custom photography is always the preferred option for web
 
 Google’s algorithm is designed to detect when stock photography is used on a website. It penalizes [websites that use generic photos and rewards sites](/blog/on-page-seo-tips/) with authentic visual content.
 
-Using stock photography isn't always the best option for your business, but it may be a cost-effective choice in the short term. Consider using stock photography as a temporary solution until you're able to invest in [professional photography services](/seo/).
+Using stock photography isn't always the best option for your business, but it may be a cost-effective choice in the short term. Consider using stock photography as a temporary solution until you're able to invest in [professional photography services]( /services/seo/).
 
 Overall, custom photography is the best option instead of opting for stock photography for website images.
 

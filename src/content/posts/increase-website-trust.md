@@ -18,7 +18,7 @@ Without social signals, it’s unlikely that your website is going to gain the t
 Trust is one of the main elements of conversion any [website needs](/blog/7-reasons-you-need-a-website/) if it’s going to scale up in size. There are many other elements to aid in conversion, but trust is one of the main factors.
 ## Include partner logos to increase website trust
 By including partner logos on a website, you can increase website trust. The trust flow can also increase the trustworthiness of your website in the eyes of a user. This can increase chances for conversions which may not happen if there are no trust signals.
-Not only that but it’s great for [SEO](/seo/) purposes by increasing the authority on your website in the eyes of Google.
+Not only that but it’s great for [SEO]( /services/seo/) purposes by increasing the authority on your website in the eyes of Google.
 A few things that partner logos can achieve:
 - Partner logos show that other companies trust you
 - Partner logos increase credibility
@@ -39,7 +39,7 @@ Here are a few things that a blog post can include:
 - The strategies used to achieve the results
 - The initial goal in the final results
 ## It’s an easy step, get started!
-So what are you waiting for? Implementing these tactics to your marketing campaign is simple to do. They can be achieved in very little time as well. If you don’t have time to do it yourself, you can hire a [graphic designer](/graphic-design/) to do this for you. When done right, you can watch the results start to come in.
+So what are you waiting for? Implementing these tactics to your marketing campaign is simple to do. They can be achieved in very little time as well. If you don’t have time to do it yourself, you can hire a [graphic designer](/services/website-design/) to do this for you. When done right, you can watch the results start to come in.
 You can even add these results to goals in [Google Analytics](/blog/how-to-setup-google-analytics/) or other tracking software. Then you can see if your results are being achieved. You can track how much, by implementing partner logos, case studies, and other trust signals.
 Like anything, social proof is what makes the results. Talking about yourself doesn’t achieve much. Getting other people to talk about you achieves much more. With a strong marketing strategy, you can control the conversation. You control what people are saying about your company. You can take advantage of the results and that can put you over your competition.
 ## Need help to increase website trust?

@@ -23,8 +23,6 @@ The good news is that with the right SEO (Search Engine Optimization) strategies
 
 Let's dive into seven essential SEO tips for plumbers that will help your plumbing or home service business show up higher than your competitors in Google search results.
 
-![SEO tips for plumbers: optimizing title tags with gorilla examining magnifying glass](https://RebelApeCDN.b-cdn.net/rebel-ape-main/seo-tips-for-plumbers-title-tag-optimization-gorilla-magnifying-glass-1030x589.png)
-
 ## SEO Tips for Plumbers #1: Optimize Your Title Tags for Local Search
 
 ### The Problem
@@ -51,8 +49,6 @@ Create descriptive, keyword-rich title tags for every page on your website:
 2. Create a spreadsheet listing each page and its ideal title tag
 3. Include your primary keyword near the beginning of the title
 4. Implement the changes through your website's CMS or ask your web developer to update them
-
-![SEO tips for plumbers: creating dedicated service pages with gorilla holding blueprints](https://RebelApeCDN.b-cdn.net/rebel-ape-main/plumber-seo-tips-dedicated-service-pages-gorilla-blueprints-1030x589.png)
 
 ## SEO Tips for Plumbers #2: Create Dedicated Pages for Each Core Service
 
@@ -86,8 +82,6 @@ Create individual, content-rich pages for each of your core services:
 4. Include relevant subheadings, FAQs, and calls-to-action on each page
 5. Link these pages from your main navigation or services dropdown menu
 
-![SEO tips for plumbers: location page strategy with gorilla and map marker](https://RebelApeCDN.b-cdn.net/rebel-ape-main/seo-for-plumbers-location-pages-gorilla-map-marker-1030x589.png)
-
 ## SEO Tips for Plumbers #3: Develop Location Pages for Every City You Serve
 
 ### The Problem
@@ -116,8 +110,6 @@ Create individual pages for each city, suburb, or neighborhood in your service a
 4. Ensure each page has unique content, not just the same text with the city name changed
 5. Connect these pages to your Google Business Profile for additional local SEO benefits
 
-![SEO tips for plumbers: brand-specific pages with gorilla wearing tool belt](https://RebelApeCDN.b-cdn.net/rebel-ape-main/plumbing-seo-brand-pages-gorilla-toolbelt-1030x589.png)
-
 ## SEO Tips for Plumbers #4: Build Brand-Specific Service Pages
 
 ### The Problem
@@ -145,8 +137,6 @@ Create dedicated pages for each major brand you install or service:
 3. Create dedicated pages highlighting your expertise with each brand
 4. Consider adding UTM parameters to track which brand pages generate the most leads
 5. Include these pages in your website navigation or link to them from relevant service pages
-
-![SEO tips for plumbers: creating unique content with gorilla at desk writing](https://RebelApeCDN.b-cdn.net/rebel-ape-main/plumber-website-seo-unique-content-gorilla-desk-1030x589.png)
 
 ## SEO Tips for Plumbers #5: Ensure Every Page Has Unique, Valuable Content
 
@@ -177,8 +167,6 @@ Invest time in creating original content for each page on your website:
 4. Focus on providing genuine value in every piece of content you create
 5. Use tools like Copyscape to check for unintentional duplication
 
-![SEO tips for plumbers: keyword tracking strategy with gorilla mapping targets](https://RebelApeCDN.b-cdn.net/rebel-ape-main/seo-tips-plumbers-keyword-tracking-gorilla-map-1030x589.png)
-
 ## SEO Tips for Plumbers #6: Track and Target Your Most Valuable Keywords
 
 ### The Problem
@@ -207,8 +195,6 @@ Identify, track, and target the keywords that matter most to your business:
 3. Use tools like Ahrefs, SEMrush, or the free Google Search Console to track rankings
 4. For a simpler approach, use Bright Local or similar local SEO tracking tools
 5. Review your rankings regularly and adjust your strategy accordingly
-
-![SEO tips for plumbers: regular content publishing with gorilla pressing button](https://RebelApeCDN.b-cdn.net/rebel-ape-main/plumber-seo-content-publishing-gorilla-button-1030x589.png)
 
 ## SEO Tips for Plumbers #7: Publish Fresh, Valuable Content Regularly
 
@@ -239,8 +225,6 @@ Commit to a consistent content publishing schedule:
 4. Repurpose your content across multiple platforms (YouTube, social media, etc.)
 5. Always include a call-to-action that directs people back to your website
 
-![SEO tips for plumbers checklist with gorilla reviewing clipboard](https://RebelApeCDN.b-cdn.net/rebel-ape-main/seo-tips-for-plumbers-checklist-gorilla-clipboard-1030x589.png)
-
 ## Implementing These SEO Tips for Plumbers Will Prevent Losing Customers
 
 If your plumbing website is missing any of these seven SEO tips for plumbers, you're definitely leaving traffic—and potential customers—on the table. These SEO tips for plumbers aren't just theoretical—they're proven strategies that successful plumbing businesses use to dominate local search results. Remember, website traffic directly correlates to leads and revenue for your plumbing business.
@@ -255,14 +239,12 @@ At Rebel Ape Marketing, we specialize in helping plumbing and home service busin
 
 Ready to stop losing customers to your competitors? Contact us today for a free SEO analysis and let us help you implement these seven essential SEO tips for plumbers. Our team of experts at Rebel Ape Marketing specializes in helping plumbing businesses implement effective SEO strategies that drive real results. Let's work together to outrank your competition and grow your business.
 
-![Plumber SEO resources with gorilla reading SEO guidebook](https://RebelApeCDN.b-cdn.net/rebel-ape-main/plumber-seo-resources-gorilla-reading-1030x589.png)
-
 ## Additional Resources for Plumbing SEO Success
 
 To help you further improve your plumbing website's performance, we've compiled these helpful external resources on SEO tips for plumbers:
 
 - [Google's Guide to Local Business SEO](https://support.google.com/business/)
-- [Moz Local SEO Learning Center](https://moz.com/learn/seo/local-seo)
+- [Moz Local SEO Learning Center](https://https://developers.google.com/search/docs/fundamentals/seo-starter-guide)
 - [BrightLocal's Guide to Service Area Business SEO](https://www.brightlocal.com/learn/local-seo-for-service-area-businesses/)
 
 You might also enjoy our related articles:

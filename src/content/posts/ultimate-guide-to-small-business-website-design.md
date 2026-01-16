@@ -47,7 +47,7 @@ The history of small business websites began in the early days of the internet, 
 
 A side effect of this history is that small businesses now have access to tools and platforms that make building and managing a website more feasible than ever, even without technical skills. This evolution has leveled the playing field, allowing small business owners to compete with larger companies by providing value and accessibility through their websites.
 
-If you want more than just the Cliff Notes version: I learned most of this history of small business websites from [Moz's Guide to Small Business Websites](https://moz.com/beginners-guide-to-small-business-websites).
+If you want more than just the Cliff Notes version: I learned most of this history of small business websites from [Moz's Guide to Small Business Websites](https://https://developers.google.com/search/docs/fundamentals/seo-starter-guide).
 
 ## Key Terms You Should Know
 
@@ -117,8 +117,6 @@ Do you feel like you have a good understanding of the key terms and concepts?
 
 Then it may be time to give building your small business website a go.
 
-![](https://RebelApeCDN.b-cdn.net/rebel-ape-main/NameCheap-Screenshot-1030x710.png)
-
 ### Step 1. Secure a Domain Name
 
 First, you need to choose and register a domain that reflects your brand. It’s the address where customers will find you online.
@@ -129,8 +127,6 @@ How can you do it? Visit registrars like NameCheap or GoDaddy, search for an ava
 
 You will need to connect your domain with an A Record or nameserver. This is usually easy to do and the Registrar’s chat can usually help. 
 
-![](https://RebelApeCDN.b-cdn.net/rebel-ape-main/SiteGround-Hosting-1030x710.png)
-
 ### Step 2. Choose a Hosting Provider
 
 Decide on a hosting provider that suits your needs. For beginners, SiteGround is a great option, while more advanced users might prefer Cloudways.
@@ -139,15 +135,11 @@ Why is it important? Good hosting ensures your website is fast and always access
 
 With SiteGround, they even have a wizard that can help you easily connect your domain without any complicated setups. Cloudways provides you everything you need up front, you just need to enter it at the registrar you chose. 
 
-![](https://RebelApeCDN.b-cdn.net/rebel-ape-main/Blog-Tool-Publishing-Platform-and-CMS-–-WordPress.org_-1030x710.png)
-
 ### Step 3. Set Up WordPress
 
 Install WordPress as your CMS. Most hosting providers have a one-click WordPress installation to make it easy.
 
 Why is it important? WordPress is user-friendly and powerful, allowing you to manage your content with ease. Plugins make it easy to extend the platform for design, speed, SEO, and many other benefits.
-
-![](https://RebelApeCDN.b-cdn.net/rebel-ape-main/Bricks-Builder-1030x710.png)
 
 ### Step 4. Design Your Website
 
@@ -155,15 +147,11 @@ Use a theme and a page builder like Bricks to design your website. Bricks offers
 
 Why is it important? A well-designed website builds credibility and attracts customers.
 
-![](https://RebelApeCDN.b-cdn.net/rebel-ape-main/Essential-Pages-1030x710.png)
-
 ### Step 5. Add Essential Pages
 
 Create the essential pages for your business, including Home, About, Services, and Contact. The more valuable pages you add that address common questions and topics people are searching for, the better you address your clients' needs and improve your SEO.
 
 Why is it important? These pages provide the information your visitors need to make decisions.
-
-![](https://RebelApeCDN.b-cdn.net/rebel-ape-main/SEO-Content-1030x710.png)
 
 ### Step 6. Optimize for SEO
 

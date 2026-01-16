@@ -52,7 +52,7 @@ Promoting your company through **social media marketing** will give potential cu
 
 ### Social Media Marketing Helps Turn Your Business Into A Recognizable Brand
 
-Consider your favorite brands—ones that are instantly recognizable without explicit mention. **Social media marketing**can guide your [company's brand identity](/services/plumber-logo-design-service/) toward that level of recognition. While it takes time (even major brands didn't achieve instant renown), the investment is valuable.
+Consider your favorite brands—ones that are instantly recognizable without explicit mention. **Social media marketing**can guide your [company's brand identity](/services/website-design/) toward that level of recognition. While it takes time (even major brands didn't achieve instant renown), the investment is valuable.
 
 It's important to distinguish between marketing and branding. Marketing presents offers to drive sales, while branding shapes how the company appears to the public. Marketing showcases products and services; branding focuses on logos, fonts, and designs for recognition.
 
@@ -70,8 +70,6 @@ Here are some tips for responsive **social media marketing**:
 
 **Social media marketing** allows you to demonstrate your commitment to customer service publicly, showing potential clients how responsive and attentive your business is before they even contact you.
 
-![Rebel Ape employee checking metrics on smartphone while comparing to laptop](https://RebelApeCDN.b-cdn.net/rebel-ape-main/pay-per-click-utah-1030x687.webp)
-
 ## Social Media Marketing Provides Invaluable Market Insights
 
 Beyond just promotion and customer engagement, **social media marketing** offers businesses unprecedented access to consumer data and market insights:
@@ -81,7 +79,7 @@ Beyond just promotion and customer engagement, **social media marketing** offers
 - Analyze demographic data about your followers to better target your marketing efforts
 - Observe competitor strategies and performance to identify opportunities in the market
 
-For [home service businesses](/services/plumber-digital-marketing-agency/), these insights can help shape everything from service offerings to pricing strategies to promotional messaging.
+For [home service businesses](/services/seo/), these insights can help shape everything from service offerings to pricing strategies to promotional messaging.
 
 ## Make Social Media Marketing A Core Part Of Your Strategy With Rebel Ape
 

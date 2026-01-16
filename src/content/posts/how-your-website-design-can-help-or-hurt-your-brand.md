@@ -74,8 +74,6 @@ A well-designed website will balance beauty and functionality. UI/UX is a term t
 
 You should really work on testing different forms of navigation, call-to-action locations, content distribution, and interlinking. All these factors play a role in how long the users stay on your website, consume more content, and ultimately, a purchase. How well laid out your page is can quickly allow a user to determine if the page is useful to them or not. Even a few pages with low or useless content can hurt the entire site.
 
-![User Interface Icon](https://RebelApeCDN.b-cdn.net/rebel-ape-main/user-interface.webp "User Interface Icon")
-
 ### User Interface
 
 There is a line between creative user interfaces and functional user interfaces. A designer’s job is to narrow that line so you can have a creative interface that is immediately functional to the user. After all, the user is on your website for various reasons, but one reason is not to try to figure out how to navigate your website. Your navigation should be immediately clear and moving in and out of your website pages should be clear and conscise. If a user has to figure out where the navigation bar is on each page, they will quickly become frustrated and leave your website. Clear navigation will let them move between the pages with ease and fulfill their intent as quicly as possible.
@@ -195,4 +193,4 @@ Share your good design vs bad design story. Have you ever made changes that resu
 ### References
 
 
-https://ieeexplore.ieee.org/document/7742992
+https://https://www.ibm.com/topics/artificial-intelligence

@@ -82,7 +82,7 @@ Beyond content and keywords, the technical aspects of **SEO marketing** are incr
 
 User experience factors like page load speed and mobile responsiveness are now critical ranking factors. Google's Core Web Vitals assess how quickly your pages load, how soon they become interactive, and how stable they are as they load.
 
-For [home service businesses](/services/plumber-digital-marketing-agency/), optimizing these factors is essential:
+For [home service businesses](/services/seo/), optimizing these factors is essential:
 
 - Compress images without sacrificing quality
 - Minimize CSS and JavaScript files

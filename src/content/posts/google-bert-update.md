@@ -19,7 +19,7 @@ As AI begins to propel our technology forward, Google is utilizing it in such a 
 
 ## What is BERT and how is it applied to search?
 
-This recent update is known as [Google BERT](https://blog.google/technology/ai/open-sourcing-bert-state-of-the-art-pre-training/) which stands for Bidirectional Encoder Representations from Transformers and is a network-based technique for natural language processing (NLP). Currently, BERT is being applied to around 1-10 searches or approximately 10% of all searches in English. More languages are going to continue to roll out at a later date.
+This recent update is known as [Google BERT](https://developers.google.com/search/docs/fundamentals/ai-overview) which stands for Bidirectional Encoder Representations from Transformers and is a network-based technique for natural language processing (NLP). Currently, BERT is being applied to around 1-10 searches or approximately 10% of all searches in English. More languages are going to continue to roll out at a later date.
 
 BERT is more than advancements in AI and software. BERT is so complex that the current technology was limiting the advancements so new hardware is now being rolled out called [Cloud TPU’s](https://cloud.google.com/blog/products/ai-machine-learning/cloud-tpu-pods-break-ai-training-records).
 
@@ -27,7 +27,7 @@ With Google now understanding the search queries as the human searcher intends, 
 
 ## How is SEO affected by BERT?
 
-There will be a few changes in terms of [SEO](/seo/). The first is going to be backlink profiles. Backlinks have been becoming less important year after year, though they still make up a large percentage of SEO work.
+There will be a few changes in terms of [SEO]( /services/seo/). The first is going to be backlink profiles. Backlinks have been becoming less important year after year, though they still make up a large percentage of SEO work.
 
 Keywords are also becoming less relevant over time as well as we are moving into phrase searches and relevant context. Since everyone uses different phrases for search, Google is now putting more relevance on the words such as “for” and “to” which where easier omitted.
 
@@ -41,7 +41,7 @@ Continue working on your websites as you always have. Continue to build your cit
 
 We always recommend building and maintaining a blog that covers a wide array of topics on queries that people are searching for. This is a great method for building the relevance of your website and grabbing keywords and keyphrases. Though we may be seeing some shifts here with BERT, it’s going to continue being a valuable source for content creation.
 
-It’s important to [talk to an SEO](/seo/) to find the best practices to maintain your site and help it improve its ranks and authority over time by making sure the site is responsive, there are no broken links, and the content is relevant to the search.
+It’s important to [talk to an SEO]( /services/seo/) to find the best practices to maintain your site and help it improve its ranks and authority over time by making sure the site is responsive, there are no broken links, and the content is relevant to the search.
 
 ## We would love to help!
 

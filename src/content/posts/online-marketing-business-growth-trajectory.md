@@ -55,7 +55,7 @@ Social media is growing in popularity as an **online marketing** tool, especiall
 
 Social media provides an opportunity for your business to be shared between users on whichever platform being used. Businesses can increase their social media presence by offering promotions for "sharing" or "liking" their posts.
 
-For [home service companies](/services/plumber-digital-marketing-agency/), social media can be particularly effective for:
+For [home service companies](/services/seo/), social media can be particularly effective for:
 
 - Sharing before/after photos of completed projects
 - Posting quick tips and maintenance advice

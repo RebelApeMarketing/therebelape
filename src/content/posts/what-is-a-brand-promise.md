@@ -23,7 +23,7 @@ That is essentially a brand promise, but let’s dive deeper and explore how thi
 
 ## What is Branding?
 
-Branding consists of essentially everything that makes up the image of your business. This incorporates many different aspects. Your company’s [logo](/logo-design/), [website design](/services/website-design/), letterhead, and more will all make up your brand. Effective branding helps you to convey a message to your customers, which can go a long way toward improving your company’s image. Any time you add [content to your website](/blog/content-syndication-strategies/), you will need to ensure that it matches the brand identity that you intend.
+Branding consists of essentially everything that makes up the image of your business. This incorporates many different aspects. Your company’s [logo](/services/website-design/), [website design](/services/website-design/), letterhead, and more will all make up your brand. Effective branding helps you to convey a message to your customers, which can go a long way toward improving your company’s image. Any time you add [content to your website](/blog/content-syndication-strategies/), you will need to ensure that it matches the brand identity that you intend.
 
 ## Why Branding is Important
 
@@ -33,7 +33,7 @@ When your customers see inconsistencies in your branding, it is likely that they
 
 ## How to Create Consistency in your Branding
 
-There are several ways that you can create a high level of consistency with the branding of your company. For one thing, it can be particularly useful to create a thorough marketing plan with an experienced company. A talented [graphic designer](/graphic-design/) will be able to effectively match prior branding and ensure that your branding is consistent across the board. It is vital to create standards for the branding of your company. This will help to guarantee that additional content that is created will match the current branding of the company and enhance the level of consistency.
+There are several ways that you can create a high level of consistency with the branding of your company. For one thing, it can be particularly useful to create a thorough marketing plan with an experienced company. A talented [graphic designer](/services/website-design/) will be able to effectively match prior branding and ensure that your branding is consistent across the board. It is vital to create standards for the branding of your company. This will help to guarantee that additional content that is created will match the current branding of the company and enhance the level of consistency.
 
 ## Ready To Get Started On Your Brand Promise?
 

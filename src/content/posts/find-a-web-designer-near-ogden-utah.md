@@ -65,7 +65,7 @@ Hiring a web design company to construct a personalized website has several adva
 
 With an agency, you have access to a large group of professionals, each with their particular set of abilities. The beautiful thing about this is that every component of your website will be expertly created and work together to provide a fantastic end product. 
 
-An agency typically employs writers, editors, graphic designers, marketing specialists, [SEO](/seo/) specialists, project managers, and customer support personnel.
+An agency typically employs writers, editors, graphic designers, marketing specialists, [SEO](/services/seo/) specialists, project managers, and customer support personnel.
 
 **Improved tools **
 

@@ -53,8 +53,6 @@ The key is using your smartphone strategically and optimizing its capabilities:
 - Use natural lighting or inexpensive ring lights
 - Keep shots stable with a basic tripod or gimbal
 
-![Close-up of a professional Fujifilm camera with lens, symbolizing high-quality videography services for home service companies.](https://RebelApeCDN.b-cdn.net/rebel-ape-main/business-videos-utah-1030x686.webp)
-
 ## A Professional Videographer Knows What Captures Attention
 
 Professional videography is more than picking up the camera and hitting record. It is a combination of planning, shooting, reshooting, editing, sound, and color. Not only does it take research, but also time that you could be devoting towards improving your business. With a videographer on your team for important projects, you don't have to worry about which size lens does what. They've got you covered already.
@@ -75,7 +73,7 @@ With the emergence of TikTok, Instagram Reels, YouTube Shorts, and social media 
 - More than half of online customers decide what brand or service provider they should choose because of video content
 - Video ads are consistently ranked as the #1 way new customers discover local businesses
 
-So what does this mean for your business? It means by neglecting to make videos a part of your [marketing strategy](/services/plumber-digital-marketing-agency/), you are missing out on potential clients and business. There are tons of customers looking for what you have to offer, who could find you through strategic video content—both professional and smartphone-created.
+So what does this mean for your business? It means by neglecting to make videos a part of your [marketing strategy](/services/seo/), you are missing out on potential clients and business. There are tons of customers looking for what you have to offer, who could find you through strategic video content—both professional and smartphone-created.
 
 ## The Strategic Approach to Video Marketing
 

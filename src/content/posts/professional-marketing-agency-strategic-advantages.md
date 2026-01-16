@@ -110,7 +110,7 @@ Neglecting the latest digital marketing trends can have a negative impact on you
 
 Instead, they can determine which trends are relevant to your customers, industry, and business. Then, you can remain relevant (and even get ahead of the competition).
 
-For [home service businesses](/services/plumber-digital-marketing-agency/), staying current with marketing trends is particularly important because:
+For [home service businesses](/services/seo/), staying current with marketing trends is particularly important because:
 
 - Local search is constantly evolving
 - Consumer expectations for digital experiences are rising

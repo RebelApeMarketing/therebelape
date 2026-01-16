@@ -60,8 +60,6 @@ Shaving even a second off of your site speed can have an exponential effect on y
 
 SEO experts find what's holding your site speed back and make the adjustments necessary to expedite it. Whether that be through improving links, graphics, or content as a whole, they will do what it takes to cut down on loading times, so that customers will be less likely to hit the "back" button.
 
-![conversion table](https://RebelApeCDN.b-cdn.net/rebel-ape-main/seo-graphic-load-times.webp)
-
 ## Finding A Balance With Links
 
 Having links to real information on your website shows potential customers that you know what you're talking about. You can back up what you say with real information, which not only makes you look better in the eyes of your customer, but with search engines like Google as well.
@@ -104,7 +102,7 @@ In short, SEO experts take that job off your plate so that you can focus on othe
 
 ## Here Is How To Gain Authority With SEO
 
-As you can see, search engine optimization is an essential part of [digital marketing](/services/plumber-digital-marketing-agency/), but one that requires a lot of time and effort to maintain.
+As you can see, search engine optimization is an essential part of [digital marketing](/services/seo/), but one that requires a lot of time and effort to maintain.
 
 And this is what makes SEO experts so valuable: They take the tiring task of maintaining SEO off of your plate and in turn the possibility of greater business goes up. All the while, you get more freedom to improve your company and make sure that the quality of your products and services goes right up. The potential for business will grow, which can help you and your family live more comfortably.
 
@@ -112,6 +110,6 @@ And this is what makes SEO experts so valuable: They take the tiring task of mai
 
 Rebel Ape Marketing is proud to offer [specialized SEO services](/services/seo/) to help your business rank higher on search engine results and direct more traffic to your business. We have case studies to prove our SEO works. We have brought companies from nothing into something great.
 
-Whether you are looking for [Ogden SEO](/services/seo/plumber-seo-ogden/), [Salt Lake City SEO](/services/seo/plumber-seo-salt-lake-city/) or other areas, schedule a time to meet with our team of experienced professionals to learn more about how you can benefit from having an **SEO expert on your marketing team**.
+Whether you are looking for [Ogden SEO](/services/seo/), [Salt Lake City SEO](/services/seo/) or other areas, schedule a time to meet with our team of experienced professionals to learn more about how you can benefit from having an **SEO expert on your marketing team**.
 
 Go with [Rebel Ape Marketing](/about/) today for your marketing needs. We are your next level.

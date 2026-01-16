@@ -35,7 +35,7 @@ If you want to scale your business and build trust, it's important to get these 
 
 We are often asked where to start getting reviews. This question is two-fold, since one side is catering to those who legitimately don't know of any review platforms, and the other caters to those who know of way too many review platforms and is looking to which is best.
 
-Let's start with the king of reviews. Google My Business](https://www.google.com/business-profile/) has been in existence for a few years now, and many businesses have successfully used this platform to garner reviews.
+Let's start with the king of reviews. Google My Business](https://www.https://www.google.com/business/) has been in existence for a few years now, and many businesses have successfully used this platform to garner reviews.
 
 When you sign up on GMB, it will automatically start tracking your customers' behavior online when they search for your business name or contact info. The best part is that [Google My Business](/blog/how-to-add-users-to-google-my-business-listing/) will only track those people who are actively looking but also become a valuable platform, if not the most important platform to garner reviews.
 
@@ -45,7 +45,7 @@ Reviews here are important because they help new and potential clients make an e
 
 ## What are the other top review platforms?
 
-There is no direct answer to this, but a few to never discredit would be [Facebook Reviews](https://www.facebook.com/business/learn/lessons/facebook-page-ratings-and-reviews), [Yelp](https://www.yelp.com/), and for many, [TripAdvisor](https://www.tripadvisor.com/). However, these are just a drop in the hat when it comes to online reviews. Our advice is to find where your customers are and the closest platform to that. For example, if your users are on Facebook, then use Facebook reviews, if they are on TripAdvisor, then post your reviews there.
+There is no direct answer to this, but a few to never discredit would be [Facebook Reviews](https://www.facebook.com/business/help), [Yelp](https://www.yelp.com/), and for many, [TripAdvisor](https://www.https://www.google.com/maps/). However, these are just a drop in the hat when it comes to online reviews. Our advice is to find where your customers are and the closest platform to that. For example, if your users are on Facebook, then use Facebook reviews, if they are on TripAdvisor, then post your reviews there.
 
 ### Quick Tip
 
@@ -73,7 +73,7 @@ By going this route, you take a bad situation and turn it in to your favor. Keep
 
 ## There is no way to remove negative reviews, so let's make them positive.
 
-As mentioned, we want to make all reviews positive reviews. You may not be able to remove negative reviews, but you can make them positive. It's possible to earn the trust of your customer by providing a [professional and timely service](/seo/), responding maturely when they come across bad reviews, and making sure you are always on time with their response. Taking these steps will help earn more good reviews which will lead to increased revenue for the company.
+As mentioned, we want to make all reviews positive reviews. You may not be able to remove negative reviews, but you can make them positive. It's possible to earn the trust of your customer by providing a [professional and timely service]( /services/seo/), responding maturely when they come across bad reviews, and making sure you are always on time with their response. Taking these steps will help earn more good reviews which will lead to increased revenue for the company.
 
 With online reviews becoming an increasingly crucial part of business, you must be responding in a mature and professional manner to any negativity.
 

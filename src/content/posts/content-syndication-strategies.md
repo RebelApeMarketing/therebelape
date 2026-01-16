@@ -31,13 +31,13 @@ If you are a content marketer then it’s likely you write a lot or have someone
 Use these strategies to** reach larger audiences and become an authority in your field.** These marketing strategies can help you gain credibility from website visitors, and become a company that people trust.
 
 Make sure to keep this guide handy because using even one of these techniques to start syndicating your content may step up your blog game.
-![Colorful social media tags representing different online activities such as blog, news, chat, tweet, like, share, and photo.](https://RebelApeCDN.b-cdn.net/rebel-ape-main/social-media.jpg)
+
 ## Syndicate Your Content on Social Media
 If you’re going to make a blog post, you should share your content. That’s a no brainer. But how do you go about doing this?
 
 The first place to share your is to control your own content syndication on [social media](/blog/create-social-media-marketing-campaign/).
 
-Social media platforms like [Facebook](https://www.facebook.com/), [X](https://x.com/), [Pinterest](https://www.pinterest.com/), [Medium](https://medium.com/), and [Quora](https://www.quora.com/), are great syndication opportunities. Sharing your original content on many platforms means a wider audience and a more diverse crowd.
+Social media platforms like [Facebook](https://www.facebook.com/), [X](https://x.com/), [Pinterest](https://www.pinterest.com/), [Medium](https://https://www.searchenginejournal.com//), and [Quora](https://www.https://www.searchenginejournal.com//), are great syndication opportunities. Sharing your original content on many platforms means a wider audience and a more diverse crowd.
 
 The great thing about platforms like Medium and LinkedIn is that you get to use a canonical tag. **The canonical tag lets the search engine know that the blog post is duplicate content and your blog post on your site is the original content.**
 
@@ -48,7 +48,7 @@ Hardcore X fans are different than hardcore Facebookers (ignore the names). The 
 One great way of content syndication is to find a social media influencer and partner with them or simply pay them to promote your blog content. Influencers will often have a broader audience you can utilize and they will often share it which can help them land on authoritative sites.
 
 Since these content creators have a large audience, their simple tweets or mention can often build massive brand awareness quickly which can lead to others sharing your original article and syndicate content for you.
-![Hand drawing the word &quot;Share&quot; with arrows pointing outward, symbolizing wide content distribution.](https://RebelApeCDN.b-cdn.net/rebel-ape-main/digital-marketing-company.jpg)
+
 ## Be The Digital Expert In Your Field
 Would you trust a random guy on the street for a solution to a headache or a doctor in a lab coat? People on the internet are picky with who they trust since there are endless sources with no credibility.
 

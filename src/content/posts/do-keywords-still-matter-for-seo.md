@@ -25,7 +25,7 @@ Yes — but **less than you may think**, and **the way you use them has changed*
 In this article, we’ll break down how keywords fit into modern SEO, what matters more than keyword repetition, and how to use keywords properly without falling into outdated tactics.
 
 If you want a deeper overview of SEO in general, see:  
-- [SEO services](/seo/)  
+- [SEO services](/services/seo/)  
 - [On-page SEO tips](/blog/on-page-seo-tips/)
 
 ---
@@ -232,7 +232,7 @@ But they are **not** a cheat code. A page full of keywords without a strong over
 Focus on long tail keywords, write for people, stay relevant, and build a complete strategy that supports rankings over time.
 
 If you want help building that strategy, start here:  
-- [SEO](/seo/)  
+- [SEO]( /services/seo/)  
 - [Ogden SEO](/services/seo/)  
 - [On-page SEO tips](/blog/on-page-seo-tips/)
 

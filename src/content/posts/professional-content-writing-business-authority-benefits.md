@@ -56,8 +56,6 @@ Why is ranking so important?
 
 Content writers and SEO experts help your [website rank higher](/services/website-design/) by producing content that answers people's questions in a way that search engines can recognize and reward.
 
-![Keyboard on a desk ready for a professional content writer](https://RebelApeCDN.b-cdn.net/rebel-ape-main/content-writing-utah-1030x687.webp)
-
 ## Stories Created Through Professional Content Writing Drive Conversions
 
 The majority of the time, writers are storytellers. That is a very useful skill in marketing. Doing so opens the door for your customers to connect on a deeper level with your service than they would by simply reading a list of features.

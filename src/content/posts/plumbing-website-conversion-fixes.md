@@ -27,8 +27,6 @@ This is a costly issue that's flying under the radar for most service businesses
 
 The good news? This problem is often much easier to fix than a traffic problem. Below, I'll walk you through six straightforward steps to dramatically [increase your website's conversion rate](/services/website-design/) and start turning those visitors into actual revenue.
 
-![Plumbing website conversion example – high converting layout](https://RebelApeCDN.b-cdn.net/rebel-ape-main/emergency-plumber-website-call-now-button-1030x589.png)
-
 ## Step 1: Put Your Phone Number in the Top Right Corner of EVERY Page
 
 ### The Problem
@@ -58,8 +56,6 @@ Make your phone number impossible to miss:
 2. Add your phone number to the header on every page
 3. Make sure the font is large enough to be clearly visible
 4. For bonus points, add a "Call Now" button next to the number
-
-![Real plumber standing by branded truck to build trust on plumbing website](https://RebelApeCDN.b-cdn.net/rebel-ape-main/plumbing-website-real-team-photos-trust-1030x589.png)
 
 ## Step 2: Ditch the Stock Photos—Use REAL Images of Your Team
 
@@ -91,8 +87,6 @@ Showcase the real faces behind your business:
 3. Feature this prominently on your homepage with a headline introducing your team
 4. Add individual photos of technicians to your "About Us" page and other various areas where you currently use stock photography
 
-![Bold call-to-action button encouraging plumbing customers to schedule service](https://RebelApeCDN.b-cdn.net/rebel-ape-main/plumbing-cta-schedule-today-boost-conversions-1030x589.png)
-
 ## Step 3: Add a Call-to-Action (CTA) After EVERY Block of Text
 
 ### The Problem
@@ -120,8 +114,6 @@ Never leave your visitors wondering what to do next:
 2. Add a CTA button after each of these sections
 3. Use consistent, action-oriented language across all CTAs
 4. Test different colors and styles to find what stands out best
-
-![Website chat and text feature for plumbing leads and customer convenience](https://RebelApeCDN.b-cdn.net/rebel-ape-main/plumber-website-chat-text-message-feature-1030x589.png)
 
 ## Step 4: Offer Chat or Two-Way Texting Options
 
@@ -155,8 +147,6 @@ The key is to have someone filter out the tire-kickers and only bring you into c
 3. Establish a protocol for who handles chat inquiries and when they should involve you
 4. Add a chat widget to your website that's visible on all pages
 
-![Mobile-first website design optimized for plumbing SEO and customer experience](https://RebelApeCDN.b-cdn.net/rebel-ape-main/mobile-first-plumbing-website-design-seo-1030x589.png)
-
 ## Step 5: Your Website Must Be Mobile-First, Not Just Mobile-Friendly
 
 ### The Problem
@@ -189,8 +179,6 @@ The tap-to-call feature is particularly crucial—it allows potential customers 
 3. Simplify navigation for thumb-based browsing
 4. Consider adding a "Call Now" button that sticks to the bottom of the screen as users scroll
 
-![Speed-optimized plumbing website design for better lead conversions](https://RebelApeCDN.b-cdn.net/rebel-ape-main/fast-loading-plumbing-website-speed-conversions-1030x589.png)
-
 ## Step 6: Your Site Must Load FAST
 
 ### The Problem
@@ -216,12 +204,10 @@ As a bonus tip, set up automated text responses for missed calls. This allows yo
 
 ### Take Action
 
-1. Test your website speed using [Google PageSpeed Insights](https://pagespeed.web.dev/), [Lighthouse](https://developer.chrome.com/docs/lighthouse/), or [GTmetrix](https://gtmetrix.com/) (my personal favorite for ease of use)
+1. Test your website speed using [Google PageSpeed Insights](https://pagespeed.web.dev/), [Lighthouse](https://developer.chrome.com/docs/lighthouse/), or [GTmetrix](https://https://pagespeed.web.dev//) (my personal favorite for ease of use)
 2. Identify and fix the elements slowing down your site, such as improper code, unoptimized images, excessive plugins, and render-blocking resources
 3. Work with your web developer to implement speed optimizations
 4. Set up automated text responses for missed calls
-
-![Rebel Ape Marketing provides conversion-focused websites for plumbing companies](https://RebelApeCDN.b-cdn.net/rebel-ape-main/hire-plumbing-marketing-expert-conversion-website-1030x589.png)
 
 ## Don't Waste Your Marketing Budget on a Website That Doesn't Convert
 
