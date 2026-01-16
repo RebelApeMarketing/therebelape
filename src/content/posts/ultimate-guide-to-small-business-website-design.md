@@ -47,7 +47,7 @@ The history of small business websites began in the early days of the internet, 
 
 A side effect of this history is that small businesses now have access to tools and platforms that make building and managing a website more feasible than ever, even without technical skills. This evolution has leveled the playing field, allowing small business owners to compete with larger companies by providing value and accessibility through their websites.
 
-If you want more than just the Cliff Notes version: I learned most of this history of small business websites from [Moz's Guide to Small Business Websites](https://https://developers.google.com/search/docs/fundamentals/seo-starter-guide).
+If you want more than just the Cliff Notes version: I learned most of this history of small business websites from [Moz's Guide to Small Business Websites](https://developers.google.com/search/docs/fundamentals/seo-starter-guide).
 
 ## Key Terms You Should Know
 

@@ -103,9 +103,6 @@ In general: **the longer the phrase, the more specific the intent**, and the mor
 
 Long tails often convert better because the person searching is trying to solve a specific problem.
 
-Study reference:  
-[Head vs long tail keywords](https://searchenginewatch.com/sew/study/2214529/head-vs-long-tail-keywords-analyzed-impressions-clicks-conversions-profitability)
-
 ---
 
 ## Should you use a focus keyword?
@@ -240,8 +237,6 @@ If you want help building that strategy, start here:
 
 ## Citations
 
-- Search Engine Watch:  
-  https://searchenginewatch.com/sew/study/2214529/head-vs-long-tail-keywords-analyzed-impressions-clicks-conversions-profitability  
 - Yoast:  
   https://yoast.com/focus-keyword/  
 - Moz:  

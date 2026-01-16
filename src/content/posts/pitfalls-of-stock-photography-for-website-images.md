@@ -12,7 +12,7 @@ tags: []
 draft: false
 ---
 
-The pitfalls of using stock photography for website images. Let's face it; [professional photography](https://xyzmktg.com) can be expensive. When budget constraints are an issue, many businesses turn to stock photography as a cost-effective alternative.
+The pitfalls of using stock photography for website images. Let's face it; professional photography can be expensive. When budget constraints are an issue, many businesses turn to stock photography as a cost-effective alternative.
 
 However, there are several reasons why you should avoid using stock photos for your website, if possible. In this blog post, we'll explore some of the pitfalls of stock photography and why custom photography is always the best option for your business.
 

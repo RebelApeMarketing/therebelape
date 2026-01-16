@@ -189,8 +189,3 @@ When designing your website, think through every user encounter. Your users will
 ## Share Your Results
 
 Share your good design vs bad design story. Have you ever made changes that resulted in a traffic drop? Was it design or functionality? Leave a comment with your story!
-
-### References
-
-
-https://https://www.ibm.com/topics/artificial-intelligence

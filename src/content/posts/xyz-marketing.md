@@ -57,7 +57,7 @@ As your company continues to grow, it’s likely that it’s going to gain more 
 
 ## Advertising And Other PPC
 
-Along with all the great services that we’ve brought to the table, one of the most powerful aspects that we now offer is pay-per-click marketing. We utilize different types of videos and advertising to increase a campaign. In addition, we check in on the campaign regularly to see how it’s performing. If it needs a little bit of work, we go ahead and update it to drive the highest [ROI](https://www.https://www.investopedia.com/terms/r/returnoninvestment.asp#:~:text=Return%20on%20investment%20(ROI)%20is,both%20individual%20investors%20and%20businesses.)possible.
+Along with all the great services that we’ve brought to the table, one of the most powerful aspects that we now offer is pay-per-click marketing. We utilize different types of videos and advertising to increase a campaign. In addition, we check in on the campaign regularly to see how it’s performing. If it needs a little bit of work, we go ahead and update it to drive the highest ROI possible.
 
 If a campaign isn’t performing as expected, unlike many companies that just say that’s the type of industry this is, we do whatever it takes to try to get this campaign to perform better.
 

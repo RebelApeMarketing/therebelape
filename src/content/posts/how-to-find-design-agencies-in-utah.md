@@ -49,7 +49,7 @@ How can you tell if web design agencies in Utah are knowledgeable? Check out the
 
 ## They Have Longevity 
 
-Even if the web is evolving quickly these days, you shouldn't put your trust in a fly-by-night web design firm that most likely won't exist in a year. Numerous brand-new [design firms start up every year](https://www.https://www.google.com/mapsm/), and almost as many close their doors.
+Even if the web is evolving quickly these days, you shouldn't put your trust in a fly-by-night web design firm that most likely won't exist in a year. Numerous brand-new design firms start up every year, and almost as many close their doors.
 
 Therefore, web design agencies in Utah longevity is a true indicator of their skill. You want a business that has been around for a while and intends to stay that way. A design firm's ability to adjust and adapt to the numerous new internet trends has increased with expertise. And the more probable it is that they will be there to support your new website next year.
 
