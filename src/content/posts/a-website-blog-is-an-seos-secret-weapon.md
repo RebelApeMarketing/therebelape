@@ -1,4 +1,3 @@
-```markdown
 ---
 title: "Your Blog Isn't Dead—It's Just Feeding AI Instead of Humans"
 slug: "a-website-blog-is-an-seos-secret-weapon"
