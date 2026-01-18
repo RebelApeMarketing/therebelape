@@ -17,190 +17,6 @@ schema:
   faq: true
 ---
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@graph": [
-    {
-      "@type": "Article",
-      "headline": "Why Home Service Companies Need a Website (And Why Yours Probably Doesn't Work)",
-      "description": "Word-of-mouth keeps you small. Learn why conversion-optimized websites are the foundation of scalable contractor marketing and how to avoid the three types of websites that waste your money.",
-      "image": {
-        "@type": "ImageObject",
-        "url": "https://therebelape.com/images/contractor-website-conversion.jpg",
-        "width": 1200,
-        "height": 630
-      },
-      "author": {
-        "@type": "Person",
-        "name": "Adam Miconi",
-        "url": "https://therebelape.com/about/",
-        "jobTitle": "Founder, Rebel Ape Marketing",
-        "knowsAbout": [
-          "Contractor marketing",
-          "Google Ads for home services",
-          "Conversion rate optimization",
-          "Roofing website design",
-          "Local SEO"
-        ]
-      },
-      "reviewedBy": {
-        "@type": "Person",
-        "name": "Adam Miconi"
-      },
-      "publisher": {
-        "@type": "Organization",
-        "name": "Rebel Ape Marketing",
-        "logo": {
-          "@type": "ImageObject",
-          "url": "https://therebelape.com/logo.png"
-        }
-      },
-      "datePublished": "2026-01-14T09:00:00-07:00",
-      "dateModified": "2026-01-14T09:00:00-07:00",
-      "mainEntityOfPage": {
-        "@type": "WebPage",
-        "@id": "https://therebelape.com/blog/why-home-service-companies-need-a-website/"
-      },
-      "speakable": {
-        "@type": "SpeakableSpecification",
-        "xpath": [
-          "/html/head/title",
-          "/html/body//h1",
-          "/html/body//h2"
-        ]
-      }
-    },
-    {
-      "@type": "Person",
-      "@id": "https://therebelape.com/about/#person",
-      "name": "Adam Miconi",
-      "url": "https://therebelape.com/about/",
-      "jobTitle": "Founder, Rebel Ape Marketing",
-      "knowsAbout": [
-        "Contractor marketing",
-        "Google Ads for home services",
-        "Conversion rate optimization",
-        "Roofing website design",
-        "Local SEO"
-      ],
-      "sameAs": [
-        "https://www.linkedin.com/company/rebel-ape-marketing",
-        "https://x.com/therebelape",
-        "https://www.facebook.com/therebelapemarketing"
-      ]
-    },
-    {
-      "@type": "Organization",
-      "@id": "https://therebelape.com/#organization",
-      "name": "Rebel Ape Marketing",
-      "url": "https://therebelape.com",
-      "logo": {
-        "@type": "ImageObject",
-        "url": "https://therebelape.com/logo.png"
-      },
-      "contactPoint": {
-        "@type": "ContactPoint",
-        "telephone": "+1-801-917-0431",
-        "contactType": "Customer Service"
-      },
-      "sameAs": [
-        "https://www.linkedin.com/company/rebel-ape-marketing",
-        "https://x.com/therebelape",
-        "https://www.facebook.com/therebelapemarketing"
-      ]
-    },
-    {
-      "@type": "WebPage",
-      "url": "https://therebelape.com/blog/why-home-service-companies-need-a-website/",
-      "name": "Why Home Service Companies Need a Website (And Why Yours Probably Doesn't Work)",
-      "isPartOf": {
-        "@type": "WebSite",
-        "@id": "https://therebelape.com/#website"
-      },
-      "datePublished": "2026-01-14T09:00:00-07:00",
-      "dateModified": "2026-01-14T09:00:00-07:00"
-    },
-    {
-      "@type": "BreadcrumbList",
-      "itemListElement": [
-        {
-          "@type": "ListItem",
-          "position": 1,
-          "name": "Home",
-          "item": "https://therebelape.com"
-        },
-        {
-          "@type": "ListItem",
-          "position": 2,
-          "name": "Blog",
-          "item": "https://therebelape.com/blog"
-        },
-        {
-          "@type": "ListItem",
-          "position": 3,
-          "name": "Why Home Service Companies Need a Website",
-          "item": "https://therebelape.com/blog/why-home-service-companies-need-a-website/"
-        }
-      ]
-    },
-    {
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "Can I grow my home service business on word-of-mouth alone?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Word-of-mouth works until it doesn't. You can get to $500K-$1M on referrals alone, but it's inconsistent, seasonal, and caps your growth. If each customer refers 0.5 new customers, you're mathematically limited. To scale past $2M, you need predictable lead generation, and that requires a conversion-optimized website as your marketing hub."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Why isn't my current contractor website generating leads?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Most contractor websites fail because they prioritize looking pretty over converting visitors. They lack clear calls-to-action, don't address customer objections, have weak trust signals, and aren't optimized for how people actually make buying decisions. A website needs to digitize your in-person sales process, not just display information."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How much should a contractor website cost?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Price depends on whether you want a brochure or a sales tool. Template sites cost $500-$3,000 but rarely convert. Conversion-optimized websites designed specifically for home service businesses typically range from $10,000-$30,000+. However, when you do the ROI math—if each lead is worth $500-$2,000 and you close 20-30% of them—a proper website pays for itself in months, not years."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What makes a home service website convert?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Four elements: persuasive copy that speaks to pain points, trust signals like reviews and credentials, prequalification that answers objections before they call, and conversion optimization that makes booking stupid-easy. It's about digitizing your in-person sales process—everything that makes you effective face-to-face needs to be on the page."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Do I need a new website if mine still works?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "If your website was built before 2020 and hasn't been updated, it's probably costing you leads. Google's Core Web Vitals updates, mobile-first indexing, and changing user expectations mean even a 2019 website needs significant updates. Technology changes fast—what worked 3-5 years ago is outdated today. If your competitors have modern, conversion-optimized sites and you don't, you're losing market share."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Can't I just use Facebook or Google My Business instead of a website?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Social media and Google Business Profile are traffic sources, not destinations. When someone clicks your ad, searches for you, or sees your post, where do they go to actually book? Your website. Without a solid website, every marketing dollar you spend has a leak in it. Facebook can change its algorithm overnight—you can't control that. You can control your website."
-          }
-        }
-      ]
-    }
-  ]
-}
-</script>
-
 # Why Home Service Companies Need a Website (And Why Yours Probably Doesn't Work)
 
 "We do great work. People tell their friends. That's how we've always gotten customers."
@@ -435,3 +251,187 @@ The game has changed. Your competitors are investing in [conversion-optimized we
 If you're ready to stop leaving money on the table and want a website that actually works, [let's talk](/contact/). We've helped contractors go from startups to seven figures. We can show you exactly how we'd approach your market and what it would take to dominate it.
 
 Or keep doing what you're doing. Just don't be surprised when your competitor with the better website keeps growing while you stay stuck.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Article",
+      "headline": "Why Home Service Companies Need a Website (And Why Yours Probably Doesn't Work)",
+      "description": "Word-of-mouth keeps you small. Learn why conversion-optimized websites are the foundation of scalable contractor marketing and how to avoid the three types of websites that waste your money.",
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://therebelape.com/images/contractor-website-conversion.jpg",
+        "width": 1200,
+        "height": 630
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Adam Miconi",
+        "url": "https://therebelape.com/about/",
+        "jobTitle": "Founder, Rebel Ape Marketing",
+        "knowsAbout": [
+          "Contractor marketing",
+          "Google Ads for home services",
+          "Conversion rate optimization",
+          "Roofing website design",
+          "Local SEO"
+        ]
+      },
+      "reviewedBy": {
+        "@type": "Person",
+        "name": "Adam Miconi"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "Rebel Ape Marketing",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://therebelape.com/logo.png"
+        }
+      },
+      "datePublished": "2026-01-14T09:00:00-07:00",
+      "dateModified": "2026-01-14T09:00:00-07:00",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://therebelape.com/blog/why-home-service-companies-need-a-website/"
+      },
+      "speakable": {
+        "@type": "SpeakableSpecification",
+        "xpath": [
+          "/html/head/title",
+          "/html/body//h1",
+          "/html/body//h2"
+        ]
+      }
+    },
+    {
+      "@type": "Person",
+      "@id": "https://therebelape.com/about/#person",
+      "name": "Adam Miconi",
+      "url": "https://therebelape.com/about/",
+      "jobTitle": "Founder, Rebel Ape Marketing",
+      "knowsAbout": [
+        "Contractor marketing",
+        "Google Ads for home services",
+        "Conversion rate optimization",
+        "Roofing website design",
+        "Local SEO"
+      ],
+      "sameAs": [
+        "https://www.linkedin.com/company/rebel-ape-marketing",
+        "https://x.com/therebelape",
+        "https://www.facebook.com/therebelapemarketing"
+      ]
+    },
+    {
+      "@type": "Organization",
+      "@id": "https://therebelape.com/#organization",
+      "name": "Rebel Ape Marketing",
+      "url": "https://therebelape.com",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://therebelape.com/logo.png"
+      },
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+1-801-917-0431",
+        "contactType": "Customer Service"
+      },
+      "sameAs": [
+        "https://www.linkedin.com/company/rebel-ape-marketing",
+        "https://x.com/therebelape",
+        "https://www.facebook.com/therebelapemarketing"
+      ]
+    },
+    {
+      "@type": "WebPage",
+      "url": "https://therebelape.com/blog/why-home-service-companies-need-a-website/",
+      "name": "Why Home Service Companies Need a Website (And Why Yours Probably Doesn't Work)",
+      "isPartOf": {
+        "@type": "WebSite",
+        "@id": "https://therebelape.com/#website"
+      },
+      "datePublished": "2026-01-14T09:00:00-07:00",
+      "dateModified": "2026-01-14T09:00:00-07:00"
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://therebelape.com"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Blog",
+          "item": "https://therebelape.com/blog"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Why Home Service Companies Need a Website",
+          "item": "https://therebelape.com/blog/why-home-service-companies-need-a-website/"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Can I grow my home service business on word-of-mouth alone?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Word-of-mouth works until it doesn't. You can get to $500K-$1M on referrals alone, but it's inconsistent, seasonal, and caps your growth. If each customer refers 0.5 new customers, you're mathematically limited. To scale past $2M, you need predictable lead generation, and that requires a conversion-optimized website as your marketing hub."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Why isn't my current contractor website generating leads?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Most contractor websites fail because they prioritize looking pretty over converting visitors. They lack clear calls-to-action, don't address customer objections, have weak trust signals, and aren't optimized for how people actually make buying decisions. A website needs to digitize your in-person sales process, not just display information."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How much should a contractor website cost?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Price depends on whether you want a brochure or a sales tool. Template sites cost $500-$3,000 but rarely convert. Conversion-optimized websites designed specifically for home service businesses typically range from $10,000-$30,000+. However, when you do the ROI math—if each lead is worth $500-$2,000 and you close 20-30% of them—a proper website pays for itself in months, not years."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What makes a home service website convert?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Four elements: persuasive copy that speaks to pain points, trust signals like reviews and credentials, prequalification that answers objections before they call, and conversion optimization that makes booking stupid-easy. It's about digitizing your in-person sales process—everything that makes you effective face-to-face needs to be on the page."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do I need a new website if mine still works?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "If your website was built before 2020 and hasn't been updated, it's probably costing you leads. Google's Core Web Vitals updates, mobile-first indexing, and changing user expectations mean even a 2019 website needs significant updates. Technology changes fast—what worked 3-5 years ago is outdated today. If your competitors have modern, conversion-optimized sites and you don't, you're losing market share."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can't I just use Facebook or Google My Business instead of a website?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Social media and Google Business Profile are traffic sources, not destinations. When someone clicks your ad, searches for you, or sees your post, where do they go to actually book? Your website. Without a solid website, every marketing dollar you spend has a leak in it. Facebook can change its algorithm overnight—you can't control that. You can control your website."
+          }
+        }
+      ]
+    }
+  ]
+}
+</script>

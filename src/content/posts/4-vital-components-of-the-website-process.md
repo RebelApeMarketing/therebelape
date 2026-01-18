@@ -16,213 +16,6 @@ schema:
   faq: true
 ---
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@graph": [
-    {
-      "@type": "Article",
-      "@id": "https://therebelape.com/blog/4-vital-components-of-the-website-process/#article",
-      "headline": "Why Your Contractor Website Doesn't Get Leads (And the 4 Things That Actually Matter)",
-      "description": "Most contractor websites are built to look pretty or work smoothly—but not to generate leads. Here's what actually matters for roofing and home service websites that convert.",
-      "image": {
-        "@type": "ImageObject",
-        "url": "https://RebelApeCDN.b-cdn.net/featured-4-vital-components.webp",
-        "width": 1200,
-        "height": 630
-      },
-      "author": {
-        "@type": "Person",
-        "name": "Adam Miconi",
-        "url": "https://therebelape.com/about/",
-        "jobTitle": "Founder, Rebel Ape Marketing",
-        "knowsAbout": [
-          "Contractor marketing",
-          "Google Ads for home services",
-          "Conversion rate optimization",
-          "Roofing website design",
-          "Local SEO"
-        ]
-      },
-      "reviewedBy": {
-        "@type": "Person",
-        "name": "Adam Miconi"
-      },
-      "publisher": {
-        "@type": "Organization",
-        "name": "Rebel Ape Marketing",
-        "logo": {
-          "@type": "ImageObject",
-          "url": "https://therebelape.com/logo.png"
-        }
-      },
-      "datePublished": "2019-11-24T03:02:00-07:00",
-      "dateModified": "2025-01-14T14:27:00-07:00",
-      "mainEntityOfPage": {
-        "@type": "WebPage",
-        "@id": "https://therebelape.com/blog/4-vital-components-of-the-website-process/"
-      },
-      "speakable": {
-        "@type": "SpeakableSpecification",
-        "xpath": [
-          "/html/head/title",
-          "/html/body//h1",
-          "/html/body//h2"
-        ]
-      }
-    },
-    {
-      "@type": "Person",
-      "@id": "https://therebelape.com/about/#person",
-      "name": "Adam Miconi",
-      "url": "https://therebelape.com/about/",
-      "jobTitle": "Founder, Rebel Ape Marketing",
-      "knowsAbout": [
-        "Contractor marketing",
-        "Google Ads for home services",
-        "Conversion rate optimization",
-        "Roofing website design",
-        "Local SEO"
-      ],
-      "sameAs": [
-        "https://www.linkedin.com/company/rebel-ape-marketing",
-        "https://x.com/therebelape",
-        "https://www.facebook.com/therebelapemarketing"
-      ]
-    },
-    {
-      "@type": "Organization",
-      "@id": "https://therebelape.com/#organization",
-      "name": "Rebel Ape Marketing",
-      "url": "https://therebelape.com",
-      "logo": {
-        "@type": "ImageObject",
-        "url": "https://therebelape.com/logo.png"
-      },
-      "contactPoint": {
-        "@type": "ContactPoint",
-        "telephone": "+1-801-917-0431",
-        "contactType": "Customer Service"
-      },
-      "sameAs": [
-        "https://www.linkedin.com/company/rebel-ape-marketing",
-        "https://x.com/therebelape",
-        "https://www.facebook.com/therebelapemarketing"
-      ]
-    },
-    {
-      "@type": "WebPage",
-      "@id": "https://therebelape.com/blog/4-vital-components-of-the-website-process/#webpage",
-      "url": "https://therebelape.com/blog/4-vital-components-of-the-website-process/",
-      "name": "Why Your Contractor Website Doesn't Get Leads (And the 4 Things That Actually Matter)",
-      "isPartOf": {
-        "@type": "WebSite",
-        "@id": "https://therebelape.com/#website"
-      },
-      "datePublished": "2019-11-24T03:02:00-07:00",
-      "dateModified": "2025-01-14T14:27:00-07:00",
-      "description": "Most contractor websites are built to look pretty or work smoothly—but not to generate leads. Here's what actually matters for roofing and home service websites that convert."
-    },
-    {
-      "@type": "BreadcrumbList",
-      "@id": "https://therebelape.com/blog/4-vital-components-of-the-website-process/#breadcrumb",
-      "itemListElement": [
-        {
-          "@type": "ListItem",
-          "position": 1,
-          "name": "Home",
-          "item": "https://therebelape.com"
-        },
-        {
-          "@type": "ListItem",
-          "position": 2,
-          "name": "Blog",
-          "item": "https://therebelape.com/blog"
-        },
-        {
-          "@type": "ListItem",
-          "position": 3,
-          "name": "Why Your Contractor Website Doesn't Get Leads",
-          "item": "https://therebelape.com/blog/4-vital-components-of-the-website-process/"
-        }
-      ]
-    },
-    {
-      "@type": "HowTo",
-      "name": "How to Build a Lead-Generating Contractor Website",
-      "description": "A step-by-step guide to building a contractor website that actually generates leads instead of just looking pretty.",
-      "step": [
-        {
-          "@type": "HowToStep",
-          "name": "Define Your Website's Purpose",
-          "text": "Before touching design or code, determine if your website should drive leads, prequalify buyers, presell your service, or serve another specific revenue goal."
-        },
-        {
-          "@type": "HowToStep",
-          "name": "Take Ownership of Your Digital Assets",
-          "text": "Ensure you own and have access to your domain registrar, hosting account, Google Analytics, Google Ads account, and Meta Pixel. Never let an agency control assets you can't access."
-        },
-        {
-          "@type": "HowToStep",
-          "name": "Match Your Website to Your Ad Strategy",
-          "text": "Create dedicated landing pages that match your ad messaging. Generic homepage traffic converts poorly and costs more per lead."
-        },
-        {
-          "@type": "HowToStep",
-          "name": "Install Proper Tracking Before Launch",
-          "text": "Set up conversion tracking, analytics, and pixels correctly from day one. Fixing this later creates data gaps and wastes ad spend."
-        }
-      ]
-    },
-    {
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "Why doesn't my contractor website generate leads?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Most contractor websites are designed to look good or function smoothly, but not to generate leads. Designers and developers typically optimize for their portfolios, not your revenue. A lead-generating website needs strategic messaging, trust signals in the right places, and persuasive content that presells your service—not just pretty design or clean code."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What should I own vs. what should my web designer own?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "You should own everything: your domain name (registrar account), hosting account, Google Analytics, Google Ads account, and Meta Pixel. Never let an agency or developer control assets you can't access directly. When relationships end, you need to maintain control of your digital properties and data."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Should I use WordPress or a custom-built website for my contracting business?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "WordPress works well for most contractor websites because it allows both your team and your marketing agency to make updates and access data easily. For landing pages or websites that need maximum speed, custom-built solutions using modern frameworks like Astro can deliver better performance, but they require more technical expertise to maintain."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How does my website affect my Google Ads cost?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "When your website matches your ad messaging and gives Google what they're looking for (relevant content, fast loading, good user experience), your Quality Score improves and your cost per click drops. Generic websites with template content and no connection to your ads waste money because they force Google to charge you more for lower-quality traffic."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What's the biggest mistake contractors make with their websites?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Using generic website templates with AI-generated content and no distinct brand voice. When you sound exactly like every other contractor, you can't differentiate yourself and prospects have no reason to choose you. Your website should reflect your actual business, your process, and what makes you different—not generic industry talking points."
-          }
-        }
-      ]
-    }
-  ]
-}
-</script>
-
 # Why Your Contractor Website Doesn't Get Leads (And the 4 Things That Actually Matter)
 
 Let me guess how you got your website: Someone in your contractor network recommended their designer friend. Or maybe your nephew's roommate "does websites." They showed you a portfolio of beautiful sites, talked about responsive design and user experience, quoted you a price, and delivered something that looks professional.
@@ -438,3 +231,210 @@ The gap between a website that costs you money and a website that makes you mone
 That's what we do at Rebel Ape. We build contractor websites that generate leads, not just websites that look nice in screenshots. Our approach combines [strategic website design](/services/website-design/), [SEO optimization](/services/seo/), and [PPC management](/services/ppc/) to create a complete lead generation system.
 
 Want us to audit your current setup? [Get in touch](/contact/). We'll tell you exactly what's working, what isn't, and what it would take to fix it.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Article",
+      "@id": "https://therebelape.com/blog/4-vital-components-of-the-website-process/#article",
+      "headline": "Why Your Contractor Website Doesn't Get Leads (And the 4 Things That Actually Matter)",
+      "description": "Most contractor websites are built to look pretty or work smoothly—but not to generate leads. Here's what actually matters for roofing and home service websites that convert.",
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://RebelApeCDN.b-cdn.net/featured-4-vital-components.webp",
+        "width": 1200,
+        "height": 630
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Adam Miconi",
+        "url": "https://therebelape.com/about/",
+        "jobTitle": "Founder, Rebel Ape Marketing",
+        "knowsAbout": [
+          "Contractor marketing",
+          "Google Ads for home services",
+          "Conversion rate optimization",
+          "Roofing website design",
+          "Local SEO"
+        ]
+      },
+      "reviewedBy": {
+        "@type": "Person",
+        "name": "Adam Miconi"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "Rebel Ape Marketing",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://therebelape.com/logo.png"
+        }
+      },
+      "datePublished": "2019-11-24T03:02:00-07:00",
+      "dateModified": "2025-01-14T14:27:00-07:00",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://therebelape.com/blog/4-vital-components-of-the-website-process/"
+      },
+      "speakable": {
+        "@type": "SpeakableSpecification",
+        "xpath": [
+          "/html/head/title",
+          "/html/body//h1",
+          "/html/body//h2"
+        ]
+      }
+    },
+    {
+      "@type": "Person",
+      "@id": "https://therebelape.com/about/#person",
+      "name": "Adam Miconi",
+      "url": "https://therebelape.com/about/",
+      "jobTitle": "Founder, Rebel Ape Marketing",
+      "knowsAbout": [
+        "Contractor marketing",
+        "Google Ads for home services",
+        "Conversion rate optimization",
+        "Roofing website design",
+        "Local SEO"
+      ],
+      "sameAs": [
+        "https://www.linkedin.com/company/rebel-ape-marketing",
+        "https://x.com/therebelape",
+        "https://www.facebook.com/therebelapemarketing"
+      ]
+    },
+    {
+      "@type": "Organization",
+      "@id": "https://therebelape.com/#organization",
+      "name": "Rebel Ape Marketing",
+      "url": "https://therebelape.com",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://therebelape.com/logo.png"
+      },
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+1-801-917-0431",
+        "contactType": "Customer Service"
+      },
+      "sameAs": [
+        "https://www.linkedin.com/company/rebel-ape-marketing",
+        "https://x.com/therebelape",
+        "https://www.facebook.com/therebelapemarketing"
+      ]
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://therebelape.com/blog/4-vital-components-of-the-website-process/#webpage",
+      "url": "https://therebelape.com/blog/4-vital-components-of-the-website-process/",
+      "name": "Why Your Contractor Website Doesn't Get Leads (And the 4 Things That Actually Matter)",
+      "isPartOf": {
+        "@type": "WebSite",
+        "@id": "https://therebelape.com/#website"
+      },
+      "datePublished": "2019-11-24T03:02:00-07:00",
+      "dateModified": "2025-01-14T14:27:00-07:00",
+      "description": "Most contractor websites are built to look pretty or work smoothly—but not to generate leads. Here's what actually matters for roofing and home service websites that convert."
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://therebelape.com/blog/4-vital-components-of-the-website-process/#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://therebelape.com"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Blog",
+          "item": "https://therebelape.com/blog"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Why Your Contractor Website Doesn't Get Leads",
+          "item": "https://therebelape.com/blog/4-vital-components-of-the-website-process/"
+        }
+      ]
+    },
+    {
+      "@type": "HowTo",
+      "name": "How to Build a Lead-Generating Contractor Website",
+      "description": "A step-by-step guide to building a contractor website that actually generates leads instead of just looking pretty.",
+      "step": [
+        {
+          "@type": "HowToStep",
+          "name": "Define Your Website's Purpose",
+          "text": "Before touching design or code, determine if your website should drive leads, prequalify buyers, presell your service, or serve another specific revenue goal."
+        },
+        {
+          "@type": "HowToStep",
+          "name": "Take Ownership of Your Digital Assets",
+          "text": "Ensure you own and have access to your domain registrar, hosting account, Google Analytics, Google Ads account, and Meta Pixel. Never let an agency control assets you can't access."
+        },
+        {
+          "@type": "HowToStep",
+          "name": "Match Your Website to Your Ad Strategy",
+          "text": "Create dedicated landing pages that match your ad messaging. Generic homepage traffic converts poorly and costs more per lead."
+        },
+        {
+          "@type": "HowToStep",
+          "name": "Install Proper Tracking Before Launch",
+          "text": "Set up conversion tracking, analytics, and pixels correctly from day one. Fixing this later creates data gaps and wastes ad spend."
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Why doesn't my contractor website generate leads?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Most contractor websites are designed to look good or function smoothly, but not to generate leads. Designers and developers typically optimize for their portfolios, not your revenue. A lead-generating website needs strategic messaging, trust signals in the right places, and persuasive content that presells your service—not just pretty design or clean code."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What should I own vs. what should my web designer own?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "You should own everything: your domain name (registrar account), hosting account, Google Analytics, Google Ads account, and Meta Pixel. Never let an agency or developer control assets you can't access directly. When relationships end, you need to maintain control of your digital properties and data."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Should I use WordPress or a custom-built website for my contracting business?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "WordPress works well for most contractor websites because it allows both your team and your marketing agency to make updates and access data easily. For landing pages or websites that need maximum speed, custom-built solutions using modern frameworks like Astro can deliver better performance, but they require more technical expertise to maintain."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How does my website affect my Google Ads cost?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "When your website matches your ad messaging and gives Google what they're looking for (relevant content, fast loading, good user experience), your Quality Score improves and your cost per click drops. Generic websites with template content and no connection to your ads waste money because they force Google to charge you more for lower-quality traffic."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What's the biggest mistake contractors make with their websites?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Using generic website templates with AI-generated content and no distinct brand voice. When you sound exactly like every other contractor, you can't differentiate yourself and prospects have no reason to choose you. Your website should reflect your actual business, your process, and what makes you different—not generic industry talking points."
+          }
+        }
+      ]
+    }
+  ]
+}
+</script>

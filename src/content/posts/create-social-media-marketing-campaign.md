@@ -1,81 +1,461 @@
 ---
 title: "How To Create A Great Social Media Marketing Campaign"
 slug: "create-social-media-marketing-campaign"
-description: "Create social media campaigns that actually work. Learn the strategic framework for goal setting, audience research, and continuous optimization that drives results."
+description: "Create social media campaigns that actually work for contractors. Learn the strategic framework for finding your position, building authority, and testing messages that make your advertising more efficient."
 excerpt: "Content is king, but strategy is everything. With millions of posts created every minute, your social media campaign needs a solid strategy to stand out. Discover the proven framework for setting goals, researching audiences, and analyzing performance that turns campaigns into success stories."
 author: "Adam Miconi"
 publishDate: "2019-07-05T12:15:00-06:00"
-lastModified: ""
+lastModified: "2025-01-17T10:00:00-07:00"
 image: "https://RebelApeCDN.b-cdn.net/featured-social-media-marketing.webp"
 canonicalUrl: "https://therebelape.com/blog/create-social-media-marketing-campaign/"
-tags: []
+category: "Social Media Marketing"
+tags: ["social media marketing", "contractor marketing", "brand authority", "message testing", "roofing contractors", "home service marketing"]
 draft: false
+schema:
+  article: true
+  howTo: true
+  faq: true
 ---
 
-# How To Create A Great Social Media Marketing Campaign
+# How To Create A Social Media Marketing Campaign That Actually Works for Contractors
 
-Get started with a great social media marketing campaign. As the ad adage goes, **content is king**—truer now than it has ever been. Content is being created at an astounding rate.
+You're posting before-and-after photos of roof installations three times a week. Your competitor down the street is posting the exact same content. You're both getting 4 likes from your mom, your office manager, and two guys who definitely aren't potential customers.
 
-[Here are a few stats](https://www.forbes.com/sites/bernardmarr/2018/05/21/how-much-data-do-we-create-every-day-the-mind-blowing-stats-everyone-should-read/#547fd45360ba) from some of the most-used social media platforms in 2017: every minute, Snapchat users share 527,760 photos, users send 456,000 tweets on Twitter, and Instagram users post 46,740 photos.
+Meanwhile, some marketing agency is telling you that you need to "post consistently on all platforms" and "engage with your community" and "build your following." But nobody's telling you what the hell to actually post about or why a roofing contractor in Phoenix needs a social media following in the first place.
+
+Here's the truth: most contractors waste countless hours on social media because they're following advice designed for e-commerce brands and lifestyle influencers, not home service businesses. We've managed social media for over 50 roofing, HVAC, and plumbing companies, and the campaigns that work look nothing like what most agencies recommend.
+
+**TL;DR:** Social media for contractors isn't about posting daily or gaining followers—it's about finding your contrarian position, building authority around it, and testing messages that make your paid advertising more efficient. The best campaigns feature the owner's authentic voice taking a stance on industry problems, not generic content that looks like everyone else's.
+
+## Why Most Social Media Advice Fails Contractors
+
+Walk into any marketing agency and they'll pitch you the same thing: "We'll post 4-5 times per week, grow your following, and convert those followers into customers." They'll show you engagement metrics, follower counts, and maybe some cherry-picked success stories from completely different industries.
+
+Then when the followers don't materialize, you'll hear the classic deflection: "Would you rather have 1,000 fake followers or 10 amazing customers who buy everything you offer?"
+
+This is complete BS.
+
+The real question is: why are you treating social media like it's supposed to function as a lead generation machine in the first place? [Social media isn't primarily for direct leads](/blog/5-reasons-you-need-social-media-marketing/)—it's for building brand authenticity, establishing authority, testing messages, and making your advertising more efficient.
+
+Most agencies can't even build their own following, but they're selling social media management to contractors. That should tell you everything you need to know.
+
+## What Actually Works: Position Over Posts
+
+Here's what we've learned from campaigns that actually perform: the contractors who succeed on social media aren't the ones posting pretty pictures. They're the ones who have something to say and they say it consistently.
+
+The best social media campaigns we've run all started with the owner's voice. Not the company voice. Not some marketing manager trying to sound "professional." The actual owner explaining:
+
+- Why they started their business (and it can't be "to make money")
+- What industry problem pisses them off enough to fix it
+- Why they do things differently than their competitors
+- The devastating problems they solve for homeowners
+
+**A real example**: One of our roofing clients was fed up with cheap competitors creating more problems than they solved. His social content became entirely focused on exposing poor installation practices, showing how he fixes botched jobs, and explaining why cutting corners costs homeowners more in the long run.
+
+The content performed incredibly well. Homeowners who'd been burned by cheap roofers shared his posts. Other contractors (the good ones) chimed in with their own horror stories. The algorithm loved the engagement. And when he ran ads, people already knew who he was and what he stood for.
+
+Compare that to posting another before-and-after photo with the caption "Another satisfied customer! 🏠"
+
+## The Rebel Ape Method for Social Media Campaigns
+
+### Step 1: Find Your Contrarian Position
+
+Before you post anything, you need to figure out what makes you different and why you actually give a damn about your industry. This isn't your mission statement. This is your stance.
+
+What industry problem makes you want to flip a table? For many contractors, it's:
+
+- Cheap competitors who cut corners and leave homeowners with bigger problems
+- DIY disasters that cost 3x more to fix than doing it right the first time
+- Insurance companies that lowball legitimate claims
+- Supply chain issues that force customers to wait months for repairs
+- Unlicensed "contractors" operating out of their pickup trucks
+
+Pick one. Own it. Make it your driving force.
+
+This becomes your content wellspring. You can create months of content around a single well-defined position because you're not just posting for the sake of posting—you're building a case for why your approach matters.
+
+Understanding [your customer avatar](/blog/getting-to-know-your-customer-avatar-the-ultimate-guide-to-better-marketing/) helps you identify which position resonates most with your ideal clients.
+
+### Step 2: Start With The Owner's Story
+
+The campaigns that perform best always feature the owner's authentic voice explaining why they're in business. And here's the critical part: it can't be about money.
+
+Your "why" needs to be rooted in solving a problem or fixing something broken in your industry:
+
+- "I was tired of seeing homeowners get ripped off by contractors who disappear after taking deposits"
+- "I watched my parents' HVAC system fail in July because some tech didn't install it properly"
+- "After 15 years working for the big guys, I started my own company so I could actually stand behind my work"
+
+This isn't corporate messaging. This is personal. It's specific. It's the kind of story that people remember and share because it resonates with their own frustrations.
+
+One of our plumbing clients talks extensively about how he fixes devastating water damage problems for panicked homeowners, then helps them navigate insurance claims so they're not stuck with the financial burden. That's not "we provide quality plumbing services"—that's a specific position that addresses real customer pain points.
+
+This authentic storytelling is a core part of [successful business branding](/blog/success-business-branding/)—it's what separates memorable brands from forgettable ones.
+
+### Step 3: Take Controversial Stances (Yes, Really)
+
+People engage with content they have opinions about. Your competitors are posting safe, boring content that looks like everyone else's. You should be taking stances on controversial topics in your industry.
+
+This doesn't mean being an asshole. It means having opinions and being willing to defend them:
+
+- "Here's why I won't give you a quote over the phone"
+- "These 3 trendy materials everyone's installing are going to be nightmares in 5 years"
+- "Why the cheapest bid usually costs the most"
+- "What your insurance adjuster won't tell you about storm damage claims"
+
+When you post content like this, something interesting happens: people who've experienced the problem you're talking about jump into the comments to share their own stories. Other contractors (both competitors and allies) weigh in. The algorithm sees engagement and pushes your content further.
+
+This is how you [build authority and trust](/blog/increase-website-trust/) without spending ad dollars—by consistently demonstrating expertise through your willingness to take positions and defend them.
+
+### Step 4: Test Messages, Then Scale What Works
+
+Here's where social media actually makes your advertising more efficient: it's a testing ground for messaging.
+
+Pay attention to which posts get the most engagement, shares, and comments. Those are your winning messages. Take that language, those hooks, those pain points—and use them in your [Google Ads campaigns](/services/ppc/) and [landing pages](/blog/high-converting-website-design-guide/).
+
+We've seen contractors spend thousands testing ad copy when they could have validated messaging for free on social media first. When you post "Here's why we don't give phone quotes" and get 40 comments from homeowners sharing horror stories about contractors who quoted low and doubled the price, you've just found messaging that resonates.
+
+That becomes your ad headline. That becomes your [website content](/blog/ultimate-guide-to-small-business-website-design/). That becomes your differentiator.
+
+This testing approach is central to our [marketing testing strategy](/blog/marketing-testing-strategy-drive-explosive-growth-in-2025/)—validating messages before scaling them with paid spend.
+
+### Step 5: Be Consistent, Not Omnipresent
+
+You don't need to be on every platform. You don't need to post every day. You need to be consistent on the platforms where your audience actually exists.
+
+For most contractors, that's Facebook and increasingly YouTube (we'll save video strategy for another post). Pick one or two platforms. Post 2-3 times per week with content that reinforces your position and builds your authority.
+
+The contractors who fail at social media try to maintain a presence everywhere and burn out after six weeks. The ones who succeed pick their platform, define their position, and show up consistently with content that matters.
+
+Learn more about [maximizing your marketing impact across multiple platforms](/blog/maximize-marketing-impact-multiple-platforms/) without spreading yourself too thin.
+
+## What This Actually Looks Like In Practice
+
+Let's break down a month of social content for a roofing contractor using this method:
+
+**Week 1**: Owner story post explaining why he started the company after watching his parents get ripped off by a contractor who disappeared mid-project
+
+**Week 2**: Educational post showing common signs of poor installation that most homeowners miss, with specific examples from recent projects
+
+**Week 3**: Controversial stance post about why he charges more than competitors and why cheap roofing costs more in the long run
+
+**Week 4**: Customer story highlighting how the company helped a panicked homeowner navigate insurance claims after storm damage
+
+This isn't random content. Each post reinforces the position (we do quality work, we stand behind it, we help homeowners avoid getting ripped off). Each post gives people something to engage with. Each post builds authority.
+
+Compare that to what most contractors post:
+
+- Another completed project photo
+- "We're hiring! Apply now!"
+- Generic seasonal post ("Stay safe this winter!")
+- Reposted content from some industry blog
+
+Nobody engages with that content because nobody cares about it.
+
+## Common Mistakes That Kill Social Media Campaigns
+
+### Mistake #1: Posting Without A Position
+
+If you're just posting content for the sake of staying active, you're wasting your time. [Every piece of content should reinforce your position](/blog/branding-strategies-in-marketing/) and build your authority around what makes you different.
+
+Without a clear position, you're just adding noise to an already crowded feed. Your content needs to stand for something specific that resonates with your ideal customers.
+
+### Mistake #2: Obsessing Over Follower Counts
+
+Most agencies sell follower growth because it's an easy metric to track. But follower counts don't pay your bills. Authority and message validation do.
+
+We'd rather see 200 engaged followers who share your content and defend your position in comments than 2,000 followers who ignore everything you post. [Social media marketing's real business impact](/blog/social-media-marketing-business-impact/) comes from engagement quality, not follower quantity.
+
+### Mistake #3: Copying Competitor Content
+
+If your competitors are posting before-and-after photos with no context, and you're doing the same thing, you're not differentiating—you're blending in. The entire point of social media for contractors is to stand out by having a clear position.
+
+This is where [branding strategies](/blog/branding-strategies-in-marketing/) separate the memorable companies from the forgettable ones. Your content should be distinctly yours.
+
+### Mistake #4: Trying To Be Everywhere
+
+Being on every platform means doing a mediocre job everywhere. Pick one or two platforms where your customers actually spend time, and dominate those with consistent, position-driven content.
+
+The most effective approach is [maximizing strategies on fewer platforms](/blog/social-media-marketing-maximize-strategies/) rather than maintaining weak presences everywhere.
+
+### Mistake #5: Treating It Like Direct Lead Generation
+
+The contractors who get frustrated with social media are the ones expecting phone calls from every post. That's not how this works. [Social media builds awareness, establishes authority, and makes your paid advertising more efficient](/blog/social-media-marketing-business-impact/) by pre-selling your position before people ever see your ad.
+
+When integrated properly with your [overall marketing strategy](/blog/the-ultimate-guide-to-building-a-professional-marketing-plan-for-2025/), social media becomes a force multiplier for all your other marketing efforts.
+
+## The Biggest Objection (And Why It's Wrong)
+
+"Social media doesn't work for contractors. Word of mouth is way better."
+
+We hear this constantly. And yes, word of mouth is powerful. But here's what contractors miss: social media IS word of mouth at scale.
+
+When you take a position on poor installation practices and homeowners who've been burned share your post, that's word of mouth. When other good contractors comment agreeing with your stance, that's word of mouth. When someone sees your controversial post, remembers your position six months later when they need a new roof, and calls you instead of your competitors—that's word of mouth working through social media.
+
+[Social media makes you an authority](/blog/branding-strategies-in-marketing/). It gives people something to share. It lets your ideal customers self-identify by engaging with topics they've experienced. It's not a replacement for word of mouth—it's an amplifier for it.
+
+People who see your social content first are pre-sold on your approach before they ever visit your website. This makes your [high-converting website](/blog/high-converting-website-design-guide/) even more effective because visitors arrive already aligned with your position.
+
+## The Bottom Line
+
+Creating a social media campaign that actually works for contractors has nothing to do with posting schedules or follower counts. It's about finding your contrarian position, building content around the owner's authentic voice, and consistently reinforcing why you're different from every other contractor in your market.
+
+The campaigns that perform always start with a clear stance on an industry problem. They feature real stories, controversial opinions, and educational content that demonstrates expertise. They test messages that later become high-performing ad copy. And they build authority over time rather than chasing overnight follower growth.
+
+Most contractors will keep posting generic before-and-after photos while wondering why social media "doesn't work." The ones who figure out they need a position, not just a posting schedule, will build audiences that actually matter.
+
+If you want help developing your position and creating social media content that actually moves the needle for your contracting business, [let's talk about your marketing strategy](/contact/). Or if you're ready to turn that message into ads that convert, check out our [PPC management services](/services/ppc/).
 
 ---
 
-## Starting A Social Media Marketing Campaign
+## FAQ: Social Media Marketing for Contractors
 
-Even though content is still king, content has to be seen to pass along a message. If it never reaches your audience, you won’t get a reliable measurement of its quality. This is why every great campaign starts with a well-planned strategy.
+**Do contractors really need to be on social media?**
 
-Strategy can make or break your entire campaign. Low-quality content can succeed with great strategy, while high-quality content can fail with poor—or nonexistent—strategy.
+You don't need to be everywhere, but you should have a presence on the platforms where your customers spend time (typically Facebook for most contractors). Social media isn't about direct lead generation—it's about building authority, testing messages, and making your paid advertising more efficient by pre-selling your position.
 
-Here’s our approach to creating a great [social media marketing campaign](/blog/5-reasons-you-need-social-media-marketing/).
+**How often should contractors post on social media?**
 
-### Goal Setting To Test Social Media
+Consistency matters more than frequency. Posting 2-3 times per week with position-driven content beats posting daily with generic content. Pick a schedule you can maintain long-term without burning out.
 
-The first step is often the most important. By setting goals, you define exactly what you want your social media campaign to achieve.
+**What should contractors post about on social media?**
 
-Your goals should be ambitious but realistic. For example, gaining a million Twitter followers in a month is not a practical goal.
+Post content that reinforces your position and demonstrates expertise: owner stories explaining why you're in business, controversial stances on industry problems, educational content showing common mistakes homeowners should avoid, and customer stories highlighting how you solve specific problems differently than competitors.
 
-Choose one broad but targeted goal for the campaign, then define smaller, incremental goals that act as stepping stones toward the main objective.
+**How long does it take to see results from social media?**
 
-**Examples of campaign goals:**
+Building authority takes time. Most contractors see engagement increase within 60-90 days of consistent posting, but the real payoff comes when that authority makes your paid advertising more efficient and your sales process easier because people already know your position before they contact you.
 
-- Increase brand awareness  
-- Acquire new customers  
-- Improve sales  
-- Increase engagement  
-- Reach a new audience  
+**Should contractors run paid ads on social media or just post organically?**
 
-Once your goals are set, you can map out the rest of your strategy.
+Both. Organic content builds your position and tests messaging. Paid ads amplify your best-performing messages to reach more people. The most effective strategy uses organic posts to identify winning messages, then scales those messages with paid advertising.
 
-### Thorough Research
+**What platforms work best for contractors?**
 
-To execute your strategy effectively, you need to understand your audience as deeply as possible. While there are no shortcuts, several tools can make this easier.
+Facebook remains the primary platform for most home service contractors because that's where homeowners spend time and make buying decisions. YouTube works well for educational content. LinkedIn can work for commercial contractors. Skip platforms where your customers don't exist just to check a box.
 
-Platforms like [Hootsuite](https://www.hootsuite.com/) and [Sprout Social](https://sproutsocial.com/) allow you to monitor conversations, schedule posts, and analyze engagement patterns.
+**How do I know if social media is working?**
 
-These tools help identify which channels your audience is most active on and the best ways to reach them. In-depth research reveals which platforms and ad placements have the highest likelihood of success.
+Don't measure success by follower counts. Look for engagement (comments, shares, saves), message validation (which posts resonate most), and whether people mention seeing your content when they contact you. The best indicator is when prospects come to you already sold on your approach because they've been following your content.
 
-### Analyze, Analyze, Analyze!
-
-After setting goals and researching your audience, it’s time to act. If your target demographic heavily favors one platform, that’s a strong signal that ads may perform well there.
-
-[Facebook Ads](https://www.facebook.com/business/ads) simplifies the process by guiding you from objective selection to budgeting, ad formats, and performance measurement.
-
-Once the campaign is live, continuous monitoring is essential. Strategy doesn’t end at launch—you should regularly optimize and refine the campaign to improve performance.
-
-Ongoing analysis ensures you get the most value from your budget.
-
----
-
-## Make Your Social Media Campaign a Success
-
-Creating a successful social media marketing campaign is all about strategy:
-
-- **Set goals** to define what success looks like  
-- **Conduct research** to identify the best path forward  
-- **Analyze continuously** to improve performance over time  
-
-If you want to work with top-tier graphic designers and web designers in Utah, [contact us](/contact/).
-
-You can also explore our work here:  
-- [Website Design Gallery](/services/website-design/)  
-- [Logo Design Gallery](/services/)
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Article",
+      "headline": "How To Create A Social Media Marketing Campaign That Actually Works for Contractors",
+      "description": "Create social media campaigns that actually work for contractors. Learn the strategic framework for finding your position, building authority, and testing messages that make your advertising more efficient.",
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://RebelApeCDN.b-cdn.net/featured-social-media-marketing.webp",
+        "width": 1200,
+        "height": 630
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Adam Miconi",
+        "url": "https://therebelape.com/about/",
+        "jobTitle": "Founder, Rebel Ape Marketing",
+        "knowsAbout": [
+          "Contractor marketing",
+          "Social media strategy for home services",
+          "Message testing and optimization",
+          "Position-based marketing",
+          "Brand authority building"
+        ]
+      },
+      "reviewedBy": {
+        "@type": "Person",
+        "name": "Adam Miconi"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "Rebel Ape Marketing",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://therebelape.com/logo.png"
+        }
+      },
+      "datePublished": "2019-07-05T12:15:00-06:00",
+      "dateModified": "2025-01-17T10:00:00-07:00",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://therebelape.com/blog/create-social-media-marketing-campaign/"
+      },
+      "speakable": {
+        "@type": "SpeakableSpecification",
+        "xpath": [
+          "/html/head/title",
+          "/html/body//h1",
+          "/html/body//h2"
+        ]
+      }
+    },
+    {
+      "@type": "Person",
+      "@id": "https://therebelape.com/about/#person",
+      "name": "Adam Miconi",
+      "url": "https://therebelape.com/about/",
+      "jobTitle": "Founder, Rebel Ape Marketing",
+      "knowsAbout": [
+        "Contractor marketing",
+        "Social media strategy for home services",
+        "Message testing and optimization",
+        "Position-based marketing",
+        "Brand authority building"
+      ],
+      "sameAs": [
+        "https://www.linkedin.com/company/rebel-ape-marketing",
+        "https://x.com/therebelape",
+        "https://www.facebook.com/therebelapemarketing"
+      ]
+    },
+    {
+      "@type": "Organization",
+      "@id": "https://therebelape.com/#organization",
+      "name": "Rebel Ape Marketing",
+      "url": "https://therebelape.com",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://therebelape.com/logo.png"
+      },
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+1-801-917-0431",
+        "contactType": "Customer Service"
+      },
+      "sameAs": [
+        "https://www.linkedin.com/company/rebel-ape-marketing",
+        "https://x.com/therebelape",
+        "https://www.facebook.com/therebelapemarketing"
+      ]
+    },
+    {
+      "@type": "WebPage",
+      "url": "https://therebelape.com/blog/create-social-media-marketing-campaign/",
+      "name": "How To Create A Social Media Marketing Campaign That Actually Works for Contractors",
+      "isPartOf": {
+        "@type": "WebSite",
+        "@id": "https://therebelape.com/#website"
+      },
+      "datePublished": "2019-07-05T12:15:00-06:00",
+      "dateModified": "2025-01-17T10:00:00-07:00"
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://therebelape.com"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Blog",
+          "item": "https://therebelape.com/blog"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "How To Create A Social Media Marketing Campaign",
+          "item": "https://therebelape.com/blog/create-social-media-marketing-campaign/"
+        }
+      ]
+    },
+    {
+      "@type": "HowTo",
+      "name": "How to create a social media marketing campaign for contractors",
+      "description": "Step-by-step guide to creating social media campaigns that build authority and make advertising more efficient for home service contractors",
+      "step": [
+        {
+          "@type": "HowToStep",
+          "name": "Find Your Contrarian Position",
+          "text": "Identify what industry problem makes you different and why you give a damn about your industry. This becomes your content wellspring and driving force for all social media content."
+        },
+        {
+          "@type": "HowToStep",
+          "name": "Start With The Owner's Story",
+          "text": "Feature the owner's authentic voice explaining why they're in business, rooted in solving a problem or fixing something broken in the industry—not about making money."
+        },
+        {
+          "@type": "HowToStep",
+          "name": "Take Controversial Stances",
+          "text": "Post content with strong opinions on controversial industry topics. People engage with content they have opinions about, and this builds authority through demonstrated expertise."
+        },
+        {
+          "@type": "HowToStep",
+          "name": "Test Messages, Then Scale What Works",
+          "text": "Pay attention to which posts get the most engagement and use those winning messages in your paid advertising campaigns and landing pages to improve efficiency."
+        },
+        {
+          "@type": "HowToStep",
+          "name": "Be Consistent, Not Omnipresent",
+          "text": "Pick one or two platforms where your audience exists and post 2-3 times per week with position-driven content rather than trying to maintain a presence everywhere."
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Do contractors really need to be on social media?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "You don't need to be everywhere, but you should have a presence on platforms where your customers spend time (typically Facebook for most contractors). Social media isn't about direct lead generation—it's about building authority, testing messages, and making your paid advertising more efficient by pre-selling your position."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How often should contractors post on social media?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Consistency matters more than frequency. Posting 2-3 times per week with position-driven content beats posting daily with generic content. Pick a schedule you can maintain long-term without burning out."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What should contractors post about on social media?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Post content that reinforces your position and demonstrates expertise: owner stories explaining why you're in business, controversial stances on industry problems, educational content showing common mistakes homeowners should avoid, and customer stories highlighting how you solve specific problems differently than competitors."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How long does it take to see results from social media?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Building authority takes time. Most contractors see engagement increase within 60-90 days of consistent posting, but the real payoff comes when that authority makes your paid advertising more efficient and your sales process easier because people already know your position before they contact you."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Should contractors run paid ads on social media or just post organically?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Both. Organic content builds your position and tests messaging. Paid ads amplify your best-performing messages to reach more people. The most effective strategy uses organic posts to identify winning messages, then scales those messages with paid advertising."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What platforms work best for contractors?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Facebook remains the primary platform for most home service contractors because that's where homeowners spend time and make buying decisions. YouTube works well for educational content. LinkedIn can work for commercial contractors. Skip platforms where your customers don't exist just to check a box."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How do I know if social media is working?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Don't measure success by follower counts. Look for engagement (comments, shares, saves), message validation (which posts resonate most), and whether people mention seeing your content when they contact you. The best indicator is when prospects come to you already sold on your approach because they've been following your content."
+          }
+        }
+      ]
+    }
+  ]
+}
