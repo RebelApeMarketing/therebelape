@@ -17,6 +17,8 @@ schema:
   faq: true
 ---
 
+# Why Most Contractor 'Avatars' Are Worthless (And How to Actually Know Your Customer)
+
 "Who's your ideal customer?"
 
 "Anyone who needs a roof."

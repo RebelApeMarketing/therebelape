@@ -17,6 +17,8 @@ schema:
   faq: true
 ---
 
+# Google Business Profile for Plumbers: Stop Leaving Money on the Table
+
 I was looking at a plumbing client's Google Business Profile last week and nearly lost my mind. Five years in business, decent reputation, gets referrals—but their GBP looked like they set it up in 2019 and never touched it again.
 
 The description? Stuffed with keywords like "plumber plumbing services emergency plumber near me." The services section? Half of it was stuff Google auto-filled that they don't even offer. Posts? Never used once. 
