@@ -5,7 +5,7 @@ description: "Social media isn't about going viral or posting daily. Learn why c
 excerpt: "Most contractors think social media is a waste of time or that AI can do it for them. Wrong on both counts. Here's why authentic social presence matters more than ever, and how to actually use it to make your marketing work better."
 author: "Adam Miconi"
 publishDate: "2019-03-01T12:00:00-07:00"
-lastModified: "2025-01-14T12:00:00-07:00"
+lastModified: "2026-01-14T12:00:00-07:00"
 image: "https://RebelApeCDN.b-cdn.net/featured-social-media-marketing-for-plumbers.webp"
 canonicalUrl: "https://therebelape.com/blog/5-reasons-you-need-social-media-marketing/"
 category: "Home Services Marketing"
@@ -270,7 +270,7 @@ And if you need help building a [complete marketing strategy](/blog/the-ultimate
         }
       },
       "datePublished": "2019-03-01T12:00:00-07:00",
-      "dateModified": "2025-01-14T12:00:00-07:00",
+      "dateModified": "2026-01-14T12:00:00-07:00",
       "mainEntityOfPage": {
         "@type": "WebPage",
         "@id": "https://therebelape.com/blog/5-reasons-you-need-social-media-marketing/"
@@ -314,7 +314,7 @@ And if you need help building a [complete marketing strategy](/blog/the-ultimate
       },
       "contactPoint": {
         "@type": "ContactPoint",
-        "telephone": "+1-801-917-0431",
+        "telephone": "+1-801-917-4310",
         "contactType": "Customer Service"
       },
       "sameAs": [

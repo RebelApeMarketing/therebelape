@@ -336,7 +336,7 @@ Or keep doing what you're doing. Just don't be surprised when your competitor wi
       },
       "contactPoint": {
         "@type": "ContactPoint",
-        "telephone": "+1-801-917-0431",
+        "telephone": "+1-801-917-4310",
         "contactType": "Customer Service"
       },
       "sameAs": [

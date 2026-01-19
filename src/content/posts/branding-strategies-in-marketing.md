@@ -387,7 +387,7 @@ Your brand should match your positioning, but "expensive-looking" isn't the same
         }
       },
       "datePublished": "2019-11-25T00:35:00-07:00",
-      "dateModified": "2025-01-16T10:00:00-07:00",
+      "dateModified": "2026-01-16T10:00:00-07:00",
       "mainEntityOfPage": {
         "@type": "WebPage",
         "@id": "https://therebelape.com/blog/branding-strategies-in-marketing/"
@@ -431,7 +431,7 @@ Your brand should match your positioning, but "expensive-looking" isn't the same
       },
       "contactPoint": {
         "@type": "ContactPoint",
-        "telephone": "+1-801-917-0431",
+        "telephone": "+1-801-917-4310",
         "contactType": "Customer Service"
       },
       "sameAs": [

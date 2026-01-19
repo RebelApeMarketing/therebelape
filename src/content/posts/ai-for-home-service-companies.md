@@ -264,7 +264,7 @@ Don't let another day pass while your competition captures the leads you should 
       },
       "contactPoint": {
         "@type": "ContactPoint",
-        "telephone": "+1-801-917-0431",
+        "telephone": "+1-801-917-4310",
         "contactType": "Customer Service"
       },
       "sameAs": [

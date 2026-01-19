@@ -285,7 +285,7 @@ But we always start with the foundation. Because billboards don't fix broken mar
       },
       "contactPoint": {
         "@type": "ContactPoint",
-        "telephone": "+1-801-917-0431",
+        "telephone": "+1-801-917-4310",
         "contactType": "Customer Service"
       },
       "sameAs": [

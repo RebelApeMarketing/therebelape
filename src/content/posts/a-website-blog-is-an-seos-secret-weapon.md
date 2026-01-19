@@ -261,7 +261,7 @@ If you're ready to turn your blog into an actual authority-building tool instead
       },
       "contactPoint": {
         "@type": "ContactPoint",
-        "telephone": "+1-801-917-0431",
+        "telephone": "+1-801-917-4310",
         "contactType": "Customer Service"
       },
       "sameAs": [

@@ -1,90 +1,472 @@
 ---
-title: "Find a Web Designer Near Ogden Utah"
+title: "Web Designer Near Ogden, Utah? You Probably Need a Marketing System Instead"
 slug: "find-a-web-designer-near-ogden-utah"
-description: "Looking for a web designer near Ogden, Utah? Discover whether a freelancer or agency is right for your business and why Rebel Ape stands out from the crowd."
-excerpt: "Choosing between a freelance web designer and a professional agency can make or break your online presence. Learn the pros and cons of each approach, what to look for in a web designer near Ogden, Utah, and why Rebel Ape Marketing delivers exceptional custom websites."
+description: "Searching for a web designer near Ogden? Most contractors don't need just a website - they need a marketing system that actually generates leads. Here's what to look for."
+excerpt: "Before hiring a web designer in Ogden, Utah, understand this: a beautiful website with zero traffic generates zero revenue. Here's why most contractors need a complete marketing system, not just web design."
+publishDate: "2022-08-10T14:00:00-06:00"
+lastModified: "2026-01-18T10:00:00-07:00"
 author: "Adam Miconi"
-publishDate: "2022-08-10T12:57:00-06:00"
-lastModified: ""
-image: "https://RebelApeCDN.b-cdn.net/featured-content-writing-utah.webp"
+image: "https://RebelApeCDN.b-cdn.net/featured-find-a-web-designer.webp"
 canonicalUrl: "https://therebelape.com/blog/find-a-web-designer-near-ogden-utah/"
-tags: []
+category: "Home Services Marketing"
+tags: ["website design", "contractor marketing", "Ogden Utah", "web design", "marketing strategy", "lead generation"]
 draft: false
+schema:
+  article: true
+  howTo: true
+  faq: true
 ---
-Looking for the **Best Web Designer Near Ogden**, Look No Further, Rebel Ape is the top-rated Web design and marketing agency to help you.
 
-You want to create a brand-new website for your business, but you have no idea where to begin. We comprehend. It might be challenging to build a website, especially if you're not extremely tech-savvy. You will typically obtain a custom-built site that suits your needs and looks professional if you outsource your [web design](/blog/clutchs-2022-leading-web-designer-from-utah/) to a professional. When it comes to achieving this, there are two major choices to consider: working with a web design firm or hiring a freelance web designer.
+# Web Designer Near Ogden, Utah? You Probably Need a Marketing System Instead
 
-A web designer, also referred to as a front-end developer, combines programming expertise with creativity to create user-friendly [websites for businesses](/services/website-design/) like yours. A brief outlining the design of your ideal website is often required when hiring a web designer. After that, they will construct it for you at a certain cost. If there is a component of the design that you don't like, they will almost always change it until you are happy.
+"If you build it, they will come... right?"
 
-Hiring a freelance web designer to construct a unique website for your company has several advantages. Here are some justifications as to why it could be a wise decision for you: 
+That's what a landscaping contractor kept asking us while we spent an extra month building his custom website. He was deeply involved in the process - choosing every color, reviewing every word, making sure the site perfectly captured his vision. The website turned out beautiful. Professional photography, clean design, compelling copy that told his story.
 
-## How to Find the Best Web Designer Near Ogden, for your business?
+Then he launched it. And... nothing. No Facebook post announcing it. No business cards with the new URL. No mention of it anywhere. The website just sat there on a server, looking gorgeous, generating exactly zero leads.
 
-**It might be less expensive than hiring a firm**
+He's not alone. We currently host 80+ contractor websites that are practically invisible. Beautiful designs that took weeks to build, sitting idle because their owners thought the hard part was getting the website made. They invested thousands in web design but zero dollars in actually marketing it.
 
-In general, hiring a freelancer directly rather than going through an agency will save you money. This is so since you're only hiring one expert to handle everything. With an agency, you are paying for a large team of specialists as well as commonly included office space and software.
+If you're searching for "web designer near Ogden" right now, here's what you actually need to know: **you don't have a web design problem. You have a marketing problem.**
 
-**You hire a person with extensive training**
+**TL;DR:** Most Ogden contractors searching for web designers actually need a marketing system, not just a website. A beautiful site with zero traffic generates zero revenue. Before hiring anyone to build or rebuild your website, understand that the website is just one piece of a larger framework - and without the rest of that framework (SEO, ads, social, content), you're building a billboard in your basement.
 
-You will be paying for a skilled web [designer with extensive experience who is knowledgeable about the nuances of website development](/blog/website-design-and-development-consultant/). A freelance web designer is aware of all the components, including design, usability, and functionality, that make up a successful website. They'll design the website according to your requirements. 
+## Why Contractors in Ogden Search for Web Designers
 
-**Your commitment to your project **
+In our experience working with Utah contractors, there are three main reasons you're looking for a web designer:
 
-New freelancers who haven't yet established a name for themselves typically rely on positive evaluations and word-of-mouth to bring in clients. You may be sure that they will be working very hard on your website in the hopes of possibly receiving a referral from you.
+**Your website is ancient.** You built it 5-7 years ago (or hired someone who did), and you haven't touched it since. The design looks dated, it's not mobile-friendly, and honestly, you're embarrassed to send people there.
 
-**More firsthand knowledge **
+**Your company outgrew your website.** You started as a one-truck operation, and now you're running 10 crews. Your website still shows that old content from when you were just doing basic residential work, but now you're bidding commercial projects and need to look the part.
 
-In comparison to working with an agency, working with a freelance web designer is probably going to be a more personable experience. Since freelancers are typically your primary communication channels, your message will reach them more quickly and possibly with greater clarity.
+**You never had a website.** You built your roofing, HVAC, or landscaping company through networking groups and Facebook. Word-of-mouth has been great, but now you want to look professional and maybe show up when people Google you.
 
-Despite the fact that independent web designers have a wealth of experience, there may be some drawbacks. For the following reasons, it might not be a smart move for you: 
+All of these are valid reasons to [invest in professional web design](/services/website-design/). But here's the problem: getting a new website built solves exactly none of these problems if you don't have a plan for what happens after it launches.
 
-**You only receive one set of talents**
+## The Field of Dreams Fallacy
 
-A freelancer typically just possesses one set of talents, like coding for web development. As a result, they might not be as proficient in other crucial abilities like design, web [copywriting](https://blog.hubspot.com/marketing/good-copywriting-practices-list), and marketing. 
+That landscaping contractor we mentioned? He wasn't wrong to invest in his website. The site we built him was legitimately good. Clean [high-converting design](/blog/high-converting-website-design-guide/), strong calls-to-action, [trust signals](/blog/increase-website-trust/) in all the right places, mobile-optimized, fast loading times.
 
-**Lower dependability **
+But he made the same mistake we see constantly: he thought the website itself would generate business.
 
-There will always be independent contractors who submit work late or to a subpar standard. This risk will be present, particularly if you are hiring them for the first time or if their website lacks any client testimonials.The fact that they are the sole one responsible for finishing your task could cause issues if they were sick. This can cause you to miss deadlines or run out of people to do the assignment. 
+It won't.
 
-**Lower level of quality **
+We have 80+ contractor websites sitting on our hosting right now that get virtually no traffic. Not because they're badly designed - some of them are beautiful. They get no traffic because:
+- No one is running Google Ads to them
+- No one is posting about them on social media  
+- They're not showing up in search because there's no [SEO strategy](/services/seo/)
+- The business cards still have the old website URL
+- The trucks don't mention the website at all
 
-Freelancers might manage several tasks concurrently. Depending on the rapport they have established with their other clients or how much money they are receiving, this is more likely to happen. It follows that your project might not always be their top priority.
+Google doesn't magically know your new website exists. Your potential customers don't either. A website without marketing is like printing business cards and leaving them in your desk drawer.
 
-**Being unable to manage bigger projects** 
+## What Most Web Designers Won't Tell You
 
-Since only one person is working on the project with a freelance website developer, it could take longer than if you outsourced to an agency. This could be a problem, particularly if you pay them to do a big assignment. 
+Here's the uncomfortable truth about hiring a web designer - freelance or agency, doesn't matter:
 
-**Utilizing a web design company **
+Most web designers are great at making websites. They understand design principles, they can code, they know how to make things look professional. What they typically don't understand is marketing.
 
-Web design firms frequently employ diverse teams of specialists to collaborate on projects. You may have to pay more for the experience these companies have since they have probably worked for some well-known brand names.
+They'll build you a gorgeous website with:
+- Beautiful hero images
+- Smooth animations  
+- Perfect color schemes
+- Flawless typography
 
-Hiring a web design company to construct a personalized website has several advantages. Here are some explanations as to why it might be a wise decision: 
+But they won't ask:
+- Where is your traffic coming from?
+- What happens when someone fills out your contact form?
+- How are you tracking which marketing channels send you leads?
+- What's your [conversion strategy](/blog/lead-generation-best-practices-master-conversion-strategies-for-2025/)?
+- How does this website fit into your larger [marketing plan](/blog/the-ultimate-guide-to-building-a-professional-marketing-plan-for-2025/)?
 
-**Multidisciplinary team **
+This isn't a criticism of web designers - it's just not their job. A carpenter can build you an amazing house, but they're not going to tell you how to furnish it or where to put your furniture. That's not what they do.
 
-With an agency, you have access to a large group of professionals, each with their particular set of abilities. The beautiful thing about this is that every component of your website will be expertly created and work together to provide a fantastic end product. 
+The problem is, most contractors don't realize this distinction exists until after they've spent $5,000-$15,000 on a website that generates zero ROI.
 
-An agency typically employs writers, editors, graphic designers, marketing specialists, [SEO](/services/seo/) specialists, project managers, and customer support personnel.
+## The Rebel Ape Approach: Websites as Marketing Hubs
 
-**Improved tools **
+When we [build websites for contractors](/services/website-design/), we're not building online brochures. We're building pre-sales mechanisms designed to work as the hub of an entire marketing framework.
 
-Agencies frequently have more budgets to spend on software and technology. Instead of a freelancer working alone, they will be able to complete the task considerably more quickly thanks to this. 
+Here's what that means:
 
-**Highly accomplished **
+**A website should be constantly working.** Not sitting idle. It should be getting updated with [new blog content](/blog/a-website-blog-is-an-seos-secret-weapon/) that helps you rank for search terms your customers are using. It should be the destination for your Google Ads. It should be where your social media posts send people to learn more.
 
-The combined experience of agencies will be much more than that of a typical freelancer. It implies that they will have a lot more experience building websites and will have established a routine that makes them a lot more effective.
+**A website should answer questions.** Before someone picks up the phone to call you, they're doing research. Your website should address their concerns, demonstrate your expertise, and [build trust](/blog/increase-website-trust/) before you ever talk to them. That's what we mean by "pre-sales mechanism."
 
-**Trustworthy **
+**A website should track everything.** We need to know if the traffic is coming from your [Google Business Profile](/services/google-business-profile/), from [paid ads](/services/ppc/), from organic search, or from social media. We need to know which pages people visit before they call. We need to know what's working so we can do more of it.
 
-These agencies probably have a reputation to keep because they have worked with well-known brands. They are more inclined to uphold a better standard of work and continue working on your project even if a team member is absent due to illness or vacation in order to retain their credibility. 
+**A website should be part of something bigger.** The website itself is just one piece. Where's your [SEO](/services/seo/) strategy to get organic traffic? Where are your ads driving qualified leads? What's your [social media presence](/blog/social-media-marketing-business-impact/) doing to build brand recognition? How are you capturing and nurturing leads?
 
-There are always disadvantages, even though web design services are a fantastic choice for many businesses: 
+This all doesn't have to happen at once. You can start small and add more marketing channels as you grow. But you need to start with a plan that goes beyond "build me a website."
 
-**Greater expense **
+## What to Actually Look for in Ogden
 
-You are paying for a team of experts, but you are also paying for their reputation and their enormous amount of experience. For new or smaller enterprises that lack the resources to pay a larger rate, this might not be an option. It is important to remember that not all companies have higher prices; others provide web design services at reasonable costs.
+If you're committed to hiring someone local in Ogden (or anywhere in Utah), here's what to ask them:
 
-**There are multiple points of contact**
+### Questions for Any Web Designer or Agency:
 
-When it comes to the handling of points of contact or the delivery of work, certain agencies have procedures they follow. Therefore, you will need to communicate with a different person at each stage of the website construction process. Larger organisations typically hire a project manager who serves as the main point of contact throughout the web development process to reduce this effect.
+**"What happens after you build my website?"**
+If they just say "we hand it over to you," that's a red flag. There should be some plan for traffic generation, whether that's SEO, ads, or content marketing.
+
+**"How will we track ROI?"**
+If they don't talk about [conversion tracking](/blog/our-secret-to-tracking-success-and-making-marketing-predictable/), call tracking, form submissions, or analytics setup, they're not thinking about your actual business results.
+
+**"Do I own the website and all its assets?"**
+This should be a non-negotiable yes. You should own your domain, your hosting, your design files, everything. We've seen too many contractors held hostage by web designers who technically own their site.
+
+**"What's your process for understanding my business?"**
+If they don't ask about your customers, your competition, your [unique value proposition](/blog/success-business-branding/), or your business goals, they're just going to build you a generic template site.
+
+**"Can you show me examples of contractor websites that actually generate leads?"**
+Anyone can show you pretty portfolios. Ask them to show you websites that drive measurable business results for home service companies specifically.
+
+### The Freelancer vs. Agency Question
+
+The original version of this post spent a lot of time comparing freelancers to agencies. Here's the real answer: it doesn't matter.
+
+What matters is whether they understand contractor marketing, not just web design.
+
+We've seen great work from solo freelancers who deeply understand the home services industry. We've seen terrible work from big agencies who treated a roofing company like they were selling software.
+
+The question isn't "agency or freelancer?" The question is: **"Do they understand that my website needs to generate revenue, and do they have a plan to make that happen?"**
+
+## The Most Common Objections (And Why They're Wrong)
+
+**"I can't afford marketing on top of a new website."**
+
+We hear this constantly. Here's the truth: if you can't afford to market your website, you can't afford the website.
+
+That's not being harsh - it's just math. A $10,000 website that sits idle is a $10,000 expense. A $6,000 website plus $4,000 in initial marketing that generates even one good commercial roofing job is revenue-positive.
+
+Start small if you need to. Maybe you begin with just a [Google Business Profile optimization](/services/google-business-profile/) and some basic [local SEO](/blog/local-seo-services-increase-local-visibility-and-drive-more-customers/). Maybe you run a small test [PPC campaign](/services/ppc/) to see what messaging works. But you need something beyond the website itself.
+
+**"My competitor just has a simple website and they're doing fine."**
+
+Cool. How do you know they're doing fine? 
+
+What you're seeing is their website. What you're not seeing is their repeat customer base, their referral network, their commercial contracts, or whether they're actually profitable.
+
+Besides, "my competitor is doing it" has never been a winning business strategy. You're not trying to match your competitor - you're trying to beat them.
+
+**"I just need something basic to get started."**
+
+This one we actually agree with - sort of. You don't need every bell and whistle on day one. But "basic" should still mean "functional for marketing."
+
+A basic website that can track conversions, captures leads effectively, works on mobile, and can be updated with content is fine. A basic website with no analytics, no SEO foundation, and no clear conversion path is just throwing money away.
+
+## What We Actually Do Differently
+
+At Rebel Ape, when someone comes to us asking for a website, our first question is: **"What's the business goal?"**
+
+Not "what colors do you like?" Not "do you want a slider?" Those questions come later.
+
+We want to know:
+- Are you trying to break into commercial work?
+- Are you trying to grow your residential service area?  
+- Do you need to establish credibility in a new market?
+- Are you competing on service quality or price?
+
+Then we build the website as part of a [marketing strategy](/blog/how-we-develop-our-powerful-marketing-strategies/) designed to achieve that goal.
+
+That might mean:
+- Building out service pages optimized for local SEO
+- Creating a [lead generation system](/blog/lead-generation-best-practices-master-conversion-strategies-for-2025/) that captures and qualifies leads
+- Setting up [conversion tracking](/blog/our-secret-to-tracking-success-and-making-marketing-predictable/) so you know which marketing dollars are working
+- Developing content that demonstrates expertise and builds trust
+- Integrating the website with your [Google Ads](/services/ppc/) or [Local Service Ads](/services/ppc/local-service-ads/)
+
+The website is the hub. But a hub without spokes is just a useless wheel.
+
+## How to Actually Generate Leads with Your New Website
+
+Let's say you hire someone (us or anyone else) to build you a great website. Now what?
+
+### Month 1-2: Foundation
+- Get your [Google Business Profile](/services/google-business-profile/) fully optimized
+- Set up call tracking so you know when the website generates calls
+- Install analytics and [conversion tracking](/blog/our-secret-to-tracking-success-and-making-marketing-predictable/)
+- Create or update all business collateral with the new URL
+- Make social media posts announcing the new site
+
+### Month 3-4: Content & SEO
+- Start publishing [blog content](/blog/a-website-blog-is-an-seos-secret-weapon/) targeting questions your customers ask
+- Build out [topical authority](/blog/do-keywords-still-matter-for-seo/) in your service area
+- Optimize existing pages for local search terms
+- Get your on-page [SEO fundamentals](/blog/on-page-seo-tips/) dialed in
+
+### Month 5-6: Paid Traffic
+- Launch a small test [PPC campaign](/services/ppc/) to your highest-value services
+- Test messaging and offers to see what converts
+- Use data from paid campaigns to inform organic strategy
+- Scale what's working, kill what's not
+
+### Ongoing: Optimization
+- Continuously test and improve conversion rates
+- Add trust signals, testimonials, case studies
+- Update content based on seasonal services
+- Monitor [what's working and what's not](/blog/our-secret-to-tracking-success-and-making-marketing-predictable/)
+
+Notice that nowhere in there does it say "build website and wait." This is active work. This is marketing.
+
+## The Bottom Line
+
+If you're searching for "web designer near Ogden, Utah," you're asking the wrong question.
+
+The right question is: **"Who can build me a website AND help me generate leads with it?"**
+
+A beautiful website with zero traffic is worthless. A decent website with a solid marketing plan behind it is invaluable.
+
+We're not saying don't hire a web designer. We're saying don't ONLY hire a web designer. Make sure whoever you work with understands that the website is just the beginning, not the end.
+
+And if you're in Ogden, Salt Lake, or anywhere in Utah and want to talk about building a website that actually generates revenue instead of just looking pretty, [let's talk](/contact/). We've built 80+ websites for contractors. The ones that succeed all have one thing in common: their owners understand that web design is just one piece of a bigger marketing puzzle.
+
+The question is: are you ready to put the whole puzzle together?
+
+## Frequently Asked Questions
+
+### How much should I expect to pay for a website in Ogden, Utah?
+
+For a quality contractor website built for conversions (not just aesthetics), expect to invest $5,000-$15,000 depending on complexity. But remember: the website cost is just the start. Budget for ongoing marketing too. A $10,000 website with zero marketing budget generates zero ROI.
+
+### Should I hire a local Ogden web designer or work with someone remote?
+
+Location doesn't matter as much as expertise. A remote agency that specializes in contractor marketing will serve you better than a local designer who's never worked with home services companies. That said, local designers who understand the Ogden market can be valuable if they also understand marketing strategy.
+
+### How long does it take to see results from a new website?
+
+If you're just launching a website with no marketing behind it? You might never see results. With proper SEO and marketing, expect 3-6 months to start seeing organic traffic gains, and immediate results from paid advertising if set up correctly. The website itself generates leads on day one if you're actively driving traffic to it.
+
+### Do I really need to blog on my contractor website?
+
+Yes. Blogging is how you build topical authority with Google, demonstrate expertise to potential customers, and create content to share on social media. Contractors who consistently publish valuable content significantly outperform those with static websites. It's not about daily posts - even one quality article per month makes a difference.
+
+### What's the difference between a web designer and a marketing agency?
+
+A web designer builds websites. A marketing agency builds marketing systems (which include websites). If you hire just a designer, you get a website. If you hire a marketing agency that does web design, you get a website plus the strategy to actually generate leads with it. Most contractors need the latter, not the former.
+
+### Can't I just use a website builder like Wix or Squarespace?
+
+You can, but you probably shouldn't if you're serious about generating leads. DIY website builders are fine for basic online presence, but they're limited in their conversion optimization, SEO capabilities, and integration with marketing tools. For a professional contractor business doing six or seven figures, invest in a proper custom website built for lead generation.
+
+### How do I know if my current website is worth keeping or needs to be rebuilt?
+
+Ask yourself: Is it mobile-friendly? Does it load quickly? Can you easily update content? Does it clearly communicate what you do and why someone should call you? Is it tracking conversions? If you answered no to more than two of these, it's probably time for a rebuild. The bigger question is: what marketing are you doing to drive traffic to it?
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Article",
+      "headline": "Web Designer Near Ogden, Utah? You Probably Need a Marketing System Instead",
+      "description": "Searching for a web designer near Ogden? Most contractors don't need just a website - they need a marketing system that actually generates leads. Here's what to look for.",
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://RebelApeCDN.b-cdn.net/featured-content-writing-utah.webp",
+        "width": 1200,
+        "height": 630
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Adam Miconi",
+        "url": "https://therebelape.com/about/",
+        "jobTitle": "Founder, Rebel Ape Marketing",
+        "knowsAbout": [
+          "Contractor marketing",
+          "Web design for home services",
+          "Conversion rate optimization",
+          "Marketing strategy",
+          "Lead generation"
+        ]
+      },
+      "reviewedBy": {
+        "@type": "Person",
+        "name": "Adam Miconi"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "Rebel Ape Marketing",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://therebelape.com/logo.png"
+        }
+      },
+      "datePublished": "2022-08-10T14:00:00-06:00",
+      "dateModified": "2026-01-18T10:00:00-07:00",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://therebelape.com/blog/find-a-web-designer-near-ogden-utah/"
+      },
+      "speakable": {
+        "@type": "SpeakableSpecification",
+        "xpath": [
+          "/html/head/title",
+          "/html/body//h1",
+          "/html/body//h2"
+        ]
+      }
+    },
+    {
+      "@type": "Person",
+      "@id": "https://therebelape.com/about/#person",
+      "name": "Adam Miconi",
+      "url": "https://therebelape.com/about/",
+      "jobTitle": "Founder, Rebel Ape Marketing",
+      "knowsAbout": [
+        "Contractor marketing",
+        "Web design for home services",
+        "Conversion rate optimization",
+        "Marketing strategy",
+        "Lead generation"
+      ],
+      "sameAs": [
+        "https://www.linkedin.com/company/rebel-ape-marketing",
+        "https://x.com/therebelape",
+        "https://www.facebook.com/therebelapemarketing"
+      ]
+    },
+    {
+      "@type": "Organization",
+      "@id": "https://therebelape.com/#organization",
+      "name": "Rebel Ape Marketing",
+      "url": "https://therebelape.com",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://therebelape.com/logo.png"
+      },
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+1-801-917-4310",
+        "contactType": "Customer Service"
+      },
+      "sameAs": [
+        "https://www.linkedin.com/company/rebel-ape-marketing",
+        "https://x.com/therebelape",
+        "https://www.facebook.com/therebelapemarketing"
+      ]
+    },
+    {
+      "@type": "WebPage",
+      "url": "https://therebelape.com/blog/find-a-web-designer-near-ogden-utah/",
+      "name": "Web Designer Near Ogden, Utah? You Probably Need a Marketing System Instead",
+      "isPartOf": {
+        "@type": "WebSite",
+        "@id": "https://therebelape.com/#website"
+      },
+      "datePublished": "2022-08-10T14:00:00-06:00",
+      "dateModified": "2026-01-18T10:00:00-07:00"
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://therebelape.com"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Blog",
+          "item": "https://therebelape.com/blog"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Web Designer Near Ogden Utah",
+          "item": "https://therebelape.com/blog/find-a-web-designer-near-ogden-utah/"
+        }
+      ]
+    },
+    {
+      "@type": "HowTo",
+      "name": "How to Generate Leads with Your New Contractor Website",
+      "description": "Step-by-step guide for contractors to turn their new website into a lead generation machine",
+      "step": [
+        {
+          "@type": "HowToStep",
+          "name": "Build the Foundation",
+          "text": "Get your Google Business Profile fully optimized, set up call tracking to know when the website generates calls, install analytics and conversion tracking, create or update all business collateral with the new URL, and make social media posts announcing the new site."
+        },
+        {
+          "@type": "HowToStep",
+          "name": "Create Content and SEO Strategy",
+          "text": "Start publishing blog content targeting questions your customers ask, build out topical authority in your service area, optimize existing pages for local search terms, and get your on-page SEO fundamentals dialed in."
+        },
+        {
+          "@type": "HowToStep",
+          "name": "Launch Paid Traffic Campaigns",
+          "text": "Launch a small test PPC campaign to your highest-value services, test messaging and offers to see what converts, use data from paid campaigns to inform organic strategy, and scale what's working while eliminating what doesn't perform."
+        },
+        {
+          "@type": "HowToStep",
+          "name": "Optimize Continuously",
+          "text": "Continuously test and improve conversion rates, add trust signals, testimonials and case studies, update content based on seasonal services, and monitor what's working and what's not to refine your approach."
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "How much should I expect to pay for a website in Ogden, Utah?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "For a quality contractor website built for conversions (not just aesthetics), expect to invest $5,000-$15,000 depending on complexity. But remember: the website cost is just the start. Budget for ongoing marketing too. A $10,000 website with zero marketing budget generates zero ROI."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Should I hire a local Ogden web designer or work with someone remote?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Location doesn't matter as much as expertise. A remote agency that specializes in contractor marketing will serve you better than a local designer who's never worked with home services companies. That said, local designers who understand the Ogden market can be valuable if they also understand marketing strategy."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How long does it take to see results from a new website?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "If you're just launching a website with no marketing behind it, you might never see results. With proper SEO and marketing, expect 3-6 months to start seeing organic traffic gains, and immediate results from paid advertising if set up correctly. The website itself generates leads on day one if you're actively driving traffic to it."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do I really need to blog on my contractor website?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. Blogging is how you build topical authority with Google, demonstrate expertise to potential customers, and create content to share on social media. Contractors who consistently publish valuable content significantly outperform those with static websites. It's not about daily posts - even one quality article per month makes a difference."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What's the difference between a web designer and a marketing agency?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A web designer builds websites. A marketing agency builds marketing systems (which include websites). If you hire just a designer, you get a website. If you hire a marketing agency that does web design, you get a website plus the strategy to actually generate leads with it. Most contractors need the latter, not the former."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can't I just use a website builder like Wix or Squarespace?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "You can, but you probably shouldn't if you're serious about generating leads. DIY website builders are fine for basic online presence, but they're limited in their conversion optimization, SEO capabilities, and integration with marketing tools. For a professional contractor business doing six or seven figures, invest in a proper custom website built for lead generation."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How do I know if my current website is worth keeping or needs to be rebuilt?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ask yourself: Is it mobile-friendly? Does it load quickly? Can you easily update content? Does it clearly communicate what you do and why someone should call you? Is it tracking conversions? If you answered no to more than two of these, it's probably time for a rebuild. The bigger question is: what marketing are you doing to drive traffic to it?"
+          }
+        }
+      ]
+    }
+  ]
+}
+</script>

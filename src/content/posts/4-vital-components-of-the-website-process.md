@@ -4,7 +4,7 @@ slug: "4-vital-components-of-the-website-process"
 description: "Most contractor websites are built to look pretty or work smoothly—but not to generate leads. Here's what actually matters for roofing and home service websites that convert."
 excerpt: "Your designer made it beautiful. Your developer made it fast. So why isn't your contractor website generating leads? The truth is, most websites are built for portfolios, not revenue."
 publishDate: "2019-11-24T03:02:00-07:00"
-lastModified: "2025-01-14T14:27:00-07:00"
+lastModified: "2026-01-14T14:27:00-07:00"
 author: "Adam Miconi"
 image: "https://RebelApeCDN.b-cdn.net/featured-4-vital-components.webp"
 canonicalUrl: "https://therebelape.com/blog/4-vital-components-of-the-website-process/"
@@ -274,7 +274,7 @@ Want us to audit your current setup? [Get in touch](/contact/). We'll tell you e
         }
       },
       "datePublished": "2019-11-24T03:02:00-07:00",
-      "dateModified": "2025-01-14T14:27:00-07:00",
+      "dateModified": "2026-01-14T14:27:00-07:00",
       "mainEntityOfPage": {
         "@type": "WebPage",
         "@id": "https://therebelape.com/blog/4-vital-components-of-the-website-process/"
@@ -318,7 +318,7 @@ Want us to audit your current setup? [Get in touch](/contact/). We'll tell you e
       },
       "contactPoint": {
         "@type": "ContactPoint",
-        "telephone": "+1-801-917-0431",
+        "telephone": "+1-801-917-4310",
         "contactType": "Customer Service"
       },
       "sameAs": [

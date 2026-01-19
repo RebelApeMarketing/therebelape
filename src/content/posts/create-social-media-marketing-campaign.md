@@ -5,7 +5,7 @@ description: "Create social media campaigns that actually work for contractors. 
 excerpt: "Content is king, but strategy is everything. With millions of posts created every minute, your social media campaign needs a solid strategy to stand out. Discover the proven framework for setting goals, researching audiences, and analyzing performance that turns campaigns into success stories."
 author: "Adam Miconi"
 publishDate: "2019-07-05T12:15:00-06:00"
-lastModified: "2025-01-17T10:00:00-07:00"
+lastModified: "2026-01-17T10:00:00-07:00"
 image: "https://RebelApeCDN.b-cdn.net/featured-social-media-campaign.webp"
 canonicalUrl: "https://therebelape.com/blog/create-social-media-marketing-campaign/"
 category: "Social Media Marketing"
@@ -277,7 +277,7 @@ Don't measure success by follower counts. Look for engagement (comments, shares,
         }
       },
       "datePublished": "2019-07-05T12:15:00-06:00",
-      "dateModified": "2025-01-17T10:00:00-07:00",
+      "dateModified": "2026-01-17T10:00:00-07:00",
       "mainEntityOfPage": {
         "@type": "WebPage",
         "@id": "https://therebelape.com/blog/create-social-media-marketing-campaign/"
@@ -321,7 +321,7 @@ Don't measure success by follower counts. Look for engagement (comments, shares,
       },
       "contactPoint": {
         "@type": "ContactPoint",
-        "telephone": "+1-801-917-0431",
+        "telephone": "+1-801-917-4310",
         "contactType": "Customer Service"
       },
       "sameAs": [

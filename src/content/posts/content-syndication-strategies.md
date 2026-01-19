@@ -434,7 +434,7 @@ Both. But if you're choosing between driving 2 hours for a bid that might close 
       },
       "contactPoint": {
         "@type": "ContactPoint",
-        "telephone": "+1-801-917-0431",
+        "telephone": "+1-801-917-4310",
         "contactType": "Customer Service"
       },
       "sameAs": [
