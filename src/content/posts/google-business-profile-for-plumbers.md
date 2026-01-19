@@ -1,150 +1,466 @@
 ---
-title: "Google Business Profile for Plumbers: How to Dominate Local Search"
+title: "Google Business Profile for Plumbers: Stop Leaving Money on the Table"
 slug: "google-business-profile-for-plumbers"
-description: "Plumbers: stop leaving money on the table. Learn how to optimize your Google Business Profile to dominate local search and generate consistent plumbing leads."
-excerpt: "If you're not leveraging your Google Business Profile, you're handing customers to competitors. This comprehensive guide shows plumbers exactly how to claim, optimize, and manage their profile to rank higher in local search, get more reviews, and generate consistent high-quality leads."
+description: "Most plumbers set up their Google Business Profile once and forget it. Here's why that's costing you jobs—and how to actually optimize it for leads."
+excerpt: "Your Google Business Profile is probably half-finished, stuffed with old keywords, and filled with services you don't even offer. Here's how to fix it and stop handing calls to your competitors."
 author: "Adam Miconi"
 publishDate: "2025-04-21T12:05:00-06:00"
-lastModified: ""
-image: "https://RebelApeCDN.b-cdn.net/featured-google-business-profile-for-plumbers.webp"
+lastModified: "2026-01-18T09:30:00-07:00"
+image: "https://RebelApeCDN.b-cdn.net/featured-google-business-profile-for-plumbers-office.webp"
 canonicalUrl: "https://therebelape.com/blog/google-business-profile-for-plumbers/"
-tags: []
+category: "Local SEO"
+tags: ["google business profile", "plumber marketing", "local seo", "plumbing leads", "home services marketing"]
 draft: false
+schema:
+  article: true
+  howTo: true
+  faq: true
 ---
-If you're a plumber and you're not fully leveraging your **Google Business Profile for Plumbers**, you're leaving serious money on the table. This isn’t just some minor [plumber SEO](/services/seo/) tweak—it’s one of the most powerful tools you have to show up in local search, get found on maps, and generate calls from high-intent customers in your area.
 
-This guide walks you through exactly how to optimize, manage, and leverage your Google Business Profile to get more plumbing jobs consistently.
+I was looking at a plumbing client's Google Business Profile last week and nearly lost my mind. Five years in business, decent reputation, gets referrals—but their GBP looked like they set it up in 2019 and never touched it again.
+
+The description? Stuffed with keywords like "plumber plumbing services emergency plumber near me." The services section? Half of it was stuff Google auto-filled that they don't even offer. Posts? Never used once. 
+
+And here's the kicker: when I asked who manages it, they said, "Oh, our old marketing agency handles that."
+
+No they don't.
+
+**TL;DR:** Most plumbers set up their Google Business Profile, add their address and phone number, then completely forget about it. Meanwhile, Google keeps auto-filling it with generic garbage, old agencies leave keyword-stuffed descriptions from 2018, and you're wondering why the calls aren't coming in. This guide shows you what actually needs to be done—and why most agencies are screwing this up for you.
 
 https://www.youtube.com/watch?v=knJqyfL2f-A
 
-## Why a Google Business Profile for Plumbers Matters
+## Why Your Google Business Profile Probably Sucks (And Why That's Costing You Jobs)
 
-Most plumbers I talk to are so focused on their website or ads that they completely overlook their Google Business Profile—yet it’s often the first thing potential customers actually see. If someone searches “plumber near me,” that little map pack at the top is where the magic happens, and it’s pulling data from your Business Profile.
+Let me be blunt: if someone searches "plumber near me" and you're not showing up in that map pack, you're losing money. Every. Single. Day.
 
-If your profile isn’t showing up—or it looks half-done—you’re probably getting skipped over. This isn’t optional anymore. It’s one of the most powerful free tools you have to get more local calls, so it’s worth taking seriously.
+Your [Google Business Profile](/services/google-business-profile/) isn't just a nice-to-have. It's often the first thing a homeowner sees when they're looking for a plumber. And if it looks half-finished, generic, or worse—exactly like your competitor's—they're moving on to the next guy.
 
-## Step 1: Claim and Verify Your Google Business Profile
+Here's what I see constantly:
 
-Before you can optimize anything, you’ve got to have full access. I’ve seen way too many business owners who don’t even own their own listing. Maybe an old agency set it up. Maybe it was a random employee. Either way, if you don’t control it, you’re at risk.
+- **Old keyword-stuffed descriptions** that read like garbage and haven't been updated since 2019
+- **Empty service descriptions** where Google just pulled generic text from your equally generic website
+- **Services you don't even offer** because Google added them automatically and no one ever cleaned them up
+- **Zero use of posts or offers** because most plumbers don't even know they exist
+- **Review requests that happen once**, maybe twice if they remember, then never again
 
-Getting verified and becoming the primary owner is a non-negotiable step. That way, you’re protected long-term and can invite your marketing agency or team in as collaborators—not gatekeepers.
+And if you handed this off to a marketing agency? Most of them have no idea what they're doing either. They'll add a few more generic service descriptions, copy-paste some boilerplate messaging, and call it optimized.
 
-Go to google.com/business, search for your business, and claim it. If you already have a listing, request ownership. If you don’t, create one and verify it right away—Google will usually send a postcard to your physical address to make sure you're legit.
+It's not optimized. It's just more generic nonsense on top of your existing generic nonsense.
 
-## Step 2: Fully Optimize Your Profile
+## The Problem: Everyone's Profile Looks Exactly the Same
 
-Having a profile isn’t enough. Google wants to know who you are, what you do, and whether you’re a legit company worth recommending. And the only way it can tell is by how complete and relevant your info is.
+We recently did the biggest Google Business Profile overhaul we'd ever done. We analyzed every single client account we'd taken over from other agencies—and what we found was embarrassing.
 
-This is your chance to speak Google’s language. You’re basically feeding it signals that say, “Hey, this is what we do, and we do it well.” If it’s half-filled or full of random info, you’re not going to rank well—and potential customers won’t trust you either.
+Here's what "optimized" looked like according to most agencies:
 
-### &#x2714; Business Categories
+- Business name: ✓
+- Phone number: ✓
+- Address: ✓
+- A description (usually keyword-stuffed): ✓
+- Maybe 5-10 services with no descriptions: ✓
 
-Your primary category should be **Plumber**. Then add a few relevant secondary categories like **Water Heater Installation**, **Drain Cleaning**, or **Sewer Services**—but keep it tight. Don’t add 20 categories. Just focus on what you really do.
+That's it. That's what they called a complete profile.
 
-### &#x2714; Services
+Meanwhile, Google was auto-filling the rest with generic content pulled from generic websites. Services the business didn't offer. Categories that made no sense. Descriptions that sounded like every other plumber in town.
 
-Use the Services section to list your actual offerings. You can include things like:
+**We rewrote everything.**
 
-- Water heater repair
-- Drain cleaning
-- Emergency plumbing
-- Toilet installation
-- Pipe leak detection
+- 9 businesses completely transformed
+- 22,255+ words of strategic content created
+- 150+ services fully filled out with real descriptions
+- 25+ business categories properly optimized
+- Average 2,472 words per business profile
 
-Each service allows for a short description, so take the opportunity to include local keywords naturally—like “Our team provides fast and reliable drain cleaning in North Ogden.”
+Not fluff. Not keyword stuffing. Actual descriptions that explain what the company does, how they do it, and why they're different. Real [positioning and messaging](/blog/getting-to-know-your-customer-avatar-the-ultimate-guide-to-better-marketing/) that reflects how the business actually talks to customers.
 
-### &#x2714; Business Description
+And you know what happened? Rankings improved. Calls increased. Customers actually understood what these businesses offered.
 
-Keep this clear and natural. Talk about who you are, what you do, how long you’ve been around, and what makes you different. Sprinkle in some keywords, but don’t stuff it. Just write it like you'd explain your business to a customer face-to-face.
+## What Actually Needs to Be Done (The Rebel Ape Method)
 
-## Step 3: Make Sure Your NAP is Consistent (Name, Address, Phone)
+Here's the truth: your Google Business Profile isn't a set-it-and-forget-it thing. It's a living, breathing piece of your marketing system—and if you're not treating it that way, you're getting beat by someone who is.
 
-This one seems small, but it’s actually a big deal. Google wants to see that your business info matches across the internet. If your business name, phone number, or address is slightly different on other sites, that can hurt your credibility in their eyes.
+### Step 1: Claim It and Actually Own It
 
-Think of it like this: if Google sees five versions of your business with slightly different info, it might not be sure which one is real. And if Google’s confused, it’s going to move on to the next business that looks more trustworthy.
+I've talked to too many business owners who don't even have access to their own profile. An old employee set it up. A previous agency controlled it. Now they're locked out of their own business listing.
 
-You can run a quick check using Moz Local or BrightLocal. Or just search your business name and start checking the top listings to make sure everything matches exactly—letter for letter.
+That's unacceptable.
 
-## Step 4: Get More Reviews (And Respond to Them)
+Go to google.com/business, find your listing, and claim it. If someone else has access, request ownership. You should be the primary owner—then you can invite your agency or team in as managers. Never the other way around.
 
-Reviews do two things: they build trust with your customers and help you rank better in search. It’s a win-win. But if you’re just sitting back hoping customers leave reviews on their own, you’re going to fall behind.
+### Step 2: Fill Out Every Single Field (For Real This Time)
 
-You need a system. It doesn’t have to be complicated—but you should have a process for asking every happy customer for a review. And when they leave one, don’t ignore it. Respond to every review like it matters—because it absolutely does.
+Google gives you a ton of space to talk about your business. Most plumbers use about 10% of it.
 
-### Ways to get more reviews:
+Here's what actually needs to be filled out:
 
-- Use a CRM or software that sends review requests after a job
-- Text or email customers a direct link to your review form
-- Use QR codes on your invoices, postcards, or stickers
-- Include the request in your thank-you process
+**Business Categories**
 
-### Pro tip:
+Your primary category should be **Plumber**—that's non-negotiable. Then add secondary categories that match what you actually do: Water Heater Installation, Drain Cleaning Service, Septic System Service, whatever fits.
 
-Don’t offer rewards for reviews or ask for a specific rating. Google doesn’t like that. Just ask genuinely and make it easy to leave one.
+But don't go crazy. I've seen profiles with 15+ categories trying to game the system. Pick 3-5 that are actually relevant and move on.
 
-## Step 5: Post Regularly on Your Profile
+**Business Description**
 
-Most people don’t even realize this is a thing, but yeah—you can post updates on your Google Business Profile, just like social media. And Google actually pays attention to it. Posting regularly shows that you’re active, current, and engaged with your customers.
+This is where most plumbers screw up. They either leave it empty, let Google auto-fill it with nonsense, or stuff it full of keywords like it's 2012.
 
-Plus, it’s an easy way to talk about seasonal services, promotions, or just let people know what’s going on. It keeps your profile fresh and gives you a small edge that most of your competitors probably aren’t even using.
+Write this like you're explaining your business to a customer. Who are you? How long have you been around? What do you specializ in? What makes you different from the twenty other plumbers in town?
 
-Posts last about 7 days and can include photos, offers, and calls to action. Even posting once a week can help improve visibility—and shows Google (and your customers) that your business is alive and kicking.
+Include some local keywords naturally (because Google does care about that), but for the love of god, make it readable. If it sounds like a robot wrote it, rewrite it. This is the same approach you should take with your [website content](/blog/high-converting-website-design-guide/)—write for humans first, search engines second.
 
-## Step 6: Keep Your Info Updated
+**Services Section**
 
-Your business isn’t static, and your profile shouldn’t be either. If your hours change, if you add a new service, or if you switch locations, update it immediately. Leaving old info up is a surefire way to lose business.
+This is the big one—and where most agencies completely drop the ball.
 
-Customers rely on this stuff. They’re checking when you’re open, whether you offer the service they need, and if you’re even still in business. Keeping everything up to date builds trust—and helps you stay in Google’s good graces.
+You should have 15-20 services listed, and **every single one should have a description**. Not just a title. A real description that explains what the service is, why someone might need it, and what's included.
 
-Don't forget to update things like special holiday hours or unexpected closures. Those little updates go a long way when customers are deciding who to call.
+Examples:
 
-## Step 7: Leverage Insights and Analytics
+- **Water Heater Repair**: "Is your water heater making strange noises or not heating properly? We diagnose and repair all types of water heaters—gas, electric, and tankless—often the same day you call."
+- **Emergency Drain Cleaning**: "Clogged drains don't wait for business hours. We offer 24/7 emergency drain cleaning for sinks, toilets, showers, and main sewer lines."
+- **Leak Detection and Repair**: "Hidden leaks can cause serious damage. We use advanced leak detection equipment to find and fix leaks fast, saving you money on water bills and preventing costly repairs."
 
-Most people don’t even know this section exists, but Google actually shows you how people are finding and interacting with your business profile. It’s free data you should absolutely be using.
+See the difference? That's not keyword stuffing. That's actual information that helps a customer understand what you do and why they should call you.
 
-You can see what keywords people searched to find you, how many clicked your website, how many called you directly from the map—it’s a goldmine. And it helps you make smarter decisions about where to focus your time and effort.
+And here's the thing: if Google auto-filled your services with generic crap, **delete it**. Go through every service, remove anything you don't actually offer, and rewrite the rest in your own voice.
 
-Pay attention to trends here. If you’re getting a lot of views but no calls, maybe your photos or business description need work. If your calls spike after posting weekly updates, keep doing that. Let the data guide your strategy.
+We did this for our clients and the difference was night and day. Instead of 40 random auto-generated services, they had 18 strategic, well-written services that actually reflected what they do. That's how you stand out.
+
+**Posts and Offers**
+
+Most plumbers have never posted anything on their Google Business Profile. Ever.
+
+That's a missed opportunity. Google actually pays attention to this stuff—it shows you're active, engaged, and current. Plus, it's another chance to talk about what you do and why people should call you.
+
+Post once a week if you can. Talk about seasonal services (water heater tune-ups before winter), share before-and-after photos, promote special offers, or just let people know you're available for emergency calls.
+
+It doesn't have to be fancy. Just consistent.
+
+### Step 3: Get Consistent With NAP (Name, Address, Phone)
+
+Your business info needs to match everywhere online. If your business name is "Smith Plumbing" on Google but "Smith Plumbing LLC" on Yelp and "Smith's Plumbing Services" on your website, Google gets confused.
+
+And if Google's confused, you're not ranking as well as you could be. This is basic [local SEO](/blog/local-seo-services-increase-local-visibility-and-drive-more-customers/) stuff, but most plumbers ignore it.
+
+Run a quick audit. Search your business name and check the top 5-10 listings. Make sure your name, address, and phone number are exactly the same everywhere. If they're not, fix it.
+
+Tools like Moz Local or BrightLocal can help, but honestly, you can just do this manually if you've got an hour to spare.
+
+### Step 4: Get Aggressive About Reviews (And Actually Follow Up)
+
+Here's the pushback I get all the time: "We ask for reviews, but people just don't leave them."
+
+Okay. How many times did you ask?
+
+Most plumbers ask once, maybe send one text or email, then give up. That's not enough.
+
+You need a system. Every happy customer should get asked for a review—not once, but multiple times. Send a text right after the job. Follow up with an email two days later. Send one more reminder a week after that.
+
+Make it stupidly easy. Send them a direct link. Use a QR code on your invoice. Text them from your CRM.
+
+And when someone does leave a review—respond to it. Every single one. Good reviews, bad reviews, doesn't matter. Responding shows Google (and future customers) that you're engaged and that you care. It's the same reason you should be monitoring and responding to [online reviews](/blog/online-reviews/) across all platforms.
+
+Reviews do two things: they build trust with customers, and they help you rank better in local search. You can't afford to half-ass this.
+
+### Step 5: Keep It Updated (Because Your Business Isn't Static)
+
+Your hours change. You add new services. You run a seasonal promotion. You close for a holiday.
+
+If your Google Business Profile doesn't reflect that, you're losing business.
+
+I've seen plumbers lose calls because their profile said they were closed when they were actually open. Or customers showed up expecting a service they stopped offering two years ago because no one ever updated the listing.
+
+Treat this like it matters—because it does. Update your hours immediately when they change. Add new services as you offer them. Remove old promotions when they expire.
+
+It takes five minutes and it keeps you from looking incompetent.
+
+## Why Most Agencies Screw This Up
+
+Let me tell you why most marketing agencies are terrible at managing Google Business Profiles: they treat it like a checkbox.
+
+"Oh, we set up your GBP as part of onboarding."
+
+Great. Did you fill out the services? Did you write descriptions that actually sound like the business? Did you clean up all the auto-generated nonsense Google added?
+
+"Uh... we added a description."
+
+Right. A generic description that could apply to literally any plumber in America.
+
+Here's the thing: most agencies don't understand [positioning and messaging](/blog/branding-strategies-in-marketing/). They don't know how to make a business sound different because they've never actually talked to the owner about what makes them different.
+
+So they copy-paste some boilerplate nonsense, call it optimized, and move on.
+
+That's not optimization. That's laziness.
+
+When we take over a client from another agency, the first thing we do is audit their entire Google Business Profile. And almost every time, it's half-finished, poorly written, and completely generic.
+
+Then we rewrite everything. We fill out every service description. We add posts. We clean up the categories. We make sure the messaging actually matches how the business talks to customers.
+
+**That's** what optimization looks like.
+
+## The Bottom Line
+
+If someone searches "plumber near me" and your Google Business Profile looks like everyone else's, you're losing calls. Simple as that.
+
+Most plumbers set it up once, let it sit there gathering dust, and wonder why they're not getting more leads. Meanwhile, the plumber who actually filled everything out, kept it updated, and drove reviews aggressively is taking all the calls.
+
+Don't be the guy who half-asses this.
+
+If you're serious about getting more plumbing jobs from local search, your Google Business Profile needs to be fully optimized—not just set up. That means complete service descriptions, regular posts, aggressive review collection, and messaging that actually reflects how you do business. The same principles apply to your [SEO strategy](/blog/seo-tips-for-plumbers/) and your [website conversion optimization](/blog/plumbing-website-conversion-fixes/)—it's all connected.
+
+And if your current agency isn't doing this? Fire them and find someone who will.
+
+We specialize in [local SEO for home service companies](/services/seo/)—and we actually know what we're doing. If you want us to audit your Google Business Profile and show you what's missing, [schedule a call](https://therebelape.com/schedule/) or give us a shout at **(801) 917-4310**.
+
+Or if you want to DIY this, download our [Ultimate Online Marketing Checklist](https://uomc.therebelape.com/) and start fixing it yourself. Either way, stop leaving money on the table.
 
 ## FAQs About Google Business Profiles for Plumbers
 
-### **How do I get more reviews if I barely have any customers yet?**
+### How do I get more reviews if customers just don't leave them?
 
-Start with friends and family who have used your service. Ask politely, send them a direct link, and make it easy. Every review counts.
+Ask more than once. Send a text right after the job. Follow up with an email two days later. Send another reminder a week later. Make it stupidly easy with a direct link. Most plumbers ask once and give up—that's why they don't get reviews.
 
-### **Can I have more than one location listed?**
+### Can I have multiple locations on one profile?
 
-Yes—but only if you have real, staffed physical locations. Don’t try to game the system with fake addresses. Google’s smarter than that now.
+No. Each physical location needs its own profile. And don't try to fake it with a PO box or virtual address—Google's smarter than that now and you'll get penalized.
 
-### **What’s better: Yelp or Google?**
+### What's better for reviews—Yelp or Google?
 
-Google. Every time. Yelp is fine to have, but Google reviews influence local rankings way more.
+Google. Every time. Yelp reviews are fine to have, but Google reviews directly impact your local search rankings. Focus there first.
 
-### **Can I outsource this to a marketing company?**
+### Should I give my agency access to my profile?
 
-Absolutely—but *you* should still own the profile. Give them editor access, not primary ownership.
+Give them manager access, not primary ownership. You should always be the owner. If they need to make changes, they can do it as a manager. Never hand over primary control.
 
-### **How fast will I see results?**
+### How long does it take to see results from optimizing my profile?
 
-Depends on your competition and consistency. Most local businesses start seeing traction in 2–3 months with regular posting and review collection.
+Depends on your market and competition. Most businesses start seeing better rankings and more calls within 2-3 months if they're consistently posting, getting reviews, and keeping everything updated.
 
-## Final Thoughts
+### Do I really need to fill out every service description?
 
-If you’re not showing up on Google Maps when someone types “plumber near me,” your competitors are taking your calls.
+Yes. Google wants complete profiles, and customers want to know what you actually offer. If your services are just titles with no descriptions, you're blending in with everyone else. Fill them out properly and you'll stand out.
 
-A well-optimized *Google Business Profile for plumbers* helps you get found, build trust, and drive more leads without spending a dime on ads.
-
-If this feels like a lot to manage, don’t stress—we can help. At [Rebel Ape Marketing](https://therebelape.com), we specialize in helping local service businesses like yours get real results from Google. We’ll audit your listing, clean up your citations, and help you build a review system that actually works.
-
-## Ready to Get Found?
-
-Let’s make sure your plumbing company is the first thing people see when they search. [Book a free discovery call](https://go.therebelape.com/schedule) or give us a shout at **(801) 917-4310**.
-
-Want to go deeper? [Download our Google Business Profile Checklist](https://go.therebelape.com/checklist) to make sure you’re doing everything right.
-
-## Keep Learning
-
-Looking to level up even more?
-
-- [SEO Tips for Plumbers](/blog/seo-tips-for-plumbers/): Simple strategies to help your plumbing business rank higher in search.
-- [Plumbing Website Conversion Fixes](/blog/plumbing-website-conversion-fixes/): Turn more visitors into paying customers with these quick wins.
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Article",
+      "headline": "Google Business Profile for Plumbers: Stop Leaving Money on the Table",
+      "description": "Most plumbers set up their Google Business Profile once and forget it. Here's why that's costing you jobs—and how to actually optimize it for leads.",
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://RebelApeCDN.b-cdn.net/featured-google-business-profile-for-plumbers.webp",
+        "width": 1200,
+        "height": 630
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Adam Miconi",
+        "url": "https://therebelape.com/about/",
+        "jobTitle": "Founder, Rebel Ape Marketing",
+        "knowsAbout": [
+          "Google Business Profile optimization",
+          "Local SEO for plumbers",
+          "Home service marketing",
+          "Contractor lead generation",
+          "Review management"
+        ]
+      },
+      "reviewedBy": {
+        "@type": "Person",
+        "name": "Adam Miconi"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "Rebel Ape Marketing",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://therebelape.com/logo.png"
+        }
+      },
+      "datePublished": "2025-04-21T12:05:00-06:00",
+      "dateModified": "2026-01-18T09:30:00-07:00",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://therebelape.com/blog/google-business-profile-for-plumbers/"
+      },
+      "speakable": {
+        "@type": "SpeakableSpecification",
+        "xpath": [
+          "/html/head/title",
+          "/html/body//h1",
+          "/html/body//h2"
+        ]
+      }
+    },
+    {
+      "@type": "Person",
+      "@id": "https://therebelape.com/about/#person",
+      "name": "Adam Miconi",
+      "url": "https://therebelape.com/about/",
+      "jobTitle": "Founder, Rebel Ape Marketing",
+      "knowsAbout": [
+        "Google Business Profile optimization",
+        "Local SEO for plumbers",
+        "Home service marketing",
+        "Contractor lead generation",
+        "Review management"
+      ],
+      "sameAs": [
+        "https://www.linkedin.com/company/rebel-ape-marketing",
+        "https://x.com/therebelape",
+        "https://www.facebook.com/therebelapemarketing"
+      ]
+    },
+    {
+      "@type": "Organization",
+      "@id": "https://therebelape.com/#organization",
+      "name": "Rebel Ape Marketing",
+      "url": "https://therebelape.com",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://therebelape.com/logo.png"
+      },
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+1-801-917-4310",
+        "contactType": "Customer Service"
+      },
+      "sameAs": [
+        "https://www.linkedin.com/company/rebel-ape-marketing",
+        "https://x.com/therebelape",
+        "https://www.facebook.com/therebelapemarketing"
+      ]
+    },
+    {
+      "@type": "WebPage",
+      "url": "https://therebelape.com/blog/google-business-profile-for-plumbers/",
+      "name": "Google Business Profile for Plumbers: Stop Leaving Money on the Table",
+      "isPartOf": {
+        "@type": "WebSite",
+        "@id": "https://therebelape.com/#website"
+      },
+      "datePublished": "2025-04-21T12:05:00-06:00",
+      "dateModified": "2026-01-18T09:30:00-07:00"
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://therebelape.com"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Blog",
+          "item": "https://therebelape.com/blog"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Google Business Profile for Plumbers",
+          "item": "https://therebelape.com/blog/google-business-profile-for-plumbers/"
+        }
+      ]
+    },
+    {
+      "@type": "HowTo",
+      "name": "How to Optimize Your Google Business Profile for Plumbers",
+      "description": "Complete guide to optimizing your Google Business Profile to generate more plumbing leads and dominate local search",
+      "step": [
+        {
+          "@type": "HowToStep",
+          "name": "Claim and verify ownership",
+          "text": "Go to google.com/business, find your listing, and claim primary ownership. Never give primary control to an agency—invite them as managers instead."
+        },
+        {
+          "@type": "HowToStep",
+          "name": "Complete every profile field",
+          "text": "Fill out business categories, write a real business description (not keyword-stuffed garbage), and complete all service descriptions with actual information about what you offer."
+        },
+        {
+          "@type": "HowToStep",
+          "name": "Optimize services section",
+          "text": "List 15-20 services with detailed descriptions for each. Remove auto-generated services you don't offer. Write descriptions that explain what the service is, why customers need it, and what's included."
+        },
+        {
+          "@type": "HowToStep",
+          "name": "Ensure NAP consistency",
+          "text": "Make sure your business name, address, and phone number are exactly the same across Google, your website, and all other online listings."
+        },
+        {
+          "@type": "HowToStep",
+          "name": "Build a review system",
+          "text": "Ask every happy customer for a review multiple times—via text immediately after the job, email two days later, and a final reminder a week later. Make it easy with direct links."
+        },
+        {
+          "@type": "HowToStep",
+          "name": "Post regularly",
+          "text": "Use Google Posts to share updates, promotions, seasonal services, and before-and-after photos at least once per week."
+        },
+        {
+          "@type": "HowToStep",
+          "name": "Keep information current",
+          "text": "Update hours, services, and promotions immediately when they change. Don't let outdated information cost you calls."
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "How do I get more reviews if customers just don't leave them?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ask more than once. Send a text right after the job. Follow up with an email two days later. Send another reminder a week later. Make it stupidly easy with a direct link. Most plumbers ask once and give up—that's why they don't get reviews."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can I have multiple locations on one Google Business Profile?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. Each physical location needs its own profile. And don't try to fake it with a PO box or virtual address—Google's smarter than that now and you'll get penalized."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What's better for reviews—Yelp or Google?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Google. Every time. Yelp reviews are fine to have, but Google reviews directly impact your local search rankings. Focus there first."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Should I give my agency access to my Google Business Profile?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Give them manager access, not primary ownership. You should always be the owner. If they need to make changes, they can do it as a manager. Never hand over primary control."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How long does it take to see results from optimizing my profile?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Depends on your market and competition. Most businesses start seeing better rankings and more calls within 2-3 months if they're consistently posting, getting reviews, and keeping everything updated."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do I really need to fill out every service description?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. Google wants complete profiles, and customers want to know what you actually offer. If your services are just titles with no descriptions, you're blending in with everyone else. Fill them out properly and you'll stand out."
+          }
+        }
+      ]
+    }
+  ]
+}
+</script>
