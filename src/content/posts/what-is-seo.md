@@ -331,6 +331,7 @@ You need content that builds topical authority and answers customer questions. T
 
 Ask these questions: Are you ranking for terms people actually search? Is your traffic increasing month-over-month? Most importantly — are you getting leads from organic search? If you're paying for SEO but not seeing lead growth, something's broken.
 
+<script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@graph": [
@@ -528,3 +529,4 @@ Ask these questions: Are you ranking for terms people actually search? Is your t
     }
   ]
 }
+</script>

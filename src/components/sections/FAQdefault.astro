@@ -1,276 +1,166 @@
 ---
+// FAQdefault.astro
 ---
 
-<div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-  <!-- Header -->
-  <div class="text-center mb-16">
+<div class="max-w-4xl mx-auto px-4">
+  <div class="text-center mb-12">
     <h2 class="text-4xl md:text-5xl font-black text-gray-900 mb-4">
       Frequently Asked Questions
     </h2>
-    <p class="text-lg md:text-xl text-gray-600 max-w-2xl mx-auto">
-      Get answers to common questions about our services
+    <p class="text-lg md:text-xl text-gray-600">
+      The questions contractors actually ask (and the honest answers you deserve)
     </p>
   </div>
 
-  <!-- FAQ Grid - Two Independent Columns (Desktop only) -->
-  <div class="grid grid-cols-1 lg:grid-cols-2 gap-6">
-    
-    <!-- Left Column -->
-    <div class="space-y-6">
-      <div class="bg-white border border-gray-200 rounded-lg shadow-2xl overflow-hidden">
-        <button 
-          class="faq-toggle-left w-full p-6 flex items-start gap-4 hover:bg-gray-50 transition text-left" 
-          data-faq="faq1"
-        >
-          <div class="flex-1">
-            <h3 class="text-lg font-bold text-gray-900">How fast can I see results?</h3>
-          </div>
-          <svg 
-            xmlns="http://www.w3.org/2000/svg" 
-            viewBox="0 0 24 24" 
-            fill="none" 
-            stroke="currentColor" 
-            stroke-width="2" 
-            class="faq-icon w-5 h-5 text-gray-400 flex-shrink-0 mt-1 transition-transform duration-300"
-          >
-            <polyline points="6 9 12 15 18 9"></polyline>
-          </svg>
-        </button>
-        <div class="faq-content hidden px-6 pb-6">
-          <p class="text-gray-600">We can often start seeing results as fast as week 2. That gives us time to build the landing pages and ads properly.</p>
-        </div>
+  <div class="space-y-6">
+    <!-- FAQ 1 -->
+    <details class="bg-white border border-gray-200 rounded-lg shadow-md overflow-hidden group">
+      <summary class="flex justify-between items-center p-6 cursor-pointer font-bold text-lg text-gray-900 hover:bg-gray-50">
+        <span>How much does this cost?</span>
+        <svg class="w-5 h-5 text-rebel-green transition-transform group-open:rotate-180" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path>
+        </svg>
+      </summary>
+      <div class="px-6 pb-6 text-gray-700">
+        <p class="mb-4">
+          It depends on what you need and how competitive your market is. A complete marketing system typically starts around $3,000-$5,000/month, which includes website optimization, ad management, SEO, tracking, and daily optimization.
+        </p>
+        <p>
+          Yeah, we're more expensive than some agencies. That's because we actually get results and our clients stay for years, not months. If you're looking for the cheapest option, we're probably not the right fit.
+        </p>
       </div>
+    </details>
 
-      <div class="bg-white border border-gray-200 rounded-lg shadow-2xl overflow-hidden">
-        <button 
-          class="faq-toggle-left w-full p-6 flex items-start gap-4 hover:bg-gray-50 transition text-left" 
-          data-faq="faq3"
-        >
-          <div class="flex-1">
-            <h3 class="text-lg font-bold text-gray-900">What exactly do you build for me?</h3>
-          </div>
-          <svg 
-            xmlns="http://www.w3.org/2000/svg" 
-            viewBox="0 0 24 24" 
-            fill="none" 
-            stroke="currentColor" 
-            stroke-width="2" 
-            class="faq-icon w-5 h-5 text-gray-400 flex-shrink-0 mt-1 transition-transform duration-300"
-          >
-            <polyline points="6 9 12 15 18 9"></polyline>
-          </svg>
-        </button>
-        <div class="faq-content hidden px-6 pb-6">
-          <p class="text-gray-600">A high-converting landing page built on our proprietary framework, ad creation, and ongoing management and optimization.</p>
-        </div>
+    <!-- FAQ 2 -->
+    <details class="bg-white border border-gray-200 rounded-lg shadow-md overflow-hidden group">
+      <summary class="flex justify-between items-center p-6 cursor-pointer font-bold text-lg text-gray-900 hover:bg-gray-50">
+        <span>How long until I see results?</span>
+        <svg class="w-5 h-5 text-rebel-green transition-transform group-open:rotate-180" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path>
+        </svg>
+      </summary>
+      <div class="px-6 pb-6 text-gray-700">
+        <p class="mb-4">
+          Month 1 is foundation—we're building the infrastructure that makes everything work. Month 2 we launch ads and leads start coming in (though it can be rough while the algorithm learns). Months 3-6 everything compounds as the algorithm optimizes and SEO kicks in.
+        </p>
+        <p>
+          Most contractors see meaningful results within 60-90 days. Anyone promising instant miracles is lying to you.
+        </p>
       </div>
+    </details>
 
-      <div class="bg-white border border-gray-200 rounded-lg shadow-2xl overflow-hidden">
-        <button 
-          class="faq-toggle-left w-full p-6 flex items-start gap-4 hover:bg-gray-50 transition text-left" 
-          data-faq="faq5"
-        >
-          <div class="flex-1">
-            <h3 class="text-lg font-bold text-gray-900">Do I get to keep the landing page?</h3>
-          </div>
-          <svg 
-            xmlns="http://www.w3.org/2000/svg" 
-            viewBox="0 0 24 24" 
-            fill="none" 
-            stroke="currentColor" 
-            stroke-width="2" 
-            class="faq-icon w-5 h-5 text-gray-400 flex-shrink-0 mt-1 transition-transform duration-300"
-          >
-            <polyline points="6 9 12 15 18 9"></polyline>
-          </svg>
-        </button>
-        <div class="faq-content hidden px-6 pb-6">
-          <p class="text-gray-600">Landing pages are built on our proprietary framework and are not transferable. If you want lightning-fast performance on our platform, that stays with us. However, if you opt for a website on WordPress, Webflow, Wix, or Shopify, you can migrate it away (though you'll need a license for the builder we used).</p>
-        </div>
+    <!-- FAQ 3 -->
+    <details class="bg-white border border-gray-200 rounded-lg shadow-md overflow-hidden group">
+      <summary class="flex justify-between items-center p-6 cursor-pointer font-bold text-lg text-gray-900 hover:bg-gray-50">
+        <span>Do you require contracts?</span>
+        <svg class="w-5 h-5 text-rebel-green transition-transform group-open:rotate-180" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path>
+        </svg>
+      </summary>
+      <div class="px-6 pb-6 text-gray-700">
+        <p class="mb-4">
+          Nope. We work month-to-month. If we're not delivering results, fire us. That's how it should be.
+        </p>
+        <p>
+          We don't need contracts to keep clients because what we do actually works. Our clients stay with us for years because they're getting leads and closing jobs, not because they're legally obligated to stick around.
+        </p>
       </div>
+    </details>
 
-      <div class="bg-white border border-gray-200 rounded-lg shadow-2xl overflow-hidden">
-        <button 
-          class="faq-toggle-left w-full p-6 flex items-start gap-4 hover:bg-gray-50 transition text-left" 
-          data-faq="faq7"
-        >
-          <div class="flex-1">
-            <h3 class="text-lg font-bold text-gray-900">What if I don't want your platform?</h3>
-          </div>
-          <svg 
-            xmlns="http://www.w3.org/2000/svg" 
-            viewBox="0 0 24 24" 
-            fill="none" 
-            stroke="currentColor" 
-            stroke-width="2" 
-            class="faq-icon w-5 h-5 text-gray-400 flex-shrink-0 mt-1 transition-transform duration-300"
-          >
-            <polyline points="6 9 12 15 18 9"></polyline>
-          </svg>
-        </button>
-        <div class="faq-content hidden px-6 pb-6">
-          <p class="text-gray-600">We only build landing pages on our proprietary platform. However, for websites, we can build on WordPress, Webflow, Wix, or Shopify – and those can be migrated if you ever leave.</p>
-        </div>
+    <!-- FAQ 4 -->
+    <details class="bg-white border border-gray-200 rounded-lg shadow-md overflow-hidden group">
+      <summary class="flex justify-between items-center p-6 cursor-pointer font-bold text-lg text-gray-900 hover:bg-gray-50">
+        <span>What's included in your marketing system?</span>
+        <svg class="w-5 h-5 text-rebel-green transition-transform group-open:rotate-180" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path>
+        </svg>
+      </summary>
+      <div class="px-6 pb-6 text-gray-700">
+        <p class="mb-4">
+          Everything works together: conversion-optimized website design, Google Ads and Meta Ads management, Local Service Ads setup, local SEO, Google Business Profile optimization, conversion tracking, monthly reporting, and daily campaign optimization.
+        </p>
+        <p>
+          This isn't a la carte services. It's a complete system where every piece supports the others. Website gets traffic from ads and SEO. Ads convert better because the website is optimized. SEO compounds over time. Everything is tracked so we know what's working.
+        </p>
       </div>
-    </div>
+    </details>
 
-    <!-- Right Column -->
-    <div class="space-y-6">
-      <div class="bg-white border border-gray-200 rounded-lg shadow-2xl overflow-hidden">
-        <button 
-          class="faq-toggle-right w-full p-6 flex items-start gap-4 hover:bg-gray-50 transition text-left" 
-          data-faq="faq2"
-        >
-          <div class="flex-1">
-            <h3 class="text-lg font-bold text-gray-900">Do you guarantee leads?</h3>
-          </div>
-          <svg 
-            xmlns="http://www.w3.org/2000/svg" 
-            viewBox="0 0 24 24" 
-            fill="none" 
-            stroke="currentColor" 
-            stroke-width="2" 
-            class="faq-icon w-5 h-5 text-gray-400 flex-shrink-0 mt-1 transition-transform duration-300"
-          >
-            <polyline points="6 9 12 15 18 9"></polyline>
-          </svg>
-        </button>
-        <div class="faq-content hidden px-6 pb-6">
-          <p class="text-gray-600">No. Lead volume is often dictated by market demand, which we don't control. However, if there is demand in your market, our ads and landing pages have produced consistent results across many verticals.</p>
-        </div>
+    <!-- FAQ 5 -->
+    <details class="bg-white border border-gray-200 rounded-lg shadow-md overflow-hidden group">
+      <summary class="flex justify-between items-center p-6 cursor-pointer font-bold text-lg text-gray-900 hover:bg-gray-50">
+        <span>Do you work with contractors outside my area?</span>
+        <svg class="w-5 h-5 text-rebel-green transition-transform group-open:rotate-180" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path>
+        </svg>
+      </summary>
+      <div class="px-6 pb-6 text-gray-700">
+        <p class="mb-4">
+          Yes. We work with contractors across the country. Local marketing isn't about being physically nearby—it's about understanding local search behavior, local competition, and how to dominate your specific service area.
+        </p>
+        <p>
+          We've helped plumbers in Seattle, HVAC companies in Dallas, roofers in Atlanta, and electricians in Phoenix. The fundamentals of contractor marketing are the same. The execution is customized to your market.
+        </p>
       </div>
+    </details>
 
-      <div class="bg-white border border-gray-200 rounded-lg shadow-2xl overflow-hidden">
-        <button 
-          class="faq-toggle-right w-full p-6 flex items-start gap-4 hover:bg-gray-50 transition text-left" 
-          data-faq="faq4"
-        >
-          <div class="flex-1">
-            <h3 class="text-lg font-bold text-gray-900">Do I pay for ads separately?</h3>
-          </div>
-          <svg 
-            xmlns="http://www.w3.org/2000/svg" 
-            viewBox="0 0 24 24" 
-            fill="none" 
-            stroke="currentColor" 
-            stroke-width="2" 
-            class="faq-icon w-5 h-5 text-gray-400 flex-shrink-0 mt-1 transition-transform duration-300"
-          >
-            <polyline points="6 9 12 15 18 9"></polyline>
-          </svg>
-        </button>
-        <div class="faq-content hidden px-6 pb-6">
-          <p class="text-gray-600">Yes. You add your card to either Meta or Google depending on the strategy. Ad budgets are separate from our service fees.</p>
-        </div>
+    <!-- FAQ 6 -->
+    <details class="bg-white border border-gray-200 rounded-lg shadow-md overflow-hidden group">
+      <summary class="flex justify-between items-center p-6 cursor-pointer font-bold text-lg text-gray-900 hover:bg-gray-50">
+        <span>What makes you different from other marketing agencies?</span>
+        <svg class="w-5 h-5 text-rebel-green transition-transform group-open:rotate-180" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path>
+        </svg>
+      </summary>
+      <div class="px-6 pb-6 text-gray-700">
+        <p class="mb-4">
+          We build complete systems, not individual services. Most agencies sell you a website OR SEO OR Google Ads and wonder why you're not getting results. We integrate everything so it works together.
+        </p>
+        <p class="mb-4">
+          We tell you the truth about timelines and what works. No fake guarantees. No "rank #1 in 30 days" BS. Just honest marketing that generates predictable leads.
+        </p>
+        <p>
+          We're partners, not vendors. If something's not working, we figure out why and fix it—together. We own our results.
+        </p>
       </div>
+    </details>
 
-      <div class="bg-white border border-gray-200 rounded-lg shadow-2xl overflow-hidden">
-        <button 
-          class="faq-toggle-right w-full p-6 flex items-start gap-4 hover:bg-gray-50 transition text-left" 
-          data-faq="faq6"
-        >
-          <div class="flex-1">
-            <h3 class="text-lg font-bold text-gray-900">Can I use my existing ads account?</h3>
-          </div>
-          <svg 
-            xmlns="http://www.w3.org/2000/svg" 
-            viewBox="0 0 24 24" 
-            fill="none" 
-            stroke="currentColor" 
-            stroke-width="2" 
-            class="faq-icon w-5 h-5 text-gray-400 flex-shrink-0 mt-1 transition-transform duration-300"
-          >
-            <polyline points="6 9 12 15 18 9"></polyline>
-          </svg>
-        </button>
-        <div class="faq-content hidden px-6 pb-6">
-          <p class="text-gray-600">No. Older ads accounts often come with baggage from previous agencies that can interfere with tracking. We set up fresh accounts to guarantee clean data and proper machine learning. We do love looking at your existing account to see if there's anything worth salvaging though.</p>
-        </div>
+    <!-- FAQ 7 -->
+    <details class="bg-white border border-gray-200 rounded-lg shadow-md overflow-hidden group">
+      <summary class="flex justify-between items-center p-6 cursor-pointer font-bold text-lg text-gray-900 hover:bg-gray-50">
+        <span>Can I just get a website or just Google Ads?</span>
+        <svg class="w-5 h-5 text-rebel-green transition-transform group-open:rotate-180" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path>
+        </svg>
+      </summary>
+      <div class="px-6 pb-6 text-gray-700">
+        <p class="mb-4">
+          Honestly, probably not. We're not set up for one-off projects because they don't deliver the results you need.
+        </p>
+        <p>
+          A website alone doesn't generate leads without traffic. Google Ads alone don't convert without an optimized website. SEO alone takes too long without ads to fill the gap. Everything works together—that's the point.
+        </p>
+        <p>
+          If you just need a quick website built, there are cheaper options out there. We're here for contractors who want a complete lead generation system that actually works.
+        </p>
       </div>
+    </details>
 
-      <div class="bg-white border border-gray-200 rounded-lg shadow-2xl overflow-hidden">
-        <button 
-          class="faq-toggle-right w-full p-6 flex items-start gap-4 hover:bg-gray-50 transition text-left" 
-          data-faq="faq8"
-        >
-          <div class="flex-1">
-            <h3 class="text-lg font-bold text-gray-900">Why are your sites faster than WordPress or Wix?</h3>
-          </div>
-          <svg 
-            xmlns="http://www.w3.org/2000/svg" 
-            viewBox="0 0 24 24" 
-            fill="none" 
-            stroke="currentColor" 
-            stroke-width="2" 
-            class="faq-icon w-5 h-5 text-gray-400 flex-shrink-0 mt-1 transition-transform duration-300"
-          >
-            <polyline points="6 9 12 15 18 9"></polyline>
-          </svg>
-        </button>
-        <div class="faq-content hidden px-6 pb-6">
-          <p class="text-gray-600">Our sites are pre-rendered with no database, limited JavaScript, and no plugins. This makes them significantly faster than typical no-code, blogging, or DIY platforms. We design every site for a specific purpose: increasing conversions. Speed and performance directly impact your bottom line.</p>
-        </div>
+    <!-- FAQ 8 -->
+    <details class="bg-white border border-gray-200 rounded-lg shadow-md overflow-hidden group">
+      <summary class="flex justify-between items-center p-6 cursor-pointer font-bold text-lg text-gray-900 hover:bg-gray-50">
+        <span>What types of contractors do you work with?</span>
+        <svg class="w-5 h-5 text-rebel-green transition-transform group-open:rotate-180" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path>
+        </svg>
+      </summary>
+      <div class="px-6 pb-6 text-gray-700">
+        <p class="mb-4">
+          Primarily home service contractors: plumbers, HVAC companies, electricians, roofers, painters, remodelers, concrete contractors, and similar trades.
+        </p>
+        <p>
+          We focus on service-based businesses where lead quality matters more than lead volume. Jobs where the average ticket is high enough to justify proper marketing investment. Industries where Google search and local visibility drive real revenue.
+        </p>
       </div>
-    </div>
-
+    </details>
   </div>
 </div>
-
-<script is:inline>
-  // Ensure all FAQs start hidden on page load
-  window.addEventListener('DOMContentLoaded', function() {
-    document.querySelectorAll('.faq-content').forEach(content => {
-      content.classList.add('hidden');
-    });
-  });
-
-  // LEFT COLUMN - Independent accordion
-  document.querySelectorAll('.faq-toggle-left').forEach(button => {
-    button.addEventListener('click', function(e) {
-      e.preventDefault();
-      const card = this.closest('.bg-white');
-      const content = card.querySelector('.faq-content');
-      const icon = this.querySelector('.faq-icon');
-      
-      // Close all OTHER FAQs in LEFT column only
-      document.querySelectorAll('.faq-toggle-left').forEach(otherButton => {
-        if (otherButton !== this) {
-          const otherCard = otherButton.closest('.bg-white');
-          const otherContent = otherCard.querySelector('.faq-content');
-          const otherIcon = otherButton.querySelector('.faq-icon');
-          otherContent.classList.add('hidden');
-          otherIcon.classList.remove('rotate-180');
-        }
-      });
-      
-      // Toggle current FAQ
-      content.classList.toggle('hidden');
-      icon.classList.toggle('rotate-180');
-    });
-  });
-
-  // RIGHT COLUMN - Independent accordion
-  document.querySelectorAll('.faq-toggle-right').forEach(button => {
-    button.addEventListener('click', function(e) {
-      e.preventDefault();
-      const card = this.closest('.bg-white');
-      const content = card.querySelector('.faq-content');
-      const icon = this.querySelector('.faq-icon');
-      
-      // Close all OTHER FAQs in RIGHT column only
-      document.querySelectorAll('.faq-toggle-right').forEach(otherButton => {
-        if (otherButton !== this) {
-          const otherCard = otherButton.closest('.bg-white');
-          const otherContent = otherCard.querySelector('.faq-content');
-          const otherIcon = otherButton.querySelector('.faq-icon');
-          otherContent.classList.add('hidden');
-          otherIcon.classList.remove('rotate-180');
-        }
-      });
-      
-      // Toggle current FAQ
-      content.classList.toggle('hidden');
-      icon.classList.toggle('rotate-180');
-    });
-  });
-</script>

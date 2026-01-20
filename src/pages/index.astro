@@ -2,8 +2,8 @@
 import Base from '../layouts/Base.astro';
 import Hero from '../components/sections/Hero.astro';
 import SocialProofBar from '../components/sections/SocialProofBar.astro';
+import TheProblem from '../components/sections/TheProblem.astro';
 import CompaniesTrustUs from '../components/sections/CompaniesTrustUs.astro';
-import WhatWeDo from '../components/sections/WhatWeDo.astro';
 import HowItWorks from '../components/sections/HowItWorks.astro';
 import CaseStudy from '../components/sections/CaseStudy.astro';
 import WhoWeAre from '../components/sections/WhoWeAre.astro';
@@ -25,15 +25,15 @@ const robots = "index,follow"; // optional override
 
 <Base {title} {description} {canonical} {image} {type} {robots}>
   <section>
-    <Hero 
+    <Hero
       backgroundImage="https://RebelApeCDN.b-cdn.net/bg-gorilla-direct.webp"
-      title="Websites Built For <span class='text-rebel-green'>Speed.</span> Ads Optimized For <span class='text-rebel-green'>Growth.</span>"
-      subtitle="That's Exactly <span class='text-rebel-green'>What We Deliver.</span>"
-      description="Sites built with modern frameworks for faster load times and higher conversions. Your site stays lightweight, secure, and designed to scale with your business."
+      title="Your Phones Should Be Ringing. <span class='text-rebel-green'>Let's Make That Happen.</span>"
+      subtitle="Complete Lead Generation Systems For Contractors Done Waiting On Referrals."
+      description="We don't sell websites <strong>OR</strong> Google Ads <strong>OR</strong> SEO. We build complete marketing systems where everything works together—conversion-optimized sites, targeted paid ads, local SEO, and daily optimization. That's what generates predictable, qualified leads."
       features={[
-        'Lightening Fast Websites',
-        'Expert Ad Campaigns',
-        'Transparent Results'
+        'Complete Marketing Systems',
+        'No Long-Term Contracts',
+        'Transparent Reporting'
       ]}
       buttonText="Schedule a Call"
       buttonIcon="calendar"
@@ -42,44 +42,40 @@ const robots = "index,follow"; // optional override
     />
     <SocialProofBar />
 
-    <section class={`py-16 md:py-24 section-checkers`}>
-      <WhatWeDo />
+    <section class={`py-12 md:py-16 section-checkers`}>
+      <TheProblem />
     </section>
 
-    <section class={`pt-0 pb-16 md:pt-0 md:pb-24 section-checkers`}>
-      <CompaniesTrustUs />
-    </section>
-
-    <section class={`py-16 md:py-24 section-slate`}>
-      <HowItWorks />
-    </section>
-
-    <section class={`py-16 md:py-24 section-checkers`}>
-      <CaseStudy />
-    </section>
-    
-    <section class={`py-16 md:py-24 section-slate`}>
+    <section class={`py-12 md:py-16 section-slate`}>
       <WhoWeAre />
     </section>
 
-    <section class={`py-16 md:py-24 section-checkers`}>
+    <section class={`py-12 md:py-16 section-checkers`}>
       <Services />
     </section>
 
-    <section class="py-16 md:py-24 section-slate">
+    <section class={`py-12 md:py-16 section-slate`}>
+      <HowItWorks />
+    </section>
+
+    <section class={`py-12 md:py-16 section-checkers`}>
+      <CompaniesTrustUs />
+    </section>
+
+    <section class={`py-12 md:py-16 section-slate`}>
+      <CaseStudy />
+    </section>
+
+    <section class="py-12 md:py-16 section-checkers">
       <TestimonialsDefault />
     </section>
 
-    <section class={`py-16 md:py-24 section-checkers`}>
-      <Guarantee /> 
-    </section>
-
-    <section class={`py-16 md:py-24 section-slate`}>
+    <section class={`py-12 md:py-16 section-slate`}>
       <FAQdefault />
     </section>
 
     <section class={`pt-16 pb-0 section-checkers`}>
-      <UOMC /> 
+      <UOMC />
     </section>
 
   </section>

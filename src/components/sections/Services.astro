@@ -1,140 +1,158 @@
 ---
-import GreenCheck from "../ui/GreenCheck.astro";
+// Services.astro
+import GreenCheck from '../ui/GreenCheck.astro';
+import Button from '../ui/Button.astro';
 ---
-  
-  <div class="max-w-7xl mx-auto px-6">
-    <!-- Header -->
-    <div class="text-center mb-16">
-      <h2 class="text-4xl md:text-5xl font-black text-gray-900 mb-4">
-        What We Offer
-      </h2>
-      <p class="text-lg md:text-xl text-gray-600 max-w-2xl mx-auto">
-        Four core services built to generate qualified calls and close deals.
-      </p>
+
+<div class="max-w-7xl mx-auto px-4">
+  <div class="text-center mb-16">
+    <h2 class="text-4xl md:text-5xl font-black text-gray-900 mb-4">
+      The Four Main Engines That Drive Your Growth
+    </h2>
+    <p class="text-lg md:text-xl text-gray-600 max-w-2xl mx-auto">
+      Four core services designed to get your phone ringing with qualified leads.
+    </p>
+  </div>
+
+  <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
+    <!-- Website Design -->
+    <div class="bg-white border border-gray-200 rounded-lg shadow-xl overflow-hidden">
+      <div class="h-1 bg-rebel-green"></div>
+      <div class="p-8">
+        <div class="flex items-center gap-3 mb-6">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" class="size-10 text-rebel-green flex-shrink-0">
+            <path fill="currentColor" d="M3,20V10H8V21H4A1,1,0,0,1,3,20ZM21,4a1,1,0,0,0-1-1H4A1,1,0,0,0,3,4V8H21ZM20,21a1,1,0,0,0,1-1V10H10V21Z"/>
+          </svg>
+          <h3 class="text-2xl font-bold text-gray-900">Website Design</h3>
+        </div>
+        <p class="text-gray-700 mb-6">
+          Your website has one job: turn visitors into phone calls. We build conversion-focused websites specifically for contractors—fast load times, clear calls-to-action, mobile-optimized, and messaging that actually converts. Pretty doesn't mean profitable. We build sites that generate revenue.
+        </p>
+        <ul class="space-y-3 mb-8">
+          <li class="flex items-start gap-3">
+            <GreenCheck />
+            <span class="text-gray-600">Lightning-fast load times</span>
+          </li>
+          <li class="flex items-start gap-3">
+            <GreenCheck />
+            <span class="text-gray-600">Mobile-optimized design</span>
+          </li>
+          <li class="flex items-start gap-3">
+            <GreenCheck />
+            <span class="text-gray-600">Built for lead generation</span>
+          </li>
+          <li class="flex items-start gap-3">
+            <GreenCheck />
+            <span class="text-gray-600">Clear calls-to-action</span>
+          </li>
+        </ul>
+        <Button text="Learn More" icon="arrow-right" href="/services/website-design/" />
+      </div>
     </div>
 
-    <!-- Services Grid -->
-    <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
-      <!-- Landing Pages -->
-      <div class="bg-white border border-gray-200 rounded-lg shadow-xl overflow-hidden">
-        <div class="h-1 bg-[#069c4b]"></div>
-        <div class="p-8">
-          <div class="flex items-center gap-3 mb-6">
-            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" fill="currentColor" class="size-8 text-[#069c4b] flex-shrink-0">
-              <g>
-                <path fill="#069c4b" d="M27,4H5C3.3,4,2,5.3,2,7v18c0,1.7,1.3,3,3,3h22c1.7,0,3-1.3,3-3V7C30,5.3,28.7,4,27,4z M12.1,7.6c0.1-0.1,0.1-0.2,0.2-0.3
-                c0.4-0.4,1-0.4,1.4,0c0.1,0.1,0.2,0.2,0.2,0.3C14,7.7,14,7.9,14,8c0,0.1,0,0.3-0.1,0.4c-0.1,0.1-0.1,0.2-0.2,0.3
-                C13.5,8.9,13.3,9,13,9c-0.1,0-0.3,0-0.4-0.1c-0.1-0.1-0.2-0.1-0.3-0.2c-0.1-0.1-0.2-0.2-0.2-0.3C12,8.3,12,8.1,12,8
-                C12,7.9,12,7.7,12.1,7.6z M9.1,7.6c0.1-0.1,0.1-0.2,0.2-0.3c0.1-0.1,0.2-0.2,0.3-0.2C10,6.9,10.4,7,10.7,7.3
-                c0.1,0.1,0.2,0.2,0.2,0.3C11,7.7,11,7.9,11,8c0,0.3-0.1,0.5-0.3,0.7C10.5,8.9,10.3,9,10,9C9.7,9,9.5,8.9,9.3,8.7C9.1,8.5,9,8.3,9,8
-                C9,7.9,9,7.7,9.1,7.6z M6.3,7.3c0,0,0.1-0.1,0.1-0.1c0.1,0,0.1-0.1,0.2-0.1C6.7,7,6.7,7,6.8,7c0.1,0,0.3,0,0.4,0
-                c0.1,0,0.1,0,0.2,0.1c0.1,0,0.1,0.1,0.2,0.1c0,0,0.1,0.1,0.1,0.1c0.1,0.1,0.2,0.2,0.2,0.3C8,7.7,8,7.9,8,8c0,0.1,0,0.3-0.1,0.4
-                C7.9,8.5,7.8,8.6,7.7,8.7C7.5,8.9,7.3,9,7,9S6.5,8.9,6.3,8.7C6.1,8.5,6,8.3,6,8C6,7.7,6.1,7.5,6.3,7.3z M17,23c0,0.6-0.4,1-1,1H6
-                c-0.6,0-1-0.4-1-1v-0.8l6.9-3.1l5.1,3.4V23z M17,20.1l-4.4-3c-0.3-0.2-0.6-0.2-1-0.1L5,20v-7c0-0.6,0.4-1,1-1h10c0.6,0,1,0.4,1,1
-                V20.1z M27,23c0,0.6-0.4,1-1,1h-6c-0.6,0-1-0.4-1-1v-3c0-0.6,0.4-1,1-1h6c0.6,0,1,0.4,1,1V23z M26,18h-3c-0.6,0-1-0.4-1-1
-                s0.4-1,1-1h3c0.6,0,1,0.4,1,1S26.6,18,26,18z M26,15h-6c-0.6,0-1-0.4-1-1s0.4-1,1-1h6c0.6,0,1,0.4,1,1S26.6,15,26,15z"/>
-                <path fill="#069c4b" d="M9.7,15.3c-0.4-0.4-1-0.4-1.4,0c-0.1,0.1-0.2,0.2-0.2,0.3C8,15.7,8,15.9,8,16c0,0.3,0.1,0.5,0.3,0.7
-                c0.1,0.1,0.2,0.2,0.3,0.2S8.9,17,9,17c0.3,0,0.5-0.1,0.7-0.3C9.9,16.5,10,16.3,10,16c0-0.1,0-0.3-0.1-0.4S9.8,15.4,9.7,15.3z"/>
-              </g>
-            </svg>
-            <h3 class="text-2xl font-bold text-gray-900">Landing Pages</h3>
-          </div>
-          <ul class="space-y-3">
-            <li class="flex items-start gap-3">
-              <GreenCheck />
-              <span class="text-gray-600">High-converting design optimized for lead capture</span>
-            </li>
-            <li class="flex items-start gap-3">
-              <GreenCheck />
-              <span class="text-gray-600">Fast turnaround using proven templates</span>
-            </li>
-            <li class="flex items-start gap-3">
-              <GreenCheck />
-              <span class="text-gray-600">Mobile optimized for all devices</span>
-            </li>
-          </ul>
+    <!-- PPC Management -->
+    <div class="bg-white border border-gray-200 rounded-lg shadow-xl overflow-hidden">
+      <div class="h-1 bg-rebel-green"></div>
+      <div class="p-8">
+        <div class="flex items-center gap-3 mb-6">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" fill="currentColor" class="size-10 text-rebel-green flex-shrink-0">
+            <path fill="currentColor" d="M15.989 1.396h0.032c1.197 0 2.307 0.401 3.197 1.073h0.005c0.615 0.463 1.125 1.057 1.489 1.733l5.953 10.36 0.036 0.083 4.557 7.907c0.485 0.817 0.74 1.755 0.74 2.713 0 0.751-0.156 1.469-0.437 2.12l0.005 0.021c-0.213 0.484-0.495 0.927-0.844 1.328-0.396 0.459-0.864 0.853-1.396 1.156-0.787 0.459-1.683 0.703-2.593 0.713h-0.089c-1.156 0-2.276-0.375-3.197-1.073h-0.005c-0.615-0.463-1.125-1.057-1.489-1.733l-5.953-10.36-0.036-0.083-4.579-7.943c-0.473-0.813-0.719-1.735-0.719-2.677 0-0.563 0.088-1.109 0.251-1.62l0.009-0.032 0.016-0.041c0.068-0.208 0.156-0.448 0.156-0.448 0.208-0.479 0.495-0.921 0.833-1.312l0.084-0.099 0.020-0.021v-0.005h0.005l0.011-0.016 0.011-0.004c0.359-0.396 0.787-0.745 1.276-1.027 0.787-0.459 1.683-0.703 2.593-0.713zM5.344 30.604h-0.079c-0.911-0.011-1.807-0.255-2.593-0.713-0.532-0.303-1-0.697-1.396-1.156-0.349-0.401-0.631-0.844-0.844-1.328l0.005-0.021c-0.292-0.667-0.437-1.391-0.437-2.12 0-0.995 0.271-1.921 0.74-2.713l4.557-7.907 0.036-0.083 4.052-7.047c0.099 0.859 0.364 1.703 0.792 2.473l0.077 0.131 4.5 7.807v-0.015l0.089 0.192 0.385 0.677-5.183 9.016c-0.364 0.676-0.875 1.271-1.489 1.733h-0.005c-0.921 0.699-2.041 1.073-3.197 1.073z"/>
+          </svg>
+          <h3 class="text-2xl font-bold text-gray-900">PPC Management</h3>
         </div>
+        <p class="text-gray-700 mb-6">
+          Get leads now, not in 6 months. We run targeted Google Ads, Meta Ads, and Local Service Ads that reach people actively searching for your services. Full conversion tracking, daily optimization, and transparent reporting. We're honest about the timeline: Month 1 is setup. Month 2 starts generating leads. Months 3+ compound as the algorithm learns.
+        </p>
+        <ul class="space-y-3 mb-8">
+          <li class="flex items-start gap-3">
+            <GreenCheck />
+            <span class="text-gray-600">Google & Meta campaigns</span>
+          </li>
+          <li class="flex items-start gap-3">
+            <GreenCheck />
+            <span class="text-gray-600">Local Service Ads setup</span>
+          </li>
+          <li class="flex items-start gap-3">
+            <GreenCheck />
+            <span class="text-gray-600">Conversion tracking & reporting</span>
+          </li>
+          <li class="flex items-start gap-3">
+            <GreenCheck />
+            <span class="text-gray-600">Daily optimization</span>
+          </li>
+        </ul>
+        <Button text="Learn More" icon="arrow-right" href="/services/ppc/" />
       </div>
+    </div>
 
-      <!-- Google Ads -->
-      <div class="bg-white border border-gray-200 rounded-lg shadow-xl overflow-hidden">
-        <div class="h-1 bg-[#069c4b]"></div>
-        <div class="p-8">
-          <div class="flex items-center gap-3 mb-6">
-            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" fill="currentColor" class="size-8 text-[#069c4b] flex-shrink-0">
-              <path fill="#069c4b" d="M15.989 1.396h0.032c1.197 0 2.307 0.401 3.197 1.073h0.005c0.615 0.463 1.125 1.057 1.489 1.733l5.953 10.36 0.036 0.083 4.557 7.907c0.485 0.817 0.74 1.755 0.74 2.713 0 0.751-0.156 1.469-0.437 2.12l0.005 0.021c-0.213 0.484-0.495 0.927-0.844 1.328-0.396 0.459-0.864 0.853-1.396 1.156-0.787 0.459-1.683 0.703-2.593 0.713h-0.089c-1.156 0-2.276-0.375-3.197-1.073h-0.005c-0.615-0.463-1.125-1.057-1.489-1.733l-5.953-10.36-0.036-0.083-4.579-7.943c-0.473-0.813-0.719-1.735-0.719-2.677 0-0.563 0.088-1.109 0.251-1.62l0.009-0.032 0.016-0.041c0.068-0.208 0.156-0.448 0.156-0.448 0.208-0.479 0.495-0.921 0.833-1.312l0.084-0.099 0.020-0.021v-0.005h0.005l0.011-0.016 0.011-0.004c0.359-0.396 0.787-0.745 1.276-1.027 0.787-0.459 1.683-0.703 2.593-0.713zM5.344 30.604h-0.079c-0.911-0.011-1.807-0.255-2.593-0.713-0.532-0.303-1-0.697-1.396-1.156-0.349-0.401-0.631-0.844-0.844-1.328l0.005-0.021c-0.292-0.667-0.437-1.391-0.437-2.12 0-0.995 0.271-1.921 0.74-2.713l4.557-7.907 0.036-0.083 4.052-7.047c0.099 0.859 0.364 1.703 0.792 2.473l0.077 0.131 4.5 7.807v-0.015l0.089 0.192 0.385 0.677-5.183 9.016c-0.364 0.676-0.875 1.271-1.489 1.733h-0.005c-0.921 0.699-2.041 1.073-3.197 1.073z"/>
-            </svg>
-            <h3 class="text-2xl font-bold text-gray-900">Google Ads</h3>
-          </div>
-          <ul class="space-y-3">
-            <li class="flex items-start gap-3">
-              <GreenCheck />
-              <span class="text-gray-600">Expert setup and ongoing management</span>
-            </li>
-            <li class="flex items-start gap-3">
-              <GreenCheck />
-              <span class="text-gray-600">Qualified lead targeting and optimization</span>
-            </li>
-            <li class="flex items-start gap-3">
-              <GreenCheck />
-              <span class="text-gray-600">Transparent reporting and tracking</span>
-            </li>
-          </ul>
+    <!-- SEO Services -->
+    <div class="bg-white border border-gray-200 rounded-lg shadow-xl overflow-hidden">
+      <div class="h-1 bg-rebel-green"></div>
+      <div class="p-8">
+        <div class="flex items-center gap-3 mb-6">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" class="size-10 text-rebel-green flex-shrink-0">
+            <path fill="currentColor" d="M15.5 14h-.79l-.28-.27C15.41 12.59 16 11.11 16 9.5 16 5.91 13.09 3 9.5 3S3 5.91 3 9.5 5.91 16 9.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5 14 7.01 14 9.5 11.99 14 9.5 14z"/>
+          </svg>
+          <h3 class="text-2xl font-bold text-gray-900">SEO Services</h3>
         </div>
+        <p class="text-gray-700 mb-6">
+          SEO takes 6-8 months to really kick in, but it compounds over time. We optimize your site, create content that ranks, and build your authority so you show up when it matters. Local SEO + Google Business Profile optimization means you dominate your market. We don't promise #1 rankings in 30 days. We tell you the truth: SEO is a marathon, not a sprint.
+        </p>
+        <ul class="space-y-3 mb-8">
+          <li class="flex items-start gap-3">
+            <GreenCheck />
+            <span class="text-gray-600">Local search optimization</span>
+          </li>
+          <li class="flex items-start gap-3">
+            <GreenCheck />
+            <span class="text-gray-600">Keyword research & targeting</span>
+          </li>
+          <li class="flex items-start gap-3">
+            <GreenCheck />
+            <span class="text-gray-600">On-page optimization</span>
+          </li>
+          <li class="flex items-start gap-3">
+            <GreenCheck />
+            <span class="text-gray-600">Monthly ranking reports</span>
+          </li>
+        </ul>
+        <Button text="Learn More" icon="arrow-right" href="/services/seo/" />
       </div>
+    </div>
 
-      <!-- Meta Ads -->
-      <div class="bg-white border border-gray-200 rounded-lg shadow-xl overflow-hidden">
-        <div class="h-1 bg-[#069c4b]"></div>
-        <div class="p-8">
-          <div class="flex items-center gap-3 mb-6">
-            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" class="size-8 text-[#069c4b] flex-shrink-0">
-              <path fill="#069c4b" d="M16.0235,4.50341 C17.8529,4.3766 19.267,5.44519 20.2076,6.67737 C21.156,7.91976 21.8094,9.54336 22.1673,11.1394 C22.5251,12.7347 22.6208,14.4504 22.3239,15.9123 C22.0388,17.3161 21.2785,18.9223 19.5568,19.437 C17.9375,19.9211 16.5179,19.2167 15.5052,18.3648 C14.4894,17.5103 13.6292,16.3122 12.953,15.1885 C12.6252,14.6438 12.3272,14.0938 12.0637,13.573 C11.8001,14.0938 11.5021,14.6438 11.1743,15.1885 C10.4981,16.3122 9.63792,17.5103 8.62209,18.3648 C7.60941,19.2167 6.18982,19.9211 4.57048,19.437 C2.84884,18.9223 2.08848,17.3161 1.80341,15.9123 C1.50655,14.4504 1.60217,12.7347 1.95995,11.1394 C2.31789,9.54336 2.97134,7.91976 3.91972,6.67737 C4.86029,5.44519 6.27437,4.3766 8.10383,4.50341 C9.81996636,4.62237364 11.0674829,5.78648603 11.8446591,6.77187041 L12.0637,7.0609 L12.0637,7.0609 L12.2827156,6.77187041 C13.059814,5.78648603 14.3073182,4.62237364 16.0235,4.50341 Z M7.89637,7.49623 C7.47584,7.46708 6.92691,7.6821 6.30436,8.49766 C5.68961,9.30301 5.17981,10.4913 4.88724,11.7959 C4.59453,13.1011 4.5524,14.3747 4.74341,15.3153 C4.90819312,16.126825 5.17222414,16.4173547 5.33536471,16.5186918 L5.40276778,16.5532373 L5.40276778,16.5532373 L5.42973,16.5627 C5.6624,16.6322 6.04382,16.6134 6.69089,16.0691 C7.33482,15.5274 7.99318,14.6564 8.60392,13.6416 C8.87629333,13.1890333 9.12860444,12.7252222 9.35564593,12.2790926 L9.61563301,11.7540754 L9.61563301,11.7540754 L9.8493616,11.25714 L9.8493616,11.25714 L10.0548321,10.7993939 L10.0548321,10.7993939 L10.2300447,10.3919447 L10.2300447,10.3919447 L10.373,10.0459 L10.373,10.0459 C10.2165,9.73315 9.99218,9.32834 9.71032,8.92724 C9.06612,8.01052 8.42073,7.53258 7.89637,7.49623 Z M16.2309,7.49623 C15.7066,7.53258 15.0612,8.01052 14.417,8.92724 C14.1351,9.32834 13.9108,9.73315 13.7543,10.0459 L13.9809584,10.588688 L13.9809584,10.588688 L14.1715556,11.0226741 C14.2058156,11.0990422 14.2412947,11.1772747 14.2779512,11.25714 L14.511686,11.7540754 L14.511686,11.7540754 L14.7716778,12.2790926 C14.9987222,12.7252222 15.2510333,13.1890333 15.5234,13.6416 C16.1341,14.6564 16.7925,15.5274 17.4364,16.0691 C18.0372786,16.5745214 18.4090587,16.6268332 18.6454171,16.576082 L18.6976,16.5627 C18.8279,16.5237 19.1811,16.3141 19.3839,15.3153 C19.5749,14.3747 19.5328,13.1011 19.2401,11.7959 C18.9475,10.4913 18.4377,9.30301 17.8229,8.49766 C17.2004,7.6821 16.6515,7.46708 16.2309,7.49623 Z"/>
-            </svg>
-            <h3 class="text-2xl font-bold text-gray-900">Meta Ads</h3>
-          </div>
-          <ul class="space-y-3">
-            <li class="flex items-start gap-3">
-              <GreenCheck />
-              <span class="text-gray-600">Facebook & Instagram targeted campaigns</span>
-            </li>
-            <li class="flex items-start gap-3">
-              <GreenCheck />
-              <span class="text-gray-600">Audience targeting and retargeting</span>
-            </li>
-            <li class="flex items-start gap-3">
-              <GreenCheck />
-              <span class="text-gray-600">Creative optimization for maximum ROI</span>
-            </li>
-          </ul>
+    <!-- Google Business Profile -->
+    <div class="bg-white border border-gray-200 rounded-lg shadow-xl overflow-hidden">
+      <div class="h-1 bg-rebel-green"></div>
+      <div class="p-8">
+        <div class="flex items-center gap-3 mb-6">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" class="size-10 text-rebel-green flex-shrink-0">
+            <path fill="currentColor" d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7zm0 9.5c-1.38 0-2.5-1.12-2.5-2.5s1.12-2.5 2.5-2.5 2.5 1.12 2.5 2.5-1.12 2.5-2.5 2.5z"/>
+          </svg>
+          <h3 class="text-2xl font-bold text-gray-900">Google Business Profile</h3>
         </div>
-      </div>
-
-      <!-- Website Design -->
-      <div class="bg-white border border-gray-200 rounded-lg shadow-xl overflow-hidden">
-        <div class="h-1 bg-[#069c4b]"></div>
-        <div class="p-8">
-          <div class="flex items-center gap-3 mb-6">
-            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" class="size-8 text-[#069c4b] flex-shrink-0">
-              <path fill="#069c4b" d="M3,20V10H8V21H4A1,1,0,0,1,3,20ZM21,4a1,1,0,0,0-1-1H4A1,1,0,0,0,3,4V8H21ZM20,21a1,1,0,0,0,1-1V10H10V21Z"/>
-            </svg>
-            <h3 class="text-2xl font-bold text-gray-900">Website Design</h3>
-          </div>
-          <ul class="space-y-3">
-            <li class="flex items-start gap-3">
-              <GreenCheck />
-              <span class="text-gray-600">Clean, conversion-focused design</span>
-            </li>
-            <li class="flex items-start gap-3">
-              <GreenCheck />
-              <span class="text-gray-600">Built for lead generation and sales</span>
-            </li>
-            <li class="flex items-start gap-3">
-              <GreenCheck />
-              <span class="text-gray-600">Fast, mobile-optimized sites</span>
-            </li>
-          </ul>
-        </div>
+        <p class="text-gray-700 mb-6">
+          Your Google Business Profile is often your second-biggest lead source after your website. We optimize every element—description, categories, photos, posts, reviews—to maximize visibility in the map pack. This seems basic, but it works and generates leads. We do it because it delivers results, not because it's revolutionary.
+        </p>
+        <ul class="space-y-3 mb-8">
+          <li class="flex items-start gap-3">
+            <GreenCheck />
+            <span class="text-gray-600">Complete profile optimization</span>
+          </li>
+          <li class="flex items-start gap-3">
+            <GreenCheck />
+            <span class="text-gray-600">Review generation & management</span>
+          </li>
+          <li class="flex items-start gap-3">
+            <GreenCheck />
+            <span class="text-gray-600">Regular posts & updates</span>
+          </li>
+          <li class="flex items-start gap-3">
+            <GreenCheck />
+            <span class="text-gray-600">Map pack ranking strategies</span>
+          </li>
+        </ul>
+        <Button text="Learn More" icon="arrow-right" href="/services/google-business-profile/" />
       </div>
     </div>
   </div>
+</div>

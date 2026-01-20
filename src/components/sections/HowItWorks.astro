@@ -1,77 +1,96 @@
 ---
-
+// HowItWorks.astro
 ---
 
-  <div class="max-w-7xl mx-auto px-6">
-    
-    <!-- Header -->
-    <div class="text-center mb-16">
-      <h2 class="text-4xl md:text-5xl font-black text-gray-900 mb-4">
-        The 3-Step Process
-      </h2>
-      <p class="text-lg md:text-xl text-gray-600 max-w-2xl mx-auto">
-        Build the page. Run the ads. Answer the calls.
-      </p>
+<div class="max-w-7xl mx-auto px-6">
+  <div class="text-center mb-16">
+    <h2 class="text-4xl md:text-5xl font-black text-gray-900 mb-4">
+      How We Work: <span class="text-rebel-green">The Complete System Approach</span>
+    </h2>
+    <p class="text-lg md:text-xl text-gray-600 max-w-3xl mx-auto">
+      The Silverback Authority Method isn't about individual tactics—it's about building a complete lead generation system. Here's how we do it:
+    </p>
+  </div>
+
+  <div class="grid md:grid-cols-3 gap-12 items-stretch">
+    <!-- Left: Image -->
+    <div class="flex items-stretch md:col-span-1">
+      <img
+        src="https://RebelApeCDN.b-cdn.net/featured-social-media-campaign.webp"
+        alt="Social media marketing campaign"
+        class="w-full h-full object-cover rounded-lg shadow-xl"
+      />
     </div>
 
-    <!-- Two Column Layout -->
-    <div class="grid grid-cols-1 md:grid-cols-2 gap-12 items-center">
-
-      <!-- Left: Gorilla Image (order-2 on mobile, order-1 on desktop) -->
-      <div class="flex items-center justify-center order-2 md:order-1">
-        <img 
-          src="https://RebelApeCDN.b-cdn.net/Rebel%20Website/Homepage/gorilla-phone-call.webp"
-          alt="Gorilla on the phone"
-          class="w-full h-auto rounded-xl shadow-2xl"
-        />
-      </div>
-
-      <!-- Right: Steps (order-1 on mobile, order-2 on desktop) -->
-      <div class="flex flex-col gap-8 order-1 md:order-2">
-        <!-- Step 1 -->
-        <div class="flex gap-4">
-          <div class="flex-shrink-0">
-            <div class="flex items-center justify-center h-12 w-12 rounded-lg bg-[#069c4b] text-white font-bold flex-shrink-0">
+    <!-- Right: Timeline Cards Stacked -->
+    <div class="space-y-6 md:col-span-2">
+      <div class="bg-white border border-gray-200 rounded-lg shadow-xl overflow-hidden">
+        <div class="h-1 bg-rebel-green"></div>
+        <div class="p-6">
+          <div class="flex items-start gap-3">
+            <div class="flex-shrink-0 w-8 h-8 bg-rebel-green rounded-lg flex items-center justify-center text-white font-black text-base">
               1
             </div>
-          </div>
-          <div class="flex-1">
-            <h3 class="text-xl font-bold text-gray-900">Website & Landing Page</h3>
-            <p class="text-gray-600 mt-2">
-              We build a high-converting websites and a landing page designed to capture leads and qualify them before they call.
-            </p>
+            <div>
+              <h3 class="text-lg font-bold text-gray-900 mb-2">Month 1: Foundation</h3>
+              <p class="text-gray-600 leading-snug">
+                We build the infrastructure first—conversion optimization, tracking setup, and technical foundation. Not the sexy part, but what makes everything work.
+              </p>
+            </div>
           </div>
         </div>
+      </div>
 
-        <!-- Step 2 -->
-        <div class="flex gap-4">
-          <div class="flex-shrink-0">
-            <div class="flex items-center justify-center h-12 w-12 rounded-lg bg-[#069c4b] text-white font-bold flex-shrink-0">
+      <div class="bg-white border border-gray-200 rounded-lg shadow-xl overflow-hidden">
+        <div class="h-1 bg-rebel-green"></div>
+        <div class="p-6">
+          <div class="flex items-start gap-3">
+            <div class="flex-shrink-0 w-8 h-8 bg-rebel-green rounded-lg flex items-center justify-center text-white font-black text-base">
               2
             </div>
-          </div>
-          <div class="flex-1">
-            <h3 class="text-xl font-bold text-gray-900">Ad Campaign</h3>
-            <p class="text-gray-600 mt-2">
-              We run targeted ads (Google & Meta) that put your business in front of people ready to buy.
-            </p>
-          </div>
-        </div>
-
-        <!-- Step 3 -->
-        <div class="flex gap-4">
-          <div class="flex-shrink-0">
-            <div class="flex items-center justify-center h-12 w-12 rounded-lg bg-[#069c4b] text-white font-bold flex-shrink-0">
-              3
+            <div>
+              <h3 class="text-lg font-bold text-gray-900 mb-2">Month 2+: Ads Launch & Lead Generation</h3>
+              <p class="text-gray-600 leading-snug">
+                Google Ads go live, leads start flowing. The algorithm is learning, so we're gathering data and optimizing. We track everything: cost per lead, conversion rates, ad performance.
+              </p>
             </div>
           </div>
-          <div class="flex-1">
-            <h3 class="text-xl font-bold text-gray-900">Qualified Calls</h3>
-            <p class="text-gray-600 mt-2">
-              Your phone rings. You schedule & close them. That's it.
-            </p>
+        </div>
+      </div>
+
+      <div class="bg-white border border-gray-200 rounded-lg shadow-xl overflow-hidden">
+        <div class="h-1 bg-rebel-green"></div>
+        <div class="p-6">
+          <div class="flex items-start gap-3">
+            <div class="flex-shrink-0 w-8 h-8 bg-rebel-green rounded-lg flex items-center justify-center text-white font-black text-base">
+              3
+            </div>
+            <div>
+              <h3 class="text-lg font-bold text-gray-900 mb-2">Months 3-6: Compounding Results</h3>
+              <p class="text-gray-600 leading-snug">
+                The algorithm learns, SEO kicks in, organic traffic grows, lead costs drop. The complete system shows its value—website + ads + SEO + tracking working together for predictable revenue.
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="bg-white border border-gray-200 rounded-lg shadow-xl overflow-hidden">
+        <div class="h-1 bg-rebel-green"></div>
+        <div class="p-6">
+          <div class="flex items-start gap-3">
+            <div class="flex-shrink-0 w-8 h-8 bg-rebel-green rounded-lg flex items-center justify-center text-white font-black text-base">
+              4
+            </div>
+            <div>
+              <h3 class="text-lg font-bold text-gray-900 mb-2">Ongoing: Testing & Optimization</h3>
+              <p class="text-gray-600 leading-snug">
+                Marketing is testing. The company that tests the most wins. We continuously test ad copy, landing pages, and targeting to optimize performance. Active, daily optimization—not set-it-and-forget-it.
+              </p>
+            </div>
           </div>
         </div>
       </div>
     </div>
   </div>
+</div>

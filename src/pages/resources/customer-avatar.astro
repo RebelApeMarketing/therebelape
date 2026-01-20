@@ -1,0 +1,269 @@
+---
+import Base from '../../layouts/Base.astro';
+import Hero from '../../components/sections/Hero.astro';
+import SocialProofBar from '../../components/sections/SocialProofBar.astro';
+import Button from '../../components/ui/Button.astro';
+
+// SEO
+const title = "Customer Avatar Guide for Contractors | Rebel Ape";
+const description = "Learn how to build data-driven customer avatars that actually improve your marketing. Step-by-step framework with video walkthrough and real contractor examples.";
+const canonical = "https://therebelape.com/resources/customer-avatar/";
+const image = "https://RebelApeCDN.b-cdn.net/featured-customer-avatar.webp";
+const type = "website";
+const robots = "index, follow";
+---
+
+<Base {title} {description} {canonical} {image} {type} {robots}>
+  <section>
+    <Hero
+      backgroundImage="https://RebelApeCDN.b-cdn.net/bg-gorilla-direct.webp"
+      title="Stop Guessing <span class='text-rebel-green'>Who Your Customers Are</span>"
+      subtitle="Build Customer Avatars Based On Data, Not Assumptions."
+      description="Most contractors say 'everyone is my customer.' That's why their marketing fails. Learn the <strong>data-driven process</strong> for identifying who actually buys from you and how to <strong>align your messaging with reality.</strong>"
+      features={[
+        'Data-Driven Framework',
+        'Video Walkthrough',
+        'Real Examples'
+      ]}
+      buttonText="Schedule a Strategy Session"
+      buttonIcon="calendar"
+      buttonHref="/schedule/"
+      fetchpriority="high"
+    />
+    <SocialProofBar />
+
+    <!-- Video Section -->
+    <section class="py-16 md:py-24 section-checkers">
+      <div class="max-w-5xl mx-auto px-4">
+        <div class="text-center mb-12">
+          <h2 class="text-4xl md:text-5xl font-black text-gray-900 mb-4">
+            Customer Avatar Framework
+          </h2>
+          <p class="text-lg md:text-xl text-gray-600 max-w-3xl mx-auto">
+            Watch this walkthrough to learn the exact process we use with contractor clients to build avatars that actually drive results.
+          </p>
+        </div>
+
+        <!-- YouTube Video Embed -->
+        <div class="relative w-full" style="padding-bottom: 56.25%;">
+          <iframe
+            class="absolute top-0 left-0 w-full h-full rounded-lg shadow-2xl"
+            src="https://www.youtube.com/embed/2B8t88RNdQo"
+            title="Customer Avatar Framework for Contractors"
+            frameborder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+            allowfullscreen
+          ></iframe>
+        </div>
+      </div>
+    </section>
+
+    <!-- The Problem Section -->
+    <section class="py-16 md:py-24 section-slate">
+      <div class="max-w-7xl mx-auto px-4">
+        <div class="grid grid-cols-1 lg:grid-cols-2 gap-12 lg:gap-16 items-center">
+          <!-- Text -->
+          <div>
+            <h2 class="text-4xl md:text-5xl font-bold mb-6">
+              The <span class="text-rebel-green">"Everyone Is My Customer"</span> Trap
+            </h2>
+            <p class="text-lg text-gray-700 mb-6">
+              When you market to everyone, you connect with no one. Your messaging becomes generic. Your website looks like every other contractor. Your ads get ignored. And you end up competing solely on price.
+            </p>
+            <p class="text-lg text-gray-700 mb-8">
+              The contractors who dominate their markets know exactly who they serve and build everything around attracting more of those specific people. They don't try to be everything to everyone. They pick their position, align their pricing and messaging, and become the obvious choice for their ideal customers.
+            </p>
+            <div class="space-y-4">
+              <div class="flex gap-3">
+                <span class="text-[#32C55F] text-2xl font-bold">✗</span>
+                <div>
+                  <p class="font-semibold text-gray-900">Generic Messaging</p>
+                  <p class="text-gray-600">"We do quality work for fair prices" doesn't differentiate you</p>
+                </div>
+              </div>
+              <div class="flex gap-3">
+                <span class="text-[#32C55F] text-2xl font-bold">✗</span>
+                <div>
+                  <p class="font-semibold text-gray-900">Wrong Leads</p>
+                  <p class="text-gray-600">Tire-kickers and price shoppers waste your time</p>
+                </div>
+              </div>
+              <div class="flex gap-3">
+                <span class="text-[#32C55F] text-2xl font-bold">✗</span>
+                <div>
+                  <p class="font-semibold text-gray-900">Price Competition</p>
+                  <p class="text-gray-600">Without clear positioning, price becomes the only differentiator</p>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <!-- Image -->
+          <div>
+            <img
+              src="https://RebelApeCDN.b-cdn.net/featured-customer-avatar.webp"
+              alt="Customer Avatar Development"
+              class="w-full rounded-lg shadow-2xl"
+              loading="lazy"
+              width="600"
+              height="400"
+            />
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- The Framework Section -->
+    <section class="py-16 md:py-24 section-checkers">
+      <div class="max-w-7xl mx-auto px-4">
+        <div class="text-center mb-16">
+          <h2 class="text-4xl md:text-5xl font-black text-gray-900 mb-4">
+            The Rebel Ape Process
+          </h2>
+          <p class="text-lg md:text-xl text-gray-600 max-w-3xl mx-auto">
+            Forget the worksheets and fictional personas. Here's how we build customer avatars that actually work.
+          </p>
+        </div>
+
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+          <!-- Step 1 -->
+          <div class="bg-white p-8 rounded-lg shadow-xl">
+            <div class="text-[#32C55F] text-5xl font-black mb-4">01</div>
+            <h3 class="text-2xl font-bold mb-4">Interview the Owner</h3>
+            <p class="text-gray-700">
+              Talk about your best projects, typical customers, and ideal work. Most contractors have strong opinions about this - we connect it to your marketing strategy.
+            </p>
+          </div>
+
+          <!-- Step 2 -->
+          <div class="bg-white p-8 rounded-lg shadow-xl">
+            <div class="text-[#32C55F] text-5xl font-black mb-4">02</div>
+            <h3 class="text-2xl font-bold mb-4">Analyze Actual Data</h3>
+            <p class="text-gray-700">
+              Dig into Google Analytics demographics, customer database patterns, review analysis, and conversion data to understand who actually buys from you.
+            </p>
+          </div>
+
+          <!-- Step 3 -->
+          <div class="bg-white p-8 rounded-lg shadow-xl">
+            <div class="text-[#32C55F] text-5xl font-black mb-4">03</div>
+            <h3 class="text-2xl font-bold mb-4">Audit Positioning</h3>
+            <p class="text-gray-700">
+              Review website messaging, Google Business Profile, social media, and ads to identify disconnects between who you're targeting and who you're attracting.
+            </p>
+          </div>
+
+          <!-- Step 4 -->
+          <div class="bg-white p-8 rounded-lg shadow-xl">
+            <div class="text-[#32C55F] text-5xl font-black mb-4">04</div>
+            <h3 class="text-2xl font-bold mb-4">Market Reality Check</h3>
+            <p class="text-gray-700">
+              Understand what customers in your market actually need, what problems they're solving, and what questions they're asking to inform positioning.
+            </p>
+          </div>
+
+          <!-- Step 5 -->
+          <div class="bg-white p-8 rounded-lg shadow-xl">
+            <div class="text-[#32C55F] text-5xl font-black mb-4">05</div>
+            <h3 class="text-2xl font-bold mb-4">Build Data-Driven Avatars</h3>
+            <p class="text-gray-700">
+              Create profiles based on who actually buys, what they need, how they decide, their objections, and where to reach them effectively.
+            </p>
+          </div>
+
+          <!-- Step 6 -->
+          <div class="bg-white p-8 rounded-lg shadow-xl">
+            <div class="text-[#32C55F] text-5xl font-black mb-4">06</div>
+            <h3 class="text-2xl font-bold mb-4">Align Everything</h3>
+            <p class="text-gray-700">
+              Rebuild website messaging, SEO strategy, PPC campaigns, content strategy, and brand positioning to target your defined avatars.
+            </p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- What You Get Section -->
+    <section class="py-16 md:py-24 section-slate">
+      <div class="max-w-7xl mx-auto px-4">
+        <div class="grid grid-cols-1 lg:grid-cols-2 gap-12 lg:gap-16 items-center">
+          <!-- Image -->
+          <div class="order-2 lg:order-1">
+            <img
+              src="https://RebelApeCDN.b-cdn.net/featured-getting-to-know-your-customer-avatar-the-ultimate-guide-to-better-marketing.webp"
+              alt="Customer Avatar Results"
+              class="w-full rounded-lg shadow-2xl"
+              loading="lazy"
+              width="600"
+              height="400"
+            />
+          </div>
+
+          <!-- Text -->
+          <div class="order-1 lg:order-2">
+            <h2 class="text-4xl md:text-5xl font-bold mb-6">
+              What This <span class="text-rebel-green">Actually Gets You</span>
+            </h2>
+            <p class="text-lg text-gray-700 mb-8">
+              Customer avatars aren't about creating fancy documents. They're about fundamentally understanding who buys from you and building your entire marketing strategy around that reality.
+            </p>
+            <ul class="space-y-4">
+              <li class="flex gap-3">
+                <span class="text-[#32C55F] text-xl font-bold">✓</span>
+                <div>
+                  <p class="font-semibold text-gray-900">Targeted Messaging</p>
+                  <p class="text-gray-700">Speak directly to the people most likely to buy from you</p>
+                </div>
+              </li>
+              <li class="flex gap-3">
+                <span class="text-[#32C55F] text-xl font-bold">✓</span>
+                <div>
+                  <p class="font-semibold text-gray-900">Better Lead Quality</p>
+                  <p class="text-gray-700">Attract customers who are actually a good fit for your business</p>
+                </div>
+              </li>
+              <li class="flex gap-3">
+                <span class="text-[#32C55F] text-xl font-bold">✓</span>
+                <div>
+                  <p class="font-semibold text-gray-900">Higher Conversion Rates</p>
+                  <p class="text-gray-700">Turn more visitors into calls and more calls into jobs</p>
+                </div>
+              </li>
+              <li class="flex gap-3">
+                <span class="text-[#32C55F] text-xl font-bold">✓</span>
+                <div>
+                  <p class="font-semibold text-gray-900">Clear Differentiation</p>
+                  <p class="text-gray-700">Stand out from competitors competing on price alone</p>
+                </div>
+              </li>
+              <li class="flex gap-3">
+                <span class="text-[#32C55F] text-xl font-bold">✓</span>
+                <div>
+                  <p class="font-semibold text-gray-900">Strategic Focus</p>
+                  <p class="text-gray-700">Stop wasting money on marketing that targets the wrong people</p>
+                </div>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- CTA Section -->
+    <section class="py-16 md:py-24 section-checkers">
+      <div class="max-w-4xl mx-auto px-4 text-center">
+        <h2 class="text-4xl md:text-5xl font-black text-gray-900 mb-6">
+          Ready To Stop Guessing And Start Growing?
+        </h2>
+        <p class="text-lg md:text-xl text-gray-600 mb-8 max-w-2xl mx-auto">
+          We'll dig into your actual customer data and build avatars that drive real results. No generic templates. No fictional personas. Just data-driven strategy that gets your phone ringing with qualified leads.
+        </p>
+        <div class="flex flex-col sm:flex-row gap-4 justify-center">
+          <Button text="Schedule a Strategy Session" icon="calendar" href="/schedule/" />
+          <Button text="Read the Full Guide" icon="arrow-right" href="/blog/getting-to-know-your-customer-avatar-the-ultimate-guide-to-better-marketing/" />
+        </div>
+      </div>
+    </section>
+
+  </section>
+</Base>
