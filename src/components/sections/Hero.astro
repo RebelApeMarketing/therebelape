@@ -32,9 +32,9 @@ const {
 } = Astro.props;
 ---
 
-<section 
-  class="w-full py-15 relative overflow-hidden bg-center bg-top text-center" 
-  style={`background-image: url('${backgroundImage}')`}
+<section
+  class="w-full py-15 relative overflow-hidden bg-center bg-top text-center"
+  style={`background-image: url('${backgroundImage}'); background-size: cover; background-repeat: no-repeat;`}
   data-fetchpriority={fetchpriority}
 >
 
@@ -46,7 +46,7 @@ const {
       <h1 class="text-5xl md:text-7xl font-black" set:html={title}>
       </h1>
 
-      <h2 class="text-3xl md:text-5xl font-black" set:html={subtitle}>
+      <h2 class="text-xl md:text-2xl font-black" set:html={subtitle}>
       </h2>
 
       <p class="max-w-5xl text-xl leading-8 mb-3" set:html={description}>
