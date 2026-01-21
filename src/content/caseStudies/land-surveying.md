@@ -4,7 +4,7 @@ headline: "$60,200 in Revenue from 177 Qualified Calls"
 clientType: "Land Surveying Company in Northern Utah"
 industry: "Land Surveying & Engineering"
 description: "How we helped a land surveying company generate $60,200 in tracked revenue through Google Local Service Ads and conversion optimization."
-image: "https://RebelApeCDN.b-cdn.net/bg-gorilla-direct.webp"
+image: "https://RebelApeCDN.b-cdn.net/startup-to-500k-revenue-marketing-system.webp"
 excerpt: "A land surveying company went from zero online presence to generating $60,200 in revenue from 177 qualified calls in just 4 months through Google Local Service Ads."
 results:
   metric1: "$60,200 in Revenue"
