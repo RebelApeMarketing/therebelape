@@ -1,0 +1,65 @@
+---
+interface Props {
+  city: string;
+  state: string;
+  region: string;
+  customCityAnswer?: string;
+}
+
+const { city, state, region, customCityAnswer } = Astro.props;
+
+// Default answer for "Do you work with contractors in [city]?"
+const defaultCityAnswer = `Yes. We work with contractors throughout ${city} and the surrounding ${region} area. While we're not physically located in every city we serve, we've built systems that work remotely and deliver results locally. Most of our work happens over the phone or Google Meet anyway—no time wasted driving to meetings.`;
+
+const faqs = [
+  // Standard FAQs (same for all)
+  {
+    question: "How long until we see results?",
+    answer: "Month 1 is foundation—we're building the infrastructure. Month 2 we launch ads and leads start coming in. The algorithm is learning, so month 2 can be rough. Months 3-6 everything compounds as the algorithm learns and SEO kicks in. Most contractors see meaningful results within 60-90 days."
+  },
+  {
+    question: "What if we tried marketing before and it didn't work?",
+    answer: "That's exactly why we do things differently. Most agencies sell you individual services—SEO, ads, or a website—and wonder why they don't generate revenue. We build complete systems where everything works together. And we don't lock you in with contracts. If we're not delivering, fire us."
+  },
+  {
+    question: "Do you only work with big contractors?",
+    answer: "Nope. We work with solo operators and small crews all the time. If you're doing $200K-$1M annually and want to grow, we can help. You don't need a massive budget to get results—you just need the right system."
+  },
+  {
+    question: "What if we're not getting leads?",
+    answer: "Then we figure out why and fix it. That's what partners do. We own our results. If leads aren't coming in, we don't blame your industry or your market—we test, adjust, and keep optimizing until it works."
+  },
+
+  // City-Specific FAQs
+  {
+    question: `Do you work with contractors in ${city}?`,
+    answer: customCityAnswer || defaultCityAnswer
+  },
+  {
+    question: "Do we need to meet in person?",
+    answer: "Nope. Most contractors prefer remote work—it's faster and easier. We handle everything over the phone or Google Meet. But if you want to meet in person and we're in your area, we can make that happen."
+  }
+];
+---
+
+<section class="py-16 md:py-24">
+  <div class="max-w-4xl mx-auto px-4">
+    <h2 class="text-4xl md:text-5xl font-bold mb-12 text-center">
+      Frequently Asked Questions
+    </h2>
+
+    <div class="space-y-6">
+      {faqs.map((faq) => (
+        <details class="bg-white p-6 rounded-lg shadow-lg group">
+          <summary class="font-bold text-xl cursor-pointer list-none flex justify-between items-center">
+            <span>{faq.question}</span>
+            <span class="text-rebel-green text-2xl group-open:rotate-45 transition-transform">+</span>
+          </summary>
+          <p class="text-gray-700 mt-4 leading-relaxed">
+            {faq.answer}
+          </p>
+        </details>
+      ))}
+    </div>
+  </div>
+</section>

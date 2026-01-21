@@ -1,0 +1,228 @@
+---
+import { getCollection } from 'astro:content';
+import type { GetStaticPaths, Page } from 'astro';
+import Base from '../../layouts/Base.astro';
+import Hero from '../../components/sections/Hero.astro';
+import SocialProofBar from '../../components/sections/SocialProofBar.astro';
+import TestimonialsDefault from '../../components/testimonials/TestimonialsDefault.astro';
+import OrganizationSchema from '../../components/schema/OrganizationSchema.astro';
+import BreadcrumbSchema from '../../components/schema/BreadcrumbSchema.astro';
+
+export const getStaticPaths = (async ({ paginate }) => {
+  const allCaseStudies = await getCollection('caseStudies');
+
+  // Filter out drafts and sort by publish date (newest first)
+  const publishedCaseStudies = allCaseStudies
+    .filter(study => !study.data.draft)
+    .sort((a, b) => b.data.publishDate.valueOf() - a.data.publishDate.valueOf());
+
+  return paginate(publishedCaseStudies, { pageSize: 6 });
+}) satisfies GetStaticPaths;
+
+const { page } = Astro.props as { page: Page };
+
+// SEO
+const title = page.currentPage === 1
+  ? "Case Studies | Real Results for Real Contractors | Rebel Ape"
+  : `Case Studies - Page ${page.currentPage} | Rebel Ape`;
+const description = "See how we've helped contractors generate qualified leads, increase revenue, and grow their businesses. Real case studies with real numbers.";
+const canonical = page.currentPage === 1
+  ? "https://therebelape.com/case-studies/"
+  : `https://therebelape.com/case-studies/${page.currentPage}/`;
+const image = "https://RebelApeCDN.b-cdn.net/bg-gorilla-direct.webp";
+const type = "website";
+const robots = "index,follow";
+
+// Breadcrumbs for schema
+const breadcrumbs = [
+  { name: "Home", url: "https://therebelape.com/" },
+  { name: "Case Studies", url: "https://therebelape.com/case-studies/" }
+];
+---
+
+<Base {title} {description} {canonical} {image} {type} {robots}>
+  <!-- Schema Markup -->
+  <OrganizationSchema slot="head" />
+  <BreadcrumbSchema slot="head" breadcrumbs={breadcrumbs} />
+
+  <section>
+    <!-- Hero Section -->
+    <Hero
+      backgroundImage="https://RebelApeCDN.b-cdn.net/bg-gorilla-direct.webp"
+      title="Real Results for <span class='text-rebel-green'>Real Contractors</span>"
+      subtitle="See How We've Helped Contractors Generate More Leads & Revenue"
+      description="We don't do fluff metrics or vanity numbers. These are real case studies showing exactly how we helped contractors generate qualified leads and grow revenue through complete marketing systems."
+      features={[
+        'Real Numbers, Real Results',
+        'Complete Marketing Systems',
+        'Proven Lead Generation'
+      ]}
+      buttonText="Schedule a Call"
+      buttonIcon="calendar"
+      buttonHref="/schedule/"
+      fetchpriority="high"
+    />
+    <SocialProofBar />
+
+  <!-- Case Studies Grid -->
+  <section class="py-12 md:py-16 section-checkers">
+    <div class="max-w-7xl mx-auto px-6">
+      {page.data.length === 0 ? (
+        <div class="text-center py-16">
+          <p class="text-xl text-gray-600">No case studies found.</p>
+        </div>
+      ) : (
+        <>
+          <div class="text-center mb-12">
+            <h2 class="text-3xl md:text-4xl font-bold mb-4">Success Stories</h2>
+            <p class="text-xl text-gray-700 max-w-3xl mx-auto">
+              Real contractors. Real results. Real revenue growth.
+            </p>
+          </div>
+
+          <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-8 mb-12">
+            {page.data.map((study) => {
+              const studyUrl = `/case-studies/${study.slug}/`;
+              return (
+                <article class="bg-white rounded-lg overflow-hidden shadow-lg hover:shadow-2xl transition-shadow duration-300">
+                  {study.data.image && (
+                    <a href={studyUrl} class="block">
+                      <img
+                        src={study.data.image}
+                        alt={study.data.clientType}
+                        class="w-full h-56 object-cover"
+                      />
+                    </a>
+                  )}
+
+                  <div class="p-6">
+                    <div class="flex items-center gap-2 mb-3">
+                      <span class="bg-rebel-green text-white px-3 py-1 rounded-full text-sm font-semibold">
+                        {study.data.industry}
+                      </span>
+                      {study.data.featured && (
+                        <span class="bg-orange-500 text-white px-3 py-1 rounded-full text-sm font-semibold">
+                          Featured
+                        </span>
+                      )}
+                    </div>
+
+                    <h2 class="text-2xl font-bold mb-3 text-gray-900">
+                      <a href={studyUrl} class="hover:text-rebel-green transition">
+                        {study.data.clientType}
+                      </a>
+                    </h2>
+
+                    <p class="text-lg font-semibold text-rebel-green mb-4">
+                      {study.data.headline}
+                    </p>
+
+                    <p class="text-gray-700 mb-6 line-clamp-3">
+                      {study.data.excerpt}
+                    </p>
+
+                    <div class="flex flex-wrap gap-4 mb-6 text-sm text-gray-600">
+                      <div class="flex items-center gap-2">
+                        <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z"></path>
+                        </svg>
+                        <span>{study.data.timeline}</span>
+                      </div>
+                    </div>
+
+                    <div class="border-t pt-4 mb-4">
+                      <p class="text-sm font-semibold text-gray-700 mb-2">Key Results:</p>
+                      <ul class="space-y-1 text-sm text-gray-600">
+                        <li class="flex items-start gap-2">
+                          <span class="text-rebel-green mt-1">✓</span>
+                          <span>{study.data.results.metric1}</span>
+                        </li>
+                        {study.data.results.metric2 && (
+                          <li class="flex items-start gap-2">
+                            <span class="text-rebel-green mt-1">✓</span>
+                            <span>{study.data.results.metric2}</span>
+                          </li>
+                        )}
+                        {study.data.results.metric3 && (
+                          <li class="flex items-start gap-2">
+                            <span class="text-rebel-green mt-1">✓</span>
+                            <span>{study.data.results.metric3}</span>
+                          </li>
+                        )}
+                      </ul>
+                    </div>
+
+                    <a
+                      href={studyUrl}
+                      class="inline-flex items-center gap-2 text-rebel-green font-semibold hover:gap-3 transition-all group"
+                    >
+                      <span>Read Full Case Study</span>
+                      <svg class="w-5 h-5 group-hover:translate-x-1 transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path>
+                      </svg>
+                    </a>
+                  </div>
+                </article>
+              );
+            })}
+          </div>
+
+          <!-- Pagination -->
+          {(page.lastPage > 1) && (
+            <nav class="flex justify-center items-center gap-4 mt-12" aria-label="Pagination">
+              {page.url.prev && (
+                <a
+                  href={page.url.prev}
+                  class="px-6 py-3 bg-rebel-green text-white font-semibold rounded-lg hover:bg-rebel-green-dark transition"
+                >
+                  ← Previous
+                </a>
+              )}
+
+              <span class="text-gray-700 font-medium">
+                Page {page.currentPage} of {page.lastPage}
+              </span>
+
+              {page.url.next && (
+                <a
+                  href={page.url.next}
+                  class="px-6 py-3 bg-rebel-green text-white font-semibold rounded-lg hover:bg-rebel-green-dark transition"
+                >
+                  Next →
+                </a>
+              )}
+            </nav>
+          )}
+        </>
+      )}
+    </div>
+  </section>
+
+  <!-- Testimonials Section -->
+  <section class="py-12 md:py-16 section-slate">
+    <TestimonialsDefault />
+  </section>
+
+  <!-- CTA Section -->
+  <section class="py-12 md:py-16 section-checkers">
+    <div class="max-w-4xl mx-auto px-6 text-center">
+      <h2 class="text-4xl md:text-5xl font-bold mb-6">
+        Ready to Be Our Next <span class="text-rebel-green">Success Story?</span>
+      </h2>
+      <p class="text-xl text-gray-700 mb-8">
+        These contractors were exactly where you are now. Let's talk about getting similar results for your business.
+      </p>
+      <a
+        href="/schedule/"
+        class="inline-flex items-center gap-3 bg-rebel-green text-white px-8 py-4 rounded-lg font-bold text-lg hover:bg-rebel-green-dark transition shadow-lg hover:shadow-xl"
+      >
+        <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z"></path>
+        </svg>
+        <span>Schedule a Call</span>
+      </a>
+    </div>
+  </section>
+
+  </section>
+</Base>

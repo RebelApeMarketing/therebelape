@@ -1,0 +1,100 @@
+---
+// LocalBusiness Schema for location pages - This is POWERFUL for local SEO
+interface Props {
+  city: string;
+  state: string;
+  stateAbbr: string;
+  region: string;
+  url: string;
+}
+
+const { city, state, stateAbbr, region, url } = Astro.props;
+
+const schema = {
+  "@context": "https://schema.org",
+  "@type": "ProfessionalService",
+  "name": `Rebel Ape Marketing - ${city}`,
+  "description": `Digital marketing services for contractors in ${city}, ${stateAbbr}. Expert SEO, Google Ads management, and website design for home service businesses in ${region}.`,
+  "url": url,
+  "areaServed": {
+    "@type": "City",
+    "name": city,
+    "containedIn": {
+      "@type": "State",
+      "name": state
+    }
+  },
+  "parentOrganization": {
+    "@type": "Organization",
+    "name": "Rebel Ape Marketing",
+    "url": "https://therebelape.com"
+  },
+  "priceRange": "$$",
+  "telephone": "+1-801-555-0100",
+  "email": "contact@therebelape.com",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": city,
+    "addressRegion": stateAbbr,
+    "addressCountry": "US"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "addressCountry": "US"
+  },
+  "sameAs": [
+    "https://www.facebook.com/RebelApeMarketing",
+    "https://twitter.com/RebelApeAgency",
+    "https://www.linkedin.com/company/rebel-ape-marketing",
+    "https://www.pinterest.com/rebelapemarketing"
+  ],
+  "hasOfferCatalog": {
+    "@type": "OfferCatalog",
+    "name": "Marketing Services",
+    "itemListElement": [
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "SEO Services",
+          "description": `Local SEO services for contractors in ${city}, ${stateAbbr}`
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Google Ads Management",
+          "description": `PPC and Google Ads management for ${city} home service businesses`
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Website Design",
+          "description": `High-converting website design for contractors in ${city}`
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Social Media Marketing",
+          "description": `Social media management for ${city} contractors`
+        }
+      }
+    ]
+  },
+  "serviceArea": {
+    "@type": "GeoCircle",
+    "geoMidpoint": {
+      "@type": "GeoCoordinates",
+      "addressCountry": "US"
+    },
+    "geoRadius": "50 miles"
+  }
+};
+---
+
+<script type="application/ld+json" set:html={JSON.stringify(schema)} />

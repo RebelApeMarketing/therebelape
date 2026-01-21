@@ -1,0 +1,74 @@
+---
+interface Props {
+  city: string;
+}
+
+const { city } = Astro.props;
+---
+
+<section class="py-16 md:py-24 section-slate">
+  <div class="max-w-6xl mx-auto px-4">
+    <h2 class="text-4xl md:text-5xl font-bold mb-4 text-center">
+      How We Get {city} Contractors Consistent Leads
+    </h2>
+    <p class="text-xl text-gray-700 mb-12 text-center">
+      We build complete marketing systems—not random tactics that work in isolation.
+    </p>
+
+    <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
+
+      <!-- Service: SEO -->
+      <div class="bg-white p-8 rounded-lg shadow-lg">
+        <h3 class="text-2xl font-bold mb-4">Local SEO</h3>
+        <p class="text-gray-700 mb-4">
+          Show up when contractors search for services in {city}. We optimize your site, Google Business Profile, and content so you rank when it matters. Takes 6-8 months to really kick in, but it compounds over time.
+        </p>
+        <ul class="space-y-2 text-gray-700">
+          <li class="flex gap-2"><span class="text-rebel-green font-bold">→</span> Google Business Profile optimization</li>
+          <li class="flex gap-2"><span class="text-rebel-green font-bold">→</span> Local keyword targeting</li>
+          <li class="flex gap-2"><span class="text-rebel-green font-bold">→</span> Content that ranks</li>
+        </ul>
+      </div>
+
+      <!-- Service: Google Ads -->
+      <div class="bg-white p-8 rounded-lg shadow-lg">
+        <h3 class="text-2xl font-bold mb-4">Google Ads</h3>
+        <p class="text-gray-700 mb-4">
+          Get leads now, not in 6 months. We run targeted Google Ads that reach people actively searching for contractors in {city}. Real tracking. Real optimization. Real results.
+        </p>
+        <ul class="space-y-2 text-gray-700">
+          <li class="flex gap-2"><span class="text-rebel-green font-bold">→</span> Fastest way to generate leads</li>
+          <li class="flex gap-2"><span class="text-rebel-green font-bold">→</span> Highly targeted campaigns</li>
+          <li class="flex gap-2"><span class="text-rebel-green font-bold">→</span> Continuous optimization</li>
+        </ul>
+      </div>
+
+      <!-- Service: Website Design -->
+      <div class="bg-white p-8 rounded-lg shadow-lg">
+        <h3 class="text-2xl font-bold mb-4">Website Design</h3>
+        <p class="text-gray-700 mb-4">
+          Your website has one job: turn visitors into phone calls. We build conversion-focused sites that actually generate leads—fast load times, clear CTAs, and messaging that converts.
+        </p>
+        <ul class="space-y-2 text-gray-700">
+          <li class="flex gap-2"><span class="text-rebel-green font-bold">→</span> Mobile-first design</li>
+          <li class="flex gap-2"><span class="text-rebel-green font-bold">→</span> Lightning-fast load times</li>
+          <li class="flex gap-2"><span class="text-rebel-green font-bold">→</span> Built to convert</li>
+        </ul>
+      </div>
+
+      <!-- Service: Social Media -->
+      <div class="bg-white p-8 rounded-lg shadow-lg">
+        <h3 class="text-2xl font-bold mb-4">Social Media Management</h3>
+        <p class="text-gray-700 mb-4">
+          Stay visible with consistent, professional content. We handle your social media so you can focus on the work. No generic templates—content built for contractors.
+        </p>
+        <ul class="space-y-2 text-gray-700">
+          <li class="flex gap-2"><span class="text-rebel-green font-bold">→</span> Facebook & Instagram</li>
+          <li class="flex gap-2"><span class="text-rebel-green font-bold">→</span> Consistent posting schedule</li>
+          <li class="flex gap-2"><span class="text-rebel-green font-bold">→</span> Professional content</li>
+        </ul>
+      </div>
+
+    </div>
+  </div>
+</section>

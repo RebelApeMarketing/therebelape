@@ -12,9 +12,6 @@
 /og/*                     /og/*                     200
 
 # HTTPS + remove www
-# http://*                  https://$host$uri         301!
-# https://www.therebelape.com/*  https://therebelape.com$uri  301!
-
 https://www.therebelape.com/*  https://therebelape.com/:splat  301!
 http://therebelape.com/*  https://therebelape.com/:splat  301!
 http://www.therebelape.com/*  https://therebelape.com/:splat  301!
@@ -24,22 +21,17 @@ http://www.therebelape.com/*  https://therebelape.com/:splat  301!
 # ========================================
 
 # Service page restructuring
-/ads/ /services/ppc/ 301
-/ads /services/ppc/ 301
-/services/ads/ /services/ppc/ 301
-/services/ads /services/ppc/ 301
-/website-design/ /services/website-design/ 301
-/website-design /services/website-design/ 301
+/ads/ /services/ppc/ 301!
+/services/ads/ /services/ppc/ 301!
+/website-design/ /services/website-design/ 301!
 
 # Legacy contractor pages
-/website-design-for-contractors/ /services/website-design/ 301
-/ads-for-contractors/ /services/ppc/ 301
+/website-design-for-contractors/ /services/website-design/ 301!
+/ads-for-contractors/ /services/ppc/ 301!
 
 # Legal pages restructuring
-/privacy-policy/ /legal/privacy-policy/ 301
-/privacy-policy /legal/privacy-policy/ 301
-/terms-and-conditions/ /legal/terms-and-conditions/ 301
-/terms-and-conditions /legal/terms-and-conditions/ 301
+/privacy-policy/ /legal/privacy-policy/ 301!
+/terms-and-conditions/ /legal/terms-and-conditions/ 301!
 
 # ========================================
 # LANDING PAGES & SUBDOMAIN REDIRECTS
@@ -66,15 +58,11 @@ https://therebelape.com/contact/request-a-bid/ https://therebelape.com/schedule/
 # ========================================
 
 # CONVERSION SECRETS
-# Main Pages
 https://go.therebelape.com/conversion-secrets /services/website-design/ 301!
-https://go.therebelape.com/conversion-secrets-2357 /services/website-design/ 301!
 https://go.therebelape.com/conversion-secrets/ /services/website-design/ 301!
-https://www.therebelape.com/conversion-secrets /services/website-design/ 301!
 /conversion-secrets/ /services/website-design/ 301!
 
 # ABOUT
-# Main Pages
 /about-us/ /about/ 301!
 /about-rebel-ape-marketing/ /about/ 301!
 
@@ -98,29 +86,129 @@ https://www.therebelape.com/conversion-secrets /services/website-design/ 301!
 /referral-program/ /about/ 301!
 
 # ========================================
+# LOCATION PAGES - UTAH CITIES
+# ========================================
+
+# BOUNTIFUL
+/plumbing-marketing/bountiful/ /locations/utah/bountiful/ 301!
+/marketing-services/website-design/bountiful/ /locations/utah/bountiful/ 301!
+/plumber-marketing-services/plumber-website-design/plumber-web-design-bountiful/ /locations/utah/bountiful/ 301!
+/plumber-website-design/bountiful-web-design/ /locations/utah/bountiful/ 301!
+/web-design/bountiful-web-design/ /locations/utah/bountiful/ 301!
+/marketing-agencies-utah/seo-for-small-business/website-design-in-bountiful-ut/ /locations/utah/bountiful/ 301!
+
+# BRIGHAM CITY
+/plumbing-marketing/brigham-city/ /locations/utah/brigham-city/ 301!
+
+# CLEARFIELD
+/plumbing-marketing/clearfield/ /locations/utah/clearfield/ 301!
+
+# FARMINGTON
+/plumbing-marketing/farmington/ /locations/utah/farmington/ 301!
+
+# LAYTON
+/plumbing-marketing/layton/ /locations/utah/layton/ 301!
+/marketing-services/seo/layton/ /locations/utah/layton/ 301!
+/plumber-marketing-services/plumber-seo/plumber-seo-layton/ /locations/utah/layton/ 301!
+/plumber-seo/layton-seo/ /locations/utah/layton/ 301!
+/seo/layton-seo/ /locations/utah/layton/ 301!
+/services/seo/seo-and-website-design-in-layton/ /locations/utah/layton/ 301!
+/marketing-agencies-utah/seo-for-small-business/seo-and-website-design-in-layton/ /locations/utah/layton/ 301!
+
+# LEHI
+/plumbing-marketing/lehi/ /locations/utah/lehi/ 301!
+
+# LOGAN
+/plumbing-marketing/logan/ /locations/utah/logan/ 301!
+/marketing-services/seo/logan/ /locations/utah/logan/ 301!
+/plumber-marketing-services/plumber-seo/plumber-seo-logan/ /locations/utah/logan/ 301!
+/plumber-seo/logan-seo/ /locations/utah/logan/ 301!
+/seo/logan-seo/ /locations/utah/logan/ 301!
+/seo/seo-and-website-design-in-logan/ /locations/utah/logan/ 301!
+/marketing-agencies-utah/seo-for-small-business/seo-and-website-design-in-logan/ /locations/utah/logan/ 301!
+
+# MURRAY
+/plumbing-marketing/murray/ /locations/utah/murray/ 301!
+
+# OGDEN
+/plumbing-marketing/ogden/ /locations/utah/ogden/ 301!
+/marketing-services/seo/ogden/ /locations/utah/ogden/ 301!
+/plumber-seo/ogden-seo/ /locations/utah/ogden/ 301!
+/seo/ogden-seo/ /locations/utah/ogden/ 301!
+/marketing-agencies-utah/seo-for-small-business/ogden-seo/ /locations/utah/ogden/ 301!
+
+# OREM
+/plumbing-marketing/orem/ /locations/utah/orem/ 301!
+
+# PARK CITY
+/plumbing-marketing/park-city/ /locations/utah/park-city/ 301!
+
+# PROVO
+/plumbing-marketing/provo/ /locations/utah/provo/ 301!
+
+# ROY
+/plumbing-marketing/roy/ /locations/utah/roy/ 301!
+
+# SALT LAKE CITY
+/plumbing-marketing/salt-lake-city/ /locations/utah/salt-lake-city/ 301!
+/marketing-services/seo/salt-lake-city/ /locations/utah/salt-lake-city/ 301!
+/plumber-marketing-services/plumber-seo/plumber-seo-salt-lake-city/ /locations/utah/salt-lake-city/ 301!
+/seo/seo-salt-lake-city/ /locations/utah/salt-lake-city/ 301!
+/services/plumber-seo/salt-lake-seo/ /locations/utah/salt-lake-city/ 301!
+
+# SANDY
+/plumbing-marketing/sandy/ /locations/utah/sandy/ 301!
+
+# SOUTH JORDAN
+/plumbing-marketing/south-jordan/ /locations/utah/south-jordan/ 301!
+
+# ST. GEORGE / SAINT GEORGE
+/plumbing-marketing/saint-george/ /locations/utah/st-george/ 301!
+/plumber-marketing-services/plumber-seo/plumber-seo-saint-george/ /locations/utah/st-george/ 301!
+/seo/saint-george-seo/ /locations/utah/st-george/ 301!
+/marketing-agencies-utah/seo-for-small-business/seo-website-design-in-saint-george/ /locations/utah/st-george/ 301!
+
+# WEST JORDAN
+/plumbing-marketing/west-jordan/ /locations/utah/west-jordan/ 301!
+
+# WEST VALLEY CITY
+/plumbing-marketing/west-valley-city/ /locations/utah/west-valley-city/ 301!
+
+# ========================================
+# LOCATION PAGES - NEVADA
+# ========================================
+
+# LAS VEGAS
+/plumbing-marketing/las-vegas/ /locations/nevada/las-vegas/ 301!
+/marketing-services/seo/las-vegas/ /locations/nevada/las-vegas/ 301!
+/plumber-marketing-services/plumber-seo/plumber-seo-las-vegas/ /locations/nevada/las-vegas/ 301!
+/plumber-seo/las-vegas-seo/ /locations/nevada/las-vegas/ 301!
+/marketing-agencies-utah/seo-for-small-business/seo-and-website-design-in-las-vegas/ /locations/nevada/las-vegas/ 301!
+
+# ========================================
+# GENERAL LOCATION PAGES
+# ========================================
+
+# Old plumbing marketing parent page
+/plumbing-marketing/ /locations/ 301!
+
+# Old marketing agencies utah
+/marketing-agencies-utah/ /locations/utah/ 301!
+
+# ========================================
 # WEBSITE DESIGN
 # ========================================
 
 # WEBSITE DESIGN - General Pages
 /web-design/ /services/website-design/ 301!
-/web-design /services/website-design/ 301!
 /website-design-and-development-consultant/ /services/website-design/ 301!
 /services/plumber-website-design/ /services/website-design/ 301!
 /plumber-website-design/ /services/website-design/ 301!
 /high-converting-website/feed/ /services/website-design/ 301!
 
-# WEBSITE DESIGN - Location-Specific Pages
+# WEBSITE DESIGN - General Location Pages (Non-specific cities)
 /marketing-services/website-design/ /services/website-design/ 301!
-/marketing-services/website-design/bountiful/ /services/website-design/ 301!
 /plumber-marketing-services/plumber-website-design/ /services/website-design/ 301!
-/plumber-marketing-services/plumber-website-design/plumber-web-design-bountiful/ /services/website-design/ 301!
-/plumber-website-design/bountiful-web-design/ /services/website-design/ 301!
-/web-design/bountiful-web-design/ /services/website-design/ 301!
-/marketing-agencies-utah/seo-for-small-business/seo-and-website-design-in-logan/ /services/website-design/ 301!
-/marketing-agencies-utah/seo-for-small-business/seo-and-website-design-in-las-vegas/ /services/website-design/ 301!
-/marketing-agencies-utah/seo-for-small-business/seo-and-website-design-in-layton/ /services/website-design/ 301!
-/marketing-agencies-utah/seo-for-small-business/seo-website-design-in-saint-george/ /services/website-design/ 301!
-/marketing-agencies-utah/seo-for-small-business/website-design-in-bountiful-ut/ /services/website-design/ 301!
 /marketing-agencies-utah/website-developer-for-small-businesses/ /services/website-design/ 301!
 
 # WEBSITE DESIGN - Questionnaire & Resources
@@ -130,8 +218,8 @@ https://www.therebelape.com/conversion-secrets /services/website-design/ 301!
 /web-design-questionnaire/ /services/website-design/ 301!
 /marketing-services/website-design/website-design-examples/ /services/website-design/ 301!
 /plumber-marketing-services/plumber-website-design/website-design-examples/ /services/website-design/ 301!
-/services/plumber-website-design/ /services/website-design/ 301!
 /web-design-examples/ /services/website-design/ 301!
+/plumber-website-design/website-design-examples/ /services/website-design/ 301!
 
 # WEBSITE DESIGN - Blog & Feed Pages
 /category/design/ /services/website-design/ 301!
@@ -145,28 +233,25 @@ https://www.therebelape.com/conversion-secrets /services/website-design/ 301!
 /our-work/client-work/tnt-social-media-website-design/ /services/website-design/ 301!
 
 # ========================================
-# SEO & MARKETING CONTENT
-# ========================================
-
-# SEO - General Pages
-/marketing-agencies-utah/ / 301!
-
-# SEO - City Pages
-/marketing-services/website-design/ /services/website-design/ 301!
-
-
-# ========================================
 # CASE STUDIES & CLIENT WORK
 # ========================================
 
 # CASE STUDIES - Directory Pages
 /clients/ /case-studies/ 301!
-/our-work/ / 301!
+/our-work/ /case-studies/ 301!
 /our-work/client-work/ /case-studies/ 301!
 
-# CASE STUDIES - Individual Projects
+# CASE STUDIES - Specific Projects (Now Live)
+/digital-marketing-case-studies/ifix-appliance-repair-case-study/ /case-studies/ifix/ 301!
+/digital-marketing-case-studies/highland-surveying-case-study/ /case-studies/highland-surveying/ 301!
+/digital-marketing-case-studies/regeneration-medical-spa-case-study/ /case-studies/regeneration-medical-spa/ 301!
+/digital-marketing-case-studies/cereset-of-ogden-case-study/ /case-studies/cereset/ 301!
+/cereset-of-ogden-case-study/ /case-studies/cereset/ 301!
+/client-work/ifix/ /case-studies/ifix/ 301!
+/our-work/client-work/ifix/ /case-studies/ifix/ 301!
+/client-work/out-there-roofing/ /case-studies/ 301!
 
-# New Structure
+# CASE STUDIES - Other Projects Still Redirecting to Main Page
 /our-work/client-work/aingeal-music/ /case-studies/ 301!
 /our-work/client-work/amazing-vacations-costa-rica/ /case-studies/ 301!
 /our-work/client-work/amazing-vacations-usa/ /case-studies/ 301!
@@ -176,7 +261,6 @@ https://www.therebelape.com/conversion-secrets /services/website-design/ 301!
 /our-work/client-work/explosive-impact/ /case-studies/ 301!
 /our-work/client-work/fresh-and-new-real-estate/ /case-studies/ 301!
 /our-work/client-work/green-dani-bs/ /case-studies/ 301!
-/our-work/client-work/ifix/ /case-studies/ 301!
 /our-work/client-work/it-business-services/ /case-studies/ 301!
 /our-work/client-work/jennifer-funk-fine-art/ /case-studies/ 301!
 /our-work/client-work/light-child-media/ /case-studies/ 301!
@@ -189,27 +273,29 @@ https://www.therebelape.com/conversion-secrets /services/website-design/ 301!
 /our-work/client-work/vitality-energy/ /case-studies/ 301!
 /our-work/client-work/void-distortion/ /case-studies/ 301!
 
+# Generic Case Study Redirects
+/digital-marketing-case-studies/ /case-studies/ 301!
+/digital-marketing-case-studies/bookkeeping-for-contractors-case-study/ /case-studies/ 301!
+/digital-marketing-case-studies/google-business-profile-case-study/ /case-studies/ 301!
+/digital-marketing-case-studies/google-business-profile-total-market-domination-case-study/ /case-studies/ 301!
+/google-business-profile-total-market-domination-case-study/ /case-studies/ 301!
+/tomchak-skolout-law-firm/ /case-studies/ 301!
+
+# Client Work Gallery & Portfolio Pages
+/our-work/website-design-gallery/ /case-studies/ 301!
+https://www.therebelape.com/portfolio/logo-design-gallery/ /case-studies/ 301!
+/services/graphic-design/graphic-design-gallery/ /case-studies/ 301!
+/website-design-gallery/ /services/website-design/ 301!
+/graphic-design-gallery/ / 301!
+/client-work/easy-to-use-products/ /case-studies/ 301!
+/our-work/client-work/just-utah-homes/ /case-studies/ 301!
+/our-work/client-work/sand-lounger-website-design/ /case-studies/ 301!
+https://www.therebelape.com/logo-design/void-distortion/ /case-studies/ 301!
+https://www.therebelape.com/website-design/capener-matthews-dental-website-design/ /case-studies/ 301!
+
 # ========================================
 # HOMEPAGE & MISCELLANEOUS
 # ========================================
-
-# HOMEPAGE - Plumbing Marketing Location Pages
-/plumbing-marketing/ / 301!
-/plumbing-marketing/salt-lake-city/ / 301!
-/plumbing-marketing/ogden/ / 301!
-/plumbing-marketing/saint-george/ / 301!
-/plumbing-marketing/bountiful/ / 301!
-/plumbing-marketing/layton/ / 301!
-/plumbing-marketing/lehi/ / 301!
-/plumbing-marketing/logan/ / 301!
-/plumbing-marketing/murray/ / 301!
-/plumbing-marketing/orem/ / 301!
-/plumbing-marketing/park-city/ / 301!
-/plumbing-marketing/provo/ / 301!
-/plumbing-marketing/sandy/ / 301!
-/plumbing-marketing/south-jordan/ / 301!
-/plumbing-marketing/west-jordan/ / 301!
-/plumbing-marketing/west-valley-city/ / 301!
 
 # HOMEPAGE - General Pages Redirecting to Home
 /client-portal/ / 301!
@@ -223,17 +309,10 @@ https://www.therebelape.com/conversion-secrets /services/website-design/ 301!
 /tag/trust/feed/ / 301!
 
 # LEGAL PAGES
-# PRIVACY POLICY - Old paths redirect to new /legal/ structure
-/privacy-policy/ /legal/privacy-policy/ 301!
 /about-us/privacy-policy/ /legal/privacy-policy/ 301!
-
-# TERMS AND CONDITIONS - Old paths redirect to new /legal/ structure
-/terms-and-conditions/ /legal/terms-and-conditions/ 301!
-/terms-and-conditions /legal/terms-and-conditions/ 301!
 
 # SITEMAP
 /html-sitemap/ /sitemap.xml 301!
-
 
 # ========================================
 # BLOG POST REDIRECTS
@@ -312,12 +391,7 @@ https://www.therebelape.com/conversion-secrets /services/website-design/ 301!
 /xyz-marketing-acquired-by-rebel-ape-marketing/ /blog/xyz-marketing-acquired-by-rebel-ape-marketing/ 301
 
 # ========================================
-# ADDITIONAL REDIRECTS FROM GSC ANALYSIS
-# Add these to the END of your existing _redirects file
-# ========================================
-
-# ========================================
-# BLOG PAGINATION (Critical Fix!)
+# BLOG PAGINATION
 # ========================================
 /page/2/ /blog/2/ 301
 /page/3/ /blog/3/ 301
@@ -385,9 +459,9 @@ https://www.therebelape.com/conversion-secrets /services/website-design/ 301!
 /plumber-marketing-services/plumber-social-media-content-posts/ / 301!
 /plumber-marketing-services/plumber-digital-marketing-agency/digital-marketing-campaign-examples/ / 301!
 /plumber-marketing-services/plumber-digital-marketing-agency/digital-marketing-campaign-examples/bookkeeping-for-contractors-case-study/ / 301!
-/plumber-marketing-services/plumber-digital-marketing-agency/digital-marketing-campaign-examples/ifix-appliance-repair-case-study/ / 301!
+/plumber-marketing-services/plumber-digital-marketing-agency/digital-marketing-campaign-examples/ifix-appliance-repair-case-study/ /case-studies/ifix/ 301!
 
-# PLUMBER SERVICES (non-marketing specific) → HOME
+# PLUMBER SERVICES (non-marketing specific) → /services/
 /services/plumber-google-business-profile-optimization/ /services/ 301!
 /services/plumber-logo-design/ /services/ 301!
 /services/plumber-graphic-design/ /services/ 301!
@@ -403,7 +477,7 @@ https://www.therebelape.com/conversion-secrets /services/website-design/ 301!
 /brand-development/ / 301!
 /content-writing/ / 301!
 
-# WWW SUBDOMAIN SERVICES → HOME
+# WWW SUBDOMAIN SERVICES
 https://www.therebelape.com/services/graphic-design/ /services/ 301!
 https://www.therebelape.com/services/graphic-design /services/ 301!
 https://www.therebelape.com/services/website-design /services/website-design/ 301!
@@ -419,106 +493,46 @@ https://www.therebelape.com/about-rebel-ape-marketing/about-adam-miconi/ /about/
 /plumber-marketing-services/plumber-ppc-advertising/ /services/ppc/ 301!
 
 # Legacy LSA redirects
-/local-service-ads/ /services/ppc/local-service-ads/ 301
-/local-service-ads /services/ppc/local-service-ads/ 301
-/services/local-service-ads/ /services/ppc/local-service-ads/ 301
-/services/local-service-ads /services/ppc/local-service-ads/ 301
+/local-service-ads/ /services/ppc/local-service-ads/ 301!
+/services/local-service-ads/ /services/ppc/local-service-ads/ 301!
 
 # ========================================
-# OLD GOOGLE BUSINESS PROFILE → /services/google-business-profile/
+# OLD GOOGLE BUSINESS PROFILE → HOME
+# (Service no longer offered as standalone)
 # ========================================
-/marketing-services/google-business-profile-optimization/ /services/google-business-profile/ 301!
-/plumber-marketing-services/plumber-google-business-profile-optimization/ /services/google-business-profile/ 301!
-/services/plumber-google-business-profile-optimization/ /services/google-business-profile/ 301!
+/marketing-services/google-business-profile-optimization/ / 301!
+/plumber-marketing-services/plumber-google-business-profile-optimization/ / 301!
 
 # ========================================
 # OLD SEO SERVICES → /services/seo/
+# (Only non-location specific pages)
 # ========================================
 /marketing-services/seo/ /services/seo/ 301!
-/marketing-services/seo/ogden/ /services/seo/ 301!
-/marketing-services/seo/salt-lake-city/ /services/seo/ 301!
-/marketing-services/seo/logan/ /services/seo/ 301!
-/marketing-services/seo/las-vegas/ /services/seo/ 301!
 /marketing-services/seo/seo-onboarding-questionnaire/ /services/seo/ 301!
-/marketing-services/seo/layton/ /services/seo/ 301!
 /seo-onboarding/ /services/seo/ 301!
-
-# PLUMBER SEO → /services/seo/
 /plumber-marketing-services/plumber-seo/ /services/seo/ 301!
-/plumber-marketing-services/plumber-seo/plumber-seo-layton/ /blog/ 301!
-/plumber-marketing-services/plumber-seo/plumber-seo-logan/ /blog/ 301!
-/plumber-marketing-services/plumber-seo/plumber-seo-las-vegas/ /blog/ 301!
-/plumber-marketing-services/plumber-seo/plumber-seo-saint-george/ /blog/ 301!
-/plumber-marketing-services/plumber-seo/plumber-seo-salt-lake-city/ /blog/ 301!
-/plumber-marketing-services/plumber-seo/seo-onboarding-questionnaire/ /blog/ 301!
-/services/plumber-seo/ /blog/ 301!
-/services/plumber-seo/salt-lake-seo/ /blog/ 301!
-
-# OTHER SEO LOCATION PAGES → /blog/
-/plumber-seo/ogden-seo/ /services/seo/ 301!
-/plumber-seo/logan-seo/ /services/seo/ 301!
-/plumber-seo/las-vegas-seo/ /services/seo/ 301!
-/plumber-seo/layton-seo/ /services/seo/ 301!
-/seo/ogden-seo/ /services/seo/ 301!
-/seo/seo-salt-lake-city/ /services/seo/ 301!
-/seo/logan-seo/ /services/seo/ 301!
-/seo/layton-seo/ /services/seo/ 301!
-/seo/saint-george-seo/ /services/seo/ 301!
-/seo/seo-and-website-design-in-logan/ /services/seo/ 301!
-/services/seo/seo-and-website-design-in-layton/ /services/seo/ 301!
-/marketing-agencies-utah/seo-for-small-business/ogden-seo/ /services/seo/ 301!
+/plumber-marketing-services/plumber-seo/seo-onboarding-questionnaire/ /services/seo/ 301!
+/services/plumber-seo/ /services/seo/ 301!
 /marketing-agencies-utah/logo-design-for-business/logo-design-questionnaire/ /services/seo/ 301!
 
+# ========================================
 # SOCIAL MEDIA & VIDEO MARKETING
+# ========================================
 /social-media-marketing/ /services/social-media/ 301!
 /video-marketing/ /blog/ 301!
 /content-marketing/ /blog/ 301!
-/syndicating-your-content/ /blog/ 301!
 
+# NOTE: /syndicating-your-content/ is LIVE - no redirect needed
+
+# ========================================
 # TAGS & CATEGORIES → /blog/
+# ========================================
 /tag/strategies/ /blog/ 301!
 /category/marketing/ /blog/ 301!
 
 # ========================================
-# WEBSITE DESIGN PAGES → /website-design/
-# ========================================
-/plumber-website-design/website-design-examples/ /services/website-design/ 301!
-/plumber-marketing-services/plumber-website-design/website-design-examples/ /services/website-design/ 301!
-/web-design-questionnaire/ /services/website-design/ 301!
-
-# ========================================
-# CASE STUDIES & PORTFOLIOS → /case-studies/
-# ========================================
-/our-work/website-design-gallery/ /case-studies/ 301!
-https://www.therebelape.com/portfolio/logo-design-gallery/ /case-studies/ 301!
-/services/graphic-design/graphic-design-gallery/ /case-studies/ 301!
-/website-design-gallery/ /services/website-design/ 301!
-/graphic-design-gallery/ / 301!
-/digital-marketing-case-studies/ /case-studies/ 301!
-/digital-marketing-case-studies/bookkeeping-for-contractors-case-study/ /case-studies/ 301!
-/digital-marketing-case-studies/cereset-of-ogden-case-study/ /case-studies/ 301!
-/digital-marketing-case-studies/google-business-profile-case-study/ /case-studies/ 301!
-/digital-marketing-case-studies/google-business-profile-total-market-domination-case-study/ /case-studies/ 301!
-/digital-marketing-case-studies/highland-surveying-case-study/ /case-studies/ 301!
-/digital-marketing-case-studies/ifix-appliance-repair-case-study/ /case-studies/ 301!
-/digital-marketing-case-studies/regeneration-medical-spa-case-study/ /case-studies/ 301!
-/google-business-profile-total-market-domination-case-study/ /case-studies/ 301!
-/cereset-of-ogden-case-study/ /case-studies/ 301!
-/tomchak-skolout-law-firm/ /case-studies/ 301!
-
-# CLIENT WORK PAGES → /case-studies/
-/client-work/easy-to-use-products/ /case-studies/ 301!
-/client-work/ifix/ /case-studies/ 301!
-/client-work/out-there-roofing/ /case-studies/ 301!
-/our-work/client-work/just-utah-homes/ /case-studies/ 301!
-/our-work/client-work/sand-lounger-website-design/ /case-studies/ 301!
-https://www.therebelape.com/logo-design/void-distortion/ /case-studies/ 301!
-https://www.therebelape.com/website-design/capener-matthews-dental-website-design/ /case-studies/ 301!
-
-# ========================================
 # QUERY PARAM & COMMENT REDIRECTS
 # ========================================
-# These handle blog posts with ?replytocom= parameters
 /5-reasons-you-need-social-media-marketing/?replytocom=* /blog/5-reasons-you-need-social-media-marketing/ 301
 /7-reasons-you-need-a-website/?replytocom=* /blog/7-reasons-you-need-a-website/ 301
 /on-page-seo-tips/?replytocom=* /blog/on-page-seo-tips/ 301

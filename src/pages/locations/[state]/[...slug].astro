@@ -1,0 +1,153 @@
+---
+import { getCollection } from 'astro:content';
+import type { GetStaticPaths } from 'astro';
+import Base from '../../../layouts/Base.astro';
+import Hero from '../../../components/sections/Hero.astro';
+import SocialProofBar from '../../../components/sections/SocialProofBar.astro';
+import ProblemSection from '../../../components/locations/ProblemSection.astro';
+import ServicesSection from '../../../components/locations/ServicesSection.astro';
+import HowItWorksSection from '../../../components/locations/HowItWorksSection.astro';
+import WhyChooseUsSection from '../../../components/locations/WhyChooseUsSection.astro';
+import CaseStudy from '../../../components/sections/CaseStudy.astro';
+import TestimonialsDefault from '../../../components/testimonials/TestimonialsDefault.astro';
+import FAQcityPage from '../../../components/faqs/FAQcityPage.astro';
+import FinalCTA from '../../../components/locations/FinalCTA.astro';
+import OrganizationSchema from '../../../components/schema/OrganizationSchema.astro';
+import LocalBusinessSchema from '../../../components/schema/LocalBusinessSchema.astro';
+import BreadcrumbSchema from '../../../components/schema/BreadcrumbSchema.astro';
+import FAQSchema from '../../../components/schema/FAQSchema.astro';
+
+export const getStaticPaths = (async () => {
+  const locations = await getCollection('locations');
+
+  return locations
+    .filter(location => !location.data.draft)
+    .map(location => {
+      // Extract city slug from the full slug (e.g., "utah/ogden" -> "ogden")
+      const citySlug = location.slug.split('/').pop() || location.slug;
+
+      return {
+        params: {
+          state: location.data.stateAbbr.toLowerCase(),
+          slug: citySlug
+        },
+        props: { location },
+      };
+    });
+}) satisfies GetStaticPaths;
+
+const { location } = Astro.props;
+const { city, state, stateAbbr, region, title, description, image } = location.data;
+
+// Extract city slug from the full slug
+const citySlug = location.slug.split('/').pop() || location.slug;
+
+// SEO
+const canonical = `https://therebelape.com/locations/${stateAbbr.toLowerCase()}/${citySlug}/`;
+const type = "website";
+const robots = "index, follow";
+
+// Breadcrumbs for schema
+const breadcrumbs = [
+  { name: "Home", url: "https://therebelape.com/" },
+  { name: "Locations", url: "https://therebelape.com/locations/" },
+  { name: state, url: `https://therebelape.com/locations/${stateAbbr.toLowerCase()}/` },
+  { name: city, url: canonical }
+];
+
+// FAQ data for schema
+const defaultCityAnswer = `Yes. We work with contractors throughout ${city} and the surrounding ${region} area. While we're not physically located in every city we serve, we've built systems that work remotely and deliver results locally. Most of our work happens over the phone or Google Meet anyway—no time wasted driving to meetings.`;
+
+const faqs = [
+  {
+    question: "How long until we see results?",
+    answer: "Month 1 is foundation—we're building the infrastructure. Month 2 we launch ads and leads start coming in. The algorithm is learning, so month 2 can be rough. Months 3-6 everything compounds as the algorithm learns and SEO kicks in. Most contractors see meaningful results within 60-90 days."
+  },
+  {
+    question: "What if we tried marketing before and it didn't work?",
+    answer: "That's exactly why we do things differently. Most agencies sell you individual services—SEO, ads, or a website—and wonder why they don't generate revenue. We build complete systems where everything works together. And we don't lock you in with contracts. If we're not delivering, fire us."
+  },
+  {
+    question: "Do you only work with big contractors?",
+    answer: "Nope. We work with solo operators and small crews all the time. If you're doing $200K-$1M annually and want to grow, we can help. You don't need a massive budget to get results—you just need the right system."
+  },
+  {
+    question: "What if we're not getting leads?",
+    answer: "Then we figure out why and fix it. That's what partners do. We own our results. If leads aren't coming in, we don't blame your industry or your market—we test, adjust, and keep optimizing until it works."
+  },
+  {
+    question: `Do you work with contractors in ${city}?`,
+    answer: defaultCityAnswer
+  },
+  {
+    question: "Do we need to meet in person?",
+    answer: "Nope. Most contractors prefer remote work—it's faster and easier. We handle everything over the phone or Google Meet. But if you want to meet in person and we're in your area, we can make that happen."
+  }
+];
+---
+
+<Base {title} {description} {canonical} image={image || "https://RebelApeCDN.b-cdn.net/bg-gorilla-direct.webp"} {type} {robots}>
+  <!-- Schema Markup -->
+  <OrganizationSchema slot="head" />
+  <LocalBusinessSchema
+    slot="head"
+    city={city}
+    state={state}
+    stateAbbr={stateAbbr}
+    region={region}
+    url={canonical}
+  />
+  <BreadcrumbSchema slot="head" breadcrumbs={breadcrumbs} />
+  <FAQSchema slot="head" faqs={faqs} />
+
+  <section>
+    <!-- Hero Section -->
+    <Hero
+      backgroundImage="https://RebelApeCDN.b-cdn.net/bg-gorilla-direct.webp"
+      title={`Contractor Marketing in <span class='text-rebel-green'>${city}</span> That Actually Gets Results`}
+      subtitle={`SEO, Google Ads, Website Design & Social Media for ${city} Contractors`}
+      description={`We help contractors in ${city} get found online and generate consistent leads. No contracts. No BS guarantees. Just marketing that actually gets your phone ringing.`}
+      features={[
+        'Show Up When They Search',
+        'Get Leads From Google Ads',
+        'Convert Visitors to Calls'
+      ]}
+      buttonText="Schedule a Call"
+      buttonIcon="calendar"
+      buttonHref="/schedule/"
+      fetchpriority="high"
+    />
+    <SocialProofBar />
+
+    <!-- Problem Section -->
+    <ProblemSection city={city} region={region} />
+
+    <!-- Services Section -->
+    <ServicesSection city={city} />
+
+    <!-- How It Works Section -->
+    <HowItWorksSection />
+
+    <!-- Why Choose Us Section -->
+    <WhyChooseUsSection city={city} region={region} />
+
+    <!-- Case Studies Section -->
+    <section class="py-16 md:py-24 section-checkers">
+      <CaseStudy />
+    </section>
+
+    <!-- Testimonials Section -->
+    <section class="py-16 md:py-24 section-slate">
+      <TestimonialsDefault />
+    </section>
+
+    <!-- FAQ Section -->
+    <section class="py-16 md:py-24 section-checkers">
+      <FAQcityPage city={city} state={state} region={region} />
+    </section>
+
+    <!-- Final CTA -->
+    <FinalCTA city={city} />
+
+  </section>
+</Base>

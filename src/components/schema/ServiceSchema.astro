@@ -1,0 +1,42 @@
+---
+// Service Schema - for individual service pages
+interface Props {
+  name: string;
+  description: string;
+  url: string;
+  serviceType?: string;
+  areaServed?: string[];
+}
+
+const {
+  name,
+  description,
+  url,
+  serviceType = "ProfessionalService",
+  areaServed = ["Utah", "Nevada"]
+} = Astro.props;
+
+const schema = {
+  "@context": "https://schema.org",
+  "@type": "Service",
+  "serviceType": serviceType,
+  "name": name,
+  "description": description,
+  "url": url,
+  "provider": {
+    "@type": "Organization",
+    "name": "Rebel Ape Marketing",
+    "url": "https://therebelape.com"
+  },
+  "areaServed": areaServed.map(area => ({
+    "@type": "State",
+    "name": area
+  })),
+  "audience": {
+    "@type": "BusinessAudience",
+    "audienceType": "Contractors, Home Service Businesses"
+  }
+};
+---
+
+<script type="application/ld+json" set:html={JSON.stringify(schema)} />

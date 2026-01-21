@@ -1,0 +1,52 @@
+---
+interface Props {
+  city: string;
+  region: string;
+}
+
+const { city, region } = Astro.props;
+---
+
+<section class="py-16 md:py-24 section-slate">
+  <div class="max-w-4xl mx-auto px-4">
+    <h2 class="text-4xl md:text-5xl font-bold mb-6 text-center">
+      Why {city} Contractors Choose Rebel Ape
+    </h2>
+
+    <p class="text-xl text-gray-700 mb-12 text-center">
+      We work with contractors throughout {city} and {region}—not because we're the local agency on every corner, but because what we do actually works.
+    </p>
+
+    <div class="space-y-6">
+
+      <div class="bg-white p-6 rounded-lg shadow-lg">
+        <h3 class="text-xl font-bold mb-2">No Contracts, No BS Guarantees</h3>
+        <p class="text-gray-700">
+          We don't hide behind guarantees that sound great but mean nothing. If we're not delivering results, fire us. That's how it should be. We earn our spot every month by actually getting your phone ringing.
+        </p>
+      </div>
+
+      <div class="bg-white p-6 rounded-lg shadow-lg">
+        <h3 class="text-xl font-bold mb-2">Marketing Partners, Not Vendors</h3>
+        <p class="text-gray-700">
+          We're not just an agency you pay to run ads. We're your marketing team. We own our results. If something's not working, we figure out why and fix it—together.
+        </p>
+      </div>
+
+      <div class="bg-white p-6 rounded-lg shadow-lg">
+        <h3 class="text-xl font-bold mb-2">Complete Systems, Not Random Tactics</h3>
+        <p class="text-gray-700">
+          A website alone doesn't work. Ads alone don't work. SEO alone doesn't work. We build complete lead generation systems where everything works together.
+        </p>
+      </div>
+
+      <div class="bg-white p-6 rounded-lg shadow-lg">
+        <h3 class="text-xl font-bold mb-2">Results Over Promises</h3>
+        <p class="text-gray-700">
+          We don't promise market domination on a tiny budget. We work within your constraints, get the best possible results, and show you exactly what's working through tracking and reporting.
+        </p>
+      </div>
+
+    </div>
+  </div>
+</section>

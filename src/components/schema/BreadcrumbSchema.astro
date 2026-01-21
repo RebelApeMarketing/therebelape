@@ -1,0 +1,26 @@
+---
+// Breadcrumb Schema - Automatically generates breadcrumbs from URL path
+interface Breadcrumb {
+  name: string;
+  url: string;
+}
+
+interface Props {
+  breadcrumbs: Breadcrumb[];
+}
+
+const { breadcrumbs } = Astro.props;
+
+const schema = {
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": breadcrumbs.map((crumb, index) => ({
+    "@type": "ListItem",
+    "position": index + 1,
+    "name": crumb.name,
+    "item": crumb.url
+  }))
+};
+---
+
+<script type="application/ld+json" set:html={JSON.stringify(schema)} />

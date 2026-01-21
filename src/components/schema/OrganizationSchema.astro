@@ -1,0 +1,33 @@
+---
+// Organization Schema - Your business identity across all pages
+const schema = {
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "Rebel Ape Marketing",
+  "alternateName": "Rebel Ape",
+  "url": "https://therebelape.com",
+  "logo": "https://RebelApeCDN.b-cdn.net/brand-rebel-ape-icon-white.svg",
+  "description": "Digital marketing agency specializing in contractor marketing, SEO, Google Ads, and website design for home service businesses.",
+  "email": "contact@therebelape.com",
+  "sameAs": [
+    "https://www.facebook.com/RebelApeMarketing",
+    "https://twitter.com/RebelApeAgency",
+    "https://www.linkedin.com/company/rebel-ape-marketing",
+    "https://www.pinterest.com/rebelapemarketing"
+  ],
+  "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer service",
+    "areaServed": ["US"],
+    "availableLanguage": ["en"]
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Ogden",
+    "addressRegion": "UT",
+    "addressCountry": "US"
+  }
+};
+---
+
+<script type="application/ld+json" set:html={JSON.stringify(schema)} />

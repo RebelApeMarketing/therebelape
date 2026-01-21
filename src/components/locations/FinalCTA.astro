@@ -1,0 +1,28 @@
+---
+import Button from '../ui/Button.astro';
+
+interface Props {
+  city: string;
+}
+
+const { city } = Astro.props;
+---
+
+<section class="py-16 md:py-24 bg-black text-white">
+  <div class="max-w-4xl mx-auto px-4 text-center">
+    <h2 class="text-4xl md:text-5xl font-bold mb-6">
+      Ready to Get <span class="text-rebel-green">{city}</span> Contractors Calling You?
+    </h2>
+    <p class="text-xl mb-8">
+      Schedule a free consultation. We'll talk about your current marketing, what's not working, and how we can fix it. No pressure, no guru pitch—just an honest conversation about your business.
+    </p>
+    <Button
+      href="/schedule/"
+      variant="primary"
+      size="large"
+      icon="calendar"
+    >
+      Schedule a Call
+    </Button>
+  </div>
+</section>

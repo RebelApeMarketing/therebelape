@@ -1,0 +1,57 @@
+---
+// Article Schema for blog posts
+interface Props {
+  title: string;
+  description: string;
+  publishDate: Date;
+  lastModified?: string;
+  author?: string;
+  image?: string;
+  url: string;
+  categories?: string[];
+}
+
+const {
+  title,
+  description,
+  publishDate,
+  lastModified,
+  author = "Adam Miconi",
+  image = "https://RebelApeCDN.b-cdn.net/rebel-ape-main/blog-og-image.jpg",
+  url,
+  categories = []
+} = Astro.props;
+
+const schema = {
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": title,
+  "description": description,
+  "image": image,
+  "datePublished": new Date(publishDate).toISOString(),
+  "dateModified": lastModified ? new Date(lastModified).toISOString() : new Date(publishDate).toISOString(),
+  "author": {
+    "@type": "Person",
+    "name": author,
+    "url": "https://therebelape.com/about/"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Rebel Ape Marketing",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://RebelApeCDN.b-cdn.net/brand-rebel-ape-icon-white.svg"
+    }
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": url
+  },
+  ...(categories.length > 0 && {
+    "articleSection": categories[0],
+    "keywords": categories.join(", ")
+  })
+};
+---
+
+<script type="application/ld+json" set:html={JSON.stringify(schema)} />

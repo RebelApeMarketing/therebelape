@@ -4,8 +4,11 @@ import Hero from '../../../components/sections/Hero.astro';
 import SocialProofBar from '../../../components/sections/SocialProofBar.astro';
 import CaseStudy from '../../../components/sections/CaseStudy.astro';
 
-import TestimonialsAds from '../../../components/sections/TestimonialsAds.astro';
-import FAQads from '../../../components/sections/FAQads.astro';
+import TestimonialsAds from '../../../components/testimonials/TestimonialsAds.astro';
+import FAQads from '../../../components/faqs/FAQads.astro';
+import OrganizationSchema from '../../../components/schema/OrganizationSchema.astro';
+import ServiceSchema from '../../../components/schema/ServiceSchema.astro';
+import BreadcrumbSchema from '../../../components/schema/BreadcrumbSchema.astro';
 
 // SEO
 const title = "PPC Ads for Contractors | Rebel Ape";
@@ -14,9 +17,26 @@ const canonical = "https://therebelape.com/services/ppc/";
 const image = "https://RebelApeCDN.b-cdn.net/bg-gorilla-direct.webp"; // 1200×630 recommended
 const type = "website"; // or "article" for posts
 const robots = "index, follow"; // optional override
+
+// Breadcrumbs
+const breadcrumbs = [
+  { name: "Home", url: "https://therebelape.com/" },
+  { name: "Services", url: "https://therebelape.com/services/" },
+  { name: "PPC", url: canonical }
+];
 ---
 
 <Base {title} {description} {canonical} {image} {type} {robots}>
+  <!-- Schema Markup -->
+  <OrganizationSchema slot="head" />
+  <ServiceSchema
+    slot="head"
+    name="Google Ads Management for Contractors"
+    description={description}
+    url={canonical}
+    serviceType="Advertising Management"
+  />
+  <BreadcrumbSchema slot="head" breadcrumbs={breadcrumbs} />
   <section>
     <Hero 
       backgroundImage="https://RebelApeCDN.b-cdn.net/bg-gorilla-direct.webp"

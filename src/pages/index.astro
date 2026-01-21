@@ -8,10 +8,11 @@ import HowItWorks from '../components/sections/HowItWorks.astro';
 import CaseStudy from '../components/sections/CaseStudy.astro';
 import WhoWeAre from '../components/sections/WhoWeAre.astro';
 import Services from '../components/sections/Services.astro';
-import TestimonialsDefault from '../components/sections/TestimonialsDefault.astro';
+import TestimonialsDefault from '../components/testimonials/TestimonialsDefault.astro';
 import Guarantee from '../components/sections/Guarantee.astro';
-import FAQdefault from '../components/sections/FAQdefault.astro';
+import FAQdefault from '../components/faqs/FAQdefault.astro';
 import UOMC from '../components/sections/UOMC.astro';
+import OrganizationSchema from '../components/schema/OrganizationSchema.astro';
 
 
 // SEO
@@ -24,6 +25,9 @@ const robots = "index,follow"; // optional override
 ---
 
 <Base {title} {description} {canonical} {image} {type} {robots}>
+  <!-- Schema Markup -->
+  <OrganizationSchema slot="head" />
+
   <section>
     <Hero
       backgroundImage="https://RebelApeCDN.b-cdn.net/bg-gorilla-direct.webp"

@@ -1,0 +1,93 @@
+---
+import Base from '../../layouts/Base.astro';
+import Hero from '../../components/sections/Hero.astro';
+
+// SEO
+const title = "Contractor Marketing Services by Location | Rebel Ape Marketing";
+const description = "Find expert contractor marketing services in your area. We help home service businesses across Utah and Nevada get more leads through SEO, Google Ads, and website design.";
+const canonical = "https://therebelape.com/locations/";
+const image = "https://RebelApeCDN.b-cdn.net/bg-gorilla-direct.webp";
+const type = "website";
+const robots = "index, follow";
+
+// State data for cards
+const states = [
+  {
+    name: "Utah",
+    slug: "utah",
+    description: "Serving contractors across Northern Utah with proven digital marketing strategies that generate leads.",
+    image: "https://RebelApeCDN.b-cdn.net/bg-gorilla-direct.webp",
+    locationCount: 17
+  },
+  {
+    name: "Nevada",
+    slug: "nevada",
+    description: "Helping Nevada contractors dominate their local markets with expert SEO and Google Ads management.",
+    image: "https://RebelApeCDN.b-cdn.net/bg-gorilla-direct.webp",
+    locationCount: 2
+  }
+];
+---
+
+<Base {title} {description} {canonical} {image} {type} {robots}>
+  <section>
+    <Hero
+      backgroundImage="https://RebelApeCDN.b-cdn.net/bg-gorilla-direct.webp"
+      title="<span class='text-rebel-green'>Local Marketing</span> That Gets <span class='text-rebel-green'>Results</span>"
+      subtitle="Contractor Marketing Services by Location"
+      description="We help home service businesses across Utah and Nevada generate consistent leads through high-converting websites, expert SEO, and Google Ads management."
+      features={[
+        'Dominate Local Search Results',
+        'Generate Qualified Leads',
+        'Proven Track Record'
+      ]}
+      buttonText="Schedule a Call"
+      buttonIcon="calendar"
+      buttonHref="/schedule/"
+      fetchpriority="high"
+    />
+
+    <!-- States Section -->
+    <section class="py-16 md:py-24 section-slate">
+      <div class="max-w-7xl mx-auto px-6">
+        <div class="text-center mb-12">
+          <h2 class="text-3xl md:text-4xl font-bold mb-4">Choose Your State</h2>
+          <p class="text-lg text-gray-600">Select your state to see all available locations</p>
+        </div>
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-8 max-w-4xl mx-auto">
+          {states.map(state => (
+            <article class="bg-white rounded-lg shadow-xl overflow-hidden hover:shadow-2xl transition-shadow duration-300">
+              <img
+                src={state.image}
+                alt={`Contractor Marketing in ${state.name}`}
+                class="w-full h-64 object-cover"
+              />
+              <div class="p-6">
+                <h3 class="text-2xl font-bold mb-3 leading-tight">
+                  <a
+                    href={`/locations/${state.slug}/`}
+                    class="text-gray-900 hover:text-rebel-green transition-colors"
+                  >
+                    {state.name}
+                  </a>
+                </h3>
+                <p class="text-gray-600 mb-4">{state.description}</p>
+                <p class="text-sm text-gray-500 mb-4">{state.locationCount} {state.locationCount === 1 ? 'Location' : 'Locations'} Available</p>
+                <a
+                  href={`/locations/${state.slug}/`}
+                  class="inline-flex items-center text-rebel-green font-semibold hover:underline"
+                >
+                  See Locations
+                  <svg class="w-4 h-4 ml-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path>
+                  </svg>
+                </a>
+              </div>
+            </article>
+          ))}
+        </div>
+      </div>
+    </section>
+
+  </section>
+</Base>

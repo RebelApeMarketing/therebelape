@@ -94,6 +94,9 @@ const {
 
     <meta name="generator" content={Astro.generator} />
     <title>{title}</title>
+
+    <!-- Slot for additional head content (schema, etc.) -->
+    <slot name="head" />
   </head> 
   <body>
     <noscript>

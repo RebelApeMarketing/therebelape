@@ -2,6 +2,9 @@
 // src/pages/blog/[...slug].astro
 import { getCollection } from 'astro:content';
 import Base from '../../layouts/Base.astro';
+import OrganizationSchema from '../../components/schema/OrganizationSchema.astro';
+import ArticleSchema from '../../components/schema/ArticleSchema.astro';
+import BreadcrumbSchema from '../../components/schema/BreadcrumbSchema.astro';
 
 export async function getStaticPaths() {
   const posts = await getCollection('posts');
@@ -20,9 +23,31 @@ const canonical = `https://therebelape.com/blog/${post.slug}/`;
 const image = post.data.image || "https://RebelApeCDN.b-cdn.net/rebel-ape-main/default-og-image.jpg";
 const type = "article";
 const robots = "index,follow";
+
+// Breadcrumbs for schema
+const breadcrumbs = [
+  { name: "Home", url: "https://therebelape.com/" },
+  { name: "Blog", url: "https://therebelape.com/blog/" },
+  { name: post.data.title, url: canonical }
+];
 ---
 
 <Base title={pageTitle} description={pageDescription} canonical={canonical} image={image} type={type} robots={robots}>
+  <!-- Schema Markup -->
+  <OrganizationSchema slot="head" />
+  <ArticleSchema
+    slot="head"
+    title={post.data.title}
+    description={post.data.description}
+    publishDate={post.data.publishDate}
+    lastModified={post.data.lastModified}
+    author={post.data.author}
+    image={image}
+    url={canonical}
+    categories={post.data.categories}
+  />
+  <BreadcrumbSchema slot="head" breadcrumbs={breadcrumbs} />
+
   <article class="blog-post">
     <header class="section-aztec text-white pt-10 pb-16 md:pt-12 md:pb-20">
       <div class="max-w-4xl mx-auto px-6">
