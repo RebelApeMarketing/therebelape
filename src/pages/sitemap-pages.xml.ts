@@ -9,16 +9,23 @@ export const GET: APIRoute = async ({ site }) => {
   const pages = [
     { path: "/", changefreq: "weekly", priority: 1.0 },
     { path: "/about/", changefreq: "monthly", priority: 0.8 },
-    { path: "/services/", changefreq: "monthly", priority: 0.9 },
+    { path: "/services/", changefreq: "monthly", priority: 0.8 },
+
     { path: "/services/website-design/", changefreq: "monthly", priority: 0.8 },
     { path: "/services/seo/", changefreq: "monthly", priority: 0.8 },
     { path: "/services/ppc/", changefreq: "monthly", priority: 0.8 },
     { path: "/services/ppc/local-service-ads/", changefreq: "monthly", priority: 0.7 },
     { path: "/services/google-business-profile/", changefreq: "monthly", priority: 0.8 },
-    { path: "/blog/", changefreq: "daily", priority: 0.9 },
+
+    { path: "/blog/", changefreq: "weekly", priority: 0.9 },
+
     { path: "/case-studies/", changefreq: "monthly", priority: 0.8 },
+    { path: "/locations/", changefreq: "monthly", priority: 0.8 },
+    { path: "/resources/", changefreq: "monthly", priority: 0.8 },
+
     { path: "/contact/", changefreq: "monthly", priority: 0.7 },
-    { path: "/schedule/", changefreq: "monthly", priority: 0.8 },
+    { path: "/schedule/", changefreq: "monthly", priority: 0.6 },
+    
     { path: "/legal/privacy-policy/", changefreq: "yearly", priority: 0.3 },
     { path: "/legal/terms-and-conditions/", changefreq: "yearly", priority: 0.3 },
   ];
