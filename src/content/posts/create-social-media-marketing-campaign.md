@@ -8,7 +8,6 @@ publishDate: "2019-07-05T12:15:00-06:00"
 lastModified: "2026-01-17T10:00:00-07:00"
 image: "https://RebelApeCDN.b-cdn.net/featured-social-media-campaign.webp"
 canonicalUrl: "https://therebelape.com/blog/create-social-media-marketing-campaign/"
-category: "Social Media Marketing"
 tags: ["social media marketing", "contractor marketing", "brand authority", "message testing", "roofing contractors", "home service marketing"]
 categories: ["Social Media"]
 draft: false

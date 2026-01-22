@@ -8,7 +8,6 @@ publishDate: "2018-05-06T11:00:00-06:00"
 lastModified: "2026-01-19T13:30:00-07:00"
 image: "https://RebelApeCDN.b-cdn.net/featured-do-keywords-still-matter-for-seo.webp"
 canonicalUrl: "https://therebelape.com/blog/do-keywords-still-matter-for-seo/"
-category: "SEO"
 tags: ["SEO", "content marketing", "topical authority", "search intent", "contractor marketing", "Google algorithm"]
 categories: ["SEO"]
 draft: false

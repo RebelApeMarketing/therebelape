@@ -8,7 +8,6 @@ lastModified: "2026-01-16T10:30:00-07:00"
 author: "Adam Miconi"
 image: "https://RebelApeCDN.b-cdn.net/featured-ai-for-home-service-companies.webp"
 canonicalUrl: "https://therebelape.com/blog/ai-for-home-service-companies/"
-category: "Home Services Marketing"
 tags: ["AI automation", "lead generation", "contractor marketing", "home services", "business automation", "SEO optimization", "customer service", "roofing contractors"]
 categories: ["Contractor Marketing", "Marketing Strategy"]
 draft: false

@@ -8,7 +8,6 @@ lastModified: "2026-01-17T19:50:00-07:00"
 author: "Adam Miconi"
 image: "https://RebelApeCDN.b-cdn.net/startup-to-500k-revenue-marketing-system.webp"
 canonicalUrl: "https://therebelape.com/blog/startup-to-500k-revenue-marketing-system"
-category: "Home Services Marketing"
 tags: ["contractor marketing", "surveying business", "startup marketing", "lead generation", "Google Ads", "conversion optimization", "home service marketing"]
 categories: ["Marketing Strategy"]
 draft: false

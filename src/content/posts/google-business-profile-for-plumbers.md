@@ -8,7 +8,6 @@ publishDate: "2025-04-21T12:05:00-06:00"
 lastModified: "2026-01-18T09:30:00-07:00"
 image: "https://RebelApeCDN.b-cdn.net/featured-google-business-profile-for-plumbers-office.webp"
 canonicalUrl: "https://therebelape.com/blog/google-business-profile-for-plumbers/"
-category: "Local SEO"
 tags: ["google business profile", "plumber marketing", "local seo", "plumbing leads", "home services marketing"]
 categories: ["Local SEO", "Contractor Marketing"]
 draft: false

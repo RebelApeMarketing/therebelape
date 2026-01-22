@@ -8,7 +8,6 @@ publishDate: "2020-01-01T23:26:00-07:00"
 lastModified: "2025-01-22T10:00:00-07:00"
 image: "https://RebelApeCDN.b-cdn.net/featured-graphic-design.webp"
 canonicalUrl: "https://therebelape.com/blog/how-the-logo-design-process-works/"
-category: "Branding"
 tags: ["branding", "logo design", "contractor marketing", "brand identity", "visual identity"]
 categories: ["Branding"]
 draft: false

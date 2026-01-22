@@ -8,7 +8,6 @@ lastModified: "2026-01-14T22:00:00-07:00"
 author: "Adam Miconi"
 image: "https://RebelApeCDN.b-cdn.net/featured-why-home-service-companies-need-a-website.webp"
 canonicalUrl: "https://therebelape.com/blog/why-home-service-companies-need-a-website/"
-category: "Home Services Marketing"
 tags: ["website design", "conversion optimization", "contractor marketing", "roofing contractors", "home service business", "lead generation"]
 categories: ["Website Design"]
 draft: false

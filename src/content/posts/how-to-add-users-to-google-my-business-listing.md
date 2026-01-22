@@ -8,7 +8,6 @@ publishDate: "2019-02-20T00:38:00-07:00"
 lastModified: ""
 image: "https://RebelApeCDN.b-cdn.net/featured-google-my-business-logo.webp"
 canonicalUrl: "https://therebelape.com/blog/how-to-add-users-to-google-my-business-listing/"
-category: "Home Services Marketing"
 tags: ["google business profile", "local seo", "contractor marketing", "business management", "google my business"]
 categories: ["Local SEO"]
 draft: false

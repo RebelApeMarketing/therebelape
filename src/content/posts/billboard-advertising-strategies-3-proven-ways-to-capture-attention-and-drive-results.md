@@ -8,7 +8,6 @@ publishDate: "2025-09-12T10:00:00-06:00"
 lastModified: "2026-01-16T18:05:00-07:00"
 image: "https://RebelApeCDN.b-cdn.net/featured-3-proven-ways-to-capture-attention-and-drive-results.webp"
 canonicalUrl: "https://therebelape.com/blog/billboard-advertising-strategies-3-proven-ways-to-capture-attention-and-drive-results/"
-category: "Home Services Marketing"
 tags: ["billboard advertising", "contractor marketing", "offline advertising", "roofing marketing", "brand awareness", "lead generation"]
 categories: ["PPC & Advertising"]
 draft: false
