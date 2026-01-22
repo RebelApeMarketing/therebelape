@@ -4,6 +4,8 @@ import Hero from '../components/sections/Hero.astro';
 import SocialProofBar from '../components/sections/SocialProofBar.astro';
 import CaseStudy from '../components/sections/CaseStudy.astro';
 import TestimonialsDefault from '../components/testimonials/TestimonialsDefault.astro';
+import OrganizationSchema from '../components/schema/OrganizationSchema.astro';
+import WebPageSchema from '../components/schema/WebPageSchema.astro';
 
 // SEO
 const title = "Contact Rebel Ape | Grow Your Contracting Business";
@@ -15,6 +17,16 @@ const robots = "index, follow"; // optional override
 
 ---
 <Base {title} {description} {canonical} {image} {type} {robots}>
+  <!-- Schema Markup -->
+  <OrganizationSchema slot="head" />
+  <WebPageSchema
+    slot="head"
+    type="ContactPage"
+    name={title}
+    description={description}
+    url={canonical}
+  />
+
   <section>
     <Hero 
       backgroundImage="https://RebelApeCDN.b-cdn.net/bg-gorilla-direct.webp"

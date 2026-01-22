@@ -8,6 +8,7 @@ import FAQdefault from '../../../components/faqs/FAQdefault.astro';
 import OrganizationSchema from '../../../components/schema/OrganizationSchema.astro';
 import ServiceSchema from '../../../components/schema/ServiceSchema.astro';
 import BreadcrumbSchema from '../../../components/schema/BreadcrumbSchema.astro';
+import WebPageSchema from '../../../components/schema/WebPageSchema.astro';
 
 // SEO
 const title = "SEO Services for Contractors | Rebel Ape";
@@ -36,6 +37,13 @@ const breadcrumbs = [
     serviceType="Search Engine Optimization"
   />
   <BreadcrumbSchema slot="head" breadcrumbs={breadcrumbs} />
+  <WebPageSchema
+    slot="head"
+    type="WebPage"
+    name={title}
+    description={description}
+    url={canonical}
+  />
 
   <section>
     <Hero

@@ -26,15 +26,45 @@ const schema = {
   "provider": {
     "@type": "Organization",
     "name": "Rebel Ape Marketing",
-    "url": "https://therebelape.com"
+    "url": "https://therebelape.com",
+    "logo": "https://rebelapecdn.b-cdn.net/Rebel%20Website/Branding/rebel-ape-logo-cmyk.svg",
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "telephone": "+1-801-644-5175",
+      "contactType": "customer service",
+      "email": "hello@therebelape.com"
+    }
   },
-  "areaServed": areaServed.map(area => ({
-    "@type": "State",
-    "name": area
-  })),
+  "areaServed": areaServed.map(area => {
+    // Handle "United States" differently from state names
+    if (area === "United States") {
+      return {
+        "@type": "Country",
+        "name": area
+      };
+    }
+    return {
+      "@type": "State",
+      "name": area
+    };
+  }),
   "audience": {
     "@type": "BusinessAudience",
     "audienceType": "Contractors, Home Service Businesses"
+  },
+  "hasOfferCatalog": {
+    "@type": "OfferCatalog",
+    "name": name,
+    "itemListElement": [
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": name,
+          "description": description
+        }
+      }
+    ]
   }
 };
 ---

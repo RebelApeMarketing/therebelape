@@ -1,0 +1,63 @@
+---
+// WebPage Schema for different page types
+// Helps Google understand the purpose and structure of each page
+
+interface Props {
+  type?: 'WebPage' | 'HomePage' | 'AboutPage' | 'ContactPage' | 'CollectionPage';
+  name: string;
+  description: string;
+  url: string;
+  breadcrumbs?: Array<{ name: string; url: string }>;
+}
+
+const {
+  type = 'WebPage',
+  name,
+  description,
+  url,
+  breadcrumbs
+} = Astro.props;
+
+const schema = {
+  "@context": "https://schema.org",
+  "@type": type,
+  "name": name,
+  "description": description,
+  "url": url,
+  "isPartOf": {
+    "@type": "WebSite",
+    "name": "Rebel Ape Marketing",
+    "url": "https://therebelape.com"
+  },
+  "about": {
+    "@type": "Organization",
+    "name": "Rebel Ape Marketing"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Rebel Ape Marketing",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://rebelapecdn.b-cdn.net/Rebel%20Website/Branding/rebel-ape-logo-cmyk.svg"
+    }
+  }
+};
+
+// Add potential action for contact page
+if (type === 'ContactPage') {
+  schema.potentialAction = {
+    "@type": "CommunicateAction",
+    "target": {
+      "@type": "EntryPoint",
+      "urlTemplate": url,
+      "inLanguage": "en-US",
+      "actionPlatform": [
+        "http://schema.org/DesktopWebPlatform",
+        "http://schema.org/MobileWebPlatform"
+      ]
+    }
+  };
+}
+---
+
+<script type="application/ld+json" set:html={JSON.stringify(schema)} />

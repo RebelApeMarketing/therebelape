@@ -9,6 +9,7 @@ interface Props {
   image?: string;
   url: string;
   categories?: string[];
+  type?: 'Article' | 'BlogPosting';
 }
 
 const {
@@ -19,12 +20,13 @@ const {
   author = "Adam Miconi",
   image = "https://RebelApeCDN.b-cdn.net/rebel-ape-main/blog-og-image.jpg",
   url,
-  categories = []
+  categories = [],
+  type = 'BlogPosting'
 } = Astro.props;
 
 const schema = {
   "@context": "https://schema.org",
-  "@type": "Article",
+  "@type": type,
   "headline": title,
   "description": description,
   "image": image,
@@ -40,7 +42,7 @@ const schema = {
     "name": "Rebel Ape Marketing",
     "logo": {
       "@type": "ImageObject",
-      "url": "https://RebelApeCDN.b-cdn.net/brand-rebel-ape-icon-white.svg"
+      "url": "https://rebelapecdn.b-cdn.net/Rebel%20Website/Branding/rebel-ape-logo-cmyk.svg"
     }
   },
   "mainEntityOfPage": {

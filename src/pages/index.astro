@@ -13,6 +13,7 @@ import Guarantee from '../components/sections/Guarantee.astro';
 import FAQdefault from '../components/faqs/FAQdefault.astro';
 import UOMC from '../components/sections/UOMC.astro';
 import OrganizationSchema from '../components/schema/OrganizationSchema.astro';
+import WebPageSchema from '../components/schema/WebPageSchema.astro';
 
 
 // SEO
@@ -27,6 +28,13 @@ const robots = "index,follow"; // optional override
 <Base {title} {description} {canonical} {image} {type} {robots}>
   <!-- Schema Markup -->
   <OrganizationSchema slot="head" />
+  <WebPageSchema
+    slot="head"
+    type="HomePage"
+    name={title}
+    description={description}
+    url={canonical}
+  />
 
   <section>
     <Hero

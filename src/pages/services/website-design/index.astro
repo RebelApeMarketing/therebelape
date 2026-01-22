@@ -9,6 +9,7 @@ import FAQwebsiteDesign from '../../../components/faqs/FAQwebsiteDesign.astro';
 import OrganizationSchema from '../../../components/schema/OrganizationSchema.astro';
 import ServiceSchema from '../../../components/schema/ServiceSchema.astro';
 import BreadcrumbSchema from '../../../components/schema/BreadcrumbSchema.astro';
+import WebPageSchema from '../../../components/schema/WebPageSchema.astro';
 
 // SEO
 const title = "Website Design & Landing Pages for Contractors | Rebel Ape";
@@ -37,6 +38,13 @@ const breadcrumbs = [
     serviceType="Web Design"
   />
   <BreadcrumbSchema slot="head" breadcrumbs={breadcrumbs} />
+  <WebPageSchema
+    slot="head"
+    type="WebPage"
+    name={title}
+    description={description}
+    url={canonical}
+  />
   <section>
     <Hero 
       backgroundImage="https://RebelApeCDN.b-cdn.net/bg-gorilla-direct.webp"
