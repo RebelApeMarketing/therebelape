@@ -9,6 +9,7 @@ lastModified: ""
 image: "https://RebelApeCDN.b-cdn.net/featured-how-to-master-your-client-onboarding-process-from-3-hours-to-20-minutes.webp"
 canonicalUrl: "https://therebelape.com/blog/how-to-master-your-client-onboarding-process-from-3-hours-to-20-minutes/"
 tags: []
+categories: ["Marketing Strategy"]
 draft: false
 ---
 We used to schedule lunch for our onboarding meetings because they took over three hours. Now our **client onboarding process** takes just 20 minutes, and we gather more valuable information than ever before. This transformation didn't happen overnight, but the results have been game-changing for both our agency and our clients.

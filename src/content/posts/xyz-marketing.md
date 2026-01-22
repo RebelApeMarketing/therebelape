@@ -9,6 +9,7 @@ lastModified: ""
 image: "https://RebelApeCDN.b-cdn.net/featured-xyz-marketing-partnership.webp"
 canonicalUrl: "https://therebelape.com/blog/xyz-marketing/"
 tags: []
+categories: ["Marketing Strategy"]
 draft: false
 ---
 [Let AI read it for you!

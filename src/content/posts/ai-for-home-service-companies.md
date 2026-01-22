@@ -10,6 +10,7 @@ image: "https://RebelApeCDN.b-cdn.net/featured-ai-for-home-service-companies.web
 canonicalUrl: "https://therebelape.com/blog/ai-for-home-service-companies/"
 category: "Home Services Marketing"
 tags: ["AI automation", "lead generation", "contractor marketing", "home services", "business automation", "SEO optimization", "customer service", "roofing contractors"]
+categories: ["Contractor Marketing", "Marketing Strategy"]
 draft: false
 ---
 

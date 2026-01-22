@@ -10,6 +10,7 @@ image: "https://RebelApeCDN.b-cdn.net/featured-3-proven-ways-to-capture-attentio
 canonicalUrl: "https://therebelape.com/blog/billboard-advertising-strategies-3-proven-ways-to-capture-attention-and-drive-results/"
 category: "Home Services Marketing"
 tags: ["billboard advertising", "contractor marketing", "offline advertising", "roofing marketing", "brand awareness", "lead generation"]
+categories: ["PPC & Advertising"]
 draft: false
 ---
 

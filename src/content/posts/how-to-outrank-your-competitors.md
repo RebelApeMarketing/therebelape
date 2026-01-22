@@ -9,6 +9,7 @@ lastModified: ""
 image: "https://RebelApeCDN.b-cdn.net/featured-google-serps.webp"
 canonicalUrl: "https://therebelape.com/blog/how-to-outrank-your-competitors/"
 tags: []
+categories: ["SEO"]
 draft: false
 ---
 

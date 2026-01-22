@@ -9,6 +9,7 @@ lastModified: ""
 image: "https://RebelApeCDN.b-cdn.net/featured-rebel-ape-theme.webp"
 canonicalUrl: "https://therebelape.com/blog/success-business-branding/"
 tags: []
+categories: ["Branding"]
 draft: false
 ---
 

@@ -9,6 +9,7 @@ lastModified: ""
 image: "https://RebelApeCDN.b-cdn.net/featured-brand-identity.webp"
 canonicalUrl: "https://therebelape.com/blog/how-to-design-a-brand-identity-like-a-professional/"
 tags: []
+categories: ["Branding"]
 draft: false
 ---
 

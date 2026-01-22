@@ -9,6 +9,7 @@ lastModified: ""
 image: "https://RebelApeCDN.b-cdn.net/featured-video-marketing-strategy-for-2023.webp"
 canonicalUrl: "https://therebelape.com/blog/video-marketing-strategy-for-2023/"
 tags: []
+categories: ["Video Marketing"]
 draft: false
 ---
 [Let AI read it for you!

@@ -9,6 +9,7 @@ lastModified: ""
 image: "https://RebelApeCDN.b-cdn.net/featured-xyz-acquired-by-rebel-ape.webp"
 canonicalUrl: "https://therebelape.com/blog/xyz-marketing-acquired-by-rebel-ape-marketing/"
 tags: []
+categories: ["Marketing Strategy"]
 draft: false
 ---
 ### Same Great Marketing Strategies, Now Under Sole Ownership

@@ -9,6 +9,7 @@ lastModified: ""
 image: "https://RebelApeCDN.b-cdn.net/featured-your-website-is-costing-you-money.webp"
 canonicalUrl: "https://therebelape.com/blog/plumbing-website-conversion-fixes/"
 tags: []
+categories: ["Website Design", "Contractor Marketing"]
 draft: false
 ---
 ## The Real Problem Isn't Traffic—It's Conversion

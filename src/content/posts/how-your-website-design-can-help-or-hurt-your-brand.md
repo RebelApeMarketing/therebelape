@@ -9,6 +9,7 @@ lastModified: ""
 image: "https://RebelApeCDN.b-cdn.net/featured-ifix-web-mockup.webp"
 canonicalUrl: "https://therebelape.com/blog/how-your-website-design-can-help-or-hurt-your-brand/"
 tags: []
+categories: ["Website Design", "Branding"]
 draft: false
 ---
 

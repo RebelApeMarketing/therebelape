@@ -9,6 +9,7 @@ lastModified: ""
 image: "https://RebelApeCDN.b-cdn.net/featured-seo-tips-for-plumbers.webp"
 canonicalUrl: "https://therebelape.com/blog/seo-tips-for-plumbers/"
 tags: []
+categories: ["SEO", "Contractor Marketing"]
 draft: false
 ---
 ## SEO Tips for Plumbers: Why Your Website Might Look Great, But Remain Invisible

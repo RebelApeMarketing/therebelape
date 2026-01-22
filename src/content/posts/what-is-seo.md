@@ -8,8 +8,8 @@ publishDate: "2018-04-26T11:00:00-06:00"
 lastModified: "2026-01-20T09:00:00-07:00"
 image: "https://RebelApeCDN.b-cdn.net/featured-what-is-seo-updated.webp"
 canonicalUrl: "https://therebelape.com/blog/what-is-seo/"
-category: "SEO"
 tags: ["SEO", "contractor marketing", "search engine optimization", "Google rankings", "home service marketing"]
+categories: ["SEO"]
 draft: false
 ---
 

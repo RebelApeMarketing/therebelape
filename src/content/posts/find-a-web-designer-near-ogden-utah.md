@@ -10,6 +10,7 @@ image: "https://RebelApeCDN.b-cdn.net/featured-find-a-web-designer.webp"
 canonicalUrl: "https://therebelape.com/blog/find-a-web-designer-near-ogden-utah/"
 category: "Home Services Marketing"
 tags: ["website design", "contractor marketing", "Ogden Utah", "web design", "marketing strategy", "lead generation"]
+categories: ["Website Design"]
 draft: false
 ---
 

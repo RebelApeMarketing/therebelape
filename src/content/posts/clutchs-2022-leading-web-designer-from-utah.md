@@ -9,6 +9,7 @@ lastModified: ""
 image: "https://RebelApeCDN.b-cdn.net/featured-clutch-top-web-designers-2022-badge.webp"
 canonicalUrl: "https://therebelape.com/blog/clutchs-2022-leading-web-designer-from-utah/"
 tags: []
+categories: ["Website Design"]
 draft: false
 ---
 Clutch Hails Rebel Ape Marketing as 2022's Leading Web Designer from Utah

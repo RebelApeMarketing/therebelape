@@ -9,6 +9,7 @@ lastModified: ""
 image: "https://RebelApeCDN.b-cdn.net/rebel-ape-main/determine-the-logo-design.webp"
 canonicalUrl: "https://therebelape.com/blog/how-to-hire-a-logo-designer/"
 tags: []
+categories: ["Branding", "Website Design"]
 draft: false
 ---
 https://www.youtube.com/watch?v=dC7dCcH7Www

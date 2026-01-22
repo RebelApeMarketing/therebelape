@@ -9,6 +9,7 @@ lastModified: ""
 image: "https://RebelApeCDN.b-cdn.net/featured-google-analytics-sign-in.webp"
 canonicalUrl: "https://therebelape.com/blog/how-to-setup-google-analytics/"
 tags: []
+categories: ["Marketing Strategy"]
 draft: false
 ---
 

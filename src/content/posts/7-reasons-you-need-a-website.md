@@ -10,6 +10,7 @@ image: "https://RebelApeCDN.b-cdn.net/featured-why-home-service-companies-need-a
 canonicalUrl: "https://therebelape.com/blog/why-home-service-companies-need-a-website/"
 category: "Home Services Marketing"
 tags: ["website design", "conversion optimization", "contractor marketing", "roofing contractors", "home service business", "lead generation"]
+categories: ["Website Design"]
 draft: false
 ---
 

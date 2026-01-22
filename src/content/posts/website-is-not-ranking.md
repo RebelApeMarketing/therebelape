@@ -9,6 +9,7 @@ lastModified: ""
 image: "https://RebelApeCDN.b-cdn.net/featured-why-your-website-may-not-be-ranking.webp"
 canonicalUrl: "https://therebelape.com/blog/website-is-not-ranking/"
 tags: []
+categories: ["SEO"]
 draft: false
 ---
 

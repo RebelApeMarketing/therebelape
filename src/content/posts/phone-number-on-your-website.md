@@ -9,6 +9,7 @@ lastModified: ""
 image: "https://RebelApeCDN.b-cdn.net/featured-phone-number-on-your-website.webp"
 canonicalUrl: "https://therebelape.com/blog/phone-number-on-your-website/"
 tags: []
+categories: ["Website Design"]
 draft: false
 ---
 [

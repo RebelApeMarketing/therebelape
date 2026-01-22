@@ -9,6 +9,7 @@ lastModified: ""
 image: "https://RebelApeCDN.b-cdn.net/featured-rebel-featured-images.webp"
 canonicalUrl: "https://therebelape.com/blog/website-design-and-development-consultant/"
 tags: []
+categories: ["Website Design", "Marketing Strategy"]
 draft: false
 ---
 

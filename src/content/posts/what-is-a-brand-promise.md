@@ -9,6 +9,7 @@ lastModified: ""
 image: "https://RebelApeCDN.b-cdn.net/featured-brand-promise.webp"
 canonicalUrl: "https://therebelape.com/blog/what-is-a-brand-promise/"
 tags: []
+categories: ["Branding"]
 draft: false
 ---
 What Is A Brand Promise and Why It's Important?

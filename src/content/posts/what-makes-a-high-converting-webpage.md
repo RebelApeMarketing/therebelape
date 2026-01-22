@@ -9,6 +9,7 @@ lastModified: ""
 image: "https://RebelApeCDN.b-cdn.net/featured-high-converting-webpage.webp"
 canonicalUrl: "https://therebelape.com/blog/what-makes-a-high-converting-webpage/"
 tags: []
+categories: ["Website Design"]
 draft: false
 ---
 

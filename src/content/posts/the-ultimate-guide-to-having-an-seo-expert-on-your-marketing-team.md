@@ -9,6 +9,7 @@ lastModified: ""
 image: "https://RebelApeCDN.b-cdn.net/featured-seo-expert-on-your-marketing-team.webp"
 canonicalUrl: "https://therebelape.com/blog/the-ultimate-guide-to-having-an-seo-expert-on-your-marketing-team/"
 tags: []
+categories: ["SEO"]
 draft: false
 ---
 SEO (search engine optimization) is the system by which websites rank on search engines like Google, Bing, and others. Essentially, it is how search engines find the websites that are going to most answer the questions that people are searching. It does this most effectively by searching websites for popular keyword phrases and ranking them. Having an **SEO expert on your marketing team** is an essential tool towards reaching greater numbers of people. An SEO specialist knows how to use search engine optimization to boost your website up the ranks of Google and other search engines, to drive more traffic (and more business) to your company.

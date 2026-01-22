@@ -10,6 +10,7 @@ image: "https://RebelApeCDN.b-cdn.net/featured-content-syndication-strategies.we
 canonicalUrl: "https://therebelape.com/blog/content-syndication-strategies/"
 category: "Home Services Marketing"
 tags: ["content marketing", "social media", "contractor marketing", "video marketing", "content strategy"]
+categories: ["Content Marketing"]
 draft: false
 ---
 

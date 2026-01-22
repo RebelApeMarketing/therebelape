@@ -9,6 +9,7 @@ lastModified: ""
 image: "https://RebelApeCDN.b-cdn.net/featured-stock-photography-for-website-images.webp"
 canonicalUrl: "https://therebelape.com/blog/pitfalls-of-stock-photography-for-website-images/"
 tags: []
+categories: ["Website Design", "Content Marketing"]
 draft: false
 ---
 

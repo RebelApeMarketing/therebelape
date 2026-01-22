@@ -9,6 +9,7 @@ lastModified: ""
 image: "https://RebelApeCDN.b-cdn.net/featured-increase-website-trust.webp"
 canonicalUrl: "https://therebelape.com/blog/increase-website-trust/"
 tags: []
+categories: ["Website Design", "Marketing Strategy"]
 draft: false
 ---
 [Let AI read it for you!

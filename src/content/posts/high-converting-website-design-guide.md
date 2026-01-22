@@ -9,6 +9,7 @@ lastModified: "2026-01-07T15:00:00-07:00"
 image: "https://RebelApeCDN.b-cdn.net/featured-high-converting-webpage.webp"
 canonicalUrl: "https://therebelape.com/blog/high-converting-website-design-guide/"
 tags: ["website design", "conversion optimization", "landing pages", "contractor marketing", "roofing contractors"]
+categories: ["Website Design"]
 draft: false
 ---
 

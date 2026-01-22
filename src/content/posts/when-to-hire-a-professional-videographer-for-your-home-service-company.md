@@ -9,6 +9,7 @@ lastModified: ""
 image: "https://RebelApeCDN.b-cdn.net/featured-when-to-hire-a-professional-videographer.webp"
 canonicalUrl: "https://therebelape.com/blog/when-to-hire-a-professional-videographer-for-your-home-service-company/"
 tags: []
+categories: ["Video Marketing", "Contractor Marketing"]
 draft: false
 ---
 If you want to grow as a company, knowing **when to hire a professional videographer** versus using quick smartphone footage is crucial. For many marketing purposes, professional videography helps you present videos that connect with customers on a deeper emotional, as well as visual, level.

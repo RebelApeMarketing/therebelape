@@ -9,6 +9,7 @@ lastModified: ""
 image: "https://RebelApeCDN.b-cdn.net/featured-professional-content-writing-for-plumbers.webp"
 canonicalUrl: "https://therebelape.com/blog/professional-content-writing-business-authority-benefits/"
 tags: []
+categories: ["Content Marketing", "SEO"]
 draft: false
 ---
 Think about this: When was the last time a question popped into your head, so you looked it up online and found lists and pages of articles and posts with answers? Probably pretty recently, right? You can thank **professional content writing** for those lists and pages and articles and posts. When you're looking for DIY fixes for broken plumbing and find a step-by-step guide, when you want to grow your local business and find a tips-and-tricks article, when you want to know how to choose the best contractor and find a definitive checklist, you can thank writers.

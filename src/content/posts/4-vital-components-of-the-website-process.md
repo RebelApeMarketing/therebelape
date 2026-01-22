@@ -10,6 +10,7 @@ image: "https://RebelApeCDN.b-cdn.net/featured-4-vital-components.webp"
 canonicalUrl: "https://therebelape.com/blog/4-vital-components-of-the-website-process/"
 category: "Home Services Marketing"
 tags: ["website design", "conversion optimization", "landing pages", "contractor marketing", "roofing contractors", "lead generation"]
+categories: ["Website Design"]
 draft: false
 ---
 

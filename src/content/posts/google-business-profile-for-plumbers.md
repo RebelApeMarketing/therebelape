@@ -10,6 +10,7 @@ image: "https://RebelApeCDN.b-cdn.net/featured-google-business-profile-for-plumb
 canonicalUrl: "https://therebelape.com/blog/google-business-profile-for-plumbers/"
 category: "Local SEO"
 tags: ["google business profile", "plumber marketing", "local seo", "plumbing leads", "home services marketing"]
+categories: ["Local SEO", "Contractor Marketing"]
 draft: false
 ---
 

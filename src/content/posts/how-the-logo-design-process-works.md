@@ -10,6 +10,7 @@ image: "https://RebelApeCDN.b-cdn.net/featured-graphic-design.webp"
 canonicalUrl: "https://therebelape.com/blog/how-the-logo-design-process-works/"
 category: "Branding"
 tags: ["branding", "logo design", "contractor marketing", "brand identity", "visual identity"]
+categories: ["Branding"]
 draft: false
 schema:
   article: true

@@ -9,6 +9,7 @@ lastModified: ""
 image: "https://RebelApeCDN.b-cdn.net/featured-google-bert.webp"
 canonicalUrl: "https://therebelape.com/blog/google-bert-update/"
 tags: []
+categories: ["SEO"]
 draft: false
 ---
 Google : Google's Largest Update Released Since RankBrain

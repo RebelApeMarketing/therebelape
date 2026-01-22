@@ -9,6 +9,7 @@ lastModified: ""
 image: "https://RebelApeCDN.b-cdn.net/featured-social-media-marketing-gorilla.webp"
 canonicalUrl: "https://therebelape.com/blog/social-media-marketing-maximize-strategies/"
 tags: []
+categories: ["Social Media"]
 draft: false
 ---
 Let's be real, it can sometimes feel impossible to get noticed on social media. So many people are using it, and when you do post, you get a maximum of 10 likes… and most of those are from your relatives or old high school buddies. It's usually around that time that the classic question starts to slip in, "Why bother?" Here's why: Because **social media marketing** success is possible, if you go about it the right way.

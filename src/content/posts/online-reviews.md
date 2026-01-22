@@ -9,6 +9,7 @@ lastModified: ""
 image: "https://RebelApeCDN.b-cdn.net/featured-online-reviews.webp"
 canonicalUrl: "https://therebelape.com/blog/online-reviews/"
 tags: []
+categories: ["Local SEO", "Marketing Strategy"]
 draft: false
 ---
 [Let AI read it for you.

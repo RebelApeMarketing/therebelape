@@ -9,6 +9,7 @@ lastModified: ""
 image: "https://RebelApeCDN.b-cdn.net/featured-online-marketing.webp"
 canonicalUrl: "https://therebelape.com/blog/online-marketing-business-growth-trajectory/"
 tags: []
+categories: ["Marketing Strategy"]
 draft: false
 ---
 **Online marketing** is the key to changing the trajectory of your business for the better. The various components of **online marketing** include email campaigns, content strategy, social media and search engine optimization (SEO).

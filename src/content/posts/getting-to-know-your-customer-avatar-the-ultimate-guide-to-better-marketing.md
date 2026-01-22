@@ -10,6 +10,7 @@ image: "https://RebelApeCDN.b-cdn.net/featured-customer-avatar.webp"
 canonicalUrl: "https://therebelape.com/blog/getting-to-know-your-customer-avatar-the-ultimate-guide-to-better-marketing/"
 category: "Home Services Marketing"
 tags: ["contractor marketing", "customer avatar", "marketing strategy", "brand positioning", "lead generation"]
+categories: ["Marketing Strategy"]
 draft: false
 ---
 

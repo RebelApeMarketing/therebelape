@@ -10,6 +10,7 @@ image: "https://RebelApeCDN.b-cdn.net/featured-social-media-marketing-for-plumbe
 canonicalUrl: "https://therebelape.com/blog/5-reasons-you-need-social-media-marketing/"
 category: "Home Services Marketing"
 tags: ["social media marketing", "contractor marketing", "video marketing", "brand building", "content strategy"]
+categories: ["Social Media"]
 draft: false
 ---
 

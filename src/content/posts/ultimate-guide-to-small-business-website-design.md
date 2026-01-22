@@ -9,6 +9,7 @@ lastModified: ""
 image: "https://RebelApeCDN.b-cdn.net/featured-diy-guide-to-building-your-own-website-large.webp"
 canonicalUrl: "https://therebelape.com/blog/ultimate-guide-to-small-business-website-design/"
 tags: []
+categories: ["Website Design"]
 draft: false
 ---
 Welcome to The Ultimate Guide to Small Business Website Design: Your ultimate guide to small business website design, featuring the ultimate guide to small business website design and how to get found online!

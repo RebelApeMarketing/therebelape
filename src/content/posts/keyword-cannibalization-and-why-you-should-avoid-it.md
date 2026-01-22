@@ -9,6 +9,7 @@ lastModified: ""
 image: "https://RebelApeCDN.b-cdn.net/featured-what-is-keyword-cannibalization.webp"
 canonicalUrl: "https://therebelape.com/blog/keyword-cannibalization-and-why-you-should-avoid-it/"
 tags: []
+categories: ["SEO"]
 draft: false
 ---
 Let's face it, there's really no context where "cannibalization" is a positive word. **Keyword cannibalization** is no different. When it happens, you compete against yourself in order to rank. This in turn causes you to drop in the ranks of search engines like Google, Bing, and others. We're going to go over how keyword cannibalization hurts your website, how to recognize it, and how to fix it.

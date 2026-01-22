@@ -9,6 +9,7 @@ lastModified: ""
 image: "https://RebelApeCDN.b-cdn.net/featured-marketing-during-pandemic.webp"
 canonicalUrl: "https://therebelape.com/blog/tips-to-keep-your-business-during-the-pandemic/"
 tags: []
+categories: ["Marketing Strategy"]
 draft: false
 ---
 This pandemic has struck fear into many people, for good reason. The economy has essentially come to a standstill as the virus has shut down many businesses in an attempt to protect the general public and slow the spread of the virus.

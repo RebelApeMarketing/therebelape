@@ -9,6 +9,7 @@ lastModified: ""
 image: "https://RebelApeCDN.b-cdn.net/featured-seo-dead.webp"
 canonicalUrl: "https://therebelape.com/blog/is-seo-dead/"
 tags: []
+categories: ["SEO"]
 draft: false
 ---
 

@@ -10,6 +10,7 @@ image: "https://RebelApeCDN.b-cdn.net/featured-do-keywords-still-matter-for-seo.
 canonicalUrl: "https://therebelape.com/blog/do-keywords-still-matter-for-seo/"
 category: "SEO"
 tags: ["SEO", "content marketing", "topical authority", "search intent", "contractor marketing", "Google algorithm"]
+categories: ["SEO"]
 draft: false
 ---
 

@@ -9,6 +9,7 @@ lastModified: ""
 image: "https://RebelApeCDN.b-cdn.net/featured-professional-photography-for-business.webp"
 canonicalUrl: "https://therebelape.com/blog/professional-photography-business-roi-benefits/"
 tags: []
+categories: ["Content Marketing", "Branding"]
 draft: false
 ---
 You've probably heard the phrase that "A picture is worth a thousand words." With a **professional photographer**, that phrase proves true. It also ends up being one of the most powerful tools in marketing. But before you break out the camera on your phone, snap a couple photos, and call it a day, you should consider how having a **professional photographer** can be an even greater advantage for your business growth.

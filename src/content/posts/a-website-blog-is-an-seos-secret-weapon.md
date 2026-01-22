@@ -10,6 +10,7 @@ image: "https://RebelApeCDN.b-cdn.net/featured-website-blog-for-seo.webp"
 canonicalUrl: "https://therebelape.com/blog/a-website-blog-is-an-seos-secret-weapon/"
 category: "SEO"
 tags: ["seo", "content marketing", "blogging strategy", "contractor marketing", "AI optimization"]
+categories: ["SEO", "Content Marketing"]
 draft: false
 ---
 

@@ -9,6 +9,7 @@ lastModified: ""
 image: "https://RebelApeCDN.b-cdn.net/featured-basic-on-page-seo-tips.webp"
 canonicalUrl: "https://therebelape.com/blog/on-page-seo-tips/"
 tags: [seo]
+categories: ["SEO"]
 draft: false
 ---
 # Getting Your Site's New Content to Rank in Google Search
