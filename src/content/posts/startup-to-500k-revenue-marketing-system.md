@@ -29,7 +29,7 @@ Here's exactly how we helped him build a marketing system that replaced his sala
 
 ## Why Most Contractors Never Make the Leap
 
-Here's the truth about [word-of-mouth marketing](https://therebelape.com/blog/7-reasons-you-need-a-website): it keeps you safe, comfortable, and completely dependent on other people for your business growth.
+Here's the truth about [word-of-mouth marketing](https://therebelape.com/blog/7-reasons-you-need-a-website/): it keeps you safe, comfortable, and completely dependent on other people for your business growth.
 
 You can do great work forever. You can have clients who love you. You can get referrals consistently. And you'll still never have control over your revenue, your growth, or your future.
 
@@ -53,7 +53,7 @@ Here's what actually happens with that approach:
 
 Your website looks great but doesn't convert visitors into calls. Your ads burn budget driving traffic to pages that don't capture leads. You have no idea which calls came from which source. You can't track what's working. You panic after 60 days of mediocre results and either give up or restart the cycle with a different agency.
 
-We see this pattern constantly. Contractors spend $10,000-$20,000 on [website design](https://therebelape.com/services/website-design) and [PPC campaigns](https://therebelape.com/services/ppc) that were never built to work together, then wonder why they're not getting the ROI they were promised.
+We see this pattern constantly. Contractors spend $10,000-$20,000 on [website design](https://therebelape.com/services/website-design/) and [PPC campaigns](https://therebelape.com/services/ppc/) that were never built to work together, then wonder why they're not getting the ROI they were promised.
 
 The truth? Most contractors fail at marketing because they're sold individual services instead of complete systems.
 
@@ -69,13 +69,13 @@ Here's what we actually built for this surveying startup:
 
 We didn't just build "a surveying company." We built a surveying company that solves a specific problem: legally binding surveys with documentation so precise that cities accept them the first time and they last forever.
 
-That positioning became the foundation of everything—website copy, ad messaging, [Google Business Profile optimization](https://therebelape.com/services/google-business-profile), and sales conversations.
+That positioning became the foundation of everything—website copy, ad messaging, [Google Business Profile optimization](https://therebelape.com/services/google-business-profile/), and sales conversations.
 
 Most contractors skip this step and wonder why their marketing feels generic. Your messaging has to differentiate you from every other company doing the same work. If you can't articulate why someone should call you instead of your competitor, neither can your website or your ads.
 
 **Conversion-Optimized Website**
 
-We built a [high-converting website](https://therebelape.com/blog/high-converting-website-design-guide) with one goal: turn visitors into phone calls.
+We built a [high-converting website](https://therebelape.com/blog/high-converting-website-design-guide/) with one goal: turn visitors into phone calls.
 
 That meant:
 - Clear calls-to-action above the fold
@@ -85,7 +85,7 @@ That meant:
 - Brand video that builds credibility and authority
 - Service-specific landing pages (more on this in a moment)
 
-The website wasn't designed to win awards. It was designed to [generate leads](https://therebelape.com/blog/lead-generation-best-practices-master-conversion-strategies-for-2025).
+The website wasn't designed to win awards. It was designed to [generate leads](https://therebelape.com/blog/lead-generation-best-practices-master-conversion-strategies-for-2025/).
 
 **Landing Pages Built for Conversion**
 
@@ -99,7 +99,7 @@ We don't give away the secret sauce on exactly why our landing page structure wo
 
 Before spending a dollar on ads, we implemented:
 - Call tracking numbers to know which campaigns drive phone calls
-- [Conversion tracking](https://therebelape.com/blog/our-secret-to-tracking-success-and-making-marketing-predictable) to measure lead quality
+- [Conversion tracking](https://therebelape.com/blog/our-secret-to-tracking-success-and-making-marketing-predictable/) to measure lead quality
 - Analytics setup to understand user behavior
 - CRM integration to track leads through the sales process
 
@@ -107,7 +107,7 @@ Most contractors are flying blind. They're spending money on marketing with zero
 
 **Google Business Profile Overhaul**
 
-We completely rebuilt the [Google Business Profile](https://therebelape.com/blog/total-market-domination-with-google-business-profile) with:
+We completely rebuilt the [Google Business Profile](https://therebelape.com/blog/total-market-domination-with-google-business-profile/) with:
 - Keyword-rich business description focused on the positioning
 - Service area optimization
 - Strategic category selection  
@@ -120,7 +120,7 @@ For local contractors, your Google Business Profile is often your second-biggest
 
 **Google Ads Campaign Structure**
 
-We launched [search campaigns](https://therebelape.com/services/ppc) targeting high-intent keywords—people actively searching for surveying services right now.
+We launched [search campaigns](https://therebelape.com/services/ppc/) targeting high-intent keywords—people actively searching for surveying services right now.
 
 No broad match garbage. No display ads to people who aren't looking. Just focused search campaigns driving qualified traffic to conversion-optimized landing pages.
 
@@ -134,7 +134,7 @@ The first few weeks of any Google Ads campaign are rough. The algorithm is learn
 
 This is exactly when most contractors pull the plug and restart with a different agency, which just resets the learning process.
 
-We warned him this was coming. We showed him the data from other clients. We explained that [SEO and organic strategies](https://therebelape.com/services/seo) take even longer to produce results, which is why paid ads are critical for startups who need revenue now.
+We warned him this was coming. We showed him the data from other clients. We explained that [SEO and organic strategies](https://therebelape.com/services/seo/) take even longer to produce results, which is why paid ads are critical for startups who need revenue now.
 
 He trusted the process. By the end of month two, calls started increasing. Then increasing more. Then even more.
 
@@ -168,17 +168,17 @@ But here's what made this work: he kept his day job during the scary parts. He d
 
 ## What We've Learned From Building Contractor Marketing Systems
 
-After building [complete marketing systems](https://therebelape.com/blog/the-ultimate-guide-to-building-a-professional-marketing-plan-for-2025) for dozens of home service contractors, here's what actually matters:
+After building [complete marketing systems](https://therebelape.com/blog/the-ultimate-guide-to-building-a-professional-marketing-plan-for-2025/) for dozens of home service contractors, here's what actually matters:
 
 **Conversion infrastructure comes before traffic.** You can drive all the traffic in the world to a website that doesn't convert and you'll go broke. We built the conversion mechanisms first—landing pages, tracking, brand video, clear calls-to-action—then turned on the traffic.
 
-**Complete systems beat individual tactics.** A website alone doesn't work. Ads alone don't work. [SEO alone](https://therebelape.com/blog/seo-marketing-guide-business-growth) doesn't work. But a website built for conversion + targeted ads + landing pages + tracking + [Google Business Profile optimization](https://therebelape.com/blog/google-business-profile-for-plumbers) + strategic messaging? That's a system that generates predictable revenue.
+**Complete systems beat individual tactics.** A website alone doesn't work. Ads alone don't work. [SEO alone](https://therebelape.com/blog/seo-marketing-guide-business-growth/) doesn't work. But a website built for conversion + targeted ads + landing pages + tracking + [Google Business Profile optimization](https://therebelape.com/blog/google-business-profile-for-plumbers/) + strategic messaging? That's a system that generates predictable revenue.
 
 **Positioning is everything.** "We do surveying" isn't positioning. "We provide legally binding surveys with documentation so precise that cities accept them the first time" is positioning. Your competitors can't copy that because they'd have to deliver on it.
 
 **Month two separates winners from quitters.** The algorithm training period is uncomfortable. Most contractors bail. The ones who trust the process and stick with it win.
 
-**Startups need faster results than SEO provides.** We love [SEO for long-term growth](https://therebelape.com/blog/local-seo-services-increase-local-visibility-and-drive-more-customers), but startups can't wait 6-12 months for organic traffic. They need calls now. That's why we start with paid search and layer in organic strategies as the business scales.
+**Startups need faster results than SEO provides.** We love [SEO for long-term growth](https://therebelape.com/blog/local-seo-services-increase-local-visibility-and-drive-more-customers/), but startups can't wait 6-12 months for organic traffic. They need calls now. That's why we start with paid search and layer in organic strategies as the business scales.
 
 ## Common Mistakes That Kill Contractor Marketing (And How to Avoid Them)
 
@@ -196,11 +196,11 @@ Month two feels like failure for most contractors. Cost per lead is high. Call v
 
 This is exactly when most contractors restart with a different agency, which just resets the learning curve and wastes even more money.
 
-The fix: Understand the timeline before you start. Paid ads need 60-90 days to optimize. [SEO takes even longer](https://therebelape.com/blog/how-to-improve-website-traffic-with-seo-your-complete-2025-guide). Trust the process or don't start at all.
+The fix: Understand the timeline before you start. Paid ads need 60-90 days to optimize. [SEO takes even longer](https://therebelape.com/blog/how-to-improve-website-traffic-with-seo-your-complete-2025-guide/). Trust the process or don't start at all.
 
 **Mistake #3: Choosing Pretty Over Profitable**
 
-Most contractors hire web designers when they need [conversion specialists](https://therebelape.com/blog/what-makes-a-high-converting-webpage). They end up with beautiful websites that don't generate leads.
+Most contractors hire web designers when they need [conversion specialists](https://therebelape.com/blog/what-makes-a-high-converting-webpage/). They end up with beautiful websites that don't generate leads.
 
 Your website's job isn't to look good. It's to turn visitors into customers. Those are different goals that require different approaches.
 
@@ -210,7 +210,7 @@ The fix: Hire agencies that track conversion rates and cost per lead, not design
 
 Word-of-mouth is great. It's also completely out of your control.
 
-This surveying contractor could have stayed at his job forever, doing great work and hoping for referrals. Instead he built a [marketing system that generates leads predictably](https://therebelape.com/blog/organic-marketing-strategies-for-explosive-business-growth-in-2025), regardless of whether anyone refers him or not.
+This surveying contractor could have stayed at his job forever, doing great work and hoping for referrals. Instead he built a [marketing system that generates leads predictably](https://therebelape.com/blog/organic-marketing-strategies-for-explosive-business-growth-in-2025/), regardless of whether anyone refers him or not.
 
 The fix: Use word-of-mouth as a supplement to your marketing system, not as your primary growth strategy. Build something you control.
 
@@ -228,13 +228,13 @@ Most contractors never leave the safety of employment or word-of-mouth marketing
 
 They've been burned before. They've wasted money on tactics that didn't work. They've heard all the promises from agencies that disappeared after cashing the check.
 
-But this surveying contractor took the leap because we showed him a proven system, walked him through real [case studies from similar situations](https://therebelape.com/case-studies), and built his entire marketing infrastructure before asking him to quit his job.
+But this surveying contractor took the leap because we showed him a proven system, walked him through real [case studies from similar situations](https://therebelape.com/case-studies/), and built his entire marketing infrastructure before asking him to quit his job.
 
 He went from $0 to $500,000 in two years. He's on track for $1 million this year. His former employer keeps wondering how he's getting so much work.
 
 The answer? A complete marketing system built on conversion optimization, strategic positioning, and proven tactics—not just "a website and some ads."
 
-If you're tired of depending on word-of-mouth or you're ready to leave your day job and build the business you're actually capable of building, [let's talk about what a complete marketing system looks like for your specific trade](https://therebelape.com/schedule).
+If you're tired of depending on word-of-mouth or you're ready to leave your day job and build the business you're actually capable of building, [let's talk about what a complete marketing system looks like for your specific trade](https://therebelape.com/schedule/).
 
 We don't work with many startups because most can't afford to invest properly. But if you're willing to start smart—building the foundation while still employed, trusting the process through month two, and scaling strategically once lead flow is proven—we can show you exactly how this works for your business.
 
@@ -254,7 +254,7 @@ Home service startups should expect to invest in two areas: upfront setup costs 
 
 **Should I build my website before leaving my day job?**
 
-Absolutely. Building your complete marketing system while still employed removes financial pressure and allows you to launch strategically rather than desperately. Use your day job income to fund proper [website development](https://therebelape.com/blog/ultimate-guide-to-small-business-website-design), conversion-optimized landing pages, and initial ad campaigns. Only transition to full-time business ownership once you have consistent lead flow and proven conversion metrics.
+Absolutely. Building your complete marketing system while still employed removes financial pressure and allows you to launch strategically rather than desperately. Use your day job income to fund proper [website development](https://therebelape.com/blog/ultimate-guide-to-small-business-website-design/), conversion-optimized landing pages, and initial ad campaigns. Only transition to full-time business ownership once you have consistent lead flow and proven conversion metrics.
 
 **What conversion rate should I expect from contractor marketing campaigns?**
 
@@ -270,4 +270,4 @@ Word-of-mouth marketing keeps you dependent on others for your business growth a
 
 **What makes a contractor website convert visitors into leads?**
 
-High-converting contractor websites prioritize lead capture over aesthetics. Essential elements include: clear calls-to-action above the fold, dedicated landing pages for each service, prominent phone numbers with click-to-call functionality, trust signals like reviews and certifications, fast page load speeds, mobile optimization, and compelling messaging that addresses specific customer pain points. [Brand videos](https://therebelape.com/blog/our-secrets-to-successful-video-marketing-that-drives-real-results) that demonstrate expertise and build trust also significantly improve conversion rates.
+High-converting contractor websites prioritize lead capture over aesthetics. Essential elements include: clear calls-to-action above the fold, dedicated landing pages for each service, prominent phone numbers with click-to-call functionality, trust signals like reviews and certifications, fast page load speeds, mobile optimization, and compelling messaging that addresses specific customer pain points. [Brand videos](https://therebelape.com/blog/our-secrets-to-successful-video-marketing-that-drives-real-results/) that demonstrate expertise and build trust also significantly improve conversion rates.
