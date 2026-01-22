@@ -1,4 +1,7 @@
 ---
+import GreenCheck from '../ui/GreenCheck.astro';
+import Button from '../ui/Button.astro';
+
 interface Props {
   city: string;
 }
@@ -6,69 +9,157 @@ interface Props {
 const { city } = Astro.props;
 ---
 
-<section class="py-16 md:py-24 section-slate">
-  <div class="max-w-6xl mx-auto px-4">
-    <h2 class="text-4xl md:text-5xl font-bold mb-4 text-center">
-      How We Get {city} Contractors Consistent Leads
-    </h2>
-    <p class="text-xl text-gray-700 mb-12 text-center">
-      We build complete marketing systems—not random tactics that work in isolation.
-    </p>
+<section>
+  <div class="max-w-7xl mx-auto px-4">
+    <div class="text-center mb-16">
+      <h2 class="text-4xl md:text-5xl font-black text-gray-900 mb-4">
+        How We Get {city} Contractors Consistent Leads
+      </h2>
+      <p class="text-lg md:text-xl text-gray-600 max-w-2xl mx-auto">
+        Four core services designed to get your phone ringing with qualified leads.
+      </p>
+    </div>
 
     <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
-
-      <!-- Service: SEO -->
-      <div class="bg-white p-8 rounded-lg shadow-lg">
-        <h3 class="text-2xl font-bold mb-4">Local SEO</h3>
-        <p class="text-gray-700 mb-4">
-          Show up when contractors search for services in {city}. We optimize your site, Google Business Profile, and content so you rank when it matters. Takes 6-8 months to really kick in, but it compounds over time.
-        </p>
-        <ul class="space-y-2 text-gray-700">
-          <li class="flex gap-2"><span class="text-rebel-green font-bold">→</span> Google Business Profile optimization</li>
-          <li class="flex gap-2"><span class="text-rebel-green font-bold">→</span> Local keyword targeting</li>
-          <li class="flex gap-2"><span class="text-rebel-green font-bold">→</span> Content that ranks</li>
-        </ul>
+      <!-- Website Design -->
+      <div class="bg-white border border-gray-200 rounded-lg shadow-xl overflow-hidden">
+        <div class="h-1 bg-rebel-green"></div>
+        <div class="p-8">
+          <div class="flex items-center gap-3 mb-6">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" class="size-10 text-rebel-green flex-shrink-0">
+              <path fill="currentColor" d="M3,20V10H8V21H4A1,1,0,0,1,3,20ZM21,4a1,1,0,0,0-1-1H4A1,1,0,0,0,3,4V8H21ZM20,21a1,1,0,0,0,1-1V10H10V21Z"/>
+            </svg>
+            <h3 class="text-2xl font-bold text-gray-900">Website Design</h3>
+          </div>
+          <p class="text-gray-700 mb-6">
+            Your website has one job: turn visitors into phone calls. We build conversion-focused websites specifically for contractors—fast load times, clear calls-to-action, mobile-optimized, and messaging that actually converts.
+          </p>
+          <ul class="space-y-3 mb-8">
+            <li class="flex items-start gap-3">
+              <GreenCheck />
+              <span class="text-gray-600">Lightning-fast load times</span>
+            </li>
+            <li class="flex items-start gap-3">
+              <GreenCheck />
+              <span class="text-gray-600">Mobile-optimized design</span>
+            </li>
+            <li class="flex items-start gap-3">
+              <GreenCheck />
+              <span class="text-gray-600">Built for lead generation</span>
+            </li>
+            <li class="flex items-start gap-3">
+              <GreenCheck />
+              <span class="text-gray-600">Clear calls-to-action</span>
+            </li>
+          </ul>
+          <Button text="Learn More" icon="learn" href="/services/website-design/" />
+        </div>
       </div>
 
-      <!-- Service: Google Ads -->
-      <div class="bg-white p-8 rounded-lg shadow-lg">
-        <h3 class="text-2xl font-bold mb-4">Google Ads</h3>
-        <p class="text-gray-700 mb-4">
-          Get leads now, not in 6 months. We run targeted Google Ads that reach people actively searching for contractors in {city}. Real tracking. Real optimization. Real results.
-        </p>
-        <ul class="space-y-2 text-gray-700">
-          <li class="flex gap-2"><span class="text-rebel-green font-bold">→</span> Fastest way to generate leads</li>
-          <li class="flex gap-2"><span class="text-rebel-green font-bold">→</span> Highly targeted campaigns</li>
-          <li class="flex gap-2"><span class="text-rebel-green font-bold">→</span> Continuous optimization</li>
-        </ul>
+      <!-- PPC Management -->
+      <div class="bg-white border border-gray-200 rounded-lg shadow-xl overflow-hidden">
+        <div class="h-1 bg-rebel-green"></div>
+        <div class="p-8">
+          <div class="flex items-center gap-3 mb-6">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" fill="currentColor" class="size-10 text-rebel-green flex-shrink-0">
+              <path fill="currentColor" d="M15.989 1.396h0.032c1.197 0 2.307 0.401 3.197 1.073h0.005c0.615 0.463 1.125 1.057 1.489 1.733l5.953 10.36 0.036 0.083 4.557 7.907c0.485 0.817 0.74 1.755 0.74 2.713 0 0.751-0.156 1.469-0.437 2.12l0.005 0.021c-0.213 0.484-0.495 0.927-0.844 1.328-0.396 0.459-0.864 0.853-1.396 1.156-0.787 0.459-1.683 0.703-2.593 0.713h-0.089c-1.156 0-2.276-0.375-3.197-1.073h-0.005c-0.615-0.463-1.125-1.057-1.489-1.733l-5.953-10.36-0.036-0.083-4.579-7.943c-0.473-0.813-0.719-1.735-0.719-2.677 0-0.563 0.088-1.109 0.251-1.62l0.009-0.032 0.016-0.041c0.068-0.208 0.156-0.448 0.156-0.448 0.208-0.479 0.495-0.921 0.833-1.312l0.084-0.099 0.020-0.021v-0.005h0.005l0.011-0.016 0.011-0.004c0.359-0.396 0.787-0.745 1.276-1.027 0.787-0.459 1.683-0.703 2.593-0.713zM5.344 30.604h-0.079c-0.911-0.011-1.807-0.255-2.593-0.713-0.532-0.303-1-0.697-1.396-1.156-0.349-0.401-0.631-0.844-0.844-1.328l0.005-0.021c-0.292-0.667-0.437-1.391-0.437-2.12 0-0.995 0.271-1.921 0.74-2.713l4.557-7.907 0.036-0.083 4.052-7.047c0.099 0.859 0.364 1.703 0.792 2.473l0.077 0.131 4.5 7.807v-0.015l0.089 0.192 0.385 0.677-5.183 9.016c-0.364 0.676-0.875 1.271-1.489 1.733h-0.005c-0.921 0.699-2.041 1.073-3.197 1.073z"/>
+            </svg>
+            <h3 class="text-2xl font-bold text-gray-900">PPC Management</h3>
+          </div>
+          <p class="text-gray-700 mb-6">
+            Get leads now, not in 6 months. We run targeted Google Ads, Meta Ads, and Local Service Ads that reach people actively searching for your services. Full conversion tracking, daily optimization, and transparent reporting.
+          </p>
+          <ul class="space-y-3 mb-8">
+            <li class="flex items-start gap-3">
+              <GreenCheck />
+              <span class="text-gray-600">Google & Meta campaigns</span>
+            </li>
+            <li class="flex items-start gap-3">
+              <GreenCheck />
+              <span class="text-gray-600">Local Service Ads setup</span>
+            </li>
+            <li class="flex items-start gap-3">
+              <GreenCheck />
+              <span class="text-gray-600">Conversion tracking & reporting</span>
+            </li>
+            <li class="flex items-start gap-3">
+              <GreenCheck />
+              <span class="text-gray-600">Daily optimization</span>
+            </li>
+          </ul>
+          <Button text="Learn More" icon="learn" href="/services/ppc/" />
+        </div>
       </div>
 
-      <!-- Service: Website Design -->
-      <div class="bg-white p-8 rounded-lg shadow-lg">
-        <h3 class="text-2xl font-bold mb-4">Website Design</h3>
-        <p class="text-gray-700 mb-4">
-          Your website has one job: turn visitors into phone calls. We build conversion-focused sites that actually generate leads—fast load times, clear CTAs, and messaging that converts.
-        </p>
-        <ul class="space-y-2 text-gray-700">
-          <li class="flex gap-2"><span class="text-rebel-green font-bold">→</span> Mobile-first design</li>
-          <li class="flex gap-2"><span class="text-rebel-green font-bold">→</span> Lightning-fast load times</li>
-          <li class="flex gap-2"><span class="text-rebel-green font-bold">→</span> Built to convert</li>
-        </ul>
+      <!-- SEO Services -->
+      <div class="bg-white border border-gray-200 rounded-lg shadow-xl overflow-hidden">
+        <div class="h-1 bg-rebel-green"></div>
+        <div class="p-8">
+          <div class="flex items-center gap-3 mb-6">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" class="size-10 text-rebel-green flex-shrink-0">
+              <path fill="currentColor" d="M15.5 14h-.79l-.28-.27C15.41 12.59 16 11.11 16 9.5 16 5.91 13.09 3 9.5 3S3 5.91 3 9.5 5.91 16 9.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5 14 7.01 14 9.5 11.99 14 9.5 14z"/>
+            </svg>
+            <h3 class="text-2xl font-bold text-gray-900">SEO Services</h3>
+          </div>
+          <p class="text-gray-700 mb-6">
+            SEO takes 6-8 months to really kick in, but it compounds over time. We optimize your site, create content that ranks, and build your authority so you show up when it matters. Local SEO + Google Business Profile optimization means you dominate your market.
+          </p>
+          <ul class="space-y-3 mb-8">
+            <li class="flex items-start gap-3">
+              <GreenCheck />
+              <span class="text-gray-600">Local search optimization</span>
+            </li>
+            <li class="flex items-start gap-3">
+              <GreenCheck />
+              <span class="text-gray-600">Keyword research & targeting</span>
+            </li>
+            <li class="flex items-start gap-3">
+              <GreenCheck />
+              <span class="text-gray-600">On-page optimization</span>
+            </li>
+            <li class="flex items-start gap-3">
+              <GreenCheck />
+              <span class="text-gray-600">Monthly ranking reports</span>
+            </li>
+          </ul>
+          <Button text="Learn More" icon="learn" href="/services/seo/" />
+        </div>
       </div>
 
-      <!-- Service: Social Media -->
-      <div class="bg-white p-8 rounded-lg shadow-lg">
-        <h3 class="text-2xl font-bold mb-4">Social Media Management</h3>
-        <p class="text-gray-700 mb-4">
-          Stay visible with consistent, professional content. We handle your social media so you can focus on the work. No generic templates—content built for contractors.
-        </p>
-        <ul class="space-y-2 text-gray-700">
-          <li class="flex gap-2"><span class="text-rebel-green font-bold">→</span> Facebook & Instagram</li>
-          <li class="flex gap-2"><span class="text-rebel-green font-bold">→</span> Consistent posting schedule</li>
-          <li class="flex gap-2"><span class="text-rebel-green font-bold">→</span> Professional content</li>
-        </ul>
+      <!-- Google Business Profile -->
+      <div class="bg-white border border-gray-200 rounded-lg shadow-xl overflow-hidden">
+        <div class="h-1 bg-rebel-green"></div>
+        <div class="p-8">
+          <div class="flex items-center gap-3 mb-6">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" class="size-10 text-rebel-green flex-shrink-0">
+              <path fill="currentColor" d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7zm0 9.5c-1.38 0-2.5-1.12-2.5-2.5s1.12-2.5 2.5-2.5 2.5 1.12 2.5 2.5-1.12 2.5-2.5 2.5z"/>
+            </svg>
+            <h3 class="text-2xl font-bold text-gray-900">Google Business Profile</h3>
+          </div>
+          <p class="text-gray-700 mb-6">
+            Your Google Business Profile is often your second-biggest lead source after your website. We optimize every element—description, categories, photos, posts, reviews—to maximize visibility in the map pack.
+          </p>
+          <ul class="space-y-3 mb-8">
+            <li class="flex items-start gap-3">
+              <GreenCheck />
+              <span class="text-gray-600">Complete profile optimization</span>
+            </li>
+            <li class="flex items-start gap-3">
+              <GreenCheck />
+              <span class="text-gray-600">Review generation & management</span>
+            </li>
+            <li class="flex items-start gap-3">
+              <GreenCheck />
+              <span class="text-gray-600">Regular posts & updates</span>
+            </li>
+            <li class="flex items-start gap-3">
+              <GreenCheck />
+              <span class="text-gray-600">Map pack ranking strategies</span>
+            </li>
+          </ul>
+          <Button text="Learn More" icon="learn" href="/services/google-business-profile/" />
+        </div>
       </div>
-
     </div>
   </div>
 </section>

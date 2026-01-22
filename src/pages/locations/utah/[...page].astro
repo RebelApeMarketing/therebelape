@@ -99,7 +99,7 @@ const robots = "index,follow";
                 <div class="p-6">
                   <h3 class="text-xl font-bold mb-2 leading-tight">
                     <a
-                      href={`/locations/${location.data.stateAbbr.toLowerCase()}/${citySlug}/`}
+                      href={`/locations/${location.data.state.toLowerCase()}/${citySlug}/`}
                       class="text-gray-900 hover:text-rebel-green transition-colors"
                     >
                       {location.data.city}
@@ -107,7 +107,7 @@ const robots = "index,follow";
                   </h3>
                   <p class="text-gray-600 mb-4">{location.data.excerpt}</p>
                   <a
-                    href={`/locations/${location.data.stateAbbr.toLowerCase()}/${citySlug}/`}
+                    href={`/locations/${location.data.state.toLowerCase()}/${citySlug}/`}
                     class="inline-flex items-center text-rebel-green font-semibold hover:underline"
                   >
                     See Location

@@ -1,4 +1,5 @@
 import type { APIRoute } from "astro";
+import { getCollection } from "astro:content";
 
 export const GET: APIRoute = async ({ site }) => {
   if (!site) {
@@ -22,15 +23,32 @@ export const GET: APIRoute = async ({ site }) => {
     { path: "/case-studies/", changefreq: "monthly", priority: 0.8 },
     { path: "/locations/", changefreq: "monthly", priority: 0.8 },
     { path: "/resources/", changefreq: "monthly", priority: 0.8 },
+    { path: "/resources/customer-avatar/", changefreq: "monthly", priority: 0.7 },
 
     { path: "/contact/", changefreq: "monthly", priority: 0.7 },
     { path: "/schedule/", changefreq: "monthly", priority: 0.6 },
-    
+
     { path: "/legal/privacy-policy/", changefreq: "yearly", priority: 0.3 },
     { path: "/legal/terms-and-conditions/", changefreq: "yearly", priority: 0.3 },
   ];
 
-  const urls = pages
+  // Get all location pages dynamically
+  const locations = await getCollection('locations');
+  const locationPages = locations
+    .filter(location => !location.data.draft)
+    .map(location => {
+      const citySlug = location.slug.split('/').pop() || location.slug;
+      return {
+        path: `/locations/${location.data.state.toLowerCase()}/${citySlug}/`,
+        changefreq: "monthly",
+        priority: 0.7
+      };
+    });
+
+  // Combine static pages with dynamic location pages
+  const allPages = [...pages, ...locationPages];
+
+  const urls = allPages
     .map((page) => {
       const loc = new URL(page.path, site).toString();
       return `

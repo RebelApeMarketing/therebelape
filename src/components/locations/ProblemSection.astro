@@ -13,22 +13,38 @@ const openingLine = neighborhoods && neighborhoods.length > 0
   : `Whether you're serving ${city} or the broader ${region} area, the problem is the same: you do great work, your customers are happy, but contractors who need you can't find you online. You're buried on page 2 or 3 of Google while competitors with worse reviews get the calls.`;
 ---
 
-<section class="py-16 md:py-24 section-checkers">
-  <div class="max-w-4xl mx-auto px-4">
-    <h2 class="text-4xl md:text-5xl font-bold mb-6">
-      Why {city} Contractors Struggle to Get Consistent Leads
-    </h2>
+<section>
+  <div class="max-w-7xl mx-auto px-6">
+    <div class="grid md:grid-cols-3 gap-12 items-stretch">
+      <!-- Left: Text Content -->
+      <div class="flex flex-col justify-center md:col-span-2">
+        <h2 class="text-4xl md:text-5xl font-black text-gray-900 mb-6">
+          Why {city} Contractors Struggle to Get Consistent Leads
+        </h2>
 
-    <p class="text-lg text-gray-700 mb-6">
-      {openingLine}
-    </p>
+        <div class="space-y-6 text-gray-700 text-lg leading-relaxed">
+          <p>
+            {openingLine}
+          </p>
 
-    <p class="text-lg text-gray-700 mb-6">
-      You rely on word-of-mouth and referrals. Some months are great. Some months are slow. You can't control the lead flow, which means you can't control growth. You've probably tried marketing before—maybe an agency that didn't deliver, maybe DIY that took too much time. Either way, you're still here looking for something that actually works.
-    </p>
+          <p>
+            You rely on word-of-mouth and referrals. Some months are great. Some months are slow. You can't control the lead flow, which means you can't control growth. You've probably tried marketing before—maybe an agency that didn't deliver, maybe DIY that took too much time. Either way, you're still here looking for something that actually works.
+          </p>
 
-    <p class="text-lg text-gray-700 mb-8">
-      Here's the truth: most contractors in {city} have the same problem. It's not unique to your business. You're not doing anything wrong. The marketing agencies selling you services just aren't building complete systems that actually generate consistent revenue.
-    </p>
+          <p>
+            Here's the truth: most contractors in {city} have the same problem. It's not unique to your business. You're not doing anything wrong. The marketing agencies selling you services just aren't building complete systems that actually generate consistent revenue.
+          </p>
+        </div>
+      </div>
+
+      <!-- Right: Image -->
+      <div class="flex items-stretch">
+        <img
+          src="https://RebelApeCDN.b-cdn.net/featured-google-business-profile-for-plumbers-office.webp"
+          alt="Google Business Profile example"
+          class="w-full h-full object-cover rounded-lg shadow-2xl"
+        />
+      </div>
+    </div>
   </div>
 </section>

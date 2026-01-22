@@ -1,0 +1,93 @@
+---
+import { getCollection } from 'astro:content';
+import { nearbyCities } from '../../data/nearbyCities';
+
+interface Props {
+  currentCity: string;
+  currentCitySlug: string;
+}
+
+const { currentCity, currentCitySlug } = Astro.props;
+
+// Get the list of nearby city slugs
+const nearbyCitySlugs = nearbyCities[currentCitySlug] || [];
+
+// Fetch all locations
+const allLocations = await getCollection('locations');
+
+// Filter to get only the nearby cities
+const nearbyLocations = allLocations
+  .filter(location => {
+    const citySlug = location.slug.split('/').pop() || location.slug;
+    return nearbyCitySlugs.includes(citySlug) && !location.data.draft;
+  })
+  .slice(0, 4); // Limit to 4 nearby cities
+
+// Only render if we have nearby cities to show
+if (nearbyLocations.length === 0) return null;
+
+// Determine grid classes based on number of locations
+const getGridClasses = (count: number) => {
+  switch(count) {
+    case 1:
+      return 'grid grid-cols-1 gap-6 max-w-sm mx-auto';
+    case 2:
+      return 'grid grid-cols-1 md:grid-cols-2 gap-6 max-w-2xl mx-auto';
+    case 3:
+      return 'grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 max-w-4xl mx-auto';
+    case 4:
+    default:
+      return 'grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6';
+  }
+};
+
+const gridClasses = getGridClasses(nearbyLocations.length);
+---
+
+<section class="py-16 section-slate">
+  <div class="max-w-7xl mx-auto px-6">
+    <div class="text-center mb-12">
+      <h2 class="text-3xl md:text-4xl font-bold mb-4">
+        Serving Nearby Communities
+      </h2>
+      <p class="text-lg text-gray-600">
+        We also provide contractor marketing services in these nearby cities
+      </p>
+    </div>
+
+    <div class={gridClasses}>
+      {nearbyLocations.map(location => {
+        const citySlug = location.slug.split('/').pop() || location.slug;
+        return (
+          <a
+            href={`/locations/${location.data.state.toLowerCase()}/${citySlug}/`}
+            class="group bg-white rounded-lg shadow-lg overflow-hidden hover:shadow-2xl transition-all duration-300 transform hover:-translate-y-1"
+          >
+            {location.data.image && (
+              <img
+                src={location.data.image}
+                alt={`Contractor Marketing in ${location.data.city}`}
+                class="w-full h-40 object-cover"
+                loading="lazy"
+              />
+            )}
+            <div class="p-6">
+              <h3 class="text-xl font-bold mb-2 text-gray-900 group-hover:text-rebel-green transition-colors">
+                {location.data.city}
+              </h3>
+              <p class="text-gray-600 text-sm mb-3 line-clamp-2">
+                {location.data.excerpt}
+              </p>
+              <span class="inline-flex items-center text-rebel-green font-semibold text-sm">
+                Learn More
+                <svg class="w-4 h-4 ml-2 group-hover:translate-x-1 transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path>
+                </svg>
+              </span>
+            </div>
+          </a>
+        );
+      })}
+    </div>
+  </div>
+</section>

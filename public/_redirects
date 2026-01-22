@@ -115,9 +115,6 @@ https://go.therebelape.com/conversion-secrets/ /services/website-design/ 301!
 /services/seo/seo-and-website-design-in-layton/ /locations/utah/layton/ 301!
 /marketing-agencies-utah/seo-for-small-business/seo-and-website-design-in-layton/ /locations/utah/layton/ 301!
 
-# LEHI
-/plumbing-marketing/lehi/ /locations/utah/lehi/ 301!
-
 # LOGAN
 /plumbing-marketing/logan/ /locations/utah/logan/ 301!
 /marketing-services/seo/logan/ /locations/utah/logan/ 301!
@@ -140,9 +137,6 @@ https://go.therebelape.com/conversion-secrets/ /services/website-design/ 301!
 # OREM
 /plumbing-marketing/orem/ /locations/utah/orem/ 301!
 
-# PARK CITY
-/plumbing-marketing/park-city/ /locations/utah/park-city/ 301!
-
 # PROVO
 /plumbing-marketing/provo/ /locations/utah/provo/ 301!
 
@@ -162,17 +156,23 @@ https://go.therebelape.com/conversion-secrets/ /services/website-design/ 301!
 # SOUTH JORDAN
 /plumbing-marketing/south-jordan/ /locations/utah/south-jordan/ 301!
 
-# ST. GEORGE / SAINT GEORGE
-/plumbing-marketing/saint-george/ /locations/utah/st-george/ 301!
-/plumber-marketing-services/plumber-seo/plumber-seo-saint-george/ /locations/utah/st-george/ 301!
-/seo/saint-george-seo/ /locations/utah/st-george/ 301!
-/marketing-agencies-utah/seo-for-small-business/seo-website-design-in-saint-george/ /locations/utah/st-george/ 301!
-
 # WEST JORDAN
 /plumbing-marketing/west-jordan/ /locations/utah/west-jordan/ 301!
 
 # WEST VALLEY CITY
 /plumbing-marketing/west-valley-city/ /locations/utah/west-valley-city/ 301!
+
+# LEHI
+/plumbing-marketing/lehi/ /locations/utah/lehi/ 301!
+
+# PARK CITY
+/plumbing-marketing/park-city/ /locations/utah/park-city/ 301!
+
+# ST. GEORGE / SAINT GEORGE
+/plumbing-marketing/saint-george/ /locations/utah/st-george/ 301!
+/plumber-marketing-services/plumber-seo/plumber-seo-saint-george/ /locations/utah/st-george/ 301!
+/seo/saint-george-seo/ /locations/utah/st-george/ 301!
+/marketing-agencies-utah/seo-for-small-business/seo-website-design-in-saint-george/ /locations/utah/st-george/ 301!
 
 # ========================================
 # LOCATION PAGES - NEVADA
@@ -184,6 +184,11 @@ https://go.therebelape.com/conversion-secrets/ /services/website-design/ 301!
 /plumber-marketing-services/plumber-seo/plumber-seo-las-vegas/ /locations/nevada/las-vegas/ 301!
 /plumber-seo/las-vegas-seo/ /locations/nevada/las-vegas/ 301!
 /marketing-agencies-utah/seo-for-small-business/seo-and-website-design-in-las-vegas/ /locations/nevada/las-vegas/ 301!
+
+# RENO
+/plumbing-marketing/reno/ /locations/nevada/reno/ 301!
+/marketing-services/seo/reno/ /locations/nevada/reno/ 301!
+/plumber-marketing-services/plumber-seo/plumber-seo-reno/ /locations/nevada/reno/ 301!
 
 # ========================================
 # GENERAL LOCATION PAGES

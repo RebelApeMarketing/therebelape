@@ -7,9 +7,11 @@ import SocialProofBar from '../../../components/sections/SocialProofBar.astro';
 import ProblemSection from '../../../components/locations/ProblemSection.astro';
 import ServicesSection from '../../../components/locations/ServicesSection.astro';
 import HowItWorksSection from '../../../components/locations/HowItWorksSection.astro';
+import CompaniesTrustUs from '../../../components/sections/CompaniesTrustUs.astro';
 import WhyChooseUsSection from '../../../components/locations/WhyChooseUsSection.astro';
 import CaseStudy from '../../../components/sections/CaseStudy.astro';
 import TestimonialsDefault from '../../../components/testimonials/TestimonialsDefault.astro';
+import NearbyCities from '../../../components/locations/NearbyCities.astro';
 import FAQcityPage from '../../../components/faqs/FAQcityPage.astro';
 import FinalCTA from '../../../components/locations/FinalCTA.astro';
 import OrganizationSchema from '../../../components/schema/OrganizationSchema.astro';
@@ -28,7 +30,7 @@ export const getStaticPaths = (async () => {
 
       return {
         params: {
-          state: location.data.stateAbbr.toLowerCase(),
+          state: location.data.state.toLowerCase(),
           slug: citySlug
         },
         props: { location },
@@ -43,7 +45,7 @@ const { city, state, stateAbbr, region, title, description, image } = location.d
 const citySlug = location.slug.split('/').pop() || location.slug;
 
 // SEO
-const canonical = `https://therebelape.com/locations/${stateAbbr.toLowerCase()}/${citySlug}/`;
+const canonical = `https://therebelape.com/locations/${state.toLowerCase()}/${citySlug}/`;
 const type = "website";
 const robots = "index, follow";
 
@@ -51,7 +53,7 @@ const robots = "index, follow";
 const breadcrumbs = [
   { name: "Home", url: "https://therebelape.com/" },
   { name: "Locations", url: "https://therebelape.com/locations/" },
-  { name: state, url: `https://therebelape.com/locations/${stateAbbr.toLowerCase()}/` },
+  { name: state, url: `https://therebelape.com/locations/${state.toLowerCase()}/` },
   { name: city, url: canonical }
 ];
 
@@ -120,29 +122,45 @@ const faqs = [
     <SocialProofBar />
 
     <!-- Problem Section -->
-    <ProblemSection city={city} region={region} />
+    <section class="py-16 section-checkers">
+      <ProblemSection city={city} region={region} />
+    </section>
 
     <!-- Services Section -->
-    <ServicesSection city={city} />
+    <section class="py-16 section-slate">
+      <ServicesSection city={city} />
+    </section>
 
     <!-- How It Works Section -->
-    <HowItWorksSection />
+    <section class="py-16 section-checkers">
+      <HowItWorksSection />
+    </section>
+
+    <!-- Proof Section -->
+    <section class="py-16 section-slate">
+      <CompaniesTrustUs />
+    </section>
 
     <!-- Why Choose Us Section -->
-    <WhyChooseUsSection city={city} region={region} />
+    <section class="py-16 section-checkers">
+      <WhyChooseUsSection city={city} region={region} />
+    </section>
 
     <!-- Case Studies Section -->
-    <section class="py-16 md:py-24 section-checkers">
+    <section class="py-16 section-slate">
       <CaseStudy />
     </section>
 
     <!-- Testimonials Section -->
-    <section class="py-16 md:py-24 section-slate">
+    <section class="py-16 section-checkers">
       <TestimonialsDefault />
     </section>
 
+    <!-- Nearby Cities Section -->
+    <NearbyCities currentCity={city} currentCitySlug={citySlug} />
+
     <!-- FAQ Section -->
-    <section class="py-16 md:py-24 section-checkers">
+    <section class="py-16 section-checkers">
       <FAQcityPage city={city} state={state} region={region} />
     </section>
 
