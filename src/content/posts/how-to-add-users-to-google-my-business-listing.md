@@ -8,125 +8,222 @@ publishDate: "2019-02-20T00:38:00-07:00"
 lastModified: ""
 image: "https://RebelApeCDN.b-cdn.net/featured-google-my-business-logo.webp"
 canonicalUrl: "https://therebelape.com/blog/how-to-add-users-to-google-my-business-listing/"
-tags: []
+category: "Home Services Marketing"
+tags: ["google business profile", "local seo", "contractor marketing", "business management", "google my business"]
 draft: false
+schema:
+  article: true
+  howTo: true
+  faq: true
 ---
 
-You may need to add users to Google My Business to unlock the full range of benefits for your business.
+# Why Your Google Business Profile Access Could Shut Down Your Business Overnight
 
-Optimizing your Google My Business (GMB) listing can [boost your SEO]( /services/seo/) and help your business rank higher in search results — especially in Google Maps. Your GMB profile allows you to add photos and videos, publish posts, answer questions, and share important updates that generate interest and trust.
+We had a client - best roofing company in their area, 20+ years in business, stellar reputation - completely wiped off Google Maps overnight.
 
-There are many elements involved in properly optimizing a Google My Business account, and user access is a critical one.
+Five Google Business Profiles. All for the same location. All under different email accounts. All trying to game the system with old-school SEO tactics from 2010.
+
+Google caught on and shut down every single profile. Including the main one. The legitimate one.
+
+Three weeks. That's how long it took us to get them reinstated. Three weeks of zero visibility while their competitors dominated the map pack. Three weeks of lost leads, missed revenue, and panicked phone calls asking "why aren't we showing up anymore?"
+
+The worst part? They had no idea which email account originally owned the profile. Their nephew set it up years ago. Then an employee took over. Then an agency. Then another agency. Nobody documented anything.
+
+Google wouldn't tell us which account was the original owner - they don't help people who might be gaming the system. We had to prove ownership through old emails, business verification documents, and a lot of back-and-forth before they'd even consider reinstatement.
+
+**TL;DR:** Most contractors have no idea who actually owns their Google Business Profile. When things go wrong, you could lose your entire local presence overnight. Knowing who has access and what permissions they have isn't administrative housekeeping - it's business survival. Here's how to protect yourself.
+
+## The Access Problem Nobody Talks About
+
+Your Google Business Profile isn't just a listing. It's the hub that connects your [website](/services/website-design/), your [Google Ads](/services/ppc/), your [Local Service Ads](/services/ppc/local-service-ads/), your reviews, and your entire local search presence.
+
+And most contractors have no idea who actually controls it.
+
+Here's what we see constantly:
+
+**The Agency Ownership Trap**: An agency sets up your profile and makes themselves the owner. You're listed as a manager. Seems fine until you want to leave that agency. Now you're stuck negotiating for access to your own business listing. Some agencies refuse to transfer ownership. Others ghost you completely.
+
+We've taken over [Google Business Profile management](/services/google-business-profile/) for dozens of contractors who couldn't get their profiles back from previous agencies. The agencies didn't do this maliciously - they just set it up the easiest way. But "easiest" isn't always "right."
+
+**The Forgotten Email Account**: We recently onboarded a contractor who couldn't access their profile. Turned out it was connected to an email account they created years ago trying to "get organized." They set up the email, moved the profile into it, never actually got organized, and completely forgot the email existed. Took us two weeks to recover access.
+
+**The Handoff Nightmare**: Profile gets created by the owner's nephew. Nephew goes to college. Employee takes over. Employee quits. Agency gets access. Different agency takes over. Nobody documents who has what access or which email is the primary owner.
+
+When you need to make changes? Good luck figuring out who can actually do it.
+
+## Why This Actually Matters (Spoiler: Google Loves Google)
+
+Here's the truth about Google: they love themselves. Shocking, I know.
+
+Google ranks their own products higher in search results. Of course they do. That means:
+
+- Google Business Profiles show up prominently in local search
+- YouTube videos (owned by Google) rank well
+- Google keeps you browsing in their search results instead of sending you away
+- Everything in the Google ecosystem works better when it's all connected
+
+Your Google Business Profile affects:
+- Your [local SEO rankings](/services/seo/) and map pack visibility
+- Your Google Ads and [Local Service Ads](/services/ppc/local-service-ads/) performance
+- Your website's local search authority
+- How Google displays your business information
+- Your review visibility and reputation
+
+The more data you feed Google through your profile, the better everything performs. Not keyword stuffing (we used to do that, it barely works anymore). I'm talking about intent-based optimization - giving searchers exactly what they're looking for when they find your profile.
+
+**Reviews Are The Throttle**: Most contractors know reviews matter. But they don't push hard enough for them. Reviews aren't just social proof - they're a direct ranking signal. A filled-out, active profile with consistent reviews tells Google you're legitimate and relevant.
+
+Without proper access and management, you can't maximize any of this.
+
+## What Went Wrong: The Five-Profile Shutdown
+
+Back to that roofing contractor we mentioned.
+
+They tried every old-school tactic: multiple profiles for the same location, keyword-stuffed business names, fake addresses to cover more service areas. Classic 2010 SEO playbook.
+
+Here's what happened during those three weeks they were shut down:
+
+**Week One**: Calls dropped 60%. Every competitor in their area was showing up on Google Maps. They weren't. Their website traffic from "roofing near me" searches disappeared. Their Google Ads still ran, but without the Business Profile showing up, conversion rates tanked.
+
+**Week Two**: Two major storm damage projects went to competitors. They would have been easy wins - existing customers searching for their company name couldn't even find them on Google. The competitor who showed up first got the jobs.
+
+**Week Three**: They started getting calls asking if they went out of business. Their absence from Google was so complete that people assumed they closed. Twenty years of reputation building, and Google made them invisible.
+
+When we finally got them reinstated, it took another month to rebuild their rankings. Google doesn't just flip a switch and return you to where you were. You start over.
+
+Total revenue impact? Conservatively, $150,000 in lost opportunities. And that's just the direct, measurable stuff. We can't calculate the long-term damage to their reputation or the customers who went to competitors and never came back.
+
+All because nobody knew who owned the profile or what was being done to it.
+
+## The Rebel Ape Approach to Google Business Profile Access
+
+When we take over a contractor's [Google Business Profile management](/services/google-business-profile/), here's exactly what we do:
+
+**Step 1: Audit Current Access**
+
+We identify:
+- Who currently owns the profile (not who you think owns it - who actually owns it)
+- What email account it's tied to
+- Who has manager access
+- What level of permissions each user has
+- Whether there are any duplicate or conflicting profiles
+
+We've found profiles owned by former employees, ex-spouses, dissolved partnerships, and agencies that went out of business three years ago.
+
+**Step 2: Request Manager Access (Not Ownership)**
+
+This is critical: **We never take ownership of your profile. Ever.**
+
+We request manager-level access through Google's official access management system. You remain the owner. You keep control. If you ever want to fire us, you just remove our access. No negotiations, no hostage situations.
+
+Any agency that insists on being the owner is waving a giant red flag. Run.
+
+**Step 3: Connect Everything**
+
+We link your Google Business Profile to:
+- Your [website](/services/website-design/) for consistent NAP (name, address, phone)
+- Your [Google Ads account](/services/ppc/) for better ad performance
+- Your [Local Service Ads](/services/ppc/local-service-ads/) if you're running them
+- Automated review software (more on this in a second)
+- Call tracking so we know which leads come from your profile
+
+This connection is where the Google ecosystem advantage kicks in. Everything works better when it's properly integrated.
+
+**Step 4: Automate Review Collection**
+
+We connect your profile to automated review software. Every completed job triggers a review request. No relying on your team to remember. No manual follow-ups.
+
+Remove the human element, remove the problems.
+
+Contractors who manually ask for reviews get maybe 5-10% response rates. Automated systems get 30-40%. That difference compounds fast.
+
+**Step 5: Maximize and Maintain**
+
+We fill out every section:
+- Services offered (specific, not generic)
+- Description (intent-focused, not keyword-stuffed)
+- Hours (including holiday hours)
+- Photos (regular updates, not just at setup)
+- Posts (weekly updates about projects, seasonal services, special offers)
+
+We use your profile as a [conversion tool](/blog/high-converting-website-design-guide/), not just a listing. Every element is designed to get searchers to call.
+
+## Red Flags: When Your Access Setup Is Dangerous
+
+**Red Flag #1: Your Agency Won't Transfer Ownership**
+
+If you ask your current agency to make you the owner and they refuse or make excuses, something's wrong. Either they're holding your profile hostage for leverage, or they've set up multiple profiles under their account and can't easily separate them.
+
+**Red Flag #2: Nobody Knows the Owner Email**
+
+If you can't answer "what email address owns my Google Business Profile" immediately, you have a problem. Go find out. Right now. Before you need it in an emergency.
+
+**Red Flag #3: Multiple Profiles for One Location**
+
+If you have more than one Google Business Profile for the same physical location, you're playing with fire. Google will eventually catch it, and the consequences range from "merged into one profile" to "all profiles suspended."
+
+**Red Flag #4: The Profile Hasn't Been Updated in Months**
+
+Google rewards active profiles. If nobody's posting, updating photos, or responding to reviews, you're missing out on rankings and conversions. This usually means the wrong person has access - someone who doesn't actually care about the results.
+
+**Red Flag #5: You Don't Know Who Has Access**
+
+Pull up your profile right now. Check the users section. Do you recognize everyone? Do you know what level of access they have? If not, you need to audit and clean up access immediately.
+
+## How to Add Users the Right Way
+
+The actual mechanics of adding users are simple. Sign into your Google Business Profile, go to Users, click Invite, enter their email, and assign a role (Owner, Manager, or Communications Manager).
+
+But the strategy is what matters:
+
+**Give Ownership to Yourself Only**: Use your personal business email. Not your nephew's Gmail. Not an employee's account. Not an agency's email. Yours.
+
+**Give Agencies Manager Access**: They can do everything they need to do as a manager. They don't need ownership. If they insist they do, find a different agency.
+
+**Use Communications Manager for Limited Access**: If you just want someone to respond to reviews or messages but not change business information, give them Communications Manager access.
+
+**Document Everything**: Keep a list of who has access and why. Review it quarterly. Remove people who no longer need access.
+
+## The Bottom Line
+
+Your Google Business Profile is too important to treat casually.
+
+It's not just where people find your phone number. It's the hub that affects your [local SEO](/blog/local-seo-services-increase-local-visibility-and-drive-more-customers/), your [paid advertising](/services/ppc/), your review generation, and your entire Google ecosystem performance.
+
+When you lose access or control, you lose visibility. When you lose visibility, you lose revenue.
+
+Know who owns your profile. Make sure it's you. Give agencies manager access only. Treat it like the business-critical asset it is.
+
+If you're not sure who owns your Google Business Profile, or if you need help auditing your access and maximizing your local presence, [schedule a call with us](/schedule/). We'll help you protect your profile and turn it into a lead generation machine.
 
 ---
 
-## Getting Started With Google My Business
+## Frequently Asked Questions
 
-All information in your Google My Business listing must be accurate. Your **business name, address, and phone number (NAP)** are especially important.
+**What's the difference between Owner and Manager access on Google Business Profile?**
 
-You should:
+Owners have full control - they can add/remove users, delete the profile, and transfer ownership. Managers can do almost everything else (update information, post content, respond to reviews) but can't add new users or delete the profile. For agencies, Manager access is all they need.
 
-- Avoid duplicate listings
-- Keep your profile as complete as possible
-- Update an existing profile rather than creating a new one
+**Can I have multiple owners on my Google Business Profile?**
 
-Regular maintenance is required because Google allows users to suggest edits. It’s important to review these updates to ensure all information about your business remains accurate.
+Yes, you can assign multiple people as owners. However, we recommend having only one primary owner (you) and giving everyone else Manager access. This prevents confusion and makes it clear who has ultimate control.
 
-Users can also submit answers to questions, so you’ll want to monitor those regularly as well.
+**What happens if the owner leaves my company?**
 
----
+This is why proper access management matters. If your only owner leaves and you don't have another owner set up, you'll need to go through Google's support process to prove ownership and regain access. It can take weeks. Always have at least one owner who isn't planning to leave the company.
 
-### Update Your Information
+**My agency set up my profile and they're the owner. How do I fix this?**
 
-Google allows users to suggest updates to your listing. You should review these changes frequently to ensure accuracy.
+Ask them to transfer ownership to you and make them a manager instead. Most reputable agencies will do this without issue. If they refuse or make excuses, that's a major red flag about how they operate.
 
-Users can also answer questions in the Q&A section, and incorrect answers can mislead potential customers if they’re not reviewed.
+**How many profiles should I have for my business?**
 
----
+One profile per physical location. If you have three office locations, you should have three profiles. If you have one office and serve multiple cities, you should have ONE profile. Creating multiple profiles for service areas without physical locations violates Google's terms and will get you shut down.
 
-## Why Hire an Agency?
+**Do I need to give my agency my Google account password?**
 
-Working with an [experienced agency](https://therebelape.com/) can help improve your Google My Business listing and ensure your business ranks higher in Google searches.
+No. Never. Google's access management system lets you add users with their own email addresses. Anyone asking for your login credentials instead of requesting proper access is doing it wrong.
 
-To manage your listing effectively, agencies often need user access. Adding them properly allows them to:
+**What's the fastest way to find out who owns my Google Business Profile?**
 
-- Review profile status
-- Update information
-- Monitor activity
-- Optimize posts, photos, and engagement
-
-All without sharing personal login credentials.
-
----
-
-## How to Add Users to Google My Business
-
-Adding users to your GMB listing is straightforward, but it involves several steps.
-
----
-
-### 1. Sign in to Your Google My Business Profile
-
-You do **not** need to share your Google account login. Instead, you can add users with their own email addresses and assign specific roles with defined permissions.
-
----
-
-### 2. Open the Location You’d Like to Manage
-
-If you manage multiple locations, make sure you select the correct one before proceeding.
-
-![Google My Business Dashboard](https://RebelApeCDN.b-cdn.net/rebel-ape-main/google-my-business-listing-selection.webp)
-
----
-
-### 3. Click the “Users” Button
-
-The **Users** option is located in the menu.
-
-![Google My Business User Section](https://RebelApeCDN.b-cdn.net/rebel-ape-main/google-my-business-users.webp)
-
----
-
-### 4. Click the “Invite New Managers” Icon
-
-In the top-right corner, click **Invite New Managers**.
-
-![Add New User](https://RebelApeCDN.b-cdn.net/rebel-ape-main/google-my-business-add-new-user.webp)
-
----
-
-### 5. Enter the Email and Select the User’s Role
-
-Enter the email address of the user you want to add.
-
-You can assign one of the following roles:
-
-- **Owner**
-- **Manager**
-- **Communications Manager**
-
-Each role has different levels of access. Only **owners** can add or remove other users, although managers can remove themselves.
-
-![Enter User Email](https://RebelApeCDN.b-cdn.net/rebel-ape-main/google-my-business-enter-email.webp)
-
----
-
-### 6. Click Invite
-
-Once you click **Invite**, Google will send an email to the user.
-
-You’ll receive a notification when the invitation is accepted.
-
-![GMB Email Invite](https://RebelApeCDN.b-cdn.net/rebel-ape-main/google-my-business-email-invite.webp)
-
-![Accept Invite](https://RebelApeCDN.b-cdn.net/rebel-ape-main/google-my-business-accept-invite.webp)
-
----
-
-Your Google My Business listing requires ongoing maintenance to deliver consistent results.
-
-An experienced agency can handle this for you, but even if you manage it yourself, this guide will help ensure your listing remains accurate and optimized.
-
-If you have questions about adding users to Google My Business, feel free to leave a comment. If you’re looking for [website design](/services/website-design/) or help improving your local visibility, [contact us](/contact/).
-
----
+Sign into your profile at business.google.com and go to the Users section. The owner(s) will be clearly labeled. If you can't access the profile at all, that's a sign you're not the owner and need to contact whoever set it up.
