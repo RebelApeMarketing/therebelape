@@ -7,6 +7,7 @@ interface Props {
   name: string;
   description: string;
   url: string;
+  image?: string;
   breadcrumbs?: Array<{ name: string; url: string }>;
 }
 
@@ -15,6 +16,7 @@ const {
   name,
   description,
   url,
+  image,
   breadcrumbs
 } = Astro.props;
 
@@ -24,6 +26,14 @@ const schema = {
   "name": name,
   "description": description,
   "url": url,
+  ...(image && {
+    "primaryImageOfPage": {
+      "@type": "ImageObject",
+      "url": image,
+      "width": 1200,
+      "height": 630
+    }
+  }),
   "isPartOf": {
     "@type": "WebSite",
     "name": "Rebel Ape Marketing",

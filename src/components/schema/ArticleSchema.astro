@@ -29,7 +29,12 @@ const schema = {
   "@type": type,
   "headline": title,
   "description": description,
-  "image": image,
+  "image": {
+    "@type": "ImageObject",
+    "url": image,
+    "width": 1200,
+    "height": 630
+  },
   "datePublished": new Date(publishDate).toISOString(),
   "dateModified": lastModified ? new Date(lastModified).toISOString() : new Date(publishDate).toISOString(),
   "author": {
