@@ -12,7 +12,6 @@ tags: []
 categories: ["Marketing Strategy"]
 draft: false
 ---
-[Let AI read it for you!
 
 As many people have been asking, why have we been showing more tags with the label of XYZ Marketing on them?
 

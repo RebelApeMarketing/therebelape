@@ -12,7 +12,6 @@ tags: []
 categories: ["Website Design", "Marketing Strategy"]
 draft: false
 ---
-[Let AI read it for you!
 To increase Website Trust, you need to put in place partner Logos, case studies](https://en.wikipedia.org/wiki/Case_study), and other forms of social proof. Without those, you will have trouble achieving the return on investment. You need to have an ROI to have a website that is successful.
 Partner logos are the logos that you see on websites. These logos are those of other companies that do business with. These could also be partners with a company. These are social signals or social proof that can increase the trust of your website. This increases trust in the eyes of potential clients or those browsing your website.
 Without social signals, it’s unlikely that your website is going to gain the trust for conversion. Conversion value is necessary to have a successful business.

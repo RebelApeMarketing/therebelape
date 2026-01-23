@@ -14,11 +14,9 @@ draft: false
 ---
 What Is A Brand Promise and Why It's Important?
 
-[Let AI read it for you.
-
 What Is A Brand Promise as a business?
 
-The branding of your company](/blog/how-to-design-a-brand-identity-like-a-professional/) is essentially a promise that you make to your customers. Your branding identity informs potential customers of what to expect when they obtain your services or products. It is important to make an effort to provide consistent branding that is designed to portray precisely what you intend to your customer base. The emphasis that you put on branding will impact potential customers’ opinions of your company, as well as provide them with a memorable image for your company.
+The branding of your company is essentially a promise that you make to your customers. Your branding identity informs potential customers of what to expect when they obtain your services or products. It is important to make an effort to provide consistent branding that is designed to portray precisely what you intend to your customer base. The emphasis that you put on branding will impact potential customers’ opinions of your company, as well as provide them with a memorable image for your company.
 
 That is essentially a brand promise, but let’s dive deeper and explore how this brand promise is delivered to the clients and customers. When your branding is done right, it becomes what customers will say about your company when you aren’t around. Done wrong, this can be detrimental to your company because if you aren’t telling them who you are and what you promise, they will tell you who you are and tell others what they think of your company.
 

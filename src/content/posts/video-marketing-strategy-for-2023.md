@@ -12,7 +12,6 @@ tags: []
 categories: ["Video Marketing"]
 draft: false
 ---
-[Let AI read it for you!
 
 As a small business owner, you know that video marketing is essential to your success. With so many options available, it can be tough to decide which direction to take your marketing efforts. You may have heard that video is becoming increasingly popular and important in the world of marketing, and you may be wondering if you should make it a main component of your strategy for 2023.
 

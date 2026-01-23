@@ -27,6 +27,16 @@ The problem isn't that contractors don't know about customer avatars. Most have 
 
 **TL;DR:** Contractors who say "I serve everyone" end up with scattered messaging, inconsistent leads, and price-based competition. Real customer avatars aren't about creating detailed fictional profiles - they're about understanding who actually buys from you, how they make decisions, and aligning your entire [marketing strategy](https://therebelape.com/blog/the-ultimate-guide-to-building-a-professional-marketing-plan-for-2025/) with that reality.
 
+<iframe 
+  width="560" 
+  height="315" 
+  src="https://www.youtube.com/embed/2B8t88RNdQo" 
+  title="YouTube video player" 
+  frameborder="0" 
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+  allowfullscreen>
+</iframe>
+
 ## The "Everyone Is My Customer" Trap
 
 Let me be clear about something: yes, technically anyone with a bad roof could buy from you. But they won't all buy from YOU specifically.

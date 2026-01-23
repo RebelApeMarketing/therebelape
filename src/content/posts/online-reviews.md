@@ -12,7 +12,6 @@ tags: []
 categories: ["Local SEO", "Marketing Strategy"]
 draft: false
 ---
-[Let AI read it for you.
 
 In today's day and age, online reviews can make or break your business. Whether you're a service-based company with customers who are looking for feedback on what it was like to work with you, or you're selling products online that rely heavily on customer reviews to drive sales, getting reviews is imperative. In this article, we'll discuss areas that will help you get more online reviews so your business can grow exponentially!
 

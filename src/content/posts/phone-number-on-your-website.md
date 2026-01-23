@@ -12,7 +12,7 @@ tags: []
 categories: ["Website Design"]
 draft: false
 ---
-[
+
 A phone number on your website may seem like a small detail, but they can have a huge impact on your business's success. A phone number is often seen as the first step in a customer's journey to purchase and having one in an easily visible spot can increase levels of engagement and conversions on your website.
 Plus, having your local area code as part of the number shows potential customers that you are within their service area, which increases trust and brand recognition.
 Customers will see that a business is legitimate if it is willing to share its phone number. Having the number prominently displayed helps to build trust with potential customers by showing them that you are available and ready to answer their questions.
