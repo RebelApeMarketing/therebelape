@@ -1,0 +1,40 @@
+---
+// Person Schema for team member or founder pages
+// Helps Google understand who the person is and their role
+
+interface Props {
+  name: string;
+  jobTitle: string;
+  url: string;
+  image?: string;
+  sameAs?: string[]; // Social media profiles
+  description?: string;
+}
+
+const {
+  name,
+  jobTitle,
+  url,
+  image,
+  sameAs = [],
+  description
+} = Astro.props;
+
+const schema = {
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": name,
+  "jobTitle": jobTitle,
+  "url": url,
+  ...(image && { "image": image }),
+  ...(description && { "description": description }),
+  ...(sameAs.length > 0 && { "sameAs": sameAs }),
+  "worksFor": {
+    "@type": "Organization",
+    "name": "Rebel Ape Marketing",
+    "url": "https://therebelape.com"
+  }
+};
+---
+
+<script type="application/ld+json" set:html={JSON.stringify(schema)} />
