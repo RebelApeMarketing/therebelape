@@ -9,6 +9,7 @@ export const GET: APIRoute = async ({ site }) => {
     "sitemap-pages.xml",
     "sitemap-posts.xml",
     "sitemap-images.xml",
+    "sitemap-videos.xml",
   ];
 
   const sitemapEntries = sitemaps
