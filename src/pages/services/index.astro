@@ -6,6 +6,9 @@ import CaseStudy from '../../components/sections/CaseStudy.astro';
 import TestimonialsDefault from '../../components/testimonials/TestimonialsDefault.astro';
 import GreenCheck from '../../components/ui/GreenCheck.astro';
 import Button from '../../components/ui/Button.astro';
+import OrganizationSchema from '../../components/schema/OrganizationSchema.astro';
+import WebPageSchema from '../../components/schema/WebPageSchema.astro';
+import BreadcrumbSchema from '../../components/schema/BreadcrumbSchema.astro';
 
 // SEO
 const title = "Marketing Services for Contractors | Rebel Ape";
@@ -14,9 +17,27 @@ const canonical = "https://therebelape.com/services/";
 const image = "https://RebelApeCDN.b-cdn.net/featured-services.webp";
 const type = "website";
 const robots = "index, follow";
+
+// Breadcrumbs
+const breadcrumbs = [
+  { name: "Home", url: "https://therebelape.com/" },
+  { name: "Services", url: canonical }
+];
 ---
 
 <Base {title} {description} {canonical} {image} {type} {robots}>
+  <!-- Schema Markup -->
+  <OrganizationSchema slot="head" />
+  <WebPageSchema
+    slot="head"
+    type="CollectionPage"
+    name={title}
+    description={description}
+    url={canonical}
+    image={image}
+  />
+  <BreadcrumbSchema slot="head" breadcrumbs={breadcrumbs} />
+
   <section>
     <Hero
       title="Marketing Services <span class='text-rebel-green'>Built For Contractors</span>"

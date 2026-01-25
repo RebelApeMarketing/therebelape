@@ -1,6 +1,9 @@
 ---
 import Base from '../../layouts/Base.astro';
 import Hero from '../../components/sections/Hero.astro';
+import OrganizationSchema from '../../components/schema/OrganizationSchema.astro';
+import WebPageSchema from '../../components/schema/WebPageSchema.astro';
+import BreadcrumbSchema from '../../components/schema/BreadcrumbSchema.astro';
 
 // SEO
 const title = "Contractor Marketing Services by Location | Rebel Ape Marketing";
@@ -9,6 +12,12 @@ const canonical = "https://therebelape.com/locations/";
 const image = "https://RebelApeCDN.b-cdn.net/featured-locations.webp";
 const type = "website";
 const robots = "index, follow";
+
+// Breadcrumbs
+const breadcrumbs = [
+  { name: "Home", url: "https://therebelape.com/" },
+  { name: "Locations", url: canonical }
+];
 
 // State data for cards
 const states = [
@@ -30,6 +39,18 @@ const states = [
 ---
 
 <Base {title} {description} {canonical} {image} {type} {robots}>
+  <!-- Schema Markup -->
+  <OrganizationSchema slot="head" />
+  <WebPageSchema
+    slot="head"
+    type="CollectionPage"
+    name={title}
+    description={description}
+    url={canonical}
+    image={image}
+  />
+  <BreadcrumbSchema slot="head" breadcrumbs={breadcrumbs} />
+
   <section>
     <Hero
       backgroundImage="https://RebelApeCDN.b-cdn.net/bg-gorilla-direct.webp"

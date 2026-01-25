@@ -2,6 +2,9 @@
 import Base from '../../layouts/Base.astro';
 import SocialProofBar from '../../components/sections/SocialProofBar.astro';
 import TestimonialsDefault from '../../components/testimonials/TestimonialsDefault.astro';
+import OrganizationSchema from '../../components/schema/OrganizationSchema.astro';
+import WebPageSchema from '../../components/schema/WebPageSchema.astro';
+import BreadcrumbSchema from '../../components/schema/BreadcrumbSchema.astro';
 
 const canonical = "https://therebelape.com/schedule/";
 const title = "Schedule Strategy Session | Rebel Ape Marketing";
@@ -9,9 +12,26 @@ const description = "Book a quick strategy call with Rebel Ape Marketing. Align 
 const image = "https://RebelApeCDN.b-cdn.net/rebel-ape-main/schedule-a-call.webp";
 const type = "website";
 const robots = "index,follow";
+
+// Breadcrumbs
+const breadcrumbs = [
+  { name: "Home", url: "https://therebelape.com/" },
+  { name: "Schedule", url: canonical }
+];
 ---
 
 <Base {title} {description} {canonical} {image} {type} {robots}>
+  <!-- Schema Markup -->
+  <OrganizationSchema slot="head" />
+  <WebPageSchema
+    slot="head"
+    type="ContactPage"
+    name={title}
+    description={description}
+    url={canonical}
+    image={image}
+  />
+  <BreadcrumbSchema slot="head" breadcrumbs={breadcrumbs} />
 
   <!-- Hero with Calendar -->
   <section class="hero relative bg-black bg-cover bg-center bg-no-repeat pb-8 lg:pb-12 pt-16 lg:pt-16" style="background-image: url('https://RebelApeCDN.b-cdn.net/UOMC/background-gorilla.webp')">
