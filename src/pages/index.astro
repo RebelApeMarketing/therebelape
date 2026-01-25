@@ -1,6 +1,6 @@
 ---
 import Base from '../layouts/Base.astro';
-import Hero from '../components/sections/Hero.astro';
+import HeroHome from '../components/sections/HeroHome.astro';
 import SocialProofBar from '../components/sections/SocialProofBar.astro';
 import TheProblem from '../components/sections/TheProblem.astro';
 import CompaniesTrustUs from '../components/sections/CompaniesTrustUs.astro';
@@ -38,20 +38,13 @@ const robots = "index,follow"; // optional override
   />
 
   <section>
-    <Hero
-      backgroundImage="https://RebelApeCDN.b-cdn.net/bg-gorilla-direct.webp"
+    <HeroHome
       title="Your Phones Should Be Ringing. <span class='text-rebel-green'>Let's Make That Happen.</span>"
       subtitle="Complete Lead Generation Systems For Contractors Done Waiting On Referrals."
       description="We don't sell websites <strong>OR</strong> Google Ads <strong>OR</strong> SEO. We build complete marketing systems where everything works together—conversion-optimized sites, targeted paid ads, local SEO, and daily optimization. That's what generates predictable, qualified leads."
-      features={[
-        'Complete Marketing Systems',
-        'No Long-Term Contracts',
-        'Transparent Reporting'
-      ]}
-      buttonText="Schedule a Call"
+      buttonText="Schedule Strategy Session"
       buttonIcon="calendar"
       buttonHref="/schedule/"
-      fetchpriority="high"
     />
     <SocialProofBar />
 
