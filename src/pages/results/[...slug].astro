@@ -23,7 +23,7 @@ const { Content } = await study.render();
 
 const pageTitle = `${study.data.title} | Rebel Ape Marketing`;
 const pageDescription = study.data.description;
-const canonical = `https://therebelape.com/case-studies/${study.slug}/`;
+const canonical = `https://therebelape.com/results/${study.slug}/`;
 const image = study.data.image || "https://RebelApeCDN.b-cdn.net/bg-gorilla-direct.webp";
 const type = "article";
 const robots = "index,follow";
@@ -31,7 +31,7 @@ const robots = "index,follow";
 // Breadcrumbs for schema
 const breadcrumbs = [
   { name: "Home", url: "https://therebelape.com/" },
-  { name: "Case Studies", url: "https://therebelape.com/case-studies/" },
+  { name: "Results", url: "https://therebelape.com/results/" },
   { name: study.data.clientType, url: canonical }
 ];
 
@@ -91,7 +91,7 @@ const caseStudySchema = {
         study.data.results.metric2 || study.data.timeline,
         study.data.results.metric3 || `${study.data.services.length} Services`
       ]}
-      buttonText="Schedule a Call"
+      buttonText="Schedule Strategy Session"
       buttonIcon="calendar"
       buttonHref="/schedule/"
       fetchpriority="high"
@@ -234,17 +234,17 @@ const caseStudySchema = {
       </div>
     </section>
 
-    <!-- Back to Case Studies -->
+    <!-- Back to Results -->
     <section class="pb-16">
       <div class="max-w-4xl mx-auto px-6">
         <a
-          href="/case-studies/"
+          href="/results/"
           class="inline-flex items-center text-rebel-green font-semibold text-lg hover:underline"
         >
           <svg class="w-5 h-5 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 19l-7-7 7-7"></path>
           </svg>
-          Back to All Case Studies
+          Back to All Results
         </a>
       </div>
     </section>

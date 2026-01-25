@@ -8,7 +8,7 @@ lastModified: "2026-01-24T09:00:00-07:00"
 author: "Adam Miconi"
 image: "https://RebelApeCDN.b-cdn.net/featured-roofing-website-traffic-no-calls.webp"
 canonicalUrl: "https://therebelape.com/blog/roofing-website-traffic-no-calls/"
-category: "SEO"
+categories: ["SEO"]
 tags: ["contractor marketing", "roofing marketing", "SEO", "website conversion", "lead generation"]
 draft: false
 ---

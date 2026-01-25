@@ -23,12 +23,12 @@ const { page } = Astro.props as { page: Page };
 
 // SEO
 const title = page.currentPage === 1
-  ? "Case Studies | Real Results for Real Contractors | Rebel Ape"
-  : `Case Studies - Page ${page.currentPage} | Rebel Ape`;
+  ? "Results | Real Results for Real Contractors | Rebel Ape"
+  : `Results - Page ${page.currentPage} | Rebel Ape`;
 const description = "See how we've helped contractors generate qualified leads, increase revenue, and grow their businesses. Real case studies with real numbers.";
 const canonical = page.currentPage === 1
-  ? "https://therebelape.com/case-studies/"
-  : `https://therebelape.com/case-studies/${page.currentPage}/`;
+  ? "https://therebelape.com/results/"
+  : `https://therebelape.com/results/${page.currentPage}/`;
 const image = "https://RebelApeCDN.b-cdn.net/bg-gorilla-direct.webp";
 const type = "website";
 const robots = "index,follow";
@@ -36,7 +36,7 @@ const robots = "index,follow";
 // Breadcrumbs for schema
 const breadcrumbs = [
   { name: "Home", url: "https://therebelape.com/" },
-  { name: "Case Studies", url: "https://therebelape.com/case-studies/" }
+  { name: "Results", url: "https://therebelape.com/results/" }
 ];
 ---
 
@@ -57,14 +57,14 @@ const breadcrumbs = [
         'Complete Marketing Systems',
         'Proven Lead Generation'
       ]}
-      buttonText="Schedule a Call"
+      buttonText="Schedule Strategy Session"
       buttonIcon="calendar"
       buttonHref="/schedule/"
       fetchpriority="high"
     />
     <SocialProofBar />
 
-  <!-- Case Studies Grid -->
+  <!-- Results Grid -->
   <section class="py-12 md:py-16 section-checkers">
     <div class="max-w-7xl mx-auto px-6">
       {page.data.length === 0 ? (
@@ -82,7 +82,7 @@ const breadcrumbs = [
 
           <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-8 mb-12">
             {page.data.map((study) => {
-              const studyUrl = `/case-studies/${study.slug}/`;
+              const studyUrl = `/results/${study.slug}/`;
               return (
                 <article class="bg-white rounded-lg overflow-hidden shadow-lg hover:shadow-2xl transition-shadow duration-300">
                   {study.data.image && (
@@ -219,7 +219,7 @@ const breadcrumbs = [
         <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
           <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z"></path>
         </svg>
-        <span>Schedule a Call</span>
+        <span>Schedule Strategy Session</span>
       </a>
     </div>
   </section>

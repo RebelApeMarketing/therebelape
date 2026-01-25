@@ -10,6 +10,7 @@ export const GET: APIRoute = async ({ site }) => {
   const pages = [
     { path: "/", changefreq: "weekly", priority: 1.0 },
     { path: "/about/", changefreq: "monthly", priority: 0.8 },
+    { path: "/silverback-authority-method/", changefreq: "monthly", priority: 0.9 },
     { path: "/services/", changefreq: "monthly", priority: 0.8 },
 
     { path: "/services/website-design/", changefreq: "monthly", priority: 0.8 },
@@ -20,7 +21,7 @@ export const GET: APIRoute = async ({ site }) => {
 
     { path: "/blog/", changefreq: "weekly", priority: 0.9 },
 
-    { path: "/case-studies/", changefreq: "monthly", priority: 0.8 },
+    { path: "/results/", changefreq: "monthly", priority: 0.8 },
     { path: "/locations/", changefreq: "monthly", priority: 0.8 },
     { path: "/resources/", changefreq: "monthly", priority: 0.8 },
     { path: "/resources/customer-avatar/", changefreq: "monthly", priority: 0.7 },

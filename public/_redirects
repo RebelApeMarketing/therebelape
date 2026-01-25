@@ -250,99 +250,103 @@ https://www.therebelape.com/about-rebel-ape-marketing/about-adam-miconi/ /about/
 /our-work/client-work/tnt-social-media-website-design/ /services/website-design/ 301!
 
 # ========================================
-# CASE STUDIES & CLIENT WORK
+# RESULTS (formerly Case Studies) & CLIENT WORK
 # ========================================
 
-# CASE STUDIES - Directory Pages
-/clients/ /case-studies/ 301!
-/our-work/ /case-studies/ 301!
-/our-work/client-work/ /case-studies/ 301!
+# Old case-studies URL structure
+/case-studies/ /results/ 301!
+/case-studies/* /results/:splat 301!
+
+# RESULTS - Directory Pages
+/clients/ /results/ 301!
+/our-work/ /results/ 301!
+/our-work/client-work/ /results/ 301!
 
 # CASE STUDIES - Specific Projects (Now Live)
 
 # Highland Surveying
-/highland/ /case-studies/highland-surveying/ 301!
-/highland-surveying/ /case-studies/highland-surveying/ 301!
-/digital-marketing-case-studies/highland-surveying-case-study/ /case-studies/highland-surveying/ 301!
+/highland/ /results/highland-surveying/ 301!
+/highland-surveying/ /results/highland-surveying/ 301!
+/digital-marketing-case-studies/highland-surveying-case-study/ /results/highland-surveying/ 301!
 
 # Regeneration Medical Spa
-/regeneration/ /case-studies/regeneration-medical-spa/ 301!
-/regeneration-med-spa/ /case-studies/regeneration-medical-spa/ 301!
-/digital-marketing-case-studies/regeneration-medical-spa-case-study/ /case-studies/regeneration-medical-spa/ 301!
+/regeneration/ /results/regeneration-medical-spa/ 301!
+/regeneration-med-spa/ /results/regeneration-medical-spa/ 301!
+/digital-marketing-case-studies/regeneration-medical-spa-case-study/ /results/regeneration-medical-spa/ 301!
 
 # Cereset
-/ceraset/ /case-studies/cereset/ 301!
-/cereset/ /case-studies/cereset/ 301!
-/digital-marketing-case-studies/cereset-of-ogden-case-study/ /case-studies/cereset/ 301!
-/cereset-of-ogden-case-study/ /case-studies/cereset/ 301!
+/ceraset/ /results/cereset/ 301!
+/cereset/ /results/cereset/ 301!
+/digital-marketing-case-studies/cereset-of-ogden-case-study/ /results/cereset/ 301!
+/cereset-of-ogden-case-study/ /results/cereset/ 301!
 
 # iFix Appliance Repair
-/ifix/ /case-studies/ifix/ 301!
-/digital-marketing-case-studies/ifix-appliance-repair-case-study/ /case-studies/ifix/ 301!
-/client-work/ifix/ /case-studies/ifix/ 301!
-/our-work/client-work/ifix/ /case-studies/ifix/ 301!
+/ifix/ /results/ifix/ 301!
+/digital-marketing-case-studies/ifix-appliance-repair-case-study/ /results/ifix/ 301!
+/client-work/ifix/ /results/ifix/ 301!
+/our-work/client-work/ifix/ /results/ifix/ 301!
 
-/client-work/out-there-roofing/ /case-studies/ 301!
+/client-work/out-there-roofing/ /results/ 301!
 
 # CASE STUDIES - Other Projects Still Redirecting to Main Page
-/our-work/client-work/aingeal-music/ /case-studies/ 301!
-/our-work/client-work/amazing-vacations-costa-rica/ /case-studies/ 301!
-/our-work/client-work/amazing-vacations-usa/ /case-studies/ 301!
-/our-work/client-work/brain-optimizer/ /case-studies/ 301!
-/our-work/client-work/critical-edtek/ /case-studies/ 301!
-/our-work/client-work/divorce-planning-pros/ /case-studies/ 301!
-/our-work/client-work/explosive-impact/ /case-studies/ 301!
-/our-work/client-work/fresh-and-new-real-estate/ /case-studies/ 301!
-/our-work/client-work/green-dani-bs/ /case-studies/ 301!
-/our-work/client-work/it-business-services/ /case-studies/ 301!
-/our-work/client-work/jennifer-funk-fine-art/ /case-studies/ 301!
-/our-work/client-work/light-child-media/ /case-studies/ 301!
-/our-work/client-work/marias-creations/ /case-studies/ 301!
-/our-work/client-work/northern-utah-glass/ /case-studies/ 301!
-/our-work/client-work/slr-roofing/ /case-studies/ 301!
-/our-work/client-work/tomchak-skolout-law-firm/ /case-studies/ 301!
-/our-work/client-work/totti-buttons-ski-rack/ /case-studies/ 301!
-/our-work/client-work/utah-accident-solutions/ /case-studies/ 301!
-/our-work/client-work/vitality-energy/ /case-studies/ 301!
-/our-work/client-work/void-distortion/ /case-studies/ 301!
+/our-work/client-work/aingeal-music/ /results/ 301!
+/our-work/client-work/amazing-vacations-costa-rica/ /results/ 301!
+/our-work/client-work/amazing-vacations-usa/ /results/ 301!
+/our-work/client-work/brain-optimizer/ /results/ 301!
+/our-work/client-work/critical-edtek/ /results/ 301!
+/our-work/client-work/divorce-planning-pros/ /results/ 301!
+/our-work/client-work/explosive-impact/ /results/ 301!
+/our-work/client-work/fresh-and-new-real-estate/ /results/ 301!
+/our-work/client-work/green-dani-bs/ /results/ 301!
+/our-work/client-work/it-business-services/ /results/ 301!
+/our-work/client-work/jennifer-funk-fine-art/ /results/ 301!
+/our-work/client-work/light-child-media/ /results/ 301!
+/our-work/client-work/marias-creations/ /results/ 301!
+/our-work/client-work/northern-utah-glass/ /results/ 301!
+/our-work/client-work/slr-roofing/ /results/ 301!
+/our-work/client-work/tomchak-skolout-law-firm/ /results/ 301!
+/our-work/client-work/totti-buttons-ski-rack/ /results/ 301!
+/our-work/client-work/utah-accident-solutions/ /results/ 301!
+/our-work/client-work/vitality-energy/ /results/ 301!
+/our-work/client-work/void-distortion/ /results/ 301!
 
 # Generic Case Study Redirects
-/digital-marketing-case-studies/ /case-studies/ 301!
-/digital-marketing-case-studies/bookkeeping-for-contractors-case-study/ /case-studies/ 301!
-/digital-marketing-case-studies/google-business-profile-case-study/ /case-studies/ 301!
-/digital-marketing-case-studies/google-business-profile-total-market-domination-case-study/ /case-studies/ 301!
-/google-business-profile-total-market-domination-case-study/ /case-studies/ 301!
-/tomchak-skolout-law-firm/ /case-studies/ 301!
+/digital-marketing-case-studies/ /results/ 301!
+/digital-marketing-case-studies/bookkeeping-for-contractors-case-study/ /results/ 301!
+/digital-marketing-case-studies/google-business-profile-case-study/ /results/ 301!
+/digital-marketing-case-studies/google-business-profile-total-market-domination-case-study/ /results/ 301!
+/google-business-profile-total-market-domination-case-study/ /results/ 301!
+/tomchak-skolout-law-firm/ /results/ 301!
 
 # Client Work Gallery & Portfolio Pages
-/our-work/website-design-gallery/ /case-studies/ 301!
-https://www.therebelape.com/portfolio/logo-design-gallery/ /case-studies/ 301!
-/services/graphic-design/graphic-design-gallery/ /case-studies/ 301!
+/our-work/website-design-gallery/ /results/ 301!
+https://www.therebelape.com/portfolio/logo-design-gallery/ /results/ 301!
+/services/graphic-design/graphic-design-gallery/ /results/ 301!
 /website-design-gallery/ /services/website-design/ 301!
 /graphic-design-gallery/ / 301!
-/client-work/easy-to-use-products/ /case-studies/ 301!
-/our-work/client-work/just-utah-homes/ /case-studies/ 301!
-/our-work/client-work/sand-lounger-website-design/ /case-studies/ 301!
-https://www.therebelape.com/logo-design/void-distortion/ /case-studies/ 301!
-https://www.therebelape.com/website-design/capener-matthews-dental-website-design/ /case-studies/ 301!
+/client-work/easy-to-use-products/ /results/ 301!
+/our-work/client-work/just-utah-homes/ /results/ 301!
+/our-work/client-work/sand-lounger-website-design/ /results/ 301!
+https://www.therebelape.com/logo-design/void-distortion/ /results/ 301!
+https://www.therebelape.com/website-design/capener-matthews-dental-website-design/ /results/ 301!
 http://therebelape.com/portfolio/website-design-gallery /services/web-design/ 301!
-/our-work/client-work/amazing-vacations-costa-rica/ /case-studies/ 301!
-/our-work/client-work/just-utah-homes/ /case-studies/ 301!
-/our-work/client-work/northern-utah-glass/ /case-studies/ 301!
-/our-work/client-work/sand-lounger-website-design/ /case-studies/ 301!
-/cereset-of-ogden-case-study/ /case-studies/ 301!
-/client-work/easy-to-use-products/ /case-studies/ 301!
-/client-work/ifix/ /case-studies/ 301!
-/client-work/out-there-roofing/ /case-studies/ 301!
-/clients/ /case-studies/ 301!
-/digital-marketing-case-studies/ /case-studies/ 301!
-/digital-marketing-case-studies/bookkeeping-for-contractors-case-study/ /case-studies/ 301!
-/digital-marketing-case-studies/cereset-of-ogden-case-study/ /case-studies/ 301!
-/digital-marketing-case-studies/google-business-profile-case-study/ /case-studies/ 301!
-/digital-marketing-case-studies/google-business-profile-total-market-domination-case-study/ /case-studies/ 301!
-/digital-marketing-case-studies/highland-surveying-case-study/ /case-studies/ 301!
-/digital-marketing-case-studies/ifix-appliance-repair-case-study/ /case-studies/ 301!
-/digital-marketing-case-studies/regeneration-medical-spa-case-study/ /case-studies/ 301!
+/our-work/client-work/amazing-vacations-costa-rica/ /results/ 301!
+/our-work/client-work/just-utah-homes/ /results/ 301!
+/our-work/client-work/northern-utah-glass/ /results/ 301!
+/our-work/client-work/sand-lounger-website-design/ /results/ 301!
+/cereset-of-ogden-case-study/ /results/ 301!
+/client-work/easy-to-use-products/ /results/ 301!
+/client-work/ifix/ /results/ 301!
+/client-work/out-there-roofing/ /results/ 301!
+/clients/ /results/ 301!
+/digital-marketing-case-studies/ /results/ 301!
+/digital-marketing-case-studies/bookkeeping-for-contractors-case-study/ /results/ 301!
+/digital-marketing-case-studies/cereset-of-ogden-case-study/ /results/ 301!
+/digital-marketing-case-studies/google-business-profile-case-study/ /results/ 301!
+/digital-marketing-case-studies/google-business-profile-total-market-domination-case-study/ /results/ 301!
+/digital-marketing-case-studies/highland-surveying-case-study/ /results/ 301!
+/digital-marketing-case-studies/ifix-appliance-repair-case-study/ /results/ 301!
+/digital-marketing-case-studies/regeneration-medical-spa-case-study/ /results/ 301!
 
 # ========================================
 # HOMEPAGE & MISCELLANEOUS
@@ -617,7 +621,7 @@ http://therebelape.com/blog/ /blog/ 301
 /marketing-services/email-marketing/ / 301!
 /marketing-services/call-tracking/ / 301!
 /marketing-services/social-media-content-posts/ / 301!
-/marketing-services/silverback-authority-method/ / 301!
+/marketing-services/silverback-authority-method/ /silverback-authority-method/ 301!
 /marketing-services/digital-marketing-agency/ / 301!
 /logo-design-questionnaire/ / 301!
 /marketing- / 301!
@@ -640,7 +644,7 @@ http://therebelape.com/blog/ /blog/ 301
 /plumber-marketing-services/plumber-social-media-content-posts/ / 301!
 /plumber-marketing-services/plumber-digital-marketing-agency/digital-marketing-campaign-examples/ / 301!
 /plumber-marketing-services/plumber-digital-marketing-agency/digital-marketing-campaign-examples/bookkeeping-for-contractors-case-study/ / 301!
-/plumber-marketing-services/plumber-digital-marketing-agency/digital-marketing-campaign-examples/ifix-appliance-repair-case-study/ /case-studies/ifix/ 301!
+/plumber-marketing-services/plumber-digital-marketing-agency/digital-marketing-campaign-examples/ifix-appliance-repair-case-study/ /results/ifix/ 301!
 /plumber-marketing-services/plumber-ppc-agency/ /services/ppc/ 301!
 
 # PLUMBER SERVICES (non-marketing specific) → /services/
@@ -754,7 +758,7 @@ https://www.therebelape.com/2020/01/ /blog/ 301!
 /marketing-agencies-utah/logo-design-for-business/local-logo-designer-in-south-ogden-utah/ / 301!
 
 # Galleries & Portfolio
-/gallery/print-design-gallery/ /case-studies/ 301!
+/gallery/print-design-gallery/ /results/ 301!
 /website-design/capener-matthews-dental-website-design/ /services/website-design/ 301!
 /website-design/tnt-social-media-website-design/ /services/website-design/ 301!
 

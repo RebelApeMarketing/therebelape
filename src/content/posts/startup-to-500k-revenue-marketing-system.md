@@ -228,7 +228,7 @@ Most contractors never leave the safety of employment or word-of-mouth marketing
 
 They've been burned before. They've wasted money on tactics that didn't work. They've heard all the promises from agencies that disappeared after cashing the check.
 
-But this surveying contractor took the leap because we showed him a proven system, walked him through real [case studies from similar situations](https://therebelape.com/case-studies/), and built his entire marketing infrastructure before asking him to quit his job.
+But this surveying contractor took the leap because we showed him a proven system, walked him through real [case studies from similar situations](https://therebelape.com/results/), and built his entire marketing infrastructure before asking him to quit his job.
 
 He went from $0 to $500,000 in two years. He's on track for $1 million this year. His former employer keeps wondering how he's getting so much work.
 

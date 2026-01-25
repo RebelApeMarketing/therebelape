@@ -32,7 +32,7 @@ Before we dive in, let's get specific. When we talk about conversion, we mean:
 - 17% click-through rates on ads (some campaigns hit industry standard of 5%, but our best performers crush it)
 - Average of $120,000 in revenue generated over 8 months from our marketing
 
-Those aren't vanity metrics—that's real money in your pocket. Want to see how we do it? Check out our [case studies](/case-studies/) for specific examples.
+Those aren't vanity metrics—that's real money in your pocket. Want to see how we do it? Check out our [case studies](/results/) for specific examples.
 
 ## Why Your Website Needs a Strategy Before It Needs Design
 
