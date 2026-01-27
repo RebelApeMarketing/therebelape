@@ -13,7 +13,7 @@ categories: ["SEO", "Content Marketing"]
 draft: false
 ---
 
-# Your Blog Isn't Dead—It's Just Feeding AI Instead of Humans
+## Your Blog Isn't Dead—It's Just Feeding AI Instead of Humans
 
 "We've been paying for blog posts for six months and haven't gotten a single lead from them."
 

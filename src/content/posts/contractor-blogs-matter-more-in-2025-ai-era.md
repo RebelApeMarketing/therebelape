@@ -13,7 +13,7 @@ categories: ["SEO", "Content Marketing"]
 draft: false
 ---
 
-# Why Contractor Blogs Matter More in 2026 (Thanks to AI, Not Despite It)
+## Why Contractor Blogs Matter More in 2026 (Thanks to AI, Not Despite It)
 
 Everyone's so impressed with AI these days.
 

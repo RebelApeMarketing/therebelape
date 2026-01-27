@@ -13,7 +13,7 @@ categories: ["SEO"]
 draft: false
 ---
 
-# Do Keywords Still Matter for SEO? Less Than You Think (Here's What Actually Works in 2026)
+## Do Keywords Still Matter for SEO? Less Than You Think (Here's What Actually Works in 2026)
 
 A client sent me a screenshot this week. Their WordPress dashboard, Yoast SEO screaming at them in orange and red warnings:
 

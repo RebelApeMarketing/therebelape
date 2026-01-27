@@ -13,7 +13,7 @@ categories: ["Branding"]
 draft: false
 ---
 
-# The Truth About Branding for Contractors (From Someone Who Designed 300+ Logos)
+## The Truth About Branding for Contractors (From Someone Who Designed 300+ Logos)
 
 I have a folder on my computer with 300+ logos I designed in my earlier career. Most of those companies never made their first sale. Beautiful branding. Zero revenue. Perfect logos for businesses that never existed.
 

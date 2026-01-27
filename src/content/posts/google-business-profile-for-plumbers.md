@@ -13,7 +13,7 @@ categories: ["Local SEO", "Contractor Marketing"]
 draft: false
 ---
 
-# Google Business Profile for Plumbers: Stop Leaving Money on the Table
+## Google Business Profile for Plumbers: Stop Leaving Money on the Table
 
 I was looking at a plumbing client's Google Business Profile last week and nearly lost my mind. Five years in business, decent reputation, gets referrals—but their GBP looked like they set it up in 2019 and never touched it again.
 

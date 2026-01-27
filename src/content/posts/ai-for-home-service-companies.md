@@ -13,7 +13,7 @@ categories: ["Contractor Marketing", "Marketing Strategy"]
 draft: false
 ---
 
-# Your Competition Is Already Using AI: Why Home Service Companies Can't Afford to Wait
+## Your Competition Is Already Using AI: Why Home Service Companies Can't Afford to Wait
 
 While you're manually scheduling appointments at 9 PM, your competitor's AI system just captured three leads, sent personalized follow-ups, and booked two consultations—all without anyone lifting a finger.
 

@@ -13,7 +13,7 @@ categories: ["Website Design"]
 draft: false
 ---
 
-# Why Home Service Companies Need a Website (And Why Yours Probably Doesn't Work)
+## Why Home Service Companies Need a Website (And Why Yours Probably Doesn't Work)
 
 "We do great work. People tell their friends. That's how we've always gotten customers."
 

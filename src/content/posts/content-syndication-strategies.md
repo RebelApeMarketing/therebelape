@@ -13,7 +13,7 @@ categories: ["Content Marketing"]
 draft: false
 ---
 
-# Content Syndication Strategies That Actually Work for Contractors in 2026
+## Content Syndication Strategies That Actually Work for Contractors in 2026
 
 Picture two roofing contractors in Phoenix.
 

@@ -16,7 +16,7 @@ schema:
   faq: true
 ---
 
-# How The Logo Design Process Works (And Why It Matters Less Than You Think)
+## How The Logo Design Process Works (And Why It Matters Less Than You Think)
 
 I have a folder on my computer I call the logo graveyard.
 

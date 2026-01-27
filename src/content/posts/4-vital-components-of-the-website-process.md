@@ -13,7 +13,7 @@ categories: ["Website Design"]
 draft: false
 ---
 
-# Why Your Contractor Website Doesn't Get Leads (And the 4 Things That Actually Matter)
+## Why Your Contractor Website Doesn't Get Leads (And the 4 Things That Actually Matter)
 
 Let me guess how you got your website: Someone in your contractor network recommended their designer friend. Or maybe your nephew's roommate "does websites." They showed you a portfolio of beautiful sites, talked about responsive design and user experience, quoted you a price, and delivered something that looks professional.
 

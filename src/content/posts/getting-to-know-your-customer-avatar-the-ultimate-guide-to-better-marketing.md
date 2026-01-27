@@ -13,7 +13,7 @@ categories: ["Marketing Strategy"]
 draft: false
 ---
 
-# Why Most Contractor 'Avatars' Are Worthless (And How to Actually Know Your Customer)
+## Why Most Contractor 'Avatars' Are Worthless (And How to Actually Know Your Customer)
 
 "Who's your ideal customer?"
 

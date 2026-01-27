@@ -13,7 +13,7 @@ categories: ["PPC & Advertising"]
 draft: false
 ---
 
-# Billboard Advertising for Contractors: When It Works (And When You're Just Burning Money)
+## Billboard Advertising for Contractors: When It Works (And When You're Just Burning Money)
 
 "We're thinking about billboards. What do you think?"
 

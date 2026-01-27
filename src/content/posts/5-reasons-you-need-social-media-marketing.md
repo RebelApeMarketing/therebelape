@@ -13,7 +13,7 @@ categories: ["Social Media"]
 draft: false
 ---
 
-# Why Contractors Actually Need Social Media (And How to Not Suck at It)
+## Why Contractors Actually Need Social Media (And How to Not Suck at It)
 
 "Adam, I just don't have time for social media."
 

@@ -13,7 +13,7 @@ categories: ["Marketing Strategy"]
 draft: false
 ---
 
-# Why Most Contractors Don't Need a Go-To-Market Strategy (And What to Focus on Instead)
+## Why Most Contractors Don't Need a Go-To-Market Strategy (And What to Focus on Instead)
 
 I once worked with an energy metering company that paid a fancy consultant thousands of dollars to create their go-to-market strategy. The deliverable was impressive - professionally designed, full of market data, customer avatars, blog topics, pages to build, the works.
 
