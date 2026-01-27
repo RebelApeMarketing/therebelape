@@ -6,7 +6,7 @@ excerpt: "If your website ranked great in 2018 but fell apart in 2019, you're no
 publishDate: "2020-01-03T01:45:00-07:00"
 lastModified: "2026-01-27T13:30:00-07:00"
 author: "Adam Miconi"
-image: "https://RebelApeCDN.b-cdn.net/featured-google-bert.webp"
+image: "https://RebelApeCDN.b-cdn.net/featured-google-bert-puppet.webp"
 canonicalUrl: "https://therebelape.com/blog/google-bert-update/"
 category: "SEO"
 tags: ["contractor marketing", "seo", "content strategy", "google algorithm", "home service marketing"]
