@@ -8,10 +8,11 @@ import OrganizationSchema from '../../../components/schema/OrganizationSchema.as
 import ServiceSchema from '../../../components/schema/ServiceSchema.astro';
 import BreadcrumbSchema from '../../../components/schema/BreadcrumbSchema.astro';
 import WebPageSchema from '../../../components/schema/WebPageSchema.astro';
+import FAQSchema from '../../../components/schema/FAQSchema.astro';
 
 // SEO
 const title = "Google Local Service Ads for Contractors | Rebel Ape";
-const description = "Get the Google Guaranteed badge and show up at the very top of search results. We manage your Local Service Ads to get you qualified leads without wasting your budget.";
+const description = "Get the Google Guaranteed badge and show up at the very top of search results. Pay-per-lead pricing means you only pay when customers actually contact you.";
 const canonical = "https://therebelape.com/services/ppc/local-service-ads/";
 const image = "https://RebelApeCDN.b-cdn.net/featured-local-service-ads.webp";
 const type = "website";
@@ -23,6 +24,34 @@ const breadcrumbs = [
   { name: "Services", url: "https://therebelape.com/services/" },
   { name: "PPC", url: "https://therebelape.com/services/ppc/" },
   { name: "Local Service Ads", url: canonical }
+];
+
+// FAQs
+const faqs = [
+  {
+    question: "How long does it take to get approved for LSA?",
+    answer: "If you have all your documents ready (license, insurance, business registration), approval usually takes 5-10 business days. The background check takes the longest—Google's thorough. If your paperwork is missing or incorrect, it takes longer. We've guided dozens of contractors through this, so we know exactly what Google needs and how to help you get approved fast."
+  },
+  {
+    question: "What's the cost per lead?",
+    answer: "It varies by service, location, and competition. Roofing might be $30-80 per lead. Plumbing emergency calls might be $20-50. HVAC could be $40-100. You set your weekly budget, and we help optimize to keep you visible without blowing through it. The key advantage: you only pay when someone actually contacts you, not for every click."
+  },
+  {
+    question: "Can I turn off LSA if I get too busy?",
+    answer: "Absolutely. You can pause your LSA campaigns anytime and restart them when you're ready for more leads. Some contractors run LSA seasonally or only when their schedule has openings. It's your budget and your call volume—we adjust based on your capacity."
+  },
+  {
+    question: "Do I still need Google Ads if I have LSA?",
+    answer: "Yes. LSA is great for premium placement and pay-per-lead pricing, but Google Ads gives you way more control—targeting, messaging, landing pages, budget flexibility, and volume. LSA is limited by Google's categories and lead caps. Google Ads scales infinitely. Running both means you dominate the top section with LSA and control the volume/messaging with Google Ads."
+  },
+  {
+    question: "Does my star rating really matter that much?",
+    answer: "Absolutely. Your LSA ranking is heavily influenced by your review count and star rating. A 4.8-star rating with 100+ reviews will rank higher than a 3.5-star rating with 20 reviews. We help you get more legitimate reviews and respond professionally to feedback so your ranking stays competitive. Low ratings = buried in LSA results = wasted budget."
+  },
+  {
+    question: "What if LSA doesn't work in my area?",
+    answer: "LSA isn't available for all services in all areas yet. If it's not available for your service/location, we focus on the channels that are—Google Ads, SEO, and GBP optimization. If LSA is available but not generating quality leads in your market, we reallocate budget to what's actually working. We're not married to any single channel."
+  }
 ];
 ---
 
@@ -45,107 +74,391 @@ const breadcrumbs = [
     url={canonical}
     image={image}
   />
+  <FAQSchema slot="head" faqs={faqs} />
   <section>
     <Hero
-      headline="Get <span class='text-rebel-green'>Google Guaranteed</span>"
-      description="Show up at the very top of search results with the Google Guaranteed badge. Only pay for actual leads, not clicks."
-      backgroundImage="https://RebelApeCDN.b-cdn.net/Rebel%20Website/Homepage/UOMC-bg.webp"
-      buttonText="Get Started with LSA"
+      backgroundImage="https://RebelApeCDN.b-cdn.net/bg-gorilla-direct.webp"
+      title="Show Up In The Top Section. <span class='text-rebel-green'>Get The Green Badge.</span>"
+      subtitle="Pay Per Lead, Not Per Click. <span class='text-rebel-green'>Premium Placement.</span>"
+      description="Local Service Ads put you in the <strong>top section of search results</strong>—above regular Google Ads and organic listings. With the Google Guaranteed badge, you're not just visible. <strong>You're trusted.</strong> And you only pay when customers actually contact you, not for random clicks."
+      features={[
+        'Premium Position in Search Results',
+        'Google Guaranteed Badge',
+        'Pay-Per-Lead Pricing'
+      ]}
+      buttonText="Get Google Guaranteed"
+      buttonIcon="calendar"
       buttonHref="/schedule/"
+      fetchpriority="high"
     />
     <SocialProofBar />
-  </section>
 
-  <!-- What We Do -->
-  <section class="py-16 bg-white">
-    <div class="max-w-7xl mx-auto px-6">
-      <div class="max-w-3xl mx-auto text-center mb-12">
-        <h2 class="text-4xl md:text-5xl font-black mb-4">Be the First Business Customers See</h2>
-        <p class="text-xl text-gray-600">Local Service Ads appear above everything else—even regular Google Ads.</p>
+    <!-- Section 1: Why LSA Puts You Above The Competition -->
+    <section class="py-16 md:py-24 section-checkers">
+      <div class="max-w-7xl mx-auto px-4">
+        <div class="grid grid-cols-1 lg:grid-cols-3 gap-12 lg:gap-16 items-stretch">
+          <!-- Text: 2/3 width -->
+          <div class="order-2 lg:order-1 lg:col-span-2">
+            <h2 class="text-4xl md:text-5xl font-bold mb-6">
+              Many Contractors Don't Even Know <span class="text-rebel-green">This Exists</span>
+            </h2>
+            <p class="text-lg text-gray-700 mb-6">
+              Local Service Ads appear in the top section of Google search results. Not the Map Pack. Not regular Google Ads. The premium section. When someone searches "roofer near me" or "emergency plumber," LSAs are the first thing they see—with that green Google Guaranteed checkmark right next to your business name.
+            </p>
+            <p class="text-lg text-gray-700 mb-6">
+              And here's the kicker: you only pay when someone actually contacts you. Not when they click. Not when they browse. When they call or message—that's it. Many contractors either don't know LSA exists, or they tried to set it up themselves, got frustrated with the verification process, and gave up.
+            </p>
+            <p class="text-lg text-gray-700 mb-8">
+              That's where we come in. We guide you through the entire setup process, help you get Google Guaranteed approved, optimize your budget and placement, and make sure you're getting the visibility you're paying for.
+            </p>
+            <ul class="space-y-4 mb-8">
+              <li class="flex gap-3">
+                <span class="text-[#32C55F] text-xl font-bold">✓</span>
+                <span class="text-gray-700"><strong>Premium Placement:</strong> Show up in the top section of Google search results</span>
+              </li>
+              <li class="flex gap-3">
+                <span class="text-[#32C55F] text-xl font-bold">✓</span>
+                <span class="text-gray-700"><strong>Google Guaranteed:</strong> That green badge builds instant trust before they even call you</span>
+              </li>
+              <li class="flex gap-3">
+                <span class="text-[#32C55F] text-xl font-bold">✓</span>
+                <span class="text-gray-700"><strong>Pay-Per-Lead:</strong> Only charged when customers contact you, not for clicks or impressions</span>
+              </li>
+              <li class="flex gap-3">
+                <span class="text-[#32C55F] text-xl font-bold">✓</span>
+                <span class="text-gray-700"><strong>High-Intent Leads:</strong> People using LSA are ready to hire right now, not browsing</span>
+              </li>
+            </ul>
+            <p class="text-gray-700">
+              LSA isn't a replacement for Google Ads or SEO. It's another weapon in your arsenal. When you combine LSA with regular Google Ads and organic rankings, you dominate search from multiple angles.
+            </p>
+          </div>
+
+          <!-- Image: 1/3 width on desktop, full width on mobile -->
+          <div class="order-1 lg:order-2 flex">
+            <img
+              src="https://RebelApeCDN.b-cdn.net/featured-local-service-ads.webp"
+              alt="Local Service Ads Premium Placement"
+              class="w-full h-auto lg:h-full object-cover rounded-lg"
+              loading="lazy"
+              width="600"
+              height="400"
+            />
+          </div>
+        </div>
       </div>
+    </section>
 
-      <div class="grid md:grid-cols-3 gap-8">
-        <div class="bg-slate-50 p-8 rounded-lg">
-          <h3 class="text-2xl font-bold mb-4">Pay Per Lead</h3>
-          <p class="text-gray-600">Unlike regular ads where you pay per click, LSAs only charge you when a customer actually calls or messages you.</p>
+    <!-- Section 2: How We Help You Get Set Up & Optimized -->
+    <section class="py-16 md:py-24 section-slate">
+      <div class="max-w-7xl mx-auto px-4">
+        <!-- Centered Header -->
+        <div class="text-center mb-12">
+          <h2 class="text-4xl md:text-5xl font-bold mb-6">
+            Our Process: <span class="text-rebel-green">Guide, Setup, Optimize</span>
+          </h2>
+          <p class="text-lg md:text-xl text-gray-700 max-w-4xl mx-auto">
+            Many contractors try to set up LSA themselves and quit halfway through. The verification process is a pain—background checks, license verification, insurance documentation, category selection. We've guided dozens of contractors through this. We know what Google wants, what documents you need, and how to get approved without the back-and-forth. You still go through the entire process—Google requires it. But we guide you through every step so you don't get stuck or frustrated. Once you're live, we manage your budget, monitor your star rating (critical for ranking), and optimize your service areas to maximize quality calls without burning budget.
+          </p>
         </div>
 
-        <div class="bg-slate-50 p-8 rounded-lg">
-          <h3 class="text-2xl font-bold mb-4">Google Guaranteed Badge</h3>
-          <p class="text-gray-600">The green checkmark builds instant trust. Customers know Google has verified your business and quality of work.</p>
+        <!-- Mobile image - shown only on mobile -->
+        <div class="lg:hidden mb-8">
+          <img
+            src="https://RebelApeCDN.b-cdn.net/featured-locations.webp"
+            alt="LSA Setup and Optimization Process"
+            class="w-full h-auto object-cover rounded-lg"
+            loading="lazy"
+            width="600"
+            height="400"
+          />
         </div>
 
-        <div class="bg-slate-50 p-8 rounded-lg">
-          <h3 class="text-2xl font-bold mb-4">High-Intent Leads</h3>
-          <p class="text-gray-600">People using LSA are ready to hire right now. They're looking for a licensed, trustworthy contractor they can call immediately.</p>
+        <div class="grid grid-cols-1 lg:grid-cols-3 gap-12 lg:gap-16 items-stretch">
+          <!-- Image: 1/3 width, full height - desktop only -->
+          <div class="hidden lg:flex">
+            <img
+              src="https://RebelApeCDN.b-cdn.net/featured-locations.webp"
+              alt="LSA Setup and Optimization Process"
+              class="w-full h-full object-cover rounded-lg"
+              loading="lazy"
+              width="600"
+              height="400"
+            />
+          </div>
+
+          <!-- Process Cards: 2/3 width -->
+          <div class="lg:col-span-2 space-y-4">
+            <div class="bg-white p-6 rounded-lg border-l-4 border-[#32C55F] shadow-2xl">
+              <h3 class="text-xl font-bold mb-2">Setup & Google Guaranteed Verification</h3>
+              <p class="text-gray-700">
+                We guide you through the entire application: background checks, license verification, insurance documentation, and all the paperwork Google requires. You complete the process yourself (Google requires it), but we walk you through every step so you don't get stuck. The Google Guaranteed badge is your trust signal—we make sure you get it.
+              </p>
+            </div>
+
+            <div class="bg-white p-6 rounded-lg border-l-4 border-[#32C55F] shadow-2xl">
+              <h3 class="text-xl font-bold mb-2">Budget & Placement Optimization</h3>
+              <p class="text-gray-700">
+                LSA uses a pay-per-lead model, but you still set a weekly budget. We help you optimize your budget to stay visible without wasting money on low-quality leads. We also help manage your service areas—too broad wastes budget, too narrow limits opportunity.
+              </p>
+            </div>
+
+            <div class="bg-white p-6 rounded-lg border-l-4 border-[#32C55F] shadow-2xl">
+              <h3 class="text-xl font-bold mb-2">Profile Optimization</h3>
+              <p class="text-gray-700">
+                Your business hours, service offerings, and profile information all impact your LSA performance. We make sure everything is set up correctly so you're showing up for the right searches at the right times. Small details matter—we handle them so you don't have to think about it.
+              </p>
+            </div>
+
+            <div class="bg-white p-6 rounded-lg border-l-4 border-[#32C55F] shadow-2xl">
+              <h3 class="text-xl font-bold mb-2">Review & Ranking Management</h3>
+              <p class="text-gray-700">
+                Your LSA ranking depends heavily on your star rating and number of reviews. We help you get more reviews (legitimately), respond professionally to feedback, and maintain the reputation that keeps you competitive in LSA results. Low star rating = buried in the listings.
+              </p>
+            </div>
+          </div>
         </div>
       </div>
-    </div>
-  </section>
+    </section>
 
-  <!-- How We Manage LSA -->
-  <section class="py-16 bg-slate-100">
-    <div class="max-w-7xl mx-auto px-6">
-      <div class="max-w-3xl mx-auto">
-        <h2 class="text-4xl md:text-5xl font-black mb-8 text-center">How We Manage Your LSA Campaigns</h2>
+    <!-- Section 3: LSA + Google Ads + SEO = Total Search Domination -->
+    <section class="py-16 md:py-24 section-checkers">
+      <div class="max-w-7xl mx-auto px-4">
+        <div class="grid grid-cols-1 lg:grid-cols-3 gap-12 lg:gap-16 items-stretch">
+          <!-- Text: 2/3 width -->
+          <div class="order-2 lg:order-1 lg:col-span-2">
+            <h2 class="text-4xl md:text-5xl font-bold mb-6">
+              Why LSA Works Best <span class="text-rebel-green">With Your Full System</span>
+            </h2>
+            <p class="text-lg text-gray-700 mb-6">
+              LSA is powerful, but it's not a complete marketing strategy. It's one piece of the puzzle. When you combine LSA with regular Google Ads and organic SEO, you own search results from top to bottom.
+            </p>
+            <p class="text-lg text-gray-700 mb-8">
+              LSA gets you that premium placement with the Google Guaranteed badge. Google Ads gives you control over messaging and targeting. SEO builds long-term authority and compounds over time. Together, they create a system where you're not dependent on any single channel—and you dominate your market from every angle.
+            </p>
+            <div class="space-y-4 mb-8">
+              <div class="bg-white p-6 rounded-lg border-l-4 border-[#32C55F] shadow-2xl">
+                <p class="font-semibold text-gray-900 text-lg mb-2">LSA + Google Ads</p>
+                <p class="text-gray-700">LSA shows up in the top section. Google Ads appear right below it. When you run both, you own multiple spots on page 1. Searchers see your business multiple times, building recognition and trust. Plus, LSA's pay-per-lead model protects your budget while Google Ads gives you volume control.</p>
+              </div>
+              <div class="bg-white p-6 rounded-lg border-l-4 border-[#32C55F] shadow-2xl">
+                <p class="font-semibold text-gray-900 text-lg mb-2">LSA + SEO/GBP</p>
+                <p class="text-gray-700">When your LSA, Map Pack, and organic listings all rank, you own significant real estate on the first page. That kind of visibility builds massive trust. Customers see you everywhere and assume you're a dominant player in your market—because you are.</p>
+              </div>
+              <div class="bg-white p-6 rounded-lg border-l-4 border-[#32C55F] shadow-2xl">
+                <p class="font-semibold text-gray-900 text-lg mb-2">All Three Together</p>
+                <p class="text-gray-700">LSA for premium placement and trust. Google Ads for volume and control. SEO for long-term authority. When all three work together, you're not gambling on one channel. You dominate search from multiple angles, and if one channel has an off day, the others carry the load.</p>
+              </div>
+            </div>
+          </div>
+
+          <!-- Image: 1/3 width on desktop, full width on mobile -->
+          <div class="order-1 lg:order-2 flex">
+            <img
+              src="https://RebelApeCDN.b-cdn.net/website-gorilla-square.webp"
+              alt="Complete Search Domination System"
+              class="w-full h-auto lg:h-full object-cover rounded-lg shadow-2xl"
+              loading="lazy"
+              width="600"
+              height="400"
+            />
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Section 4: What's Actually Included -->
+    <section class="py-16 md:py-24 section-slate">
+      <div class="max-w-7xl mx-auto px-4">
+        <!-- Centered Header -->
+        <div class="text-center mb-12">
+          <h2 class="text-4xl md:text-5xl font-bold mb-6">
+            What We Handle <span class="text-rebel-green">Every Month</span>
+          </h2>
+          <p class="text-lg md:text-xl text-gray-700 max-w-4xl mx-auto">
+            LSA management isn't "set it and forget it." Here's exactly what we do to keep you ranking and generating quality leads:
+          </p>
+        </div>
+
+        <!-- Grid of Services -->
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+          <!-- Initial Setup & Verification -->
+          <div class="bg-white p-6 rounded-lg shadow-lg">
+            <h3 class="text-xl font-bold mb-4 text-gray-900">Initial Setup & Verification</h3>
+            <ul class="space-y-2 text-gray-700">
+              <li class="flex gap-2 items-start">
+                <span class="text-[#32C55F] text-lg">→</span>
+                <span>Complete LSA application guidance</span>
+              </li>
+              <li class="flex gap-2 items-start">
+                <span class="text-[#32C55F] text-lg">→</span>
+                <span>Background check coordination</span>
+              </li>
+              <li class="flex gap-2 items-start">
+                <span class="text-[#32C55F] text-lg">→</span>
+                <span>License verification assistance</span>
+              </li>
+              <li class="flex gap-2 items-start">
+                <span class="text-[#32C55F] text-lg">→</span>
+                <span>Insurance documentation help</span>
+              </li>
+              <li class="flex gap-2 items-start">
+                <span class="text-[#32C55F] text-lg">→</span>
+                <span>Category and service selection</span>
+              </li>
+              <li class="flex gap-2 items-start">
+                <span class="text-[#32C55F] text-lg">→</span>
+                <span>Google Guaranteed badge approval</span>
+              </li>
+              <li class="flex gap-2 items-start">
+                <span class="text-[#32C55F] text-lg">→</span>
+                <span>Service area configuration</span>
+              </li>
+            </ul>
+          </div>
+
+          <!-- Budget Management -->
+          <div class="bg-white p-6 rounded-lg shadow-lg">
+            <h3 class="text-xl font-bold mb-4 text-gray-900">Budget Management</h3>
+            <ul class="space-y-2 text-gray-700">
+              <li class="flex gap-2 items-start">
+                <span class="text-[#32C55F] text-lg">→</span>
+                <span>Weekly budget optimization</span>
+              </li>
+              <li class="flex gap-2 items-start">
+                <span class="text-[#32C55F] text-lg">→</span>
+                <span>Service area adjustments</span>
+              </li>
+              <li class="flex gap-2 items-start">
+                <span class="text-[#32C55F] text-lg">→</span>
+                <span>Lead cost monitoring</span>
+              </li>
+              <li class="flex gap-2 items-start">
+                <span class="text-[#32C55F] text-lg">→</span>
+                <span>Budget pacing controls</span>
+              </li>
+              <li class="flex gap-2 items-start">
+                <span class="text-[#32C55F] text-lg">→</span>
+                <span>Spend tracking and reporting</span>
+              </li>
+            </ul>
+          </div>
+
+          <!-- Profile Optimization -->
+          <div class="bg-white p-6 rounded-lg shadow-lg">
+            <h3 class="text-xl font-bold mb-4 text-gray-900">Profile Optimization</h3>
+            <ul class="space-y-2 text-gray-700">
+              <li class="flex gap-2 items-start">
+                <span class="text-[#32C55F] text-lg">→</span>
+                <span>Business hours management</span>
+              </li>
+              <li class="flex gap-2 items-start">
+                <span class="text-[#32C55F] text-lg">→</span>
+                <span>Service offerings updates</span>
+              </li>
+              <li class="flex gap-2 items-start">
+                <span class="text-[#32C55F] text-lg">→</span>
+                <span>Profile information accuracy</span>
+              </li>
+              <li class="flex gap-2 items-start">
+                <span class="text-[#32C55F] text-lg">→</span>
+                <span>Category refinement</span>
+              </li>
+              <li class="flex gap-2 items-start">
+                <span class="text-[#32C55F] text-lg">→</span>
+                <span>Competitive positioning</span>
+              </li>
+            </ul>
+          </div>
+
+          <!-- Ranking Optimization -->
+          <div class="bg-white p-6 rounded-lg shadow-lg">
+            <h3 class="text-xl font-bold mb-4 text-gray-900">Ranking Optimization</h3>
+            <ul class="space-y-2 text-gray-700">
+              <li class="flex gap-2 items-start">
+                <span class="text-[#32C55F] text-lg">→</span>
+                <span>Review generation strategy</span>
+              </li>
+              <li class="flex gap-2 items-start">
+                <span class="text-[#32C55F] text-lg">→</span>
+                <span>Review response management</span>
+              </li>
+              <li class="flex gap-2 items-start">
+                <span class="text-[#32C55F] text-lg">→</span>
+                <span>Star rating monitoring</span>
+              </li>
+              <li class="flex gap-2 items-start">
+                <span class="text-[#32C55F] text-lg">→</span>
+                <span>Competitive analysis</span>
+              </li>
+              <li class="flex gap-2 items-start">
+                <span class="text-[#32C55F] text-lg">→</span>
+                <span>Profile optimization</span>
+              </li>
+            </ul>
+          </div>
+
+          <!-- Performance Reporting -->
+          <div class="bg-white p-6 rounded-lg shadow-lg md:col-span-2 lg:col-span-2">
+            <h3 class="text-xl font-bold mb-4 text-gray-900">Performance Reporting</h3>
+            <div class="grid grid-cols-1 md:grid-cols-2 gap-x-8 gap-y-2">
+              <ul class="space-y-2 text-gray-700">
+                <li class="flex gap-2 items-start">
+                  <span class="text-[#32C55F] text-lg">→</span>
+                  <span>Monthly lead reports</span>
+                </li>
+                <li class="flex gap-2 items-start">
+                  <span class="text-[#32C55F] text-lg">→</span>
+                  <span>Cost-per-lead tracking</span>
+                </li>
+                <li class="flex gap-2 items-start">
+                  <span class="text-[#32C55F] text-lg">→</span>
+                  <span>Review growth metrics</span>
+                </li>
+              </ul>
+              <ul class="space-y-2 text-gray-700">
+                <li class="flex gap-2 items-start">
+                  <span class="text-[#32C55F] text-lg">→</span>
+                  <span>Competitive position analysis</span>
+                </li>
+                <li class="flex gap-2 items-start">
+                  <span class="text-[#32C55F] text-lg">→</span>
+                  <span>ROI by service type</span>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="py-16 md:py-24 section-checkers">
+      <CaseStudy />
+    </section>
+
+    <section class="py-16 md:py-24 section-slate">
+      <TestimonialsDefault />
+    </section>
+
+    <!-- FAQ Section -->
+    <section class="py-16 md:py-24 section-checkers">
+      <div class="max-w-4xl mx-auto px-4">
+        <div class="text-center mb-12">
+          <h2 class="text-4xl md:text-5xl font-bold mb-6">
+            Frequently Asked <span class="text-rebel-green">Questions</span>
+          </h2>
+        </div>
 
         <div class="space-y-6">
-          <div class="bg-white p-6 rounded-lg">
-            <h3 class="text-xl font-bold mb-2">Setup & Verification</h3>
-            <p class="text-gray-600">We handle the entire application process, background checks, insurance verification, and licensing to get you Google Guaranteed.</p>
-          </div>
-
-          <div class="bg-white p-6 rounded-lg">
-            <h3 class="text-xl font-bold mb-2">Budget Optimization</h3>
-            <p class="text-gray-600">Set smart budgets that keep you visible during peak times without wasting money. We monitor and adjust based on lead quality.</p>
-          </div>
-
-          <div class="bg-white p-6 rounded-lg">
-            <h3 class="text-xl font-bold mb-2">Lead Dispute Management</h3>
-            <p class="text-gray-600">Got charged for a bad lead? We dispute them for you so you only pay for real customers who are ready to hire.</p>
-          </div>
-
-          <div class="bg-white p-6 rounded-lg">
-            <h3 class="text-xl font-bold mb-2">Review Management</h3>
-            <p class="text-gray-600">Your star rating directly impacts your LSA ranking. We help you get more reviews and respond to feedback professionally.</p>
-          </div>
+          {faqs.map((faq) => (
+            <div class="bg-white p-6 rounded-lg shadow-lg border-l-4 border-[#32C55F]">
+              <h3 class="text-xl font-bold mb-3 text-gray-900">{faq.question}</h3>
+              <p class="text-gray-700">{faq.answer}</p>
+            </div>
+          ))}
         </div>
       </div>
-    </div>
+    </section>
+
   </section>
-
-  <!-- Why LSA Works -->
-  <section class="py-16 bg-white">
-    <div class="max-w-7xl mx-auto px-6">
-      <div class="max-w-3xl mx-auto text-center">
-        <h2 class="text-4xl md:text-5xl font-black mb-8">Why Local Service Ads Work for Contractors</h2>
-
-        <div class="grid md:grid-cols-2 gap-8 text-left">
-          <div class="bg-slate-50 p-6 rounded-lg">
-            <h3 class="text-xl font-bold mb-2">Top Placement</h3>
-            <p class="text-gray-600">LSAs show up above organic results, Google Ads, and the map pack. You literally can't rank higher.</p>
-          </div>
-
-          <div class="bg-slate-50 p-6 rounded-lg">
-            <h3 class="text-xl font-bold mb-2">Better ROI</h3>
-            <p class="text-gray-600">Pay-per-lead pricing means you're only charged when someone actually contacts you, not for window shoppers.</p>
-          </div>
-
-          <div class="bg-slate-50 p-6 rounded-lg">
-            <h3 class="text-xl font-bold mb-2">Build Trust Fast</h3>
-            <p class="text-gray-600">The Google Guaranteed badge gives customers confidence to call you over competitors without the badge.</p>
-          </div>
-
-          <div class="bg-slate-50 p-6 rounded-lg">
-            <h3 class="text-xl font-bold mb-2">Mobile-First</h3>
-            <p class="text-gray-600">LSAs dominate mobile search where most local searches happen. One tap to call you directly from the ad.</p>
-          </div>
-        </div>
-      </div>
-    </div>
-  </section>
-
-  <CaseStudy />
-  <TestimonialsDefault />
-
 </Base>

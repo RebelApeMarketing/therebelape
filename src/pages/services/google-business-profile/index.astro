@@ -8,6 +8,7 @@ import OrganizationSchema from '../../../components/schema/OrganizationSchema.as
 import ServiceSchema from '../../../components/schema/ServiceSchema.astro';
 import BreadcrumbSchema from '../../../components/schema/BreadcrumbSchema.astro';
 import WebPageSchema from '../../../components/schema/WebPageSchema.astro';
+import FAQSchema from '../../../components/schema/FAQSchema.astro';
 
 // SEO
 const title = "Google Business Profile Management | Rebel Ape";
@@ -22,6 +23,34 @@ const breadcrumbs = [
   { name: "Home", url: "https://therebelape.com/" },
   { name: "Services", url: "https://therebelape.com/services/" },
   { name: "Google Business Profile", url: canonical }
+];
+
+// FAQs
+const faqs = [
+  {
+    question: "How long does it take to rank in the Map Pack?",
+    answer: "Depends on competition and your starting point. If your profile is currently a mess, we see movement within 2-4 weeks. If you're competing in a saturated market, it can take 2-3 months to break into the top 3. The key is consistent optimization—most competitors abandon their profiles after initial setup, so staying active gives you an edge."
+  },
+  {
+    question: "Can you guarantee Map Pack rankings?",
+    answer: "No, and anyone who guarantees rankings is full of shit. Google's algorithm changes constantly, and local pack rankings depend on dozens of factors (some outside our control). What we can guarantee: we'll optimize every element, stay active with posts and photos, manage reviews properly, and give you the best possible shot at ranking. Most of our clients see significant improvement within 90 days."
+  },
+  {
+    question: "Do I really need to post every week?",
+    answer: "You don't need to, but it helps significantly. Google rewards active profiles. Weekly posts signal that you're a real, active business. It's not the #1 ranking factor, but it's an easy win that most competitors ignore. We handle it for you, so it doesn't add work to your plate."
+  },
+  {
+    question: "What if I get a bad review?",
+    answer: "We respond to every review—good and bad. A professional response to a negative review actually builds more trust than having zero bad reviews (which looks fake). We help you handle negative feedback constructively and get more positive reviews to bury the occasional bad one. Reviews are part of the game; how you handle them is what matters."
+  },
+  {
+    question: "Is this just SEO?",
+    answer: "No. GBP optimization overlaps with local SEO, but it's specifically focused on your Google Business Profile. SEO is broader—website optimization, content creation, technical fixes, etc. GBP is the Map Pack, your profile features, reviews, and posts. They work together, but they're different services."
+  },
+  {
+    question: "Can I do this myself?",
+    answer: "Sure. Just like you could do your own bookkeeping. But do you have time to post weekly, respond to reviews, upload photos, monitor Q&A, adjust categories, track performance, and stay on top of algorithm changes? We handle all of it so you can focus on running jobs and closing deals."
+  }
 ];
 ---
 
@@ -44,16 +73,17 @@ const breadcrumbs = [
     url={canonical}
     image={image}
   />
+  <FAQSchema slot="head" faqs={faqs} />
   <section>
     <Hero
+      backgroundImage="https://RebelApeCDN.b-cdn.net/bg-gorilla-direct.webp"
       title="Own the <span class='text-rebel-green'>Map Pack</span>"
       subtitle="Dominate Local Search. <span class='text-rebel-green'>Get More Calls.</span>"
-      description="Optimize your Google Business Profile to show up first when customers search for contractors in your area."
-      backgroundImage="https://RebelApeCDN.b-cdn.net/Rebel%20Website/Homepage/UOMC-bg.webp"
+      description="Your Google Business Profile is your <strong>second-biggest lead source</strong>—if you actually use it. We optimize, manage, and keep it active so you <strong>show up when customers search.</strong>"
       features={[
-        'Top 3 Map Pack Rankings',
-        '5-Star Review Strategy',
-        'Profile Optimization'
+        'Map Pack Domination',
+        'Weekly Posts & Updates',
+        'Review Management'
       ]}
       buttonText="Get a Free Profile Audit"
       buttonIcon="calendar"
@@ -61,67 +91,385 @@ const breadcrumbs = [
       fetchpriority="high"
     />
     <SocialProofBar />
-  </section>
 
-  <!-- What We Do -->
-  <section class="py-16 bg-white">
-    <div class="max-w-7xl mx-auto px-6">
-      <div class="max-w-3xl mx-auto text-center mb-12">
-        <h2 class="text-4xl md:text-5xl font-black mb-4">Show Up Where Customers Are Looking</h2>
-        <p class="text-xl text-gray-600">Most local searches happen on Google Maps. We make sure you're at the top.</p>
+    <!-- Section 1: Most Contractors Claim Their Profile and Call It Done -->
+    <section class="py-16 md:py-24 section-checkers">
+      <div class="max-w-7xl mx-auto px-4">
+        <div class="grid grid-cols-1 lg:grid-cols-3 gap-12 lg:gap-16 items-stretch">
+          <!-- Text: 2/3 width -->
+          <div class="order-2 lg:order-1 lg:col-span-2">
+            <h2 class="text-4xl md:text-5xl font-bold mb-6">
+              Most Contractors <span class="text-rebel-green">Claim Their Profile</span> and Call It Done
+            </h2>
+            <p class="text-lg text-gray-700 mb-6">
+              Here's what usually happens: contractor creates a Google Business Profile, adds their business name and address, maybe uploads one photo, and never touches it again. Then they wonder why competitors show up in the Map Pack and they don't.
+            </p>
+            <p class="text-lg text-gray-700 mb-6">
+              Your GBP isn't a one-time setup. It's an ongoing lead generation machine—if you actually use it. Weekly posts signal activity to Google. Fresh photos show you're legitimate. Review responses build trust. Proper categories and service areas determine if you even show up in relevant searches.
+            </p>
+            <p class="text-lg text-gray-700 mb-8">
+              Most contractors are leaving their second-biggest lead source completely untapped. We don't let that happen.
+            </p>
+            <ul class="space-y-4 mb-8">
+              <li class="flex gap-3">
+                <span class="text-[#32C55F] text-xl font-bold">✓</span>
+                <span class="text-gray-700"><strong>Map Pack Dominance:</strong> Show up in that top 3 when people search "[service] near me"</span>
+              </li>
+              <li class="flex gap-3">
+                <span class="text-[#32C55F] text-xl font-bold">✓</span>
+                <span class="text-gray-700"><strong>Mobile-First Visibility:</strong> Most searches happen on phones—your GBP is the first thing they see</span>
+              </li>
+              <li class="flex gap-3">
+                <span class="text-[#32C55F] text-xl font-bold">✓</span>
+                <span class="text-gray-700"><strong>Trust Signals:</strong> Photos, reviews, and Q&A build instant credibility before they even click</span>
+              </li>
+              <li class="flex gap-3">
+                <span class="text-[#32C55F] text-xl font-bold">✓</span>
+                <span class="text-gray-700"><strong>Free Lead Source:</strong> It costs nothing to optimize, but most contractors still don't do it</span>
+              </li>
+            </ul>
+            <p class="text-gray-700">
+              This isn't rocket science. It's consistent optimization, active management, and knowing what Google actually looks at when ranking local businesses. We handle all of it so you don't have to think about it.
+            </p>
+          </div>
+
+          <!-- Image: 1/3 width on desktop, full width on mobile -->
+          <div class="order-1 lg:order-2 flex">
+            <img
+              src="https://RebelApeCDN.b-cdn.net/featured-google-business-profile.webp"
+              alt="Google Business Profile Optimization"
+              class="w-full h-auto lg:h-full object-cover rounded-lg"
+              loading="lazy"
+              width="600"
+              height="400"
+            />
+          </div>
+        </div>
       </div>
+    </section>
 
-      <div class="grid md:grid-cols-3 gap-8">
-        <div class="bg-slate-50 p-8 rounded-lg">
-          <h3 class="text-2xl font-bold mb-4">Profile Optimization</h3>
-          <p class="text-gray-600">Complete setup with the right categories, hours, services, and descriptions that help you rank higher in local search.</p>
+    <!-- Section 2: How We Actually Optimize Your Profile -->
+    <section class="py-16 md:py-24 section-slate">
+      <div class="max-w-7xl mx-auto px-4">
+        <!-- Centered Header -->
+        <div class="text-center mb-12">
+          <h2 class="text-4xl md:text-5xl font-bold mb-6">
+            Our Process: <span class="text-rebel-green">Active Management</span>, Not Set-It-and-Forget-It
+          </h2>
+          <p class="text-lg md:text-xl text-gray-700 max-w-4xl mx-auto">
+            Most agencies "optimize" your GBP once and charge you a monthly fee to do nothing. We treat it like what it is—a lead generation channel that needs consistent attention. Every week, we're posting updates. Every month, we're adding fresh photos. Every review gets a response. Every new service or area gets added immediately. Your profile stays active, relevant, and optimized for exactly what customers are searching for.
+          </p>
         </div>
 
-        <div class="bg-slate-50 p-8 rounded-lg">
-          <h3 class="text-2xl font-bold mb-4">Review Management</h3>
-          <p class="text-gray-600">Get more 5-star reviews and respond to all feedback. Reviews are one of the biggest ranking factors for local search.</p>
+        <!-- Mobile image - shown only on mobile -->
+        <div class="lg:hidden mb-8">
+          <img
+            src="https://RebelApeCDN.b-cdn.net/featured-locations.webp"
+            alt="GBP Optimization Process"
+            class="w-full h-auto object-cover rounded-lg"
+            loading="lazy"
+            width="600"
+            height="400"
+          />
         </div>
 
-        <div class="bg-slate-50 p-8 rounded-lg">
-          <h3 class="text-2xl font-bold mb-4">Regular Updates</h3>
-          <p class="text-gray-600">Posts, photos, and updates that keep your profile active and engaging. Google rewards businesses that stay active.</p>
+        <div class="grid grid-cols-1 lg:grid-cols-3 gap-12 lg:gap-16 items-stretch">
+          <!-- Image: 1/3 width, full height - desktop only -->
+          <div class="hidden lg:flex">
+            <img
+              src="https://RebelApeCDN.b-cdn.net/featured-locations.webp"
+              alt="GBP Optimization Process"
+              class="w-full h-full object-cover rounded-lg"
+              loading="lazy"
+              width="600"
+              height="400"
+            />
+          </div>
+
+          <!-- Process Cards: 2/3 width -->
+          <div class="lg:col-span-2 space-y-4">
+            <div class="bg-white p-6 rounded-lg border-l-4 border-[#32C55F] shadow-2xl">
+              <h3 class="text-xl font-bold mb-2">Complete Profile Optimization</h3>
+              <p class="text-gray-700">
+                We optimize every single element Google looks at: business name, categories (primary and secondary), service areas, business description, hours, attributes, services list, and booking links. Most contractors have half of these blank or wrong. We make sure everything is dialed in.
+              </p>
+            </div>
+
+            <div class="bg-white p-6 rounded-lg border-l-4 border-[#32C55F] shadow-2xl">
+              <h3 class="text-xl font-bold mb-2">Weekly Posts & Updates</h3>
+              <p class="text-gray-700">
+                Google rewards active profiles. We post weekly updates—services, promotions, projects, anything that signals you're a real, active business. Most competitors post once every six months (if at all). That's an easy win.
+              </p>
+            </div>
+
+            <div class="bg-white p-6 rounded-lg border-l-4 border-[#32C55F] shadow-2xl">
+              <h3 class="text-xl font-bold mb-2">Photo Management</h3>
+              <p class="text-gray-700">
+                Fresh photos of completed jobs, your team, your vehicles—all of it builds trust and signals activity. We manage your photo library and add new images regularly. Customers want to see what you actually do, not stock photos.
+              </p>
+            </div>
+
+            <div class="bg-white p-6 rounded-lg border-l-4 border-[#32C55F] shadow-2xl">
+              <h3 class="text-xl font-bold mb-2">Review Strategy & Response</h3>
+              <p class="text-gray-700">
+                Reviews are currency in local search. We help you get more 5-star reviews (legitimately, no fake BS), respond to every review (good and bad), and use reviews to build trust with future customers. Most contractors ignore this completely.
+              </p>
+            </div>
+          </div>
         </div>
       </div>
-    </div>
-  </section>
+    </section>
 
-  <!-- Why GBP Matters -->
-  <section class="py-16 bg-slate-100">
-    <div class="max-w-7xl mx-auto px-6">
-      <div class="max-w-3xl mx-auto">
-        <h2 class="text-4xl md:text-5xl font-black mb-8 text-center">Why Your Google Business Profile Matters</h2>
+    <!-- Section 3: GBP + Website + Ads = Complete Local Domination -->
+    <section class="py-16 md:py-24 section-checkers">
+      <div class="max-w-7xl mx-auto px-4">
+        <div class="grid grid-cols-1 lg:grid-cols-3 gap-12 lg:gap-16 items-stretch">
+          <!-- Text: 2/3 width -->
+          <div class="order-2 lg:order-1 lg:col-span-2">
+            <h2 class="text-4xl md:text-5xl font-bold mb-6">
+              Why GBP Works Best <span class="text-rebel-green">With Your Full System</span>
+            </h2>
+            <p class="text-lg text-gray-700 mb-6">
+              Your Google Business Profile doesn't work in isolation. When it's optimized alongside your website and ads, everything amplifies. People see your ad, check your GBP for reviews, and land on your website ready to call. Or they search organically, see you in the Map Pack, and call directly from your profile.
+            </p>
+            <p class="text-lg text-gray-700 mb-8">
+              When all three work together—website converting, ads driving traffic, GBP building trust—you're not dependent on any single channel. You dominate local search from every angle.
+            </p>
+            <div class="space-y-4 mb-8">
+              <div class="bg-white p-6 rounded-lg border-l-4 border-[#32C55F] shadow-2xl">
+                <p class="font-semibold text-gray-900 text-lg mb-2">GBP + Website</p>
+                <p class="text-gray-700">When your website and GBP both rank, you own more real estate on page 1. Searchers see your business multiple times, building recognition and trust. Your website converts the click, your GBP builds the credibility.</p>
+              </div>
+              <div class="bg-white p-6 rounded-lg border-l-4 border-[#32C55F] shadow-2xl">
+                <p class="font-semibold text-gray-900 text-lg mb-2">GBP + Ads</p>
+                <p class="text-gray-700">Running ads without an optimized GBP is leaving money on the table. People click your ad, then check your reviews before calling. If your profile looks neglected, they bounce. If it's dialed in, they convert.</p>
+              </div>
+              <div class="bg-white p-6 rounded-lg border-l-4 border-[#32C55F] shadow-2xl">
+                <p class="font-semibold text-gray-900 text-lg mb-2">All Three Together</p>
+                <p class="text-gray-700">Website converts. Ads drive immediate traffic. GBP builds trust and ranks organically. When they all work together, your cost per lead drops, your close rate increases, and you dominate local search from every angle.</p>
+              </div>
+            </div>
+          </div>
+
+          <!-- Image: 1/3 width on desktop, full width on mobile -->
+          <div class="order-1 lg:order-2 flex">
+            <img
+              src="https://RebelApeCDN.b-cdn.net/website-gorilla-square.webp"
+              alt="Complete Local Domination System"
+              class="w-full h-auto lg:h-full object-cover rounded-lg shadow-2xl"
+              loading="lazy"
+              width="600"
+              height="400"
+            />
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Section 4: What's Actually Included -->
+    <section class="py-16 md:py-24 section-slate">
+      <div class="max-w-7xl mx-auto px-4">
+        <!-- Centered Header -->
+        <div class="text-center mb-12">
+          <h2 class="text-4xl md:text-5xl font-bold mb-6">
+            What You're Getting <span class="text-rebel-green">Every Month</span>
+          </h2>
+          <p class="text-lg md:text-xl text-gray-700 max-w-4xl mx-auto">
+            No "ongoing optimization" vagueness. Here's exactly what we do to keep your profile active and ranking:
+          </p>
+        </div>
+
+        <!-- Grid of Services -->
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+          <!-- Profile Setup & Optimization -->
+          <div class="bg-white p-6 rounded-lg shadow-lg">
+            <h3 class="text-xl font-bold mb-4 text-gray-900">Profile Setup & Optimization</h3>
+            <ul class="space-y-2 text-gray-700">
+              <li class="flex gap-2 items-start">
+                <span class="text-[#32C55F] text-lg">→</span>
+                <span>Complete profile audit and setup</span>
+              </li>
+              <li class="flex gap-2 items-start">
+                <span class="text-[#32C55F] text-lg">→</span>
+                <span>Primary and secondary category optimization</span>
+              </li>
+              <li class="flex gap-2 items-start">
+                <span class="text-[#32C55F] text-lg">→</span>
+                <span>Service area configuration</span>
+              </li>
+              <li class="flex gap-2 items-start">
+                <span class="text-[#32C55F] text-lg">→</span>
+                <span>Business hours and special hours</span>
+              </li>
+              <li class="flex gap-2 items-start">
+                <span class="text-[#32C55F] text-lg">→</span>
+                <span>Attributes and amenities setup</span>
+              </li>
+              <li class="flex gap-2 items-start">
+                <span class="text-[#32C55F] text-lg">→</span>
+                <span>Services list optimization</span>
+              </li>
+            </ul>
+          </div>
+
+          <!-- Weekly Activity -->
+          <div class="bg-white p-6 rounded-lg shadow-lg">
+            <h3 class="text-xl font-bold mb-4 text-gray-900">Weekly Activity</h3>
+            <ul class="space-y-2 text-gray-700">
+              <li class="flex gap-2 items-start">
+                <span class="text-[#32C55F] text-lg">→</span>
+                <span>Weekly posts (offers, updates, projects)</span>
+              </li>
+              <li class="flex gap-2 items-start">
+                <span class="text-[#32C55F] text-lg">→</span>
+                <span>New photo uploads</span>
+              </li>
+              <li class="flex gap-2 items-start">
+                <span class="text-[#32C55F] text-lg">→</span>
+                <span>Service updates as needed</span>
+              </li>
+              <li class="flex gap-2 items-start">
+                <span class="text-[#32C55F] text-lg">→</span>
+                <span>Q&A monitoring and responses</span>
+              </li>
+              <li class="flex gap-2 items-start">
+                <span class="text-[#32C55F] text-lg">→</span>
+                <span>Holiday hours management</span>
+              </li>
+              <li class="flex gap-2 items-start">
+                <span class="text-[#32C55F] text-lg">→</span>
+                <span>Special event posts</span>
+              </li>
+            </ul>
+          </div>
+
+          <!-- Review Management -->
+          <div class="bg-white p-6 rounded-lg shadow-lg">
+            <h3 class="text-xl font-bold mb-4 text-gray-900">Review Management</h3>
+            <ul class="space-y-2 text-gray-700">
+              <li class="flex gap-2 items-start">
+                <span class="text-[#32C55F] text-lg">→</span>
+                <span>Review generation strategy</span>
+              </li>
+              <li class="flex gap-2 items-start">
+                <span class="text-[#32C55F] text-lg">→</span>
+                <span>Response to all reviews (good and bad)</span>
+              </li>
+              <li class="flex gap-2 items-start">
+                <span class="text-[#32C55F] text-lg">→</span>
+                <span>Review monitoring and alerts</span>
+              </li>
+              <li class="flex gap-2 items-start">
+                <span class="text-[#32C55F] text-lg">→</span>
+                <span>Review funnel optimization</span>
+              </li>
+              <li class="flex gap-2 items-start">
+                <span class="text-[#32C55F] text-lg">→</span>
+                <span>Reputation management</span>
+              </li>
+              <li class="flex gap-2 items-start">
+                <span class="text-[#32C55F] text-lg">→</span>
+                <span>Competitive review analysis</span>
+              </li>
+            </ul>
+          </div>
+
+          <!-- Performance Tracking -->
+          <div class="bg-white p-6 rounded-lg shadow-lg">
+            <h3 class="text-xl font-bold mb-4 text-gray-900">Performance Tracking</h3>
+            <ul class="space-y-2 text-gray-700">
+              <li class="flex gap-2 items-start">
+                <span class="text-[#32C55F] text-lg">→</span>
+                <span>Monthly ranking reports (Map Pack position)</span>
+              </li>
+              <li class="flex gap-2 items-start">
+                <span class="text-[#32C55F] text-lg">→</span>
+                <span>Search visibility metrics</span>
+              </li>
+              <li class="flex gap-2 items-start">
+                <span class="text-[#32C55F] text-lg">→</span>
+                <span>Review growth tracking</span>
+              </li>
+              <li class="flex gap-2 items-start">
+                <span class="text-[#32C55F] text-lg">→</span>
+                <span>Photo view analytics</span>
+              </li>
+              <li class="flex gap-2 items-start">
+                <span class="text-[#32C55F] text-lg">→</span>
+                <span>Action metrics (calls, directions, clicks)</span>
+              </li>
+              <li class="flex gap-2 items-start">
+                <span class="text-[#32C55F] text-lg">→</span>
+                <span>Competitive position analysis</span>
+              </li>
+            </ul>
+          </div>
+
+          <!-- Ongoing Optimization -->
+          <div class="bg-white p-6 rounded-lg shadow-lg md:col-span-2 lg:col-span-2">
+            <h3 class="text-xl font-bold mb-4 text-gray-900">Ongoing Optimization</h3>
+            <div class="grid grid-cols-1 md:grid-cols-2 gap-x-8 gap-y-2">
+              <ul class="space-y-2 text-gray-700">
+                <li class="flex gap-2 items-start">
+                  <span class="text-[#32C55F] text-lg">→</span>
+                  <span>Category adjustments based on performance</span>
+                </li>
+                <li class="flex gap-2 items-start">
+                  <span class="text-[#32C55F] text-lg">→</span>
+                  <span>Service area expansion as you grow</span>
+                </li>
+                <li class="flex gap-2 items-start">
+                  <span class="text-[#32C55F] text-lg">→</span>
+                  <span>Description updates for seasonal services</span>
+                </li>
+              </ul>
+              <ul class="space-y-2 text-gray-700">
+                <li class="flex gap-2 items-start">
+                  <span class="text-[#32C55F] text-lg">→</span>
+                  <span>Competitor monitoring</span>
+                </li>
+                <li class="flex gap-2 items-start">
+                  <span class="text-[#32C55F] text-lg">→</span>
+                  <span>Algorithm update adjustments</span>
+                </li>
+                <li class="flex gap-2 items-start">
+                  <span class="text-[#32C55F] text-lg">→</span>
+                  <span>New feature implementation</span>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="py-16 md:py-24 section-checkers">
+      <CaseStudy />
+    </section>
+
+    <section class="py-16 md:py-24 section-slate">
+      <TestimonialsDefault />
+    </section>
+
+    <!-- FAQ Section -->
+    <section class="py-16 md:py-24 section-checkers">
+      <div class="max-w-4xl mx-auto px-4">
+        <div class="text-center mb-12">
+          <h2 class="text-4xl md:text-5xl font-bold mb-6">
+            Frequently Asked <span class="text-rebel-green">Questions</span>
+          </h2>
+        </div>
 
         <div class="space-y-6">
-          <div class="bg-white p-6 rounded-lg">
-            <h3 class="text-xl font-bold mb-2">The Map Pack is Everything</h3>
-            <p class="text-gray-600">The top 3 businesses in Google Maps get the majority of clicks. We optimize your profile to get you in that coveted spot.</p>
-          </div>
-
-          <div class="bg-white p-6 rounded-lg">
-            <h3 class="text-xl font-bold mb-2">Mobile-First</h3>
-            <p class="text-gray-600">Most local searches happen on mobile. Your Google Business Profile is the first thing customers see when they need your services.</p>
-          </div>
-
-          <div class="bg-white p-6 rounded-lg">
-            <h3 class="text-xl font-bold mb-2">Build Trust Fast</h3>
-            <p class="text-gray-600">Photos, reviews, and Q&A build instant credibility. A fully optimized profile makes customers confident to call you.</p>
-          </div>
-
-          <div class="bg-white p-6 rounded-lg">
-            <h3 class="text-xl font-bold mb-2">It's Free</h3>
-            <p class="text-gray-600">Google Business Profile is completely free. Not optimizing it is leaving money on the table.</p>
-          </div>
+          {faqs.map((faq) => (
+            <div class="bg-white p-6 rounded-lg shadow-lg border-l-4 border-[#32C55F]">
+              <h3 class="text-xl font-bold mb-3 text-gray-900">{faq.question}</h3>
+              <p class="text-gray-700">{faq.answer}</p>
+            </div>
+          ))}
         </div>
       </div>
-    </div>
+    </section>
+
   </section>
-
-  <CaseStudy />
-  <TestimonialsDefault />
-
 </Base>
