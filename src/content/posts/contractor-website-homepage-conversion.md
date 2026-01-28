@@ -8,7 +8,7 @@ lastModified: "2026-01-28T09:00:00-07:00"
 author: "Adam Miconi"
 image: "https://RebelApeCDN.b-cdn.net/featured-contractor-homepage-conversion.webp"
 canonicalUrl: "https://therebelape.com/blog/contractor-website-homepage-conversion/"
-category: "Home Services Marketing"
+categories: ["Home Services Marketing"]
 tags: ["contractor marketing", "website design", "conversion optimization", "home service marketing", "landing pages"]
 draft: false
 ---
