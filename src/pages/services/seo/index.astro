@@ -4,15 +4,15 @@ import Hero from '../../../components/sections/Hero.astro';
 import SocialProofBar from '../../../components/sections/SocialProofBar.astro';
 import CaseStudy from '../../../components/sections/CaseStudy.astro';
 import TestimonialsDefault from '../../../components/testimonials/TestimonialsDefault.astro';
-import FAQdefault from '../../../components/faqs/FAQdefault.astro';
 import OrganizationSchema from '../../../components/schema/OrganizationSchema.astro';
 import ServiceSchema from '../../../components/schema/ServiceSchema.astro';
 import BreadcrumbSchema from '../../../components/schema/BreadcrumbSchema.astro';
 import WebPageSchema from '../../../components/schema/WebPageSchema.astro';
+import FAQSchema from '../../../components/schema/FAQSchema.astro';
 
 // SEO
 const title = "SEO Services for Contractors | Rebel Ape";
-const description = "Local SEO and organic search strategies that get contractors found by customers actively searching for their services. Real rankings, real traffic, real leads.";
+const description = "Authority-first SEO that builds long-term dominance. Local SEO, Answer Engine Optimization, and organic search strategies that compound over time. 6-8 months to momentum, but it lasts forever.";
 const canonical = "https://therebelape.com/services/seo/";
 const image = "https://RebelApeCDN.b-cdn.net/featured-seo.webp";
 const type = "website";
@@ -23,6 +23,30 @@ const breadcrumbs = [
   { name: "Home", url: "https://therebelape.com/" },
   { name: "Services", url: "https://therebelape.com/services/" },
   { name: "SEO", url: canonical }
+];
+
+// FAQ Data for Schema and Display
+const faqs = [
+  {
+    question: "How long does SEO actually take?",
+    answer: "Real talk: 6-8 months minimum before you see serious results. Anyone promising top rankings in 30 days is either using black hat tactics that'll get you penalized, or they're full of shit. SEO is a marathon. Month 3 shows early movement. Month 6 shows real traction. Month 12 shows compound growth. That's why we usually pair it with ads—you need leads now, not in 8 months."
+  },
+  {
+    question: "Can I do SEO without running ads?",
+    answer: "Absolutely. If you've got lead flow handled through referrals or other marketing, we can do SEO standalone. Just know the timeline—it's not going to solve an immediate lead problem. But if you're playing the long game and want to build lasting authority in your market, SEO-only works."
+  },
+  {
+    question: "Why is your SEO different from other agencies?",
+    answer: "Most agencies pump out AI-generated content that sounds like everyone else, chase quick rankings with sketchy tactics, or promise results they can't deliver. We build actual authority. Human-driven strategy. Content that positions you as the expert. Optimized for traditional search and answer engines. We tell you the truth about timelines instead of making guru promises."
+  },
+  {
+    question: "What about Answer Engine Optimization (AEO)?",
+    answer: "It's the evolution of SEO. Google's AI Overviews, ChatGPT, Perplexity—they're all pulling from somewhere. We optimize your content so you show up in those AI-generated answers, not just traditional search results. That's authority building for where search is going, not where it's been."
+  },
+  {
+    question: "Do I need SEO if I'm running ads?",
+    answer: "Need? No. Should you? Yes. Ads get you leads now. SEO builds authority that compounds over time. When both work together, your cost per lead drops (better quality scores), your brand recognition increases, and you're not dependent on one channel. Plus, organic traffic doesn't stop when you pause ad spend."
+  }
 ];
 ---
 
@@ -45,196 +69,429 @@ const breadcrumbs = [
     url={canonical}
     image={image}
   />
+  <FAQSchema slot="head" faqs={faqs} />
 
   <section>
     <Hero
       backgroundImage="https://RebelApeCDN.b-cdn.net/bg-gorilla-direct.webp"
-      title="Get Found When <span class='text-rebel-green'>Customers Are Searching</span>"
-      subtitle="Local SEO That Puts You At The Top When It Matters Most."
-      description="We don't chase vanity rankings. We optimize for <strong>high-intent local searches</strong> that drive phone calls. Your customers are searching—<strong>let's make sure they find you first.</strong>"
+      title="Build Authority That Ranks. <span class='text-rebel-green'>Dominate Long-Term.</span>"
+      subtitle="Month 6-8+ Before Real Momentum. <span class='text-rebel-green'>But It Compounds Forever.</span>"
+      description="SEO isn't about gaming Google for quick wins. It's about building the kind of authority that makes you impossible to ignore—in search, in AI responses, and in your market. That takes 6-8 months minimum. <strong>But once it kicks in? It compounds.</strong>"
       features={[
-        'Google Business Profile Optimization',
-        'Local Search Domination',
-        'Technical SEO That Works'
+        'Authority That Lasts Years, Not Months',
+        'Local Dominance (Map Pack + Organic)',
+        'Built-In Answer Engine Optimization'
       ]}
-      buttonText="Get a Free SEO Audit"
+      buttonText="Schedule Strategy Session"
       buttonIcon="calendar"
       buttonHref="/schedule/"
       fetchpriority="high"
     />
     <SocialProofBar />
 
-
-    <!-- Local SEO Section -->
+    <!-- Section 1: Why Authority-First SEO Matters -->
     <section class="py-16 md:py-24 section-checkers">
       <div class="max-w-7xl mx-auto px-4">
-        <div class="grid grid-cols-1 lg:grid-cols-2 gap-12 lg:gap-16 items-stretch">
-          <!-- Image: 50% width on desktop -->
-          <div class="flex">
-            <img
-              src="https://RebelApeCDN.b-cdn.net/featured-what-is-seo-updated.webp"
-              alt="Local SEO Results for Contractors"
-              class="w-full h-full object-cover rounded-lg"
-              loading="lazy"
-              width="600"
-              height="400"
-            />
-          </div>
-
-          <!-- Text: 50% width on desktop -->
-          <div>
+        <div class="grid grid-cols-1 lg:grid-cols-3 gap-12 lg:gap-16 items-stretch">
+          <!-- Text: 2/3 width -->
+          <div class="order-2 lg:order-1 lg:col-span-2">
             <h2 class="text-4xl md:text-5xl font-bold mb-6">
-              <span class="text-rebel-green">Local SEO</span> That Dominates
+              Most Contractors Want <span class="text-rebel-green">Quick Rankings</span>. Smart Ones Build Authority.
             </h2>
             <p class="text-lg text-gray-700 mb-6">
-              When someone searches "plumber near me" or "HVAC repair [your city]," where does your business show up? If it's not in the top 3, you're losing calls to your competition. We fix that.
+              Here's the truth: SEO takes time. Real, legitimate, Google-won't-penalize-you SEO takes 6-8 months before you see serious momentum. Anyone promising #1 rankings in 30 days is either lying or using tactics that'll get you buried when Google catches on.
+            </p>
+            <p class="text-lg text-gray-700 mb-6">
+              But here's what most agencies miss: you're not just trying to rank a website. You're building authority in your market. You're positioning yourself as the expert. You're creating the kind of presence that shows up in Google search, Google AI overviews, and every answer engine that's coming next.
+            </p>
+            <p class="text-lg text-gray-700 mb-8">
+              That authority compounds. Month 12 is better than month 6. Year 2 is better than year 1. And unlike paid ads that stop the second you stop paying, your authority keeps working.
             </p>
             <ul class="space-y-4 mb-8">
               <li class="flex gap-3">
                 <span class="text-[#32C55F] text-xl font-bold">✓</span>
-                <span class="text-gray-700"><strong>Google Business Profile:</strong> Optimized to rank in the Map Pack and local searches</span>
+                <span class="text-gray-700"><strong>Long-Term Compound Growth:</strong> Rankings improve month over month as authority builds</span>
               </li>
               <li class="flex gap-3">
                 <span class="text-[#32C55F] text-xl font-bold">✓</span>
-                <span class="text-gray-700"><strong>Citation Building:</strong> Consistent business info across directories that Google trusts</span>
+                <span class="text-gray-700"><strong>Answer Engine Ready:</strong> Optimized for AI overviews and voice search, not just traditional results</span>
               </li>
               <li class="flex gap-3">
                 <span class="text-[#32C55F] text-xl font-bold">✓</span>
-                <span class="text-gray-700"><strong>Review Management:</strong> More reviews, better rankings, higher trust</span>
+                <span class="text-gray-700"><strong>Market Positioning:</strong> You're not just found—you're recognized as the authority</span>
               </li>
               <li class="flex gap-3">
                 <span class="text-[#32C55F] text-xl font-bold">✓</span>
-                <span class="text-gray-700"><strong>Local Content:</strong> Service pages and blogs targeting your exact service area</span>
+                <span class="text-gray-700"><strong>Sustainable Traffic:</strong> Unlike ads, your traffic doesn't disappear when budget runs out</span>
               </li>
             </ul>
-            <p class="text-gray-700 mb-8">
-              Local SEO isn't a one-time setup. It's ongoing optimization, review acquisition, and strategic content that keeps you ranking while your competitors wonder why their phone stopped ringing.
+            <p class="text-gray-700">
+              This is why we usually pair SEO with Google Ads. Ads get your phone ringing now. SEO builds the authority that keeps it ringing for years.
             </p>
+          </div>
+
+          <!-- Image: 1/3 width on desktop, full width on mobile -->
+          <div class="order-1 lg:order-2 flex">
+            <img
+              src="https://RebelApeCDN.b-cdn.net/featured-seo.webp"
+              alt="Authority-First SEO Strategy"
+              class="w-full h-auto lg:h-full object-cover rounded-lg"
+              loading="lazy"
+              width="600"
+              height="400"
+            />
           </div>
         </div>
       </div>
     </section>
 
-    <!-- Technical SEO Section -->
+    <!-- Section 2: How We Build Your Long-Term Dominance -->
     <section class="py-16 md:py-24 section-slate">
       <div class="max-w-7xl mx-auto px-4">
-        <div class="grid grid-cols-1 lg:grid-cols-2 gap-12 lg:gap-16 items-stretch">
-          <!-- Text: 50% width on desktop (right side) -->
-          <div class="order-2 lg:order-1">
-            <h2 class="text-4xl md:text-5xl font-bold mb-6">
-              Technical SEO, <span class="text-rebel-green">Handled</span>
-            </h2>
-            <p class="text-lg text-gray-700 mb-6">
-              Google doesn't rank slow, broken websites. If your site takes forever to load, isn't mobile-friendly, or has technical issues, you're already losing the SEO game before it starts.
-            </p>
+        <!-- Centered Header -->
+        <div class="text-center mb-12">
+          <h2 class="text-4xl md:text-5xl font-bold mb-6">
+            Our Process: <span class="text-rebel-green">Authority First</span>, Rankings Follow
+          </h2>
+          <p class="text-lg md:text-xl text-gray-700 max-w-4xl mx-auto">
+            Most agencies treat SEO like a checklist. Stuff keywords in pages. Build some backlinks. Call it done. That's why their clients see rankings bounce around and never really dominate. We build authority systematically. Every piece works together—local presence, technical foundation, content positioning, and strategic link building. It's not fast. But it's permanent.
+          </p>
+        </div>
 
-            <div class="mb-8 pb-8 border-b border-gray-300">
-              <h3 class="text-2xl font-bold mb-3">Speed Matters</h3>
-              <p class="text-gray-700 mb-3">
-                Every second your site takes to load, you lose conversions. Worse, Google penalizes slow sites in search rankings. We optimize for speed—both for Google and your customers.
-              </p>
-              <ul class="space-y-2 text-gray-700">
-                <li class="flex gap-3 items-center">
-                  <span class="text-[#32C55F] text-lg">→</span>
-                  <span>Lightning-fast load times under 2 seconds</span>
-                </li>
-                <li class="flex gap-3 items-center">
-                  <span class="text-[#32C55F] text-lg">→</span>
-                  <span>Mobile-first indexing optimization</span>
-                </li>
-                <li class="flex gap-3 items-center">
-                  <span class="text-[#32C55F] text-lg">→</span>
-                  <span>Image optimization and lazy loading</span>
-                </li>
-                <li class="flex gap-3 items-center">
-                  <span class="text-[#32C55F] text-lg">→</span>
-                  <span>Clean code, no bloat, no broken links</span>
-                </li>
-              </ul>
-            </div>
+        <!-- Mobile image - shown only on mobile -->
+        <div class="lg:hidden mb-8">
+          <img
+            src="https://RebelApeCDN.b-cdn.net/featured-locations.webp"
+            alt="SEO Process and Authority Building"
+            class="w-full h-auto object-cover rounded-lg"
+            loading="lazy"
+            width="600"
+            height="400"
+          />
+        </div>
 
-            <div class="mb-8">
-              <h3 class="text-2xl font-bold mb-3">Schema & Structured Data</h3>
-              <p class="text-gray-700 mb-3">
-                We implement schema markup that tells Google exactly what your business does, where you serve, and what customers say about you. This helps you appear in rich results and builds trust.
-              </p>
-              <p class="text-gray-700">
-                Most contractors ignore this. We don't. It's another edge that separates you from competitors stuck on page 2.
-              </p>
-            </div>
-          </div>
-
-          <!-- Image: 50% width on desktop (left side) -->
-          <div class="order-1 lg:order-2 flex">
+        <div class="grid grid-cols-1 lg:grid-cols-3 gap-12 lg:gap-16 items-stretch">
+          <!-- Image: 1/3 width, full height - desktop only -->
+          <div class="hidden lg:flex">
             <img
-              src="https://RebelApeCDN.b-cdn.net/featured-when-to-delegate-marketing-to-experts.webp"
-              alt="Technical SEO Optimization"
+              src="https://RebelApeCDN.b-cdn.net/featured-locations.webp"
+              alt="SEO Process and Authority Building"
               class="w-full h-full object-cover rounded-lg"
               loading="lazy"
               width="600"
               height="400"
             />
           </div>
-        </div>
-      </div>
-    </section>
 
-    <!-- Content Strategy Section -->
-    <section class="py-16 md:py-24 section-checkers">
-      <div class="max-w-7xl mx-auto px-4">
-        <div class="grid grid-cols-1 lg:grid-cols-2 gap-12 lg:gap-16 items-stretch">
-          <!-- Image - comes first on mobile, left on desktop -->
-          <div class="order-1 flex">
-            <img
-              src="https://RebelApeCDN.b-cdn.net/featured-social-media-marketing-for-plumbers.webp"
-              alt="SEO Content Strategy for Contractors"
-              class="w-full h-full object-cover rounded-lg shadow-2xl"
-              loading="lazy"
-              width="600"
-              height="400"
-            />
-          </div>
+          <!-- Process Cards: 2/3 width -->
+          <div class="lg:col-span-2 space-y-4">
+            <div class="bg-white p-6 rounded-lg border-l-4 border-[#32C55F] shadow-2xl">
+              <h3 class="text-xl font-bold mb-2">Local SEO Domination</h3>
+              <p class="text-gray-700">
+                Your Google Business Profile is often your second-biggest lead source after your website. We optimize every element—categories, service areas, posts, photos, reviews—to dominate the Map Pack. Because showing up in that 3-pack means you're already ahead of 90% of competitors.
+              </p>
+            </div>
 
-          <!-- Text - comes second on mobile, right on desktop -->
-          <div class="order-2">
-            <h2 class="text-4xl md:text-5xl font-bold mb-6">
-              Content That <span class="text-rebel-green">Ranks & Converts</span>
-            </h2>
-            <p class="text-xl text-gray-700 mb-6">
-              Blog posts just to have blog posts? Waste of time. We create content that targets high-intent keywords your customers are actually searching for.
-            </p>
-            <p class="text-lg text-gray-700 mb-8">
-              Every service page is optimized for search. Every blog post is designed to rank and drive traffic. No fluff, no filler—just content that brings in leads.
-            </p>
-            <div class="space-y-4 mb-8">
-              <div class="bg-white p-4 rounded-lg border-l-4 border-[#32C55F] shadow-2xl">
-                <p class="font-semibold text-gray-900">Keyword Research</p>
-                <p class="text-gray-700">We find what your customers are searching for and build content around it.</p>
-              </div>
-              <div class="bg-white p-4 rounded-lg border-l-4 border-[#32C55F] shadow-2xl">
-                <p class="font-semibold text-gray-900">Service Page Optimization</p>
-                <p class="text-gray-700">Each service you offer gets its own optimized page targeting specific searches.</p>
-              </div>
-              <div class="bg-white p-4 rounded-l-4 border-[#32C55F] shadow-2xl">
-                <p class="font-semibold text-gray-900">Strategic Blog Content</p>
-                <p class="text-gray-700">Educational posts that rank for questions your customers ask—and lead them to call you.</p>
-              </div>
+            <div class="bg-white p-6 rounded-lg border-l-4 border-[#32C55F] shadow-2xl">
+              <h3 class="text-xl font-bold mb-2">Authority-Building Content</h3>
+              <p class="text-gray-700">
+                We create service pages and location pages that don't just rank—they position you as the expert. Written for humans first, Google second. Optimized for traditional search and AI answer engines. No AI-regurgitated generic content that sounds like everyone else.
+              </p>
+            </div>
+
+            <div class="bg-white p-6 rounded-lg border-l-4 border-[#32C55F] shadow-2xl">
+              <h3 class="text-xl font-bold mb-2">Technical Foundation</h3>
+              <p class="text-gray-700">
+                Fast load times. Mobile-perfect responsive design. Clean code. Proper schema markup. All the technical stuff contractors don't care about but Google does. We handle it so you don't have to think about it.
+              </p>
+            </div>
+
+            <div class="bg-white p-6 rounded-lg border-l-4 border-[#32C55F] shadow-2xl">
+              <h3 class="text-xl font-bold mb-2">Strategic Link Building</h3>
+              <p class="text-gray-700">
+                We build backlinks from industry-relevant sites and local directories that actually matter. Not spammy forum posts or sketchy link farms. Real authority signals that Google respects.
+              </p>
             </div>
           </div>
         </div>
       </div>
     </section>
 
-    <section class={`py-16 md:py-24 section-slate`}>
+    <!-- Section 3: SEO + Ads = Complete Lead System -->
+    <section class="py-16 md:py-24 section-checkers">
+      <div class="max-w-7xl mx-auto px-4">
+        <div class="grid grid-cols-1 lg:grid-cols-3 gap-12 lg:gap-16 items-stretch">
+          <!-- Text: 2/3 width -->
+          <div class="order-2 lg:order-1 lg:col-span-2">
+            <h2 class="text-4xl md:text-5xl font-bold mb-6">
+              Why We Usually <span class="text-rebel-green">Pair SEO With Ads</span>
+            </h2>
+            <p class="text-lg text-gray-700 mb-6">
+              SEO takes 6-8+ months to really kick in. Most contractors can't wait that long for leads. That's why we typically bundle SEO with Google Ads—ads get you leads now, SEO builds the authority that compounds over time.
+            </p>
+            <p class="text-lg text-gray-700 mb-8">
+              But here's the thing: you can absolutely do SEO as a standalone service. If you've got lead flow handled through referrals or existing marketing, and you just want to build long-term authority, we can do that. We just want you to know the timeline upfront.
+            </p>
+
+            <div class="space-y-4">
+              <div class="bg-white p-6 rounded-lg border-l-4 border-[#32C55F] shadow-2xl">
+                <p class="font-semibold text-gray-900 text-lg mb-2">The Immediate + Long-Term Play</p>
+                <p class="text-gray-700">Google Ads launch month 2 and start generating leads. SEO builds in the background. By month 8-12, your organic traffic is flowing and your cost per lead from ads drops because your quality score improved. That's the compound effect.</p>
+              </div>
+              <div class="bg-white p-6 rounded-lg border-l-4 border-[#32C55F] shadow-2xl">
+                <p class="font-semibold text-gray-900 text-lg mb-2">SEO-Only Works (If You Can Wait)</p>
+                <p class="text-gray-700">Got your lead flow handled for now? Want to invest in long-term authority without running ads? We can do SEO standalone. Just know it's a 6-8 month minimum commitment before you see real momentum.</p>
+              </div>
+              <div class="bg-white p-6 rounded-lg border-l-4 border-[#32C55F] shadow-2xl">
+                <p class="font-semibold text-gray-900 text-lg mb-2">Best of Both Worlds</p>
+                <p class="text-gray-700">When ads handle immediate leads and SEO builds long-term authority, you're not dependent on either one. Ads get more efficient as your organic presence grows. Organic keeps leads flowing even when you scale ads back.</p>
+              </div>
+            </div>
+          </div>
+
+          <!-- Image: 1/3 width on desktop, full width on mobile -->
+          <div class="order-1 lg:order-2 flex">
+            <img
+              src="https://RebelApeCDN.b-cdn.net/website-gorilla-square.webp"
+              alt="SEO and PPC Working Together"
+              class="w-full h-auto lg:h-full object-cover rounded-lg shadow-2xl"
+              loading="lazy"
+              width="600"
+              height="400"
+            />
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Section 4: What's Actually Included -->
+    <section class="py-16 md:py-24 section-slate">
+      <div class="max-w-7xl mx-auto px-4">
+        <div class="text-center mb-16">
+          <h2 class="text-4xl md:text-5xl font-bold mb-4">
+            What You're Actually Getting
+          </h2>
+          <p class="text-xl text-gray-700 max-w-4xl mx-auto">
+            No fluff. No "ongoing optimization" without explaining what that means. Here's exactly what we do:
+          </p>
+        </div>
+
+        <!-- Services Grid -->
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+          <!-- Google Business Profile -->
+          <div class="bg-white border border-gray-200 rounded-lg shadow-xl overflow-hidden">
+            <div class="h-1 bg-rebel-green"></div>
+            <div class="p-6">
+              <h3 class="text-xl font-bold mb-4">Google Business Profile</h3>
+              <ul class="space-y-2 text-gray-700">
+                <li class="flex gap-2 items-start">
+                  <span class="text-[#32C55F]">→</span>
+                  <span>Complete GBP optimization</span>
+                </li>
+                <li class="flex gap-2 items-start">
+                  <span class="text-[#32C55F]">→</span>
+                  <span>Weekly posts and updates</span>
+                </li>
+                <li class="flex gap-2 items-start">
+                  <span class="text-[#32C55F]">→</span>
+                  <span>Photo management</span>
+                </li>
+                <li class="flex gap-2 items-start">
+                  <span class="text-[#32C55F]">→</span>
+                  <span>Review monitoring and response strategy</span>
+                </li>
+                <li class="flex gap-2 items-start">
+                  <span class="text-[#32C55F]">→</span>
+                  <span>Service area and category optimization</span>
+                </li>
+              </ul>
+            </div>
+          </div>
+
+          <!-- Local SEO Foundation -->
+          <div class="bg-white border border-gray-200 rounded-lg shadow-xl overflow-hidden">
+            <div class="h-1 bg-rebel-green"></div>
+            <div class="p-6">
+              <h3 class="text-xl font-bold mb-4">Local SEO Foundation</h3>
+              <ul class="space-y-2 text-gray-700">
+                <li class="flex gap-2 items-start">
+                  <span class="text-[#32C55F]">→</span>
+                  <span>NAP consistency across directories</span>
+                </li>
+                <li class="flex gap-2 items-start">
+                  <span class="text-[#32C55F]">→</span>
+                  <span>Local citation building</span>
+                </li>
+                <li class="flex gap-2 items-start">
+                  <span class="text-[#32C55F]">→</span>
+                  <span>Location-specific landing pages</span>
+                </li>
+                <li class="flex gap-2 items-start">
+                  <span class="text-[#32C55F]">→</span>
+                  <span>Service area optimization</span>
+                </li>
+                <li class="flex gap-2 items-start">
+                  <span class="text-[#32C55F]">→</span>
+                  <span>Competitor analysis</span>
+                </li>
+              </ul>
+            </div>
+          </div>
+
+          <!-- On-Page Optimization -->
+          <div class="bg-white border border-gray-200 rounded-lg shadow-xl overflow-hidden">
+            <div class="h-1 bg-rebel-green"></div>
+            <div class="p-6">
+              <h3 class="text-xl font-bold mb-4">On-Page Optimization</h3>
+              <ul class="space-y-2 text-gray-700">
+                <li class="flex gap-2 items-start">
+                  <span class="text-[#32C55F]">→</span>
+                  <span>Title and meta description optimization</span>
+                </li>
+                <li class="flex gap-2 items-start">
+                  <span class="text-[#32C55F]">→</span>
+                  <span>Header structure and keyword placement</span>
+                </li>
+                <li class="flex gap-2 items-start">
+                  <span class="text-[#32C55F]">→</span>
+                  <span>Image optimization and alt text</span>
+                </li>
+                <li class="flex gap-2 items-start">
+                  <span class="text-[#32C55F]">→</span>
+                  <span>Internal linking strategy</span>
+                </li>
+                <li class="flex gap-2 items-start">
+                  <span class="text-[#32C55F]">→</span>
+                  <span>Schema markup implementation</span>
+                </li>
+              </ul>
+            </div>
+          </div>
+
+          <!-- Content Creation -->
+          <div class="bg-white border border-gray-200 rounded-lg shadow-xl overflow-hidden">
+            <div class="h-1 bg-rebel-green"></div>
+            <div class="p-6">
+              <h3 class="text-xl font-bold mb-4">Content Creation</h3>
+              <ul class="space-y-2 text-gray-700">
+                <li class="flex gap-2 items-start">
+                  <span class="text-[#32C55F]">→</span>
+                  <span>Service-focused landing pages</span>
+                </li>
+                <li class="flex gap-2 items-start">
+                  <span class="text-[#32C55F]">→</span>
+                  <span>Location-specific content</span>
+                </li>
+                <li class="flex gap-2 items-start">
+                  <span class="text-[#32C55F]">→</span>
+                  <span>Authority-building blog posts</span>
+                </li>
+                <li class="flex gap-2 items-start">
+                  <span class="text-[#32C55F]">→</span>
+                  <span>FAQ pages that rank</span>
+                </li>
+                <li class="flex gap-2 items-start">
+                  <span class="text-[#32C55F]">→</span>
+                  <span>Answer Engine-optimized content</span>
+                </li>
+              </ul>
+            </div>
+          </div>
+
+          <!-- Technical SEO -->
+          <div class="bg-white border border-gray-200 rounded-lg shadow-xl overflow-hidden">
+            <div class="h-1 bg-rebel-green"></div>
+            <div class="p-6">
+              <h3 class="text-xl font-bold mb-4">Technical SEO</h3>
+              <ul class="space-y-2 text-gray-700">
+                <li class="flex gap-2 items-start">
+                  <span class="text-[#32C55F]">→</span>
+                  <span>Site speed optimization</span>
+                </li>
+                <li class="flex gap-2 items-start">
+                  <span class="text-[#32C55F]">→</span>
+                  <span>Mobile responsiveness fixes</span>
+                </li>
+                <li class="flex gap-2 items-start">
+                  <span class="text-[#32C55F]">→</span>
+                  <span>Crawl error resolution</span>
+                </li>
+                <li class="flex gap-2 items-start">
+                  <span class="text-[#32C55F]">→</span>
+                  <span>XML sitemap management</span>
+                </li>
+                <li class="flex gap-2 items-start">
+                  <span class="text-[#32C55F]">→</span>
+                  <span>Core Web Vitals optimization</span>
+                </li>
+              </ul>
+            </div>
+          </div>
+
+          <!-- Link Building -->
+          <div class="bg-white border border-gray-200 rounded-lg shadow-xl overflow-hidden">
+            <div class="h-1 bg-rebel-green"></div>
+            <div class="p-6">
+              <h3 class="text-xl font-bold mb-4">Link Building</h3>
+              <ul class="space-y-2 text-gray-700">
+                <li class="flex gap-2 items-start">
+                  <span class="text-[#32C55F]">→</span>
+                  <span>Industry-relevant backlinks</span>
+                </li>
+                <li class="flex gap-2 items-start">
+                  <span class="text-[#32C55F]">→</span>
+                  <span>Local directory submissions</span>
+                </li>
+                <li class="flex gap-2 items-start">
+                  <span class="text-[#32C55F]">→</span>
+                  <span>Strategic outreach</span>
+                </li>
+                <li class="flex gap-2 items-start">
+                  <span class="text-[#32C55F]">→</span>
+                  <span>Content promotion</span>
+                </li>
+                <li class="flex gap-2 items-start">
+                  <span class="text-[#32C55F]">→</span>
+                  <span>Authority building over time</span>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Case Study Section -->
+    <section class="py-16 md:py-24 section-checkers">
       <CaseStudy />
     </section>
 
-    <section class="py-16 md:py-24 section-checkers">
+    <!-- Testimonials Section -->
+    <section class="py-16 md:py-24 section-slate">
       <TestimonialsDefault />
     </section>
 
-    <section class={`py-16 md:py-24 section-slate`}>
-      <FAQdefault />
+    <!-- FAQ Section -->
+    <section class="py-16 md:py-24 section-checkers">
+      <div class="max-w-4xl mx-auto px-4">
+        <div class="text-center mb-12">
+          <h2 class="text-4xl md:text-5xl font-bold mb-4">
+            Frequently Asked <span class="text-rebel-green">Questions</span>
+          </h2>
+        </div>
+
+        <div class="space-y-6">
+          {faqs.map((faq) => (
+            <div class="bg-white border border-gray-200 rounded-lg shadow-lg overflow-hidden">
+              <div class="h-1 bg-rebel-green"></div>
+              <div class="p-6">
+                <h3 class="text-xl font-bold mb-3">{faq.question}</h3>
+                <p class="text-gray-700">{faq.answer}</p>
+              </div>
+            </div>
+          ))}
+        </div>
+      </div>
     </section>
 
   </section>
