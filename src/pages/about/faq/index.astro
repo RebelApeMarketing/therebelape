@@ -1,0 +1,450 @@
+---
+import Base from '../../../layouts/Base.astro';
+import HeroHome from '../../../components/sections/HeroHome.astro';
+import SocialProofBar from '../../../components/sections/SocialProofBar.astro';
+import WebPageSchema from '../../../components/schema/WebPageSchema.astro';
+
+// SEO
+const title = "FAQ | Contractor Marketing Questions Answered | Rebel Ape Marketing";
+const description = "Get honest answers about contractor marketing costs, timelines, guarantees, and how our complete marketing system works. No sales pitches—just straight talk.";
+const canonical = "https://therebelape.com/about/faq/";
+const image = "https://RebelApeCDN.b-cdn.net/featured-about.webp";
+const type = "website";
+const robots = "index, follow";
+---
+
+<Base {title} {description} {canonical} {image} {type} {robots}>
+  <WebPageSchema
+    slot="head"
+    type="FAQPage"
+    name={title}
+    description={description}
+    url={canonical}
+    image={image}
+  />
+
+  <section>
+    <!-- Hero -->
+    <HeroHome
+      title="Frequently Asked Questions About <span class='text-rebel-green'>Marketing</span> for Contractors"
+      subtitle="Real Questions. <span class='text-rebel-green'>Honest Answers.</span>"
+      description="Most agencies dodge the tough questions. We answer them directly—about what we charge, how long results take, what happens if you don't get leads, and how our <strong>complete marketing system</strong> actually works."
+      buttonText="Schedule Strategy Session"
+      buttonIcon="calendar"
+      buttonHref="/schedule/"
+    />
+
+    <SocialProofBar />
+
+    <!-- Intro Section -->
+    <section class="py-16 md:py-20 section-checkers">
+      <div class="max-w-5xl mx-auto px-6 text-center">
+        <h2 class="text-4xl md:text-5xl font-bold mb-8">
+          The Questions Contractors <span class="text-rebel-green">Actually Ask</span>
+        </h2>
+        <p class="text-lg text-gray-700 max-w-3xl mx-auto mb-8">
+          If you're researching marketing agencies for your roofing, plumbing, HVAC, or home service business, you probably have questions. Real questions about pricing, timelines, guarantees, and whether this stuff actually works.
+        </p>
+        <p class="text-lg text-gray-700 max-w-3xl mx-auto">
+          Ask "how much does marketing cost?" and you get "it depends" followed by a sales call. Ask "do you guarantee results?" and you get buried in legal speak and fake promises. Ask "how long until I see leads?" and you get guru claims about instant results.
+        </p>
+        <p class="text-xl font-bold text-gray-900 mt-6">
+          Below are honest answers, not sales pitches designed to get you on a call.
+        </p>
+      </div>
+    </section>
+
+    <!-- Jump Links -->
+    <section class="py-8 section-slate">
+      <div class="max-w-4xl mx-auto px-6">
+        <div class="bg-white rounded-lg shadow-xl overflow-hidden">
+          <div class="h-1 bg-rebel-green"></div>
+          <div class="p-6">
+            <h3 class="text-xl font-bold text-gray-900 mb-4 text-center">Jump to a Section</h3>
+            <div class="flex flex-wrap justify-center gap-4">
+              <a href="#getting-started" class="text-rebel-green hover:underline font-semibold">Getting Started & Investment</a>
+              <span class="text-gray-400">|</span>
+              <a href="#how-we-work" class="text-rebel-green hover:underline font-semibold">How We Work</a>
+              <span class="text-gray-400">|</span>
+              <a href="#results" class="text-rebel-green hover:underline font-semibold">Results & Performance</a>
+              <span class="text-gray-400">|</span>
+              <a href="#services" class="text-rebel-green hover:underline font-semibold">Services & Strategy</a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Getting Started & Investment -->
+    <section id="getting-started" class="py-16 md:py-24 section-checkers scroll-mt-8">
+      <div class="max-w-5xl mx-auto px-6">
+        <h2 class="text-4xl md:text-5xl font-bold mb-12 text-center">
+          Getting Started & <span class="text-rebel-green">Investment</span>
+        </h2>
+
+        <div class="space-y-8">
+          <!-- FAQ Item -->
+          <div class="bg-white rounded-lg shadow-xl overflow-hidden">
+            <div class="h-1 bg-rebel-green"></div>
+            <div class="p-8">
+              <h3 class="text-2xl font-bold text-gray-900 mb-4">How much does this cost?</h3>
+              <div class="space-y-4 text-gray-700">
+                <p>
+                  Our Silverback Authority Method starts at <strong>$2,000/month</strong> for the complete marketing system. We also recommend at least a <strong>$1,000/month ad budget</strong> on top of that to give campaigns room to learn and optimize.
+                </p>
+                <p>
+                  Many of our contractors pay $3,000/month or more in total. Why? Because they're typically getting <strong>4x+ ROI</strong>. When you're closing $10K-$30K jobs, spending $3K to generate $12K+ in revenue is a no-brainer.
+                </p>
+                <p class="font-bold text-gray-900">
+                  If you're looking for the cheapest option, we're probably not the right fit. We're here for contractors who want predictable lead generation that actually works.
+                </p>
+              </div>
+            </div>
+          </div>
+
+          <!-- FAQ Item -->
+          <div class="bg-white rounded-lg shadow-xl overflow-hidden">
+            <div class="h-1 bg-rebel-green"></div>
+            <div class="p-8">
+              <h3 class="text-2xl font-bold text-gray-900 mb-4">Do you require contracts?</h3>
+              <div class="space-y-4 text-gray-700">
+                <p>
+                  <strong>Nope.</strong> We work month-to-month. If we're not delivering results, fire us. That's how it should be.
+                </p>
+                <p>
+                  We don't need contracts to keep clients because what we do actually works. Our clients stay with us for years because they're getting leads and closing jobs, not because they're legally obligated to stick around. You can see by our track record—people stay.
+                </p>
+                <p class="font-bold text-gray-900">
+                  Most agencies need contracts because they know they won't deliver. We earn our spot every single month.
+                </p>
+              </div>
+            </div>
+          </div>
+
+          <!-- FAQ Item -->
+          <div class="bg-white rounded-lg shadow-xl overflow-hidden">
+            <div class="h-1 bg-rebel-green"></div>
+            <div class="p-8">
+              <h3 class="text-2xl font-bold text-gray-900 mb-4">How long until I see results?</h3>
+              <div class="space-y-4 text-gray-700">
+                <p>
+                  <strong>Month 1 is foundation</strong>—we're rebuilding, setting up, and structuring your marketing for success. Most contractor websites aren't actually ready for leads. No CRM, no conversion optimization, nothing but a quickly-built WordPress template the majority of the time. We fix that first.
+                </p>
+                <p>
+                  <strong>Month 2</strong> we launch ads and leads start coming in, though it can be rough while the algorithm learns. <strong>Months 3-6</strong> everything compounds as the algorithm optimizes and SEO kicks in.
+                </p>
+                <p class="font-bold text-gray-900">
+                  Most contractors see meaningful results within 60-90 days. Anyone promising instant miracles is lying to you.
+                </p>
+              </div>
+            </div>
+          </div>
+
+          <!-- FAQ Item -->
+          <div class="bg-white rounded-lg shadow-xl overflow-hidden">
+            <div class="h-1 bg-rebel-green"></div>
+            <div class="p-8">
+              <h3 class="text-2xl font-bold text-gray-900 mb-4">What if I can't afford $2,000/month right now?</h3>
+              <div class="space-y-4 text-gray-700">
+                <p>
+                  Then honestly, you're probably not ready for a complete marketing system yet. This isn't us being jerks—it's about setting you up for success.
+                </p>
+                <p>
+                  Proper contractor marketing requires proper investment: website optimization, conversion tracking, ad spend, ongoing optimization, and daily management. <strong>Cutting corners means cutting results.</strong>
+                </p>
+                <p class="font-bold text-gray-900">
+                  If budget is tight right now, focus on getting your operations dialed in, closing the jobs you do get, and building some cash reserves. When you're ready to scale predictably, we're here.
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- How We Work & Our Process -->
+    <section id="how-we-work" class="py-16 md:py-24 section-slate scroll-mt-8">
+      <div class="max-w-5xl mx-auto px-6">
+        <h2 class="text-4xl md:text-5xl font-bold mb-12 text-center">
+          How We Work & <span class="text-rebel-green">Our Process</span>
+        </h2>
+
+        <div class="space-y-8">
+          <!-- FAQ Item -->
+          <div class="bg-white rounded-lg shadow-xl overflow-hidden">
+            <div class="h-1 bg-rebel-green"></div>
+            <div class="p-8">
+              <h3 class="text-2xl font-bold text-gray-900 mb-4">What's included in your marketing system?</h3>
+              <div class="space-y-4 text-gray-700">
+                <p>
+                  <strong>Everything works together:</strong> conversion-optimized website design, Google Ads and Meta Ads management, Local Service Ads setup, local SEO, Google Business Profile optimization, conversion tracking, monthly reporting, and daily campaign optimization.
+                </p>
+                <p>
+                  This isn't a la carte services. It's a complete system where every piece supports the others. Website gets traffic from ads and SEO. Ads convert better because the website is optimized. SEO compounds over time. Everything is tracked so we know what's working.
+                </p>
+                <p class="font-bold text-gray-900">
+                  Individual tactics fail. Systems generate predictable leads.
+                </p>
+              </div>
+            </div>
+          </div>
+
+          <!-- FAQ Item -->
+          <div class="bg-white rounded-lg shadow-xl overflow-hidden">
+            <div class="h-1 bg-rebel-green"></div>
+            <div class="p-8">
+              <h3 class="text-2xl font-bold text-gray-900 mb-4">What happens in Month 1 specifically?</h3>
+              <div class="space-y-4 text-gray-700">
+                <p>
+                  We're building the foundation. That means conversion optimization on your website (making sure visitors actually turn into calls), setting up proper tracking and CRM integration, fixing technical issues that kill conversions, and structuring your campaigns for success.
+                </p>
+                <p>
+                  This isn't the sexy part, but it's what makes everything work. We're not building a skyscraper on soft dirt. Month 1 is about creating the infrastructure so when we launch ads in Month 2, they actually convert.
+                </p>
+                <p class="font-bold text-gray-900">
+                  Most companies' websites aren't ready for leads—we make yours ready.
+                </p>
+              </div>
+            </div>
+          </div>
+
+          <!-- FAQ Item -->
+          <div class="bg-white rounded-lg shadow-xl overflow-hidden">
+            <div class="h-1 bg-rebel-green"></div>
+            <div class="p-8">
+              <h3 class="text-2xl font-bold text-gray-900 mb-4">How involved do I need to be?</h3>
+              <div class="space-y-4 text-gray-700">
+                <p>
+                  <strong>Minimally.</strong> We usually ask a couple questions upfront and need photos or a few other things to get started. After that, we handle the execution.
+                </p>
+                <p>
+                  Some clients like to be very involved—they want weekly calls, detailed updates, constant communication. Others want to be hands-off—just show them the results and let them focus on running jobs. Both work fine with us.
+                </p>
+                <p class="font-bold text-gray-900">
+                  You're a contractor, not a marketer. We execute everything for you. Need a page added? Say the word. Want images updated? We handle it. You sell and install—we market.
+                </p>
+              </div>
+            </div>
+          </div>
+
+          <!-- FAQ Item -->
+          <div class="bg-white rounded-lg shadow-xl overflow-hidden">
+            <div class="h-1 bg-rebel-green"></div>
+            <div class="p-8">
+              <h3 class="text-2xl font-bold text-gray-900 mb-4">Can I just get a website or just Google Ads?</h3>
+              <div class="space-y-4 text-gray-700">
+                <p>
+                  Honestly, <strong>probably not.</strong> We're not set up for one-off projects because they don't deliver the results you need.
+                </p>
+                <p>
+                  A website alone doesn't generate leads without traffic. Google Ads alone don't convert without an optimized website. SEO alone takes too long without ads to fill the gap. Everything works together—that's the point.
+                </p>
+                <p class="font-bold text-gray-900">
+                  If you just need a quick website built, there are cheaper options out there. We're here for contractors who want a complete lead generation system that actually works.
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Results & Performance -->
+    <section id="results" class="py-16 md:py-24 section-checkers scroll-mt-8">
+      <div class="max-w-5xl mx-auto px-6">
+        <h2 class="text-4xl md:text-5xl font-bold mb-12 text-center">
+          Results & <span class="text-rebel-green">Performance</span>
+        </h2>
+
+        <div class="space-y-8">
+          <!-- FAQ Item -->
+          <div class="bg-white rounded-lg shadow-xl overflow-hidden">
+            <div class="h-1 bg-rebel-green"></div>
+            <div class="p-8">
+              <h3 class="text-2xl font-bold text-gray-900 mb-4">Do you guarantee results?</h3>
+              <div class="space-y-4 text-gray-700">
+                <p>
+                  <strong>No.</strong> Here's why: Guarantees are the catch. There's always something hidden in them to make it so companies don't honor them. They put you on the backburner, say you broke contract terms, find loopholes when it's time to deliver.
+                </p>
+                <p>
+                  We can only influence Google and pull certain levers. We can't guarantee what we can't control—the algorithm, your competition, your market dynamics, or how well your sales team closes the leads we generate.
+                </p>
+                <p class="font-bold text-gray-900">
+                  What we <em>can</em> tell you: We've done this for dozens of contractors. Our clients stay with us for years. We track everything so you see exactly what's working. And we work month-to-month—if we're not delivering, fire us. That's the real guarantee.
+                </p>
+              </div>
+            </div>
+          </div>
+
+          <!-- FAQ Item -->
+          <div class="bg-white rounded-lg shadow-xl overflow-hidden">
+            <div class="h-1 bg-rebel-green"></div>
+            <div class="p-8">
+              <h3 class="text-2xl font-bold text-gray-900 mb-4">What if I don't get leads?</h3>
+              <div class="space-y-4 text-gray-700">
+                <p>
+                  If leads aren't coming in, there's usually a bigger problem. Something Google has flagged. Something technically wrong with your website. Something big that's blocking the system from working.
+                </p>
+                <p>
+                  Here's the truth: Leads just "don't happen" when the marketing is set up right and running properly. If you're not getting leads, we help you identify what's wrong and fix it—that's what partners do.
+                </p>
+                <p class="font-bold text-gray-900">
+                  But we'll be honest: Usually the biggest problem isn't getting leads. It's sales teams not knowing how to close them properly. We can get your phone ringing with qualified prospects. Closing them is on you.
+                </p>
+              </div>
+            </div>
+          </div>
+
+          <!-- FAQ Item -->
+          <div class="bg-white rounded-lg shadow-xl overflow-hidden">
+            <div class="h-1 bg-rebel-green"></div>
+            <div class="p-8">
+              <h3 class="text-2xl font-bold text-gray-900 mb-4">Can you guarantee I'll rank #1 on Google?</h3>
+              <div class="space-y-4 text-gray-700">
+                <p>
+                  <strong>No.</strong> We don't make guarantees like that because ranking depends on budget, competition, your existing digital footprint, and dozens of other factors outside our control.
+                </p>
+                <p>
+                  Anyone promising "#1 rankings in 30 days" is either lying or using tactics that'll get you penalized. SEO is a 6-8 month process, minimum. It compounds over time, but it's not instant.
+                </p>
+                <p class="font-bold text-gray-900">
+                  What we do guarantee: We'll optimize your site properly, build your authority, and get you showing up for the searches that matter. Where exactly you rank depends on how much you invest and how competitive your market is.
+                </p>
+              </div>
+            </div>
+          </div>
+
+          <!-- FAQ Item -->
+          <div class="bg-white rounded-lg shadow-xl overflow-hidden">
+            <div class="h-1 bg-rebel-green"></div>
+            <div class="p-8">
+              <h3 class="text-2xl font-bold text-gray-900 mb-4">What if my market is too competitive?</h3>
+              <div class="space-y-4 text-gray-700">
+                <p>
+                  Then we don't fight head-to-head with the big players right away. We go for a different position—different service angles, different geographic targeting, different keyword strategies—until your company and digital footprint have grown enough to play with the big kids.
+                </p>
+                <p>
+                  Smart marketing isn't about competing dollar-for-dollar with companies that have 10x your budget. It's about finding angles where you can win, building your authority, and scaling from there.
+                </p>
+                <p class="font-bold text-gray-900">
+                  Most contractors assume their market is too competitive when really they just haven't been positioned strategically. That's where we come in.
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Services & Strategy -->
+    <section id="services" class="py-16 md:py-24 section-slate scroll-mt-8">
+      <div class="max-w-5xl mx-auto px-6">
+        <h2 class="text-4xl md:text-5xl font-bold mb-12 text-center">
+          Services & <span class="text-rebel-green">Strategy</span>
+        </h2>
+
+        <div class="space-y-8">
+          <!-- FAQ Item -->
+          <div class="bg-white rounded-lg shadow-xl overflow-hidden">
+            <div class="h-1 bg-rebel-green"></div>
+            <div class="p-8">
+              <h3 class="text-2xl font-bold text-gray-900 mb-4">What makes you different from other marketing agencies?</h3>
+              <div class="space-y-4 text-gray-700">
+                <p>
+                  <strong>We build complete systems, not individual services.</strong> Most agencies sell you a website OR SEO OR Google Ads and wonder why you're not getting results. We integrate everything so it works together.
+                </p>
+                <p>
+                  <strong>We tell you the truth</strong> about timelines and what works. No fake guarantees. No "rank #1 in 30 days" BS. Just honest marketing that generates predictable leads.
+                </p>
+                <p class="font-bold text-gray-900">
+                  We're partners, not vendors. If something's not working, we figure out why and fix it—together. We own our results. Most agencies blame your market when campaigns underperform. We test, adjust, and optimize until it works.
+                </p>
+              </div>
+            </div>
+          </div>
+
+          <!-- FAQ Item -->
+          <div class="bg-white rounded-lg shadow-xl overflow-hidden">
+            <div class="h-1 bg-rebel-green"></div>
+            <div class="p-8">
+              <h3 class="text-2xl font-bold text-gray-900 mb-4">Why do you focus on "complete systems" instead of individual services?</h3>
+              <div class="space-y-4 text-gray-700">
+                <p>
+                  Because individual tactics don't work in isolation. We've seen it a thousand times: Contractor pays for a beautiful website—no traffic. Contractor runs Google Ads—website doesn't convert. Contractor invests in SEO—takes too long without ads to fill the gap.
+                </p>
+                <p>
+                  Everything needs to work together. Website optimized for conversions. Ads driving targeted traffic. SEO building long-term authority. Tracking showing what's working. Daily optimization improving performance.
+                </p>
+                <p class="font-bold text-gray-900">
+                  That's a system. That's what generates predictable, scalable revenue. Random tactics just burn money and frustrate contractors.
+                </p>
+              </div>
+            </div>
+          </div>
+
+          <!-- FAQ Item -->
+          <div class="bg-white rounded-lg shadow-xl overflow-hidden">
+            <div class="h-1 bg-rebel-green"></div>
+            <div class="p-8">
+              <h3 class="text-2xl font-bold text-gray-900 mb-4">Do you work with contractors outside my area?</h3>
+              <div class="space-y-4 text-gray-700">
+                <p>
+                  <strong>Yes.</strong> We work with contractors across the country. Local marketing isn't about being physically nearby—it's about understanding local search behavior, local competition, and how to dominate your specific service area.
+                </p>
+                <p>
+                  We've helped contractors in Utah, Nevada, and across the western US. The fundamentals of contractor marketing are the same everywhere. The execution is customized to your market, your competition, and your goals.
+                </p>
+                <p class="font-bold text-gray-900">
+                  Geography doesn't matter. Understanding contractor marketing does.
+                </p>
+              </div>
+            </div>
+          </div>
+
+          <!-- FAQ Item -->
+          <div class="bg-white rounded-lg shadow-xl overflow-hidden">
+            <div class="h-1 bg-rebel-green"></div>
+            <div class="p-8">
+              <h3 class="text-2xl font-bold text-gray-900 mb-4">What types of contractors do you work with?</h3>
+              <div class="space-y-4 text-gray-700">
+                <p>
+                  Primarily home service contractors: roofers, plumbers, HVAC companies, electricians, painters, remodelers, concrete contractors, surveyors, and similar trades.
+                </p>
+                <p>
+                  We focus on service-based businesses where lead quality matters more than lead volume. Jobs where the average ticket is high enough to justify proper marketing investment (<strong>$3K+ jobs minimum, ideally $10K+</strong>). Industries where Google search and local visibility drive real revenue.
+                </p>
+                <p class="font-bold text-gray-900">
+                  If you're a residential or commercial service contractor who closes jobs in the thousands, not hundreds, we can probably help. If you're selling $200 services, you probably need a different marketing approach than what we offer.
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- CTA Section -->
+    <section class="py-16 md:py-24 section-checkers">
+      <div class="max-w-4xl mx-auto px-6 text-center">
+        <h2 class="text-4xl md:text-5xl font-bold mb-6">
+          Ready To Stop Wondering If Your Marketing <span class="text-rebel-green">Actually Works?</span>
+        </h2>
+        <p class="text-lg text-gray-700 mb-8 max-w-2xl mx-auto">
+          Schedule a free consultation and we'll talk about your current marketing, what's not working, and how we can fix it. No pressure, no guru pitch—just an honest conversation about your business.
+        </p>
+        <a
+          href="/schedule/"
+          class="inline-flex items-center gap-2 bg-rebel-green hover:bg-green-600 text-white font-bold py-4 px-8 rounded-lg transition-colors duration-200 shadow-xl text-lg"
+        >
+          <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z" />
+          </svg>
+          Schedule Strategy Session
+        </a>
+        <p class="text-gray-600 mt-8">
+          Have a question we didn't answer? <a href="/contact/" class="text-rebel-green hover:underline font-semibold">Contact us</a> and we'll get you a straight answer.
+        </p>
+      </div>
+    </section>
+  </section>
+</Base>
