@@ -1,0 +1,453 @@
+---
+import Base from '../../../layouts/Base.astro';
+import HeroHome from '../../../components/sections/HeroHome.astro';
+import SocialProofBar from '../../../components/sections/SocialProofBar.astro';
+import WebPageSchema from '../../../components/schema/WebPageSchema.astro';
+
+// SEO
+const title = "Client Reviews | Rebel Ape Marketing";
+const description = "Read real reviews from real clients. See what contractors and business owners say about working with Rebel Ape Marketing.";
+const canonical = "https://therebelape.com/about/reviews/";
+const image = "https://RebelApeCDN.b-cdn.net/featured-about.webp";
+const type = "website";
+const robots = "index, follow";
+
+// Reviews data - ordered with strongest reviews first, logo/graphic design later
+const reviews = [
+  {
+    name: "Jessica B",
+    stars: 5,
+    text: "Working with Rebel Ape was an absolute pleasure! From the very beginning, they were quick to respond and made the entire process easy and seamless. Their team was not only professional but also incredibly attentive and patient as we worked together to create my website. They provided excellent advice and guidance throughout the entire project, especially as I'm starting my business. Their insights helped me make informed decisions that truly enhanced my online presence. Rebel Ape's commitment to my success has made me a forever client. I couldn't be happier with the final result and would highly recommend their services to anyone in need of a reliable and talented website design team!"
+  },
+  {
+    name: "Keaton Scadden",
+    stars: 5,
+    text: "I own a marketing agency and I hired Adam and his team to do my website if that gives you an idea of the quality. You can rest assured you have the best in the website making business when you Hire Rebel Ape to do any projects for you."
+  },
+  {
+    name: "Jonathan Baker",
+    stars: 5,
+    text: "I first asked Adam to create a logo for my company, iFiX, LLC. I was so happy with the results. I then had him to design a business card and Truck wrap. I was so please with his work, I had him build and design my website. He now manages my website and my SEO. In less than 1 year he has made me competitive with businesses that have been around much longer. He has surpassed my expectations. Google my business iFiX, LLC and you can see the fruits of Graphic Design by Adam. He is trustworthy, attentive, and honest. He yields results! Highly recommended!"
+  },
+  {
+    name: "Jen Funk",
+    stars: 5,
+    text: "Adam helped rebuild my website after it was hacked (through another provider) He was such a great help during a really stressful time. He went above and beyond to get my content back (so i didn't have to start from scratch) He built a new site that was exactly what I wanted. He let me draw up and design everything. He gave me valuable advice, so the site would be easy to navigate and he also took time to teach me how to manage the site on my own. This has been so helpful for me. I can now create new pages and add products myself. Even now, if I have a question or run into a problem when I ask him he always gets back to me quickly and helps solve the problem. He will forever be my go -to guy for all things website related. I'm so grateful for his help. I would highly recommend him."
+  },
+  {
+    name: "Derek Hughes",
+    stars: 5,
+    text: "Rebel Ape is the third website designer I have used for my company and he is by far the best and easiest developer I have worked with. During our first meeting he described a lot of solutions that I unfortunately had to learn the expensive way. Wish I found Rebel Ape first, I would have saved a lot of time and money."
+  },
+  {
+    name: "Clayton Erekson",
+    stars: 5,
+    text: "Love working with Adam. We used another local company before and paid almost double the cost with little to no results. Once we switched to Rebel Ape the leads started pouring in."
+  },
+  {
+    name: "Jason Tonioli",
+    stars: 5,
+    text: "I've worked with Adam for several years and he is not only an amazing artist, but he's super responsive and quick to help. He works hard to ensure his clients are happy and you'll likely find that he will go well beyond what you've asked him to do without charging for any of the extra time he spent exploring other options. You can tell that he really cares about the project being successful. If you are wanting a \"great\" (not just good) graphic designer that also has several years of digital and web experience, he's your guy."
+  },
+  {
+    name: "Donna Weighill",
+    stars: 5,
+    text: "I researched various businesses before choosing Rebel Ape Marketing and decided to take a chance on Adam. I'm so glad I did! Adam addressed and fixed everything I needed and asked for. He also educated me on helpful solutions and gave me more than I bargained for. I had no idea what was out there in his tech world and now it's mine, at my fingertips, for my convenience, thanks to Adam's expertise. Not only is he professional, he's fast, delivers more than what he promises, and has excellent prices for his work. Thanks Adam. I look forward to many great years utilizing your supberb services."
+  },
+  {
+    name: "AJ Larsen",
+    stars: 5,
+    text: "Adam is so wonderful to work with. I met him once several years ago at a Network After Work event. He was just at the beginning stages of his business and my impressions of him at the time was of someone that was very down to earth and genuine. We connected on LinkedIn but I never forgot him. I am now at the beginning stages of my business and when I contacted him with my idea and concept, he took that information and created a beautiful logo. He was very patient with me throughout the process and gave me some great and honest feedback drawing on his expertise. Although I had something else in mind originally, what he created represents everything I intended. I am very happy with him and the personal attention he gave to my project. Adam the business partner you want on your team. What he created is something I am very proud to display on my products."
+  },
+  {
+    name: "Jamee Mac",
+    stars: 5,
+    text: "Rebel Ape Marketing has been awesome helping us with our online presence. Website design is premium quality. The one on one meetings with Adam are always insightful. We recommend Rebel Ape!!"
+  },
+  {
+    name: "Pete Totman",
+    stars: 5,
+    text: "I've been using a website designed by Rebel Ape Marketing for several years. They're work has been excellent and they have responded to change requests quickly. Recently they redesigned my website using a model that is very appealing. This new model put all important information up front, which prevents the viewer from having to search through several pages to find the needed information. I will continue to use Rebel Ape Marketing and highly recommend it to any others organization that needs a well-designed website."
+  },
+  {
+    name: "Jose Perez",
+    stars: 5,
+    text: "We have been working with Rebel Ape marketing for almost a year now and they have been excellent to work with. Great communication and good strategies."
+  },
+  {
+    name: "Jeff Reed",
+    stars: 5,
+    text: "I have worked with Adam's team for years and always find them to be great at what they do. One of the changes made on Google's side made my website function poorly, but Adam made the correction and did not charge me for is since he also hosts my site. Great team!"
+  },
+  {
+    name: "Lori Mortensen",
+    stars: 5,
+    text: "Adam is truly so attentive to the needs of our small business, his professionalism is top notch! He was there when we needed him in an emergency. I cannot say enough about Rebel Ape!"
+  },
+  {
+    name: "John Graves",
+    stars: 5,
+    text: "I was really pressed for time and needed to get a website up and running ASAP. Adam was able to secure my domain, design my site in accordance with my branding, get all of my content up, and go live with it in no time and continues to provide hosting. He was thorough in making sure everything functioned correctly. Everything went smoothly and I'm very happy with my website. Also pleased with the attention to detail as he did not overlook customizing my favicon lol. Looking forward to using Adam's services for other projects in the future."
+  },
+  {
+    name: "William Robertson",
+    stars: 5,
+    text: "Adam and the Rebel Ape crew have been instrumental in helping us to get our project off the ground with our logo design and website. Adam has gone above and beyond in every respect and has provided so much more than we ever thought we were going to get, in both product and expertise."
+  },
+  {
+    name: "Kelly Nelson",
+    stars: 5,
+    text: "Hands-down, best company to work for if you have any problems at all! Not only did he spend an hour on hold with go daddy because of a mistake I made. Adam then had Go Daddy turn my mistake into getting the product that we needed for the website. Did what others said was not possible."
+  },
+  {
+    name: "Kathryn Kelly",
+    stars: 5,
+    text: "Very friendly and professional. Customer service has been top notch. Adam is very responsive and quick to answering and explaining any questions. I've run into a few side problems with the website, hosting and emails and Adam has gone out of his way to help me with all of it, in addition to what he is already supposed to do. We've just started working together and I've already seen results. Highly recommend"
+  },
+  {
+    name: "JaNae Francis",
+    stars: 5,
+    text: "I don't know what I would have done in my business without Adam and Rebel Marketing. He not only has quickly made me a very professional and awesome website at trymeditationforpeace.com, but he has also provided me with awesome and valuable marketing advice. He has since helped me with several websites for friends and associates. He is always courteous, helpful and trustworthy. I could not ask for anything more!"
+  },
+  {
+    name: "Mark Christiansen",
+    stars: 5,
+    text: "Love my website. Rebel Ape did such a fantastic job in creating a unique website that a handful of my competitors have copied the layout."
+  },
+  {
+    name: "Jacob Mortensen",
+    stars: 5,
+    text: "Reliable and dedicated to their craft! Precise suggestions that have driven huge impact on our business with creative and thoughtful design. They truly understand how to interpret the best way to speak to our audience. Highly recommend!"
+  },
+  {
+    name: "Kierston Ward",
+    stars: 5,
+    text: "I've been working with Adam for some time, both as a networking relationship but also as a customer. Adam exceeds expectation in every way! He's thorough & consistent with communication while getting the job done. Two thumbs WAY up!"
+  },
+  {
+    name: "Michael Kelly",
+    stars: 5,
+    text: "Helped me get my SEO on the right foot. Been in business for a few years and tried a few SEO guys who either disappear or don't follow through with their services. Adam at Rebel Ape is different. There's a contract with a clear expectation of what they will do. Recommended. Thank you Rebel Ape!"
+  },
+  {
+    name: "Eric Hersey",
+    stars: 5,
+    text: "I had a great conversation with Adam from Rebel Ape Marketing. He was very knowledgable about web design. I set up an appointment and he was prompt and prepared. He was able to assist me with my digital marketing needs, giving great advice, and letting me know exactly what to expect in the future. I wish all web design agencies were this transparent and helpful. Thank you Adam and the team at Rebel Ape Marketing."
+  },
+  {
+    name: "Emmalou Penrod",
+    stars: 5,
+    text: "Rebel Ape Marketing has an effective team. They are highly skilled and knowledgeable. They listened to me carefully to understand my needs and provided helpful suggestions. After I selected the services I needed, they followed up with prompt, efficient service. My problem was solved within hours. I highly recommend Rebel Ape Marketing!"
+  },
+  {
+    name: "Nate Moffett",
+    stars: 5,
+    text: "Rebel Ape is awesome to work with! From the get go, they have taken the time to really understand what it is we are all about and what we're looking to accomplish with our online presence. We are excited to finish up our current project and work on more projects together!"
+  },
+  {
+    name: "Chad Workman",
+    stars: 5,
+    text: "Great marketing knowledge! Awesome customer service. If your looking for someone to help you set up your business Adam is your man!"
+  },
+  {
+    name: "Legacy Tours",
+    stars: 5,
+    text: "Adam helped us transition from an outdated website format to a new WordPress site. We couldn't have done it without him! He created the initial templates and helped us get our site looking great!"
+  },
+  {
+    name: "Joe Jaszewski",
+    stars: 5,
+    text: "Adam helped us move our website to a new server quickly and easily, and gave us a great price on the hosting. We'll definitely be using him again in the future for our web needs."
+  },
+  {
+    name: "Jared Bingham",
+    stars: 5,
+    text: "I met with Adam for a 1-to-1. We ended up talking marketing and how I wanted to update my website. He helped me with a page on it that I wanted done first, now we are looking to redo the entire site since I loved it so much."
+  },
+  {
+    name: "Jerry Pierce",
+    stars: 5,
+    text: "Rebel Ape Marketing designed and built a website to provide information and showcase homes for sale in Utah for my real estate company. The website exceeded my expectations and I would recommend them to anybody looking to get a website built."
+  },
+  {
+    name: "Kaitlund Zupanic",
+    stars: 5,
+    text: "I haven't had any issues ever! Adam has been managing my hosting and website for almost a year now. Always polite and courteous going above and beyond. Fast response rate and always a quick solution."
+  },
+  {
+    name: "Chris Mathis",
+    stars: 4,
+    text: "I am very happy with rebel ape marketing and the service they provide. Adam has listened and done what I have been trying to get done with other companies for years. I would give a five star rating but I'd like to leave room for improvement. Thanks"
+  },
+  {
+    name: "Brian Miller",
+    stars: 5,
+    text: "Adam and the Rebel Ape team will not disappoint. Working with them is like printing money."
+  },
+  {
+    name: "Glory Spurlock",
+    stars: 5,
+    text: "I needed some items added to my website and decided it would take too long to figure out how to do it myself. Rebel Ape did it fast and beautifully and at a price I could afford. Thank you for saving me valuable time! -Hunt For Glory, Scavenger Hunts"
+  },
+  {
+    name: "Livia Pewtress",
+    stars: 5,
+    text: "Adam is a good guy! I met him in a networking group and he had a good energy about him. I came upon a website issue and he was super kind to be a resource to help me out! He knows his stuff and I know he will take good care of you!"
+  },
+  {
+    name: "Jack Broadbent",
+    stars: 5,
+    text: "Adam is amazing at what he does and his customer customer service is stellar. So happy with his service and he's a great person to work with. I strongly recommend using Adam!"
+  },
+  {
+    name: "Ryley Freideman",
+    stars: 5,
+    text: "Working with Adam was such a breeze. I was thrown into a project with no idea on where to go, Adam took my ideas and ran with them and created something better than I could have ever imagined."
+  },
+  {
+    name: "Bryan Hansen",
+    stars: 5,
+    text: "Rebel Ape is incredible to work with. Very collaborative and invested."
+  },
+  {
+    name: "Susan Chambers",
+    stars: 5,
+    text: "Very prompt and the services are top notch."
+  },
+  {
+    name: "Loretta Shupe",
+    stars: 5,
+    text: "Adam was great to work with. Very prompt and projects were completed on time."
+  },
+  {
+    name: "Tyler Anderson",
+    stars: 5,
+    text: "Adam was great to work with and helped me out a ton with my website!"
+  },
+  {
+    name: "Jeff Ford",
+    stars: 5,
+    text: "Adam helped me with marketing my business he is a great guy to work with and know."
+  },
+  {
+    name: "Brigham",
+    stars: 5,
+    text: "Great service and quality work, great experience all around"
+  },
+  // Logo and graphic design reviews (later in list)
+  {
+    name: "Tamra Simons",
+    stars: 5,
+    text: "If I could give 10 stars I would! Adam was exceptional to work with he took my ideas and broke them down and made me the most impressive logo ever. I could not be more pleased with his work or the professionalism I received. I will definitely be using his services again in the future. I highly recommend Rebel Ape!!"
+  },
+  {
+    name: "Clayton Moore",
+    stars: 5,
+    text: "Rebel Ape helped us get our new logo designed for the Meraki Group, designers of hand-made, high-quality, sustainable installations. The logo design has a lot of meaning and a callback to our roots and matches our audience perfectly. The attention to detail and willingness to dial our logo in to match our preferences and direction, was incredible. We can't wait to engrave this onto our high-end displays and install them into showrooms and retail environments!"
+  },
+  {
+    name: "Dani Bale",
+    stars: 5,
+    text: "Adam does a wonderful job! He is passionate about helping his clients get just the right logo that tells the story of their brand. Adam put my brand and logo ideas together quickly. My final logo told me story perfectly! Thank you Adam!"
+  },
+  {
+    name: "Crystal Tracy",
+    stars: 5,
+    text: "Adam is amazing he helped create a logo I had in my head and made it incredible! Thank you Adam for helping keep the \"flame\" alive for me and my dreams!"
+  },
+  {
+    name: "Saul Moreno",
+    stars: 5,
+    text: "Adam is the man when it comes to logo design. I he no idea what I wanted for my logo and he nailed it on the first try. Would recomend to anyone looking for a company logo. Thanks a ton Adam!!"
+  },
+  {
+    name: "Brandon Morreale",
+    stars: 5,
+    text: "Adam did an amazing job creating a design. He came up with the design very quickly, and still managed to make it look amazing! I would highly recommend his abilities over any others."
+  },
+  {
+    name: "Ignacio Blancas",
+    stars: 5,
+    text: "Thank you Adam I love the logo, you make an amazing job man thank you."
+  }
+];
+
+// Average rating (displayed as 4.9 for credibility with 1 four-star review)
+const averageRating = "4.9";
+
+// Initial reviews to show
+const initialCount = 9;
+---
+
+<Base {title} {description} {canonical} {image} {type} {robots}>
+  <WebPageSchema
+    slot="head"
+    type="WebPage"
+    name={title}
+    description={description}
+    url={canonical}
+    image={image}
+  />
+
+  <section>
+    <!-- Hero -->
+    <HeroHome
+      title="See Why Clients <span class='text-rebel-green'>Trust</span> Rebel Ape Marketing"
+      subtitle="Proven Results. <span class='text-rebel-green'>Real Feedback.</span>"
+      description="We let our work speak for itself. Read what <strong>real clients</strong> have to say about their experience working with us."
+      buttonText="Schedule Strategy Session"
+      buttonIcon="calendar"
+      buttonHref="/schedule/"
+    />
+
+    <SocialProofBar />
+
+    <!-- Rating Summary Section -->
+    <section class="py-16 md:py-20 section-checkers">
+      <div class="max-w-4xl mx-auto px-6 text-center">
+        <h2 class="text-4xl md:text-5xl font-bold mb-4">
+          Real Customers. <span class="text-rebel-green">Real Reviews.</span>
+        </h2>
+        <p class="text-lg text-gray-700 max-w-2xl mx-auto mb-8">
+          Don't just take our word for it. These are real reviews from real business owners who trusted us to help grow their companies.
+        </p>
+
+        <!-- Stars -->
+        <div class="flex justify-center gap-1 mb-4">
+          <svg class="w-10 h-10 text-yellow-400" fill="currentColor" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z" /></svg>
+          <svg class="w-10 h-10 text-yellow-400" fill="currentColor" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z" /></svg>
+          <svg class="w-10 h-10 text-yellow-400" fill="currentColor" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z" /></svg>
+          <svg class="w-10 h-10 text-yellow-400" fill="currentColor" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z" /></svg>
+          <svg class="w-10 h-10 text-yellow-400" fill="currentColor" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z" /></svg>
+        </div>
+
+        <p class="text-3xl font-bold text-gray-900 mb-1">{averageRating} out of 5</p>
+        <p class="text-lg text-gray-600">{reviews.length} Reviews</p>
+      </div>
+    </section>
+
+    <!-- Reviews Grid -->
+    <section class="py-16 md:py-24 section-slate">
+      <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+
+        <div id="reviews-grid" class="grid grid-cols-1 md:grid-cols-3 gap-8">
+          {reviews.map((review, index) => (
+            <div
+              class={`review-card bg-white rounded-lg shadow-xl overflow-hidden border border-gray-200 ${index >= initialCount ? 'hidden' : ''}`}
+              data-index={index}
+            >
+              <div class="h-1 bg-rebel-green"></div>
+              <div class="p-6">
+                <!-- Stars -->
+                <div class="flex gap-0.5 mb-4">
+                  {Array.from({ length: review.stars }).map(() => (
+                    <svg class="w-5 h-5 text-yellow-400" fill="currentColor" viewBox="0 0 20 20">
+                      <path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z" />
+                    </svg>
+                  ))}
+                  {Array.from({ length: 5 - review.stars }).map(() => (
+                    <svg class="w-5 h-5 text-gray-300" fill="currentColor" viewBox="0 0 20 20">
+                      <path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z" />
+                    </svg>
+                  ))}
+                </div>
+
+                <!-- Review Text with expand/collapse for long reviews -->
+                <div class="review-text-container mb-4">
+                  {review.text.length > 200 ? (
+                    <>
+                      <p class="text-gray-700 review-text-short">
+                        {review.text.substring(0, 200)}...
+                      </p>
+                      <p class="text-gray-700 review-text-full hidden">
+                        {review.text}
+                      </p>
+                      <button class="expand-btn text-gray-900 font-bold mt-2 hover:underline">
+                        More...
+                      </button>
+                    </>
+                  ) : (
+                    <p class="text-gray-700">{review.text}</p>
+                  )}
+                </div>
+
+                <!-- Name -->
+                <p class="font-bold text-rebel-green">{review.name}</p>
+              </div>
+            </div>
+          ))}
+        </div>
+
+        <!-- Show More Button -->
+        <div id="show-more-container" class="mt-12 text-center">
+          <button
+            id="show-more-btn"
+            class="bg-rebel-green hover:bg-green-600 text-white font-bold py-4 px-8 rounded-lg transition-colors duration-200 shadow-xl text-lg"
+          >
+            Show More Reviews
+          </button>
+          <p id="reviews-count" class="text-gray-600 mt-4">
+            Showing <span id="visible-count">{initialCount}</span> of {reviews.length} reviews
+          </p>
+        </div>
+
+      </div>
+    </section>
+  </section>
+</Base>
+
+<script>
+  // Show more reviews functionality
+  const showMoreBtn = document.getElementById('show-more-btn');
+  const showMoreContainer = document.getElementById('show-more-container');
+  const visibleCountEl = document.getElementById('visible-count');
+  const reviewCards = document.querySelectorAll('.review-card');
+  const batchSize = 9;
+  let currentlyVisible = 9;
+  const totalReviews = reviewCards.length;
+
+  if (showMoreBtn && visibleCountEl) {
+    showMoreBtn.addEventListener('click', () => {
+      const nextBatch = Math.min(currentlyVisible + batchSize, totalReviews);
+
+      reviewCards.forEach((card, index) => {
+        if (index < nextBatch) {
+          card.classList.remove('hidden');
+        }
+      });
+
+      currentlyVisible = nextBatch;
+      visibleCountEl.textContent = currentlyVisible.toString();
+
+      // Hide button when all reviews are shown
+      if (currentlyVisible >= totalReviews && showMoreContainer) {
+        showMoreContainer.innerHTML = '<p class="text-gray-600">Showing all ' + totalReviews + ' reviews</p>';
+      }
+    });
+  }
+
+  // Expand/collapse individual reviews
+  document.querySelectorAll('.expand-btn').forEach(btn => {
+    btn.addEventListener('click', () => {
+      const container = btn.closest('.review-text-container');
+      if (!container) return;
+
+      const shortText = container.querySelector('.review-text-short');
+      const fullText = container.querySelector('.review-text-full');
+
+      if (shortText && fullText) {
+        const isExpanded = fullText.classList.contains('hidden');
+
+        if (isExpanded) {
+          shortText.classList.add('hidden');
+          fullText.classList.remove('hidden');
+          btn.textContent = 'Less';
+        } else {
+          shortText.classList.remove('hidden');
+          fullText.classList.add('hidden');
+          btn.textContent = 'More...';
+        }
+      }
+    });
+  });
+</script>
