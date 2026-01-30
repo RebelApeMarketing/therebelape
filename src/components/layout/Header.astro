@@ -58,12 +58,27 @@ import Breadcrumbs from './Breadcrumbs.astro';
                 </a>
                 <div class="absolute left-0 mt-2 w-48 bg-white border border-gray-200 rounded-lg shadow-lg opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-200 z-50 divide-y divide-gray-100">
                     <a href="/about/adam-miconi/" class="block px-4 py-2 hover:bg-gray-50 hover:text-rebel-green transition">Adam Miconi</a>
+                    <a href="/blog/" class="block px-4 py-2 hover:bg-gray-50 hover:text-rebel-green transition">Blog</a>
                     <a href="/about/faq/" class="block px-4 py-2 hover:bg-gray-50 hover:text-rebel-green transition">FAQ</a>
                     <a href="/about/reviews/" class="block px-4 py-2 hover:bg-gray-50 hover:text-rebel-green transition">Reviews</a>
                 </div>
             </div>
 
-            <a href="/blog/" class="hover:text-rebel-green transition">Blog</a>
+            <!-- Resources Dropdown -->
+            <div class="relative group">
+                <a href="/resources/" class="hover:text-rebel-green transition flex items-center gap-1">
+                    Resources
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" class="w-4 h-4">
+                        <path fill-rule="evenodd" d="M5.23 7.21a.75.75 0 011.06.02L10 11.168l3.71-3.938a.75.75 0 111.08 1.04l-4.25 4.5a.75.75 0 01-1.08 0l-4.25-4.5a.75.75 0 01.02-1.06z" clip-rule="evenodd" />
+                    </svg>
+                </a>
+                <div class="absolute left-0 mt-2 w-56 bg-white border border-gray-200 rounded-lg shadow-lg opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-200 z-50 divide-y divide-gray-100">
+                    <a href="/resources/customer-avatar/" class="block px-4 py-2 hover:bg-gray-50 hover:text-rebel-green transition">Customer Avatar</a>
+                    <a href="/resources/internet-marketing-strategy/" class="block px-4 py-2 hover:bg-gray-50 hover:text-rebel-green transition">Marketing Strategy</a>
+                    <a href="/resources/seo-strategy/" class="block px-4 py-2 hover:bg-gray-50 hover:text-rebel-green transition">SEO Strategy</a>
+                </div>
+            </div>
+
             <a href="/results/" class="hover:text-rebel-green transition">Results</a>
             <a href="/contact/" class="hover:text-rebel-green transition">Contact</a>
         </nav>
@@ -116,12 +131,22 @@ import Breadcrumbs from './Breadcrumbs.astro';
           <a href="/about/" class="text-gray-400 text-sm mb-2 block hover:text-rebel-green transition">About</a>
           <div class="pl-4 grid gap-2">
             <a href="/about/adam-miconi/" class="py-1 text-gray-100 dark:text-gray-100 hover:text-rebel-green dark:hover:text-white transition">Adam Miconi</a>
+            <a href="/blog/" class="py-1 text-gray-100 dark:text-gray-100 hover:text-rebel-green dark:hover:text-white transition">Blog</a>
             <a href="/about/faq/" class="py-1 text-gray-100 dark:text-gray-100 hover:text-rebel-green dark:hover:text-white transition">FAQ</a>
             <a href="/about/reviews/" class="py-1 text-gray-100 dark:text-gray-100 hover:text-rebel-green dark:hover:text-white transition">Reviews</a>
           </div>
         </div>
 
-        <a href="/blog/" class="py-2 text-gray-100 dark:text-gray-100 hover:text-rebel-green dark:hover:text-white transition">Blog</a>
+        <!-- Resources submenu -->
+        <div class="py-2">
+          <a href="/resources/" class="text-gray-400 text-sm mb-2 block hover:text-rebel-green transition">Resources</a>
+          <div class="pl-4 grid gap-2">
+            <a href="/resources/customer-avatar/" class="py-1 text-gray-100 dark:text-gray-100 hover:text-rebel-green dark:hover:text-white transition">Customer Avatar</a>
+            <a href="/resources/internet-marketing-strategy/" class="py-1 text-gray-100 dark:text-gray-100 hover:text-rebel-green dark:hover:text-white transition">Marketing Strategy</a>
+            <a href="/resources/seo-strategy/" class="py-1 text-gray-100 dark:text-gray-100 hover:text-rebel-green dark:hover:text-white transition">SEO Strategy</a>
+          </div>
+        </div>
+
         <a href="/results/" class="py-2 text-gray-100 dark:text-gray-100 hover:text-rebel-green dark:hover:text-white transition">Results</a>
         <a href="/contact/" class="py-2 text-gray-100 dark:text-gray-100 hover:text-rebel-green dark:hover:text-white transition">Contact</a>
       </nav>

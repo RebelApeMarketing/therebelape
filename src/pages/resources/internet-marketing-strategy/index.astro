@@ -1,0 +1,732 @@
+---
+import Base from '../../../layouts/Base.astro';
+import HeroHome from '../../../components/sections/HeroHome.astro';
+import SocialProofBar from '../../../components/sections/SocialProofBar.astro';
+import Button from '../../../components/ui/Button.astro';
+import OrganizationSchema from '../../../components/schema/OrganizationSchema.astro';
+import BreadcrumbSchema from '../../../components/schema/BreadcrumbSchema.astro';
+import WebPageSchema from '../../../components/schema/WebPageSchema.astro';
+
+// SEO
+const title = "Internet Marketing Strategy for Contractors | Build a System, Not Just Tactics";
+const description = "Stop wasting money on random marketing tactics. Learn how to build a complete marketing strategy that compounds over time and generates predictable revenue for your contracting business.";
+const canonical = "https://therebelape.com/resources/internet-marketing-strategy/";
+const image = "https://RebelApeCDN.b-cdn.net/featured-silverback-method.webp";
+const type = "website";
+const robots = "index, follow";
+
+// Breadcrumbs
+const breadcrumbs = [
+  { name: "Home", url: "https://therebelape.com/" },
+  { name: "Resources", url: "https://therebelape.com/resources/" },
+  { name: "Internet Marketing Strategy", url: canonical }
+];
+---
+
+<Base {title} {description} {canonical} {image} {type} {robots}>
+  <!-- Schema Markup -->
+  <OrganizationSchema slot="head" />
+  <BreadcrumbSchema slot="head" breadcrumbs={breadcrumbs} />
+  <WebPageSchema
+    slot="head"
+    type="WebPage"
+    name={title}
+    description={description}
+    url={canonical}
+    image={image}
+  />
+
+  <!-- Hero Section -->
+  <HeroHome
+    title="Your Marketing Strategy <span class='text-rebel-green'>(Not Just Random Tactics)</span>"
+    subtitle="Stop Throwing Money at Disconnected Services That Don't Work Together"
+    description="Most contractors are invisible online despite doing great work. They've tried 'some SEO' or 'ran ads for a while' but nothing sticks. <strong>That's because tactics alone don't work. Systems do.</strong>"
+    buttonText="Schedule Strategy Session"
+    buttonIcon="calendar"
+    buttonHref="/schedule/"
+  />
+
+  <SocialProofBar />
+
+  <!-- The Problem Section -->
+  <section class="py-16 md:py-24 section-checkers">
+    <div class="max-w-7xl mx-auto px-6">
+      <div class="text-center mb-12">
+        <h2 class="text-4xl md:text-5xl font-black text-gray-900 mb-6">
+          Sound Familiar? <span class="text-rebel-green">"I Need..."</span>
+        </h2>
+        <p class="text-lg md:text-xl text-gray-700 leading-relaxed max-w-4xl mx-auto">
+          Most contractors we talk to are buried on page 3 of Google. Their website looks like it was built in 2005. They're stuck relying on word-of-mouth and referrals they can't control.
+        </p>
+      </div>
+      <div class="grid md:grid-cols-3 gap-8 text-center mb-12">
+        <div class="bg-white border border-gray-200 rounded-lg shadow-xl overflow-hidden">
+          <div class="h-1 bg-red-500"></div>
+          <div class="p-6">
+            <p class="text-lg text-gray-700">"I need a <strong>new website</strong>"</p>
+          </div>
+        </div>
+        <div class="bg-white border border-gray-200 rounded-lg shadow-xl overflow-hidden">
+          <div class="h-1 bg-red-500"></div>
+          <div class="p-6">
+            <p class="text-lg text-gray-700">"I need to <strong>rank on Google</strong>"</p>
+          </div>
+        </div>
+        <div class="bg-white border border-gray-200 rounded-lg shadow-xl overflow-hidden">
+          <div class="h-1 bg-red-500"></div>
+          <div class="p-6">
+            <p class="text-lg text-gray-700">"I need to <strong>run some ads</strong>"</p>
+          </div>
+        </div>
+      </div>
+      <p class="text-2xl md:text-3xl font-black text-gray-900 text-center">
+        And that's exactly <span class="text-rebel-green">the problem.</span>
+      </p>
+    </div>
+  </section>
+
+  <!-- Why Random Tactics Don't Work Section -->
+  <section class="py-16 md:py-24 section-slate">
+    <div class="max-w-7xl mx-auto px-6">
+      <div class="grid md:grid-cols-3 gap-12 items-stretch">
+        <!-- Left: Text Content (2/3) -->
+        <div class="flex flex-col justify-center md:col-span-2">
+          <h2 class="text-4xl md:text-5xl font-black text-gray-900 mb-8">
+            Why Random Tactics <span class="text-rebel-green">Don't Work</span>
+          </h2>
+
+          <div class="space-y-6 text-gray-700 text-lg leading-relaxed">
+            <p>
+              A website alone doesn't generate leads. Google Ads alone don't work without a conversion-optimized site. SEO alone takes 8 months and you're broke by month 3 waiting for it to kick in. Throwing up some Facebook posts doesn't move the needle.
+            </p>
+
+            <p>
+              <strong>Individual tactics fail because they're not connected to anything.</strong> You're spending money on pieces of a system without building the actual system.
+            </p>
+
+            <!-- The Problem List -->
+            <div class="bg-gray-100 p-6 rounded-lg mt-6">
+              <h4 class="text-xl font-bold text-gray-900 mb-4">Here's the truth most agencies won't tell you:</h4>
+              <ul class="space-y-3">
+                <li class="flex gap-3 items-start">
+                  <span class="text-red-500 text-xl font-bold">✗</span>
+                  <span>They sell you <strong>services</strong>, not strategy</span>
+                </li>
+                <li class="flex gap-3 items-start">
+                  <span class="text-red-500 text-xl font-bold">✗</span>
+                  <span>They'll build you a website... that sits there</span>
+                </li>
+                <li class="flex gap-3 items-start">
+                  <span class="text-red-500 text-xl font-bold">✗</span>
+                  <span>They'll run some ads... that burn money</span>
+                </li>
+                <li class="flex gap-3 items-start">
+                  <span class="text-red-500 text-xl font-bold">✗</span>
+                  <span>They'll write some blog posts... that nobody reads</span>
+                </li>
+                <li class="flex gap-3 items-start">
+                  <span class="text-red-500 text-xl font-bold">✗</span>
+                  <span>None of it connects. None of it compounds.</span>
+                </li>
+              </ul>
+            </div>
+
+            <p class="text-xl font-bold text-gray-900 mt-6">
+              And when it doesn't work? They'll blame your market, your budget, or your industry. <span class="text-rebel-green">That's not how this actually works.</span>
+            </p>
+          </div>
+        </div>
+
+        <!-- Right: Image (1/3) -->
+        <div class="flex items-stretch">
+          <img
+            src="https://RebelApeCDN.b-cdn.net/featured-google-business-profile-for-plumbers-office.webp"
+            alt="Marketing strategy for contractors"
+            class="w-full h-full object-cover rounded-lg"
+            loading="lazy"
+          />
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- What a Real Marketing Strategy Looks Like Section -->
+  <section class="py-16 md:py-24 section-checkers">
+    <div class="max-w-7xl mx-auto px-6">
+      <div class="text-center mb-16">
+        <h2 class="text-4xl md:text-5xl font-black text-gray-900 mb-6">
+          What a Real Marketing Strategy <span class="text-rebel-green">Looks Like</span>
+        </h2>
+        <p class="text-lg md:text-xl text-gray-700 max-w-5xl mx-auto">
+          A marketing strategy isn't a list of services you're buying. It's a system where every piece feeds the others and the whole thing compounds over time.
+        </p>
+      </div>
+
+      <!-- Wheel Graphic -->
+      <div class="mb-16 text-center">
+        <img
+          src="https://RebelApeCDN.b-cdn.net/internet-marketing-wheel.webp"
+          alt="Internet marketing strategy wheel - showing how all marketing components work together"
+          class="w-full max-w-3xl mx-auto rounded-lg"
+          loading="lazy"
+        />
+      </div>
+
+      <div class="max-w-4xl mx-auto mb-12">
+        <p class="text-lg text-gray-700 leading-relaxed">
+          Think of it like building a house. You don't start with the roof. You dig the foundation, pour the concrete, frame the structure, then add everything else in the right order. Miss a step and the whole thing falls apart.
+        </p>
+        <p class="text-lg text-gray-700 leading-relaxed mt-4">
+          <strong>Marketing works the same way.</strong> You need:
+        </p>
+      </div>
+
+      <!-- Phase 1: Infrastructure -->
+      <div class="grid grid-cols-1 lg:grid-cols-2 gap-12 lg:gap-16 items-center mb-20">
+        <div>
+          <img
+            src="https://RebelApeCDN.b-cdn.net/featured-resources.webp"
+            alt="Website infrastructure and landing pages"
+            class="w-full rounded-lg"
+            loading="lazy"
+            width="600"
+            height="400"
+          />
+        </div>
+        <div>
+          <div class="inline-block bg-rebel-green text-white px-4 py-2 rounded-full text-sm font-bold mb-4">Month 1</div>
+          <h3 class="text-3xl md:text-4xl font-bold mb-6">
+            Infrastructure First <span class="text-gray-500">(The Foundation)</span>
+          </h3>
+          <p class="text-lg text-gray-700 mb-6">
+            This is Month 1 work. It's not sexy. It doesn't generate leads yet. <strong>But without it, everything else you spend money on is wasted.</strong>
+          </p>
+          <ul class="space-y-4 mb-6">
+            <li class="flex gap-3">
+              <span class="text-[#32C55F] text-xl font-bold">✓</span>
+              <span class="text-gray-700"><strong>Conversion-Optimized Website:</strong> Built to turn visitors into calls, not just look pretty</span>
+            </li>
+            <li class="flex gap-3">
+              <span class="text-[#32C55F] text-xl font-bold">✓</span>
+              <span class="text-gray-700"><strong>Tracking That Actually Works:</strong> Know where every lead comes from</span>
+            </li>
+            <li class="flex gap-3">
+              <span class="text-[#32C55F] text-xl font-bold">✓</span>
+              <span class="text-gray-700"><strong>Messaging That Differentiates:</strong> Stand out from every other "quality craftsmanship" contractor</span>
+            </li>
+            <li class="flex gap-3">
+              <span class="text-[#32C55F] text-xl font-bold">✓</span>
+              <span class="text-gray-700"><strong>Landing Pages Built to Convert:</strong> Designed for traffic, not just aesthetics</span>
+            </li>
+          </ul>
+        </div>
+      </div>
+
+      <!-- Phase 2: Lead Generation -->
+      <div class="grid grid-cols-1 lg:grid-cols-2 gap-12 lg:gap-16 items-center mb-20">
+        <div class="order-2 lg:order-1">
+          <div class="inline-block bg-rebel-green text-white px-4 py-2 rounded-full text-sm font-bold mb-4">Months 2-3</div>
+          <h3 class="text-3xl md:text-4xl font-bold mb-6">
+            Lead Generation Second <span class="text-gray-500">(Phones Start Ringing)</span>
+          </h3>
+          <p class="text-lg text-gray-700 mb-6">
+            Leads start flowing. Algorithm learns. Cost per lead drops as the system optimizes.
+          </p>
+          <ul class="space-y-4 mb-6">
+            <li class="flex gap-3">
+              <span class="text-[#32C55F] text-xl font-bold">✓</span>
+              <span class="text-gray-700"><strong>Google Ads:</strong> Get phones ringing now while SEO builds in the background</span>
+            </li>
+            <li class="flex gap-3">
+              <span class="text-[#32C55F] text-xl font-bold">✓</span>
+              <span class="text-gray-700"><strong>Local SEO & Google Business Profile:</strong> Where contractors actually get found</span>
+            </li>
+            <li class="flex gap-3">
+              <span class="text-[#32C55F] text-xl font-bold">✓</span>
+              <span class="text-gray-700"><strong>Retargeting:</strong> Stay in front of people who visited but didn't call</span>
+            </li>
+          </ul>
+        </div>
+        <div class="order-1 lg:order-2">
+          <img
+            src="https://RebelApeCDN.b-cdn.net/featured-gorilla-phone-call.webp"
+            alt="PPC and lead generation"
+            class="w-full rounded-lg"
+            loading="lazy"
+            width="600"
+            height="400"
+          />
+        </div>
+      </div>
+
+      <!-- Phase 3: Authority Building -->
+      <div class="grid grid-cols-1 lg:grid-cols-2 gap-12 lg:gap-16 items-center mb-16">
+        <div>
+          <img
+            src="https://RebelApeCDN.b-cdn.net/featured-locations.webp"
+            alt="Authority building and SEO"
+            class="w-full rounded-lg"
+            loading="lazy"
+            width="600"
+            height="400"
+          />
+        </div>
+        <div>
+          <div class="inline-block bg-rebel-green text-white px-4 py-2 rounded-full text-sm font-bold mb-4">Months 4-6</div>
+          <h3 class="text-3xl md:text-4xl font-bold mb-6">
+            Authority Building Third <span class="text-gray-500">(Become THE Name)</span>
+          </h3>
+          <p class="text-lg text-gray-700 mb-6">
+            SEO kicks in. Organic traffic grows. You're not just another contractor—<strong>you're the authority in your market.</strong>
+          </p>
+          <ul class="space-y-4 mb-6">
+            <li class="flex gap-3">
+              <span class="text-[#32C55F] text-xl font-bold">✓</span>
+              <span class="text-gray-700"><strong>Content That Ranks:</strong> Answers questions your customers are actually searching for</span>
+            </li>
+            <li class="flex gap-3">
+              <span class="text-[#32C55F] text-xl font-bold">✓</span>
+              <span class="text-gray-700"><strong>Reviews & Reputation:</strong> Contractors live and die by their Google rating</span>
+            </li>
+            <li class="flex gap-3">
+              <span class="text-[#32C55F] text-xl font-bold">✓</span>
+              <span class="text-gray-700"><strong>Social Proof & Case Studies:</strong> Show you actually deliver results</span>
+            </li>
+          </ul>
+        </div>
+      </div>
+
+      <!-- Everything Compounds -->
+      <div class="bg-gray-900 text-white p-8 md:p-12 rounded-2xl shadow-2xl">
+        <div class="text-center">
+          <h3 class="text-3xl md:text-4xl font-black mb-6">
+            Everything <span class="text-rebel-green">Compounds</span>
+          </h3>
+          <p class="text-lg md:text-xl mb-6 max-w-4xl mx-auto">
+            Month 6 looks nothing like Month 2. Month 12 looks nothing like Month 6.
+          </p>
+          <div class="grid md:grid-cols-4 gap-6 text-center">
+            <div>
+              <p class="text-rebel-green text-4xl font-black mb-2">↓</p>
+              <p class="font-semibold">Cost per lead drops</p>
+            </div>
+            <div>
+              <p class="text-rebel-green text-4xl font-black mb-2">↑</p>
+              <p class="font-semibold">Conversion rates improve</p>
+            </div>
+            <div>
+              <p class="text-rebel-green text-4xl font-black mb-2">↑</p>
+              <p class="font-semibold">Organic traffic grows</p>
+            </div>
+            <div>
+              <p class="text-rebel-green text-4xl font-black mb-2">∞</p>
+              <p class="font-semibold">Your brand becomes recognizable</p>
+            </div>
+          </div>
+          <p class="text-xl font-bold mt-8">
+            That's when ROI really takes off. <span class="text-rebel-green">But only if you build the foundation first.</span>
+          </p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Why This Costs What It Costs Section -->
+  <section class="py-16 md:py-24 section-slate">
+    <div class="max-w-7xl mx-auto px-6">
+      <div class="text-center mb-16">
+        <h2 class="text-4xl md:text-5xl font-black text-gray-900 mb-6">
+          Why This Costs <span class="text-rebel-green">What It Costs</span>
+        </h2>
+        <p class="text-lg md:text-xl text-gray-700 max-w-4xl mx-auto">
+          We hear it all the time: "That's expensive." Yeah, it is. Here's why.
+        </p>
+      </div>
+
+      <div class="grid md:grid-cols-2 gap-8 mb-16">
+        <div class="bg-white border border-gray-200 rounded-lg shadow-xl overflow-hidden">
+          <div class="h-1 bg-rebel-green"></div>
+          <div class="p-8">
+            <h3 class="text-2xl font-bold mb-4">You're Not Buying "A Website"</h3>
+            <p class="text-gray-700 mb-4">
+              You're buying infrastructure that generates predictable revenue. The difference between a $500 website and a $5,000 website isn't prettier pictures.
+            </p>
+            <ul class="space-y-3">
+              <li class="flex gap-3">
+                <span class="text-[#32C55F] text-xl font-bold">✓</span>
+                <span class="text-gray-700">Conversion rates</span>
+              </li>
+              <li class="flex gap-3">
+                <span class="text-[#32C55F] text-xl font-bold">✓</span>
+                <span class="text-gray-700">Load speed</span>
+              </li>
+              <li class="flex gap-3">
+                <span class="text-[#32C55F] text-xl font-bold">✓</span>
+                <span class="text-gray-700">Mobile optimization</span>
+              </li>
+              <li class="flex gap-3">
+                <span class="text-[#32C55F] text-xl font-bold">✓</span>
+                <span class="text-gray-700">Clear calls-to-action</span>
+              </li>
+              <li class="flex gap-3">
+                <span class="text-[#32C55F] text-xl font-bold">✓</span>
+                <span class="text-gray-700">Messaging that differentiates</span>
+              </li>
+              <li class="flex gap-3">
+                <span class="text-[#32C55F] text-xl font-bold">✓</span>
+                <span class="text-gray-700">Tracking that tells you what's working</span>
+              </li>
+            </ul>
+          </div>
+        </div>
+
+        <div class="bg-white border border-gray-200 rounded-lg shadow-xl overflow-hidden">
+          <div class="h-1 bg-rebel-green"></div>
+          <div class="p-8">
+            <h3 class="text-2xl font-bold mb-4">It's a System, Not a Project</h3>
+            <p class="text-gray-700 mb-4">
+              A cheap website with fast load times and clear CTAs will outperform an expensive pretty website every single time. But neither matters if:
+            </p>
+            <ul class="space-y-3">
+              <li class="flex gap-3">
+                <span class="text-red-500 text-xl font-bold">✗</span>
+                <span class="text-gray-700">You're not driving traffic to it</span>
+              </li>
+              <li class="flex gap-3">
+                <span class="text-red-500 text-xl font-bold">✗</span>
+                <span class="text-gray-700">Traffic doesn't convert without the right messaging</span>
+              </li>
+              <li class="flex gap-3">
+                <span class="text-red-500 text-xl font-bold">✗</span>
+                <span class="text-gray-700">You can't optimize without tracking</span>
+              </li>
+              <li class="flex gap-3">
+                <span class="text-red-500 text-xl font-bold">✗</span>
+                <span class="text-gray-700">None of it compounds without ongoing testing</span>
+              </li>
+            </ul>
+            <p class="text-gray-900 font-bold mt-6">
+              That's the system. That's what you're paying for.
+            </p>
+          </div>
+        </div>
+      </div>
+
+      <!-- The ROI Compounds -->
+      <div class="bg-white border border-gray-200 rounded-lg shadow-xl overflow-hidden">
+        <div class="h-1 bg-rebel-green"></div>
+        <div class="p-8 md:p-12">
+          <h3 class="text-3xl font-black text-center mb-8">
+            The ROI <span class="text-rebel-green">Compounds</span>
+          </h3>
+          <p class="text-lg text-gray-700 text-center mb-8 max-w-4xl mx-auto">
+            Here's what contractors don't see at first: <strong>the better your data, structure, and foundation, the better your ROI gets over time.</strong>
+          </p>
+
+          <div class="grid md:grid-cols-5 gap-0">
+            <div class="text-center p-4 bg-gray-50" style="border-right: 1px solid #d1d5db;">
+              <p class="text-sm font-bold text-gray-500 mb-2">Month 1</p>
+              <p class="text-gray-700 text-sm">Building infrastructure. Spending money, not generating leads yet. <span class="text-red-500 font-semibold">Feels expensive.</span></p>
+            </div>
+            <div class="text-center p-4 bg-gray-50" style="border-right: 1px solid #d1d5db;">
+              <p class="text-sm font-bold text-gray-500 mb-2">Month 2</p>
+              <p class="text-gray-700 text-sm">Ads launch. Getting leads but cost per lead is high. Algorithm learning. <span class="text-yellow-600 font-semibold">Still feels expensive.</span></p>
+            </div>
+            <div class="text-center p-4 bg-gray-50" style="border-right: 1px solid #d1d5db;">
+              <p class="text-sm font-bold text-gray-500 mb-2">Month 3</p>
+              <p class="text-gray-700 text-sm">Cost per lead drops. Conversion rates improve from real data. <span class="text-rebel-green font-semibold">More leads, same budget.</span></p>
+            </div>
+            <div class="text-center p-4 bg-gray-50" style="border-right: 1px solid #d1d5db;">
+              <p class="text-sm font-bold text-gray-500 mb-2">Month 6</p>
+              <p class="text-gray-700 text-sm">SEO kicks in. Organic traffic grows. <span class="text-rebel-green font-semibold">Free leads. Cost drops again.</span></p>
+            </div>
+            <div class="text-center p-4 bg-rebel-green/10 border-2 border-rebel-green">
+              <p class="text-sm font-bold text-rebel-green mb-2">Month 12</p>
+              <p class="text-gray-700 text-sm">Everything optimized. Brand known. Reviews piling up. <span class="text-rebel-green font-semibold">2-3x the leads for same spend.</span></p>
+            </div>
+          </div>
+
+          <p class="text-xl font-bold text-center mt-8">
+            <span class="text-rebel-green">That's</span> why strategy costs what it costs. Because it's not a one-time project—<strong>it's a system that gets better the longer it runs.</strong>
+          </p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Strategy vs. One-Off Services Section -->
+  <section class="py-16 md:py-24 section-checkers">
+    <div class="max-w-7xl mx-auto px-6">
+      <div class="grid md:grid-cols-3 gap-12 items-stretch">
+        <!-- Left: Image (1/3) -->
+        <div class="flex items-stretch">
+          <img
+            src="https://RebelApeCDN.b-cdn.net/website-gorilla-square.webp"
+            alt="Rebel Ape Gorilla"
+            class="w-full h-full object-cover rounded-lg"
+            loading="lazy"
+          />
+        </div>
+
+        <!-- Right: Text Content (2/3) -->
+        <div class="flex flex-col justify-center md:col-span-2">
+          <h2 class="text-4xl md:text-5xl font-black text-gray-900 mb-8">
+            Strategy vs. <span class="text-rebel-green">One-Off Services</span>
+          </h2>
+
+          <div class="space-y-6 text-gray-700 text-lg leading-relaxed">
+            <p>
+              Look, we'll still take one-off projects. You need a website? We'll build you one. Need someone to manage your Google Ads? We can do that.
+            </p>
+
+            <p>
+              But let's be clear: <strong>one-offs are baseline work, not strategy.</strong>
+            </p>
+
+            <!-- One-Off Problems List -->
+            <div class="bg-gray-100 p-6 rounded-lg mt-6">
+              <ul class="space-y-3">
+                <li class="flex gap-3 items-start">
+                  <span class="text-red-500 text-xl font-bold">✗</span>
+                  <span>A website without traffic is a digital brochure nobody sees</span>
+                </li>
+                <li class="flex gap-3 items-start">
+                  <span class="text-red-500 text-xl font-bold">✗</span>
+                  <span>Google Ads without conversion optimization burn money</span>
+                </li>
+                <li class="flex gap-3 items-start">
+                  <span class="text-red-500 text-xl font-bold">✗</span>
+                  <span>SEO without a solid site foundation takes twice as long</span>
+                </li>
+                <li class="flex gap-3 items-start">
+                  <span class="text-red-500 text-xl font-bold">✗</span>
+                  <span>Social media without a content strategy is shouting into the void</span>
+                </li>
+              </ul>
+            </div>
+
+            <p class="text-xl font-bold text-gray-900 mt-6">
+              You can buy pieces. But pieces don't generate predictable revenue. <span class="text-rebel-green">Systems do.</span>
+            </p>
+
+            <p class="text-lg">
+              If you're serious about growth—if you want to control your lead flow instead of hoping for referrals—you need the complete system. That's what the <a href="/silverback-authority-method/" class="text-rebel-green font-bold hover:underline">Silverback Authority Method</a> is built for.
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Why Most Contractors Don't Invest Section -->
+  <section class="py-16 md:py-24 section-slate">
+    <div class="max-w-7xl mx-auto px-6">
+      <div class="text-center mb-16">
+        <h2 class="text-4xl md:text-5xl font-black text-gray-900 mb-6">
+          Why Most Contractors <span class="text-rebel-green">Don't Invest in Strategy</span>
+        </h2>
+      </div>
+
+      <div class="grid md:grid-cols-2 gap-8">
+        <div class="bg-white border border-gray-200 rounded-lg shadow-xl overflow-hidden">
+          <div class="h-1 bg-rebel-green"></div>
+          <div class="p-8">
+            <h3 class="text-2xl font-bold mb-4">"It takes too long."</h3>
+            <p class="text-gray-700">
+              Yeah, it takes 6-8 months to really hit stride. You know what also takes time? Trying random tactics for 2 years and wondering why nothing's working. <strong>Building it right the first time is faster than rebuilding it three times.</strong>
+            </p>
+          </div>
+        </div>
+
+        <div class="bg-white border border-gray-200 rounded-lg shadow-xl overflow-hidden">
+          <div class="h-1 bg-rebel-green"></div>
+          <div class="p-8">
+            <h3 class="text-2xl font-bold mb-4">"I just need leads now."</h3>
+            <p class="text-gray-700">
+              We get it. That's why Month 2 launches Google Ads—leads start flowing while the foundation builds. But if all you want is quick leads with no infrastructure, <strong>you'll be chasing leads forever.</strong> Your call.
+            </p>
+          </div>
+        </div>
+
+        <div class="bg-white border border-gray-200 rounded-lg shadow-xl overflow-hidden">
+          <div class="h-1 bg-rebel-green"></div>
+          <div class="p-8">
+            <h3 class="text-2xl font-bold mb-4">"I tried this before and it didn't work."</h3>
+            <p class="text-gray-700">
+              Because the agency sold you services, not strategy. They built you a website and called it done. Ran ads without optimizing the landing pages. Started SEO without fixing your Google Business Profile. <strong>Pieces don't work. Systems do.</strong>
+            </p>
+          </div>
+        </div>
+
+        <div class="bg-white border border-gray-200 rounded-lg shadow-xl overflow-hidden">
+          <div class="h-1 bg-rebel-green"></div>
+          <div class="p-8">
+            <h3 class="text-2xl font-bold mb-4">"I can't afford it right now."</h3>
+            <p class="text-gray-700">
+              Fair. But you're spending money on word-of-mouth marketing right now—it's just unpredictable and unscalable. At some point you'll need consistent lead flow. <strong>When you're ready for that, we're here.</strong>
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- What Happens When You Don't Have Strategy Section -->
+  <section class="py-16 md:py-24 section-checkers">
+    <div class="max-w-7xl mx-auto px-6">
+      <div class="grid md:grid-cols-2 gap-12 items-stretch">
+        <div class="flex flex-col">
+          <h2 class="text-4xl md:text-5xl font-black text-gray-900 mb-8">
+            What Happens When You <span class="text-rebel-green">Don't Have Strategy</span>
+          </h2>
+
+          <div class="space-y-6 text-gray-700 text-lg leading-relaxed">
+            <p>
+              You stay stuck. You rely on referrals you can't control. Slow months hurt. You can't scale because you can't predict lead flow.
+            </p>
+
+            <p>
+              You try random tactics—a new website here, some Facebook ads there—and wonder why nothing sticks.
+            </p>
+
+            <div class="bg-gray-900 text-white p-6 rounded-lg">
+              <p class="font-bold mb-4">Meanwhile, your competitors who invested in complete systems:</p>
+              <ul class="space-y-2">
+                <li class="flex gap-3">
+                  <span class="text-rebel-green text-xl font-bold">✓</span>
+                  <span>Are booking out months in advance</span>
+                </li>
+                <li class="flex gap-3">
+                  <span class="text-rebel-green text-xl font-bold">✓</span>
+                  <span>Show up first on Google</span>
+                </li>
+                <li class="flex gap-3">
+                  <span class="text-rebel-green text-xl font-bold">✓</span>
+                  <span>Their websites convert</span>
+                </li>
+                <li class="flex gap-3">
+                  <span class="text-rebel-green text-xl font-bold">✓</span>
+                  <span>Their ads are dialed in</span>
+                </li>
+                <li class="flex gap-3">
+                  <span class="text-rebel-green text-xl font-bold">✓</span>
+                  <span>They're growing predictably while you're chasing referrals</span>
+                </li>
+              </ul>
+            </div>
+
+            <p class="text-xl font-bold text-gray-900 mt-6">
+              That's the difference between tactics and <span class="text-rebel-green">strategy.</span>
+            </p>
+          </div>
+        </div>
+
+        <div class="h-full">
+          <img
+            src="https://RebelApeCDN.b-cdn.net/featured-ppc.webp"
+            alt="Marketing strategy success"
+            class="w-full h-full object-cover rounded-lg"
+            loading="lazy"
+          />
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- How to Actually Build a Marketing Strategy Section -->
+  <section class="py-16 md:py-24 section-slate">
+    <div class="max-w-7xl mx-auto px-6">
+      <div class="text-center mb-16">
+        <h2 class="text-4xl md:text-5xl font-black text-gray-900 mb-6">
+          How to Actually <span class="text-rebel-green">Build a Marketing Strategy</span>
+        </h2>
+        <p class="text-lg md:text-xl text-gray-700 max-w-4xl mx-auto">
+          If you're tired of random tactics and ready to build something that actually works:
+        </p>
+      </div>
+
+      <div class="grid md:grid-cols-5 gap-6 mb-12">
+        <div class="bg-white border border-gray-200 rounded-lg shadow-xl overflow-hidden">
+          <div class="h-1 bg-rebel-green"></div>
+          <div class="p-6">
+            <div class="w-12 h-12 bg-rebel-green text-white rounded-full flex items-center justify-center font-black text-xl mb-4">1</div>
+            <h4 class="text-lg font-bold mb-2">Understand the Timeline</h4>
+            <p class="text-gray-700 text-sm">This isn't a quick fix. It's a 6-12 month build with results starting Month 2 and compounding from there.</p>
+          </div>
+        </div>
+
+        <div class="bg-white border border-gray-200 rounded-lg shadow-xl overflow-hidden">
+          <div class="h-1 bg-rebel-green"></div>
+          <div class="p-6">
+            <div class="w-12 h-12 bg-rebel-green text-white rounded-full flex items-center justify-center font-black text-xl mb-4">2</div>
+            <h4 class="text-lg font-bold mb-2">Commit to the Foundation</h4>
+            <p class="text-gray-700 text-sm">Month 1 infrastructure work isn't wasted money—it's what makes everything else work.</p>
+          </div>
+        </div>
+
+        <div class="bg-white border border-gray-200 rounded-lg shadow-xl overflow-hidden">
+          <div class="h-1 bg-rebel-green"></div>
+          <div class="p-6">
+            <div class="w-12 h-12 bg-rebel-green text-white rounded-full flex items-center justify-center font-black text-xl mb-4">3</div>
+            <h4 class="text-lg font-bold mb-2">Work With System Builders</h4>
+            <p class="text-gray-700 text-sm">Work with someone who builds systems, not someone who sells services. (That's where we come in.)</p>
+          </div>
+        </div>
+
+        <div class="bg-white border border-gray-200 rounded-lg shadow-xl overflow-hidden">
+          <div class="h-1 bg-rebel-green"></div>
+          <div class="p-6">
+            <div class="w-12 h-12 bg-rebel-green text-white rounded-full flex items-center justify-center font-black text-xl mb-4">4</div>
+            <h4 class="text-lg font-bold mb-2">Track Everything</h4>
+            <p class="text-gray-700 text-sm">Optimize based on real data, not guesses. Every decision should be informed by actual performance.</p>
+          </div>
+        </div>
+
+        <div class="bg-white border border-gray-200 rounded-lg shadow-xl overflow-hidden">
+          <div class="h-1 bg-rebel-green"></div>
+          <div class="p-6">
+            <div class="w-12 h-12 bg-rebel-green text-white rounded-full flex items-center justify-center font-black text-xl mb-4">5</div>
+            <h4 class="text-lg font-bold mb-2">Let It Compound</h4>
+            <p class="text-gray-700 text-sm">Month 6 looks nothing like Month 2. Stick with it and let the system do its work.</p>
+          </div>
+        </div>
+      </div>
+
+      <p class="text-xl font-bold text-gray-900 text-center">
+        Or you can keep buying random tactics and hoping something sticks. <span class="text-rebel-green">Your call.</span>
+      </p>
+    </div>
+  </section>
+
+  <!-- Final CTA Section -->
+  <section class="py-16 md:py-24 section-checkers">
+    <div class="max-w-7xl mx-auto px-6 text-center">
+      <h2 class="text-4xl md:text-5xl font-black text-gray-900 mb-6 max-w-5xl mx-auto">
+        Ready to Build a <span class="text-rebel-green">Real Strategy?</span>
+      </h2>
+      <p class="text-lg md:text-xl text-gray-700 mb-4 max-w-4xl mx-auto">
+        If you're serious about getting your phone ringing with qualified leads—not just trying another random tactic—let's talk.
+      </p>
+      <p class="text-lg text-gray-700 mb-8 max-w-4xl mx-auto">
+        We'll walk through your current situation, what's actually broken, and what a complete marketing system looks like for your specific business. No guru pitches. No magic bullets. Just an honest conversation about what it takes to generate predictable revenue.
+      </p>
+
+      <div class="flex justify-center mb-8">
+        <div class="transform scale-110">
+          <Button text="Schedule a Strategy Call" icon="calendar" href="/schedule/" />
+        </div>
+      </div>
+
+      <p class="text-gray-600 mb-12">
+        Or keep doing what you're doing and hope for different results. But we both know how that ends.
+      </p>
+
+      <div class="border-t border-gray-200 py-12">
+        <p class="text-lg text-gray-700 text-center">
+          <strong>Want to see the full system?</strong> Check out the <a href="/silverback-authority-method/" class="text-rebel-green font-bold hover:underline">Silverback Authority Method</a>—our complete lead generation system for roofing contractors who are ready to grow.
+        </p>
+      </div>
+    </div>
+  </section>
+
+</Base>
