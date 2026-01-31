@@ -4,7 +4,7 @@ headline: "From Zero to 60+ Qualified Leads Per Month"
 clientType: "Mental Health Care Franchise"
 industry: "Mental Health & Wellness"
 description: "How we helped a mental health care franchise generate consistent qualified leads through targeted Google Ads and conversion-optimized landing pages."
-image: "https://RebelApeCDN.b-cdn.net/bg-gorilla-direct.webp"
+image: "https://RebelApeCDN.b-cdn.net/results-mental-health-franchise.webp"
 excerpt: "A mental health care franchise went from struggling to generate leads to receiving 60+ qualified inquiries per month through strategic paid advertising and landing page optimization."
 results:
   metric1: "60+ Qualified Leads/Month"

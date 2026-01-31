@@ -8,9 +8,9 @@ import OrganizationSchema from '../../components/schema/OrganizationSchema.astro
 import BreadcrumbSchema from '../../components/schema/BreadcrumbSchema.astro';
 
 export const getStaticPaths = (async () => {
-  const caseStudies = await getCollection('caseStudies');
+  const results = await getCollection('results');
 
-  return caseStudies
+  return results
     .filter(study => !study.data.draft)
     .map(study => ({
       params: { slug: study.slug },

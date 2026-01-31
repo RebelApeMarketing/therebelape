@@ -265,27 +265,27 @@ https://www.therebelape.com/about-rebel-ape-marketing/about-adam-miconi/ /about/
 
 # CASE STUDIES - Specific Projects (Now Live)
 
-# Highland Surveying
-/highland/ /results/highland-surveying/ 301!
-/highland-surveying/ /results/highland-surveying/ 301!
-/digital-marketing-case-studies/highland-surveying-case-study/ /results/highland-surveying/ 301!
+# Highland Surveying → Land Surveying Case Study
+/highland/ /results/land-surveying/ 301!
+/highland-surveying/ /results/land-surveying/ 301!
+/digital-marketing-case-studies/highland-surveying-case-study/ /results/land-surveying/ 301!
 
-# Regeneration Medical Spa
-/regeneration/ /results/regeneration-medical-spa/ 301!
-/regeneration-med-spa/ /results/regeneration-medical-spa/ 301!
-/digital-marketing-case-studies/regeneration-medical-spa-case-study/ /results/regeneration-medical-spa/ 301!
+# Regeneration Medical Spa → Medical Spa Case Study
+/regeneration/ /results/medical-spa/ 301!
+/regeneration-med-spa/ /results/medical-spa/ 301!
+/digital-marketing-case-studies/regeneration-medical-spa-case-study/ /results/medical-spa/ 301!
 
-# Cereset
-/ceraset/ /results/cereset/ 301!
-/cereset/ /results/cereset/ 301!
-/digital-marketing-case-studies/cereset-of-ogden-case-study/ /results/cereset/ 301!
-/cereset-of-ogden-case-study/ /results/cereset/ 301!
+# Cereset → Mental Health Franchise Case Study
+/ceraset/ /results/mental-health-franchise/ 301!
+/cereset/ /results/mental-health-franchise/ 301!
+/digital-marketing-case-studies/cereset-of-ogden-case-study/ /results/mental-health-franchise/ 301!
+/cereset-of-ogden-case-study/ /results/mental-health-franchise/ 301!
 
-# iFix Appliance Repair
-/ifix/ /results/ifix/ 301!
-/digital-marketing-case-studies/ifix-appliance-repair-case-study/ /results/ifix/ 301!
-/client-work/ifix/ /results/ifix/ 301!
-/our-work/client-work/ifix/ /results/ifix/ 301!
+# iFix Appliance Repair (no dedicated page yet - redirect to results)
+/ifix/ /results/ 301!
+/digital-marketing-case-studies/ifix-appliance-repair-case-study/ /results/ 301!
+/client-work/ifix/ /results/ 301!
+/our-work/client-work/ifix/ /results/ 301!
 
 /client-work/out-there-roofing/ /results/ 301!
 
@@ -331,23 +331,6 @@ https://www.therebelape.com/portfolio/logo-design-gallery/ /results/ 301!
 https://www.therebelape.com/logo-design/void-distortion/ /results/ 301!
 https://www.therebelape.com/website-design/capener-matthews-dental-website-design/ /results/ 301!
 http://therebelape.com/portfolio/website-design-gallery /services/web-design/ 301!
-/our-work/client-work/amazing-vacations-costa-rica/ /results/ 301!
-/our-work/client-work/just-utah-homes/ /results/ 301!
-/our-work/client-work/northern-utah-glass/ /results/ 301!
-/our-work/client-work/sand-lounger-website-design/ /results/ 301!
-/cereset-of-ogden-case-study/ /results/ 301!
-/client-work/easy-to-use-products/ /results/ 301!
-/client-work/ifix/ /results/ 301!
-/client-work/out-there-roofing/ /results/ 301!
-/clients/ /results/ 301!
-/digital-marketing-case-studies/ /results/ 301!
-/digital-marketing-case-studies/bookkeeping-for-contractors-case-study/ /results/ 301!
-/digital-marketing-case-studies/cereset-of-ogden-case-study/ /results/ 301!
-/digital-marketing-case-studies/google-business-profile-case-study/ /results/ 301!
-/digital-marketing-case-studies/google-business-profile-total-market-domination-case-study/ /results/ 301!
-/digital-marketing-case-studies/highland-surveying-case-study/ /results/ 301!
-/digital-marketing-case-studies/ifix-appliance-repair-case-study/ /results/ 301!
-/digital-marketing-case-studies/regeneration-medical-spa-case-study/ /results/ 301!
 
 # ========================================
 # HOMEPAGE & MISCELLANEOUS
@@ -385,15 +368,12 @@ http://therebelape.com/blog/ /blog/ 301
 /4-vital-components-of-the-website-process/ /blog/4-vital-components-of-the-website-process/ 301
 
 # 5-reasons-you-need-social-media-marketing
+/5-reasons-you-need-social-media-marketing/* /blog/5-reasons-you-need-social-media-marketing/ 301!
 /5-reasons-you-need-social-media-marketing/ /blog/5-reasons-you-need-social-media-marketing/ 301
-/5-reasons-you-need-social-media-marketing/?replytocom=850 /blog/5-reasons-you-need-social-media-marketing/ 301
 
 # 7-reasons-you-need-a-website
+/7-reasons-you-need-a-website/* /blog/7-reasons-you-need-a-website/ 301!
 /7-reasons-you-need-a-website/ /blog/7-reasons-you-need-a-website/ 301
-/7-reasons-you-need-a-website/ /blog/7-reasons-you-need-a-website/ 301
-/7-reasons-you-need-a-website/?replytocom=4209 /blog/7-reasons-you-need-a-website/ 301
-/7-reasons-you-need-a-website/?replytocom=4252 /blog/7-reasons-you-need-a-website/ 301
-/7-reasons-you-need-a-website/?replytocom=702 /blog/7-reasons-you-need-a-website/ 301
 
 /a-website-blog-is-an-seos-secret-weapon/ /blog/a-website-blog-is-an-seos-secret-weapon/ 301
 /ai-for-home-service-companies/ /blog/ai-for-home-service-companies/ 301
@@ -449,85 +429,9 @@ http://therebelape.com/blog/ /blog/ 301
 /marketing-testing-strategy-drive-explosive-growth-in-2025/ /blog/marketing-testing-strategy-drive-explosive-growth-in-2025/ 301
 /maximize-marketing-impact-multiple-platforms/ /blog/maximize-marketing-impact-multiple-platforms/ 301
 
-# on-page-seo-tips
+# on-page-seo-tips (wildcard handles all ?replytocom and /page/ variants)
 /on-page-seo-tips/* /blog/on-page-seo-tips/ 301!
 /on-page-seo-tips/ /blog/on-page-seo-tips/ 301
-/on-page-seo-tips /blog/on-page-seo-tips/ 301
-/on-page-seo-tips/?replytocom=1010 /blog/on-page-seo-tips/ 301
-/on-page-seo-tips/?replytocom=1011 /blog/on-page-seo-tips/ 301
-/on-page-seo-tips/?replytocom=1154 /blog/on-page-seo-tips/ 301
-/on-page-seo-tips/?replytocom=1201 /blog/on-page-seo-tips/ 301
-/on-page-seo-tips/?replytocom=1224 /blog/on-page-seo-tips/ 301
-/on-page-seo-tips/?replytocom=1275 /blog/on-page-seo-tips/ 301
-/on-page-seo-tips/?replytocom=1286 /blog/on-page-seo-tips/ 301
-/on-page-seo-tips/?replytocom=1296 /blog/on-page-seo-tips/ 301
-/on-page-seo-tips/?replytocom=1312 /blog/on-page-seo-tips/ 301
-/on-page-seo-tips/?replytocom=1324 /blog/on-page-seo-tips/ 301
-/on-page-seo-tips/?replytocom=1359 /blog/on-page-seo-tips/ 301
-/on-page-seo-tips/?replytocom=1441 /blog/on-page-seo-tips/ 301
-/on-page-seo-tips/?replytocom=1469 /blog/on-page-seo-tips/ 301
-/on-page-seo-tips/?replytocom=1470 /blog/on-page-seo-tips/ 301
-/on-page-seo-tips/?replytocom=1473 /blog/on-page-seo-tips/ 301
-/on-page-seo-tips/?replytocom=1479 /blog/on-page-seo-tips/ 301
-/on-page-seo-tips/?replytocom=1482 /blog/on-page-seo-tips/ 301
-/on-page-seo-tips/?replytocom=1500 /blog/on-page-seo-tips/ 301
-/on-page-seo-tips/?replytocom=1502 /blog/on-page-seo-tips/ 301
-/on-page-seo-tips/?replytocom=1508 /blog/on-page-seo-tips/ 301
-/on-page-seo-tips/?replytocom=1509 /blog/on-page-seo-tips/ 301
-/on-page-seo-tips/?replytocom=1637 /blog/on-page-seo-tips/ 301
-/on-page-seo-tips/?replytocom=1647 /blog/on-page-seo-tips/ 301
-/on-page-seo-tips/?replytocom=1690 /blog/on-page-seo-tips/ 301
-/on-page-seo-tips/?replytocom=1798 /blog/on-page-seo-tips/ 301
-/on-page-seo-tips/?replytocom=1799 /blog/on-page-seo-tips/ 301
-/on-page-seo-tips/?replytocom=1823 /blog/on-page-seo-tips/ 301
-/on-page-seo-tips/?replytocom=1982 /blog/on-page-seo-tips/ 301
-/on-page-seo-tips/?replytocom=1999 /blog/on-page-seo-tips/ 301
-/on-page-seo-tips/?replytocom=3041 /blog/on-page-seo-tips/ 301
-/on-page-seo-tips/?replytocom=3158 /blog/on-page-seo-tips/ 301
-/on-page-seo-tips/?replytocom=3224 /blog/on-page-seo-tips/ 301
-/on-page-seo-tips/?replytocom=330 /blog/on-page-seo-tips/ 301
-/on-page-seo-tips/?replytocom=350 /blog/on-page-seo-tips/ 301
-/on-page-seo-tips/?replytocom=355 /blog/on-page-seo-tips/ 301
-/on-page-seo-tips/?replytocom=385 /blog/on-page-seo-tips/ 301
-/on-page-seo-tips/?replytocom=386 /blog/on-page-seo-tips/ 301
-/on-page-seo-tips/?replytocom=393 /blog/on-page-seo-tips/ 301
-/on-page-seo-tips/?replytocom=394 /blog/on-page-seo-tips/ 301
-/on-page-seo-tips/?replytocom=395 /blog/on-page-seo-tips/ 301
-/on-page-seo-tips/?replytocom=4006 /blog/on-page-seo-tips/ 301
-/on-page-seo-tips/?replytocom=440 /blog/on-page-seo-tips/ 301
-/on-page-seo-tips/?replytocom=454 /blog/on-page-seo-tips/ 301
-/on-page-seo-tips/?replytocom=456 /blog/on-page-seo-tips/ 301
-/on-page-seo-tips/?replytocom=464 /blog/on-page-seo-tips/ 301
-/on-page-seo-tips/?replytocom=476 /blog/on-page-seo-tips/ 301
-/on-page-seo-tips/?replytocom=513 /blog/on-page-seo-tips/ 301
-/on-page-seo-tips/?replytocom=616 /blog/on-page-seo-tips/ 301
-/on-page-seo-tips/?replytocom=678 /blog/on-page-seo-tips/ 301
-/on-page-seo-tips/?replytocom=686 /blog/on-page-seo-tips/ 301
-/on-page-seo-tips/?replytocom=698 /blog/on-page-seo-tips/ 301
-/on-page-seo-tips/?replytocom=716 /blog/on-page-seo-tips/ 301
-/on-page-seo-tips/?replytocom=733 /blog/on-page-seo-tips/ 301
-/on-page-seo-tips/?replytocom=734 /blog/on-page-seo-tips/ 301
-/on-page-seo-tips/?replytocom=762 /blog/on-page-seo-tips/ 301
-/on-page-seo-tips/?replytocom=767 /blog/on-page-seo-tips/ 301
-/on-page-seo-tips/?replytocom=772 /blog/on-page-seo-tips/ 301
-/on-page-seo-tips/?replytocom=773 /blog/on-page-seo-tips/ 301
-/on-page-seo-tips/?replytocom=7737 /blog/on-page-seo-tips/ 301
-/on-page-seo-tips/?replytocom=799 /blog/on-page-seo-tips/ 301
-/on-page-seo-tips/?replytocom=806 /blog/on-page-seo-tips/ 301
-/on-page-seo-tips/?replytocom=813 /blog/on-page-seo-tips/ 301
-/on-page-seo-tips/?replytocom=824 /blog/on-page-seo-tips/ 301
-/on-page-seo-tips/?replytocom=839 /blog/on-page-seo-tips/ 301
-/on-page-seo-tips/?replytocom=852 /blog/on-page-seo-tips/ 301
-/on-page-seo-tips/?replytocom=853 /blog/on-page-seo-tips/ 301
-/on-page-seo-tips/?replytocom=876 /blog/on-page-seo-tips/ 301
-/on-page-seo-tips/?replytocom=878 /blog/on-page-seo-tips/ 301
-/on-page-seo-tips/?replytocom=905 /blog/on-page-seo-tips/ 301
-/on-page-seo-tips/?replytocom=987 /blog/on-page-seo-tips/ 301
-/on-page-seo-tips/?replytocom=988 /blog/on-page-seo-tips/ 301
-/on-page-seo-tips/page/10/ /blog/on-page-seo-tips/ 301
-/on-page-seo-tips/page/11/ /blog/on-page-seo-tips/ 301
-/on-page-seo-tips/page/12/ /blog/on-page-seo-tips/ 301
-/on-page-seo-tips/page/3/ /blog/on-page-seo-tips/ 301
 
 /online-marketing-business-growth-trajectory/ /blog/online-marketing-business-growth-trajectory/ 301
 /online-reviews/ /blog/online-reviews/ 301
@@ -540,7 +444,6 @@ http://therebelape.com/blog/ /blog/ 301
 /professional-content-writing-business-authority-benefits/ /blog/professional-content-writing-business-authority-benefits/ 301
 /professional-marketing-agency-strategic-advantages/ /blog/professional-marketing-agency-strategic-advantages/ 301
 /professional-photography-business-roi-benefits/ /blog/professional-photography-business-roi-benefits/ 301
-/professional-photography-business-roi-benefits /blog/professional-photography-business-roi-benefits/ 301
 /seo-marketing-guide-business-growth/ /blog/seo-marketing-guide-business-growth/ 301
 /seo-tips-for-plumbers/ /blog/seo-tips-for-plumbers/ 301
 /social-media-marketing-business-impact/ /blog/social-media-marketing-business-impact/ 301
@@ -585,26 +488,16 @@ http://therebelape.com/blog/ /blog/ 301
 /page/6/ /blog/6/ 301
 
 # ========================================
-# BLOG QUERY PARAMETER CLEANUP
+# QUERY PARAMETER & PAGINATION CLEANUP
 # ========================================
-# Remove query parameters from all blog posts
-/blog/*?replytocom=* /blog/:splat 301
-/blog/*?* /blog/:splat 301
 
-# Remove query parameters from old-style blog posts (without /blog/ prefix)
+# Remove query parameters from blog posts and old-style URLs
+/blog/*?* /blog/:splat 301
 /*?replytocom=* /:splat 301
 
-# ========================================
-# WORDPRESS COMMENT PAGINATION CLEANUP
-# ========================================
-
-# Remove /page/N/ from blog posts (WordPress comment pagination)
+# Remove WordPress comment pagination (/page/N/)
 /blog/*/page/* /blog/:splat 301
 /*/page/* /:splat 301
-
-# Remove query parameters from all pages
-/blog/*?* /blog/:splat 301
-/*?* /:splat 301
 
 # ========================================
 # OLD MARKETING SERVICES → HOME
@@ -644,7 +537,7 @@ http://therebelape.com/blog/ /blog/ 301
 /plumber-marketing-services/plumber-social-media-content-posts/ / 301!
 /plumber-marketing-services/plumber-digital-marketing-agency/digital-marketing-campaign-examples/ / 301!
 /plumber-marketing-services/plumber-digital-marketing-agency/digital-marketing-campaign-examples/bookkeeping-for-contractors-case-study/ / 301!
-/plumber-marketing-services/plumber-digital-marketing-agency/digital-marketing-campaign-examples/ifix-appliance-repair-case-study/ /results/ifix/ 301!
+/plumber-marketing-services/plumber-digital-marketing-agency/digital-marketing-campaign-examples/ifix-appliance-repair-case-study/ /results/ 301!
 /plumber-marketing-services/plumber-ppc-agency/ /services/ppc/ 301!
 
 # PLUMBER SERVICES (non-marketing specific) → /services/
@@ -725,14 +618,6 @@ https://www.therebelape.com/testimonials/ / 301!
 /category/seo/ /blog/ 301!
 
 # ========================================
-# QUERY PARAM & COMMENT REDIRECTS
-# ========================================
-/5-reasons-you-need-social-media-marketing/?replytocom=* /blog/5-reasons-you-need-social-media-marketing/ 301
-/7-reasons-you-need-a-website/?replytocom=* /blog/7-reasons-you-need-a-website/ 301
-/on-page-seo-tips/?replytocom=* /blog/on-page-seo-tips/ 301
-/how-to-add-users-to-google-my-business-listing/?replytocom=* /blog/how-to-add-users-to-google-my-business-listing/ 301
-
-# ========================================
 # MISCELLANEOUS & BROKEN PATHS
 # ========================================
 https://go.therebelape.com/checklist-page / 301!
@@ -741,7 +626,6 @@ https://go.therebelape.com/checklist-page832917 / 301!
 https://app.therebelape.com/forgot_password?email https://app.therebelape.com/forgot_password 301!
 
 
-http://therebelape.com/blog/ /blog/ 301!
 https://www.therebelape.com/2019/11/ /blog/ 301!
 https://www.therebelape.com/2020/01/ /blog/ 301!
 /ultimate-online-marketing-checklist/ / 301!
@@ -750,7 +634,6 @@ https://www.therebelape.com/2020/01/ /blog/ 301!
 /tips-for-improving-website-speed/ / 301!
 /va-guide-finding-a-local-website-designer/ / 301!
 /google-bert-googles-largest-update-released-since-rankbrain/ / 301!
-/find-a-web-designer-near-ogden-utah/ / 301!
 /what-is-a-brand-promise//1000 / 301!
 /what-is-a-brand-promise/1000 / 301!
 /marketing-agencies-utah/logo-design-for-business/local-logo-designer-in-roy-city-utah/ / 301!
@@ -816,3 +699,15 @@ https://link.therebelape.com/tmp/workspace/production/common/builder-preview/loc
 https://link.therebelape.com/tmp/workspace/production/common/builder-preview/locales/no.json / 301!
 https://link.therebelape.com/tmp/workspace/production/common/builder-preview/locales/pt_BR.json / 301!
 https://link.therebelape.com/tmp/workspace/production/common/builder-preview/locales/sv.json / 301!
+
+# ========================================
+# GSC FLAGGED URLS - Missing Redirects
+# ========================================
+
+# Old pages that need redirects
+/marketing-resources/ /resources/ 301!
+/digital-strategy/ / 301!
+
+# WordPress search/wordfence query strings → Homepage
+/*?wordfence_lh=* / 301!
+/*?s=* / 301!

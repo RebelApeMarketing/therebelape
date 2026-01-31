@@ -4,7 +4,7 @@ headline: "130+ Leads Per Month = $700K+ Revenue Potential"
 clientType: "Medical Spa in Northern Utah"
 industry: "Medical Aesthetics & Wellness"
 description: "How we helped a medical spa generate over 130 qualified leads per month through integrated SEO, Google Ads, and conversion optimization."
-image: "https://RebelApeCDN.b-cdn.net/bg-gorilla-direct.webp"
+image: "https://RebelApeCDN.b-cdn.net/results-medical-spa.webp"
 excerpt: "A medical spa transformed their lead generation from sporadic referrals to 130+ monthly qualified leads worth over $700K in potential annual revenue."
 results:
   metric1: "130+ Qualified Leads/Month"

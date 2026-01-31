@@ -9,14 +9,14 @@ import OrganizationSchema from '../../components/schema/OrganizationSchema.astro
 import BreadcrumbSchema from '../../components/schema/BreadcrumbSchema.astro';
 
 export const getStaticPaths = (async ({ paginate }) => {
-  const allCaseStudies = await getCollection('caseStudies');
+  const allResults = await getCollection('results');
 
   // Filter out drafts and sort by publish date (newest first)
-  const publishedCaseStudies = allCaseStudies
+  const publishedResults = allResults
     .filter(study => !study.data.draft)
     .sort((a, b) => b.data.publishDate.valueOf() - a.data.publishDate.valueOf());
 
-  return paginate(publishedCaseStudies, { pageSize: 6 });
+  return paginate(publishedResults, { pageSize: 6 });
 }) satisfies GetStaticPaths;
 
 const { page } = Astro.props as { page: Page };

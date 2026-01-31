@@ -42,7 +42,7 @@ const locations = defineCollection({
   }),
 });
 
-const caseStudies = defineCollection({
+const results = defineCollection({
   type: 'content',
   schema: z.object({
     title: z.string(),
@@ -69,5 +69,5 @@ export const collections = {
   posts,
   pages,
   locations,
-  caseStudies,
+  results,
 };
