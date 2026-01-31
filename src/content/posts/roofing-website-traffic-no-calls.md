@@ -13,7 +13,7 @@ tags: ["contractor marketing", "roofing marketing", "SEO", "website conversion",
 draft: false
 ---
 
-# Why Your Roofing Website Gets Traffic But No Calls (And How To Actually Fix It)
+## Why Your Roofing Website Gets Traffic But No Calls (And How To Actually Fix It)
 
 You've been roofing for 15 years. You've got a five-star Google rating. Homeowners recommend you to their neighbors. Your crews show up on time and your work is solid.
 

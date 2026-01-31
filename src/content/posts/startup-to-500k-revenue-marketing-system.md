@@ -13,7 +13,7 @@ categories: ["Marketing Strategy"]
 draft: false
 ---
 
-# From Day Job to Dream Job: How a Surveying Startup Hit $500K in 2 Years
+## From Day Job to Dream Job: How a Surveying Startup Hit $500K in 2 Years
 
 He had a baby on the way. Equipment to buy. A wife who'd have to stay home. And his former employer—now his direct competitor—working right across the street, watching his every move.
 

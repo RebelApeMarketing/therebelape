@@ -366,7 +366,6 @@ http://therebelape.com/portfolio/website-design-gallery /services/web-design/ 30
 
 # LEGAL PAGES
 /about-us/privacy-policy/ /legal/privacy-policy/ 301!
-/legal/ /legal/privacy-policy/ 301!
 
 # SITEMAP
 /html-sitemap/ /sitemap.xml 301!

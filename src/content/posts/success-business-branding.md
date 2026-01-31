@@ -13,7 +13,7 @@ categories: ["Branding"]
 draft: false
 ---
 
-# Consistency Is Key: Success Business Branding
+## Consistency Is Key: Success Business Branding
 
 Business branding is a vital aspect that contributes to how effectively your company communicates with—and makes an impression on—its customers. It’s extremely important to maintain consistency across every aspect of your company’s marketing and sales strategies. Business branding, when done correctly, can go a long way toward improving your brand’s recognition and awareness, which can increase your overall customer base.
 

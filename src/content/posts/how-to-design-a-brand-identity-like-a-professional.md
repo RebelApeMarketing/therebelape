@@ -13,7 +13,7 @@ categories: ["Branding"]
 draft: false
 ---
 
-# How to Design a Brand Identity Like a Professional
+## How to Design a Brand Identity Like a Professional
 
 Creating a [professional brand identity](/services/website-design/) can seem like a daunting task, but once you get into it, you’ll quickly realize just how important it is for your company. Sure, your product *is* important—and you might even think it’s the most crucial part of your business—but the truth is, your brand identity often matters more.
 

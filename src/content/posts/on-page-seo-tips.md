@@ -12,7 +12,7 @@ tags: [seo]
 categories: ["SEO"]
 draft: false
 ---
-# Getting Your Site's New Content to Rank in Google Search
+## Getting Your Site's New Content to Rank in Google Search
 
 Getting your site's new content to rank in Google search or other search engines can be a tricky, frustrating endeavor, but like anything, the more you do it the easier it gets.
 
