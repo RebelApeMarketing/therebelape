@@ -1,0 +1,225 @@
+---
+import Base from './Base.astro';
+import Hero from '../components/sections/Hero.astro';
+import SocialProofBar from '../components/sections/SocialProofBar.astro';
+import OrganizationSchema from '../components/schema/OrganizationSchema.astro';
+import BreadcrumbSchema from '../components/schema/BreadcrumbSchema.astro';
+
+interface Props {
+  title: string;
+  headline: string;
+  clientType: string;
+  industry: string;
+  description: string;
+  image: string;
+  slug: string;
+  results: {
+    metric1: string;
+    metric2?: string;
+    metric3?: string;
+  };
+  timeline: string;
+  services: string[];
+  publishDate: Date;
+  nextResult?: {
+    slug: string;
+    clientType: string;
+  };
+}
+
+const {
+  title,
+  headline,
+  clientType,
+  industry,
+  description,
+  image,
+  slug,
+  results,
+  timeline,
+  services,
+  publishDate,
+  nextResult,
+} = Astro.props;
+
+// SEO
+const pageTitle = `${title} | Rebel Ape Marketing`;
+const canonical = `https://therebelape.com/results/${slug}/`;
+const pageImage = image || "https://RebelApeCDN.b-cdn.net/bg-gorilla-direct.webp";
+const type = "article";
+const robots = "index,follow";
+
+// Breadcrumbs for schema
+const breadcrumbs = [
+  { name: "Home", url: "https://therebelape.com/" },
+  { name: "Results", url: "https://therebelape.com/results/" },
+  { name: clientType, url: canonical }
+];
+
+// Custom Case Study Schema (Article type with additional business context)
+const caseStudySchema = {
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": headline,
+  "description": description,
+  "image": pageImage,
+  "datePublished": publishDate.toISOString(),
+  "dateModified": publishDate.toISOString(),
+  "author": {
+    "@type": "Organization",
+    "name": "Rebel Ape Marketing",
+    "url": "https://therebelape.com"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Rebel Ape Marketing",
+    "url": "https://therebelape.com",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://rebelapecdn.b-cdn.net/Rebel%20Website/Branding/rebel-ape-logo-cmyk.svg"
+    }
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": canonical
+  },
+  "about": {
+    "@type": "Service",
+    "serviceType": services.join(", "),
+    "provider": {
+      "@type": "Organization",
+      "name": "Rebel Ape Marketing"
+    }
+  }
+};
+---
+
+<Base title={pageTitle} description={description} canonical={canonical} image={pageImage} type={type} robots={robots}>
+  <!-- Schema Markup -->
+  <OrganizationSchema slot="head" />
+  <BreadcrumbSchema slot="head" breadcrumbs={breadcrumbs} />
+  <script type="application/ld+json" slot="head" set:html={JSON.stringify(caseStudySchema)} />
+
+  <section>
+    <!-- Hero Section -->
+    <Hero
+      backgroundImage={pageImage}
+      title={`${clientType}: <span class='text-rebel-green'>${headline}</span>`}
+      subtitle={industry}
+      description={description}
+      features={[
+        results.metric1,
+        results.metric2 || timeline,
+        results.metric3 || `${services.length} Services`
+      ]}
+      buttonText="Schedule Strategy Session"
+      buttonIcon="calendar"
+      buttonHref="/schedule/"
+      fetchpriority="high"
+    />
+    <SocialProofBar />
+
+    <!-- Main Content from Markdown -->
+    <div class="case-study-content">
+      <slot />
+    </div>
+
+    <style>
+      /* Base typography styles for markdown content outside of custom sections */
+      /* Only apply default colors when not explicitly overridden with text-white or text-rebel-green */
+      .case-study-content :global(h2:not(.text-white):not(.text-rebel-green)) {
+        color: #111827;
+      }
+
+      .case-study-content :global(h2) {
+        font-size: 2.25rem;
+        font-weight: 700;
+        margin-bottom: 1.5rem;
+        margin-top: 0;
+        padding-bottom: 0.75rem;
+      }
+
+      .case-study-content :global(h3:not(.text-white):not(.text-rebel-green)) {
+        color: #10b981;
+      }
+
+      .case-study-content :global(h3) {
+        font-size: 1.5rem;
+        font-weight: 700;
+        margin-bottom: 1rem;
+        margin-top: 1.25rem;
+      }
+
+      .case-study-content :global(p:not(.text-white):not(.text-gray-300):not(.text-gray-400)) {
+        color: #374151;
+      }
+
+      .case-study-content :global(p) {
+        font-size: 1.125rem;
+        line-height: 1.75;
+        margin-bottom: 1rem;
+      }
+
+      .case-study-content :global(ul) {
+        margin: 1.5rem 0;
+        list-style-type: disc;
+        list-style-position: inside;
+      }
+
+      .case-study-content :global(li:not(.text-white)) {
+        color: #374151;
+      }
+
+      .case-study-content :global(li) {
+        font-size: 1.125rem;
+        line-height: 1.75;
+        margin-bottom: 0.75rem;
+      }
+
+      .case-study-content :global(strong:not(.text-white)) {
+        color: #111827;
+      }
+
+      .case-study-content :global(strong) {
+        font-weight: 700;
+      }
+
+      .case-study-content :global(a) {
+        color: #10b981;
+        font-weight: 600;
+        text-decoration: none;
+      }
+
+      .case-study-content :global(a:hover) {
+        text-decoration: underline;
+      }
+    </style>
+
+    <!-- Navigation -->
+    <section class="py-8 section-checkers">
+      <div class="max-w-5xl mx-auto px-6 flex justify-between items-center">
+        <a
+          href="/results/"
+          class="inline-flex items-center text-rebel-green font-semibold text-lg hover:underline"
+        >
+          <svg class="w-5 h-5 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 19l-7-7 7-7"></path>
+          </svg>
+          Back To All Results
+        </a>
+        {nextResult && (
+          <a
+            href={`/results/${nextResult.slug}/`}
+            class="inline-flex items-center text-rebel-green font-semibold text-lg hover:underline"
+          >
+            Next Result
+            <svg class="w-5 h-5 ml-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path>
+            </svg>
+          </a>
+        )}
+      </div>
+    </section>
+
+  </section>
+</Base>

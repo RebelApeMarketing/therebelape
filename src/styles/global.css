@@ -1,11 +1,28 @@
 @import "tailwindcss";
 
 .bg-rebel-green {
-  background-color: #069c4b;
+  background-color: #069c4b !important;
 }
 
 .text-rebel-green {
-  color: #069c4b;
+  color: #069c4b !important;
+}
+
+.border-rebel-green {
+  border-color: #069c4b !important;
+}
+
+/* Override for text colors in case study content */
+.case-study-content .text-white {
+  color: #ffffff !important;
+}
+
+.case-study-content .text-gray-400 {
+  color: #9ca3af !important;
+}
+
+.case-study-content .text-gray-300 {
+  color: #d1d5db !important;
 }
 
 .text-grad {

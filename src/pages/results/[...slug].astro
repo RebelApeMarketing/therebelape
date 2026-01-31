@@ -1,253 +1,49 @@
 ---
 import { getCollection } from 'astro:content';
 import type { GetStaticPaths } from 'astro';
-import Base from '../../layouts/Base.astro';
-import Hero from '../../components/sections/Hero.astro';
-import SocialProofBar from '../../components/sections/SocialProofBar.astro';
-import OrganizationSchema from '../../components/schema/OrganizationSchema.astro';
-import BreadcrumbSchema from '../../components/schema/BreadcrumbSchema.astro';
+import ResultsLayout from '../../layouts/ResultsLayout.astro';
 
 export const getStaticPaths = (async () => {
   const results = await getCollection('results');
-
-  return results
+  const publishedResults = results
     .filter(study => !study.data.draft)
-    .map(study => ({
+    .sort((a, b) => b.data.publishDate.getTime() - a.data.publishDate.getTime());
+
+  return publishedResults.map((study, index) => {
+    // Get the next result (wrap around to first if at the end)
+    const nextIndex = (index + 1) % publishedResults.length;
+    const nextResult = publishedResults[nextIndex];
+
+    return {
       params: { slug: study.slug },
-      props: { study },
-    }));
+      props: {
+        study,
+        nextResult: {
+          slug: nextResult.slug,
+          clientType: nextResult.data.clientType
+        }
+      },
+    };
+  });
 }) satisfies GetStaticPaths;
 
-const { study } = Astro.props;
+const { study, nextResult } = Astro.props;
 const { Content } = await study.render();
-
-const pageTitle = `${study.data.title} | Rebel Ape Marketing`;
-const pageDescription = study.data.description;
-const canonical = `https://therebelape.com/results/${study.slug}/`;
-const image = study.data.image || "https://RebelApeCDN.b-cdn.net/bg-gorilla-direct.webp";
-const type = "article";
-const robots = "index,follow";
-
-// Breadcrumbs for schema
-const breadcrumbs = [
-  { name: "Home", url: "https://therebelape.com/" },
-  { name: "Results", url: "https://therebelape.com/results/" },
-  { name: study.data.clientType, url: canonical }
-];
-
-// Custom Case Study Schema (Article type with additional business context)
-const caseStudySchema = {
-  "@context": "https://schema.org",
-  "@type": "Article",
-  "headline": study.data.headline,
-  "description": study.data.description,
-  "image": image,
-  "datePublished": study.data.publishDate.toISOString(),
-  "dateModified": study.data.publishDate.toISOString(),
-  "author": {
-    "@type": "Organization",
-    "name": "Rebel Ape Marketing",
-    "url": "https://therebelape.com"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Rebel Ape Marketing",
-    "url": "https://therebelape.com",
-    "logo": {
-      "@type": "ImageObject",
-      "url": "https://rebelapecdn.b-cdn.net/Rebel%20Website/Branding/rebel-ape-logo-cmyk.svg"
-    }
-  },
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": canonical
-  },
-  "about": {
-    "@type": "Service",
-    "serviceType": study.data.services.join(", "),
-    "provider": {
-      "@type": "Organization",
-      "name": "Rebel Ape Marketing"
-    }
-  }
-};
 ---
 
-<Base title={pageTitle} description={pageDescription} canonical={canonical} image={image} type={type} robots={robots}>
-  <!-- Schema Markup -->
-  <OrganizationSchema slot="head" />
-  <BreadcrumbSchema slot="head" breadcrumbs={breadcrumbs} />
-  <script type="application/ld+json" slot="head" set:html={JSON.stringify(caseStudySchema)} />
-
-  <section>
-    <!-- Hero Section -->
-    <Hero
-      backgroundImage={image}
-      title={`${study.data.clientType}: <span class='text-rebel-green'>${study.data.headline}</span>`}
-      subtitle={study.data.industry}
-      description={study.data.description}
-      features={[
-        study.data.results.metric1,
-        study.data.results.metric2 || study.data.timeline,
-        study.data.results.metric3 || `${study.data.services.length} Services`
-      ]}
-      buttonText="Schedule Strategy Session"
-      buttonIcon="calendar"
-      buttonHref="/schedule/"
-      fetchpriority="high"
-    />
-    <SocialProofBar />
-
-    <!-- Results Highlight Section -->
-    <section class="py-12 md:py-16 section-slate">
-      <div class="max-w-5xl mx-auto px-6">
-        <h2 class="text-3xl md:text-4xl font-bold text-center mb-12">The Results</h2>
-        <div class="grid md:grid-cols-3 gap-8">
-          <div class="bg-white rounded-lg p-8 text-center shadow-lg">
-            <div class="text-4xl md:text-5xl font-bold text-rebel-green mb-3">
-              {study.data.results.metric1.split(' ')[0]}
-            </div>
-            <div class="text-lg text-gray-700 font-semibold">
-              {study.data.results.metric1.split(' ').slice(1).join(' ')}
-            </div>
-          </div>
-
-          {study.data.results.metric2 && (
-            <div class="bg-white rounded-lg p-8 text-center shadow-lg">
-              <div class="text-4xl md:text-5xl font-bold text-rebel-green mb-3">
-                {study.data.results.metric2.split(' ')[0]}
-              </div>
-              <div class="text-lg text-gray-700 font-semibold">
-                {study.data.results.metric2.split(' ').slice(1).join(' ')}
-              </div>
-            </div>
-          )}
-
-          {study.data.results.metric3 && (
-            <div class="bg-white rounded-lg p-8 text-center shadow-lg">
-              <div class="text-4xl md:text-5xl font-bold text-rebel-green mb-3">
-                {study.data.results.metric3.split(' ')[0]}
-              </div>
-              <div class="text-lg text-gray-700 font-semibold">
-                {study.data.results.metric3.split(' ').slice(1).join(' ')}
-              </div>
-            </div>
-          )}
-        </div>
-      </div>
-    </section>
-
-    <!-- Main Content -->
-    <section class="py-12 md:py-16 section-checkers case-study-content">
-      <div class="max-w-4xl mx-auto px-6">
-        <Content />
-      </div>
-    </section>
-
-    <style>
-      .case-study-content :global(h2) {
-        font-size: 2.25rem;
-        font-weight: 700;
-        color: #111827;
-        margin-bottom: 1.5rem;
-        margin-top: 3rem;
-        border-bottom: 4px solid #10b981;
-        padding-bottom: 0.75rem;
-      }
-
-      .case-study-content :global(h3) {
-        font-size: 1.5rem;
-        font-weight: 700;
-        color: #10b981;
-        margin-bottom: 1rem;
-        margin-top: 2rem;
-      }
-
-      .case-study-content :global(p) {
-        font-size: 1.125rem;
-        color: #374151;
-        line-height: 1.75;
-        margin-bottom: 1rem;
-      }
-
-      .case-study-content :global(ul) {
-        margin: 1.5rem 0;
-        list-style-type: disc;
-        list-style-position: inside;
-      }
-
-      .case-study-content :global(li) {
-        font-size: 1.125rem;
-        color: #374151;
-        line-height: 1.75;
-        margin-bottom: 0.75rem;
-      }
-
-      .case-study-content :global(strong) {
-        font-weight: 700;
-        color: #111827;
-      }
-
-      .case-study-content :global(a) {
-        color: #10b981;
-        font-weight: 600;
-        text-decoration: none;
-      }
-
-      .case-study-content :global(a:hover) {
-        text-decoration: underline;
-      }
-    </style>
-
-    <!-- Services Used -->
-    <section class="py-12 md:py-16 section-slate">
-      <div class="max-w-4xl mx-auto px-6">
-        <h2 class="text-3xl md:text-4xl font-bold text-center mb-10">Services We Provided</h2>
-        <div class="flex flex-wrap justify-center gap-4">
-          {study.data.services.map(service => (
-            <span class="bg-rebel-green text-white px-6 py-3 rounded-full text-lg font-semibold shadow-md">
-              {service}
-            </span>
-          ))}
-        </div>
-      </div>
-    </section>
-
-    <!-- CTA Section -->
-    <section class="py-12 md:py-16 section-checkers">
-      <div class="max-w-4xl mx-auto px-6 text-center">
-        <h2 class="text-4xl md:text-5xl font-bold mb-6">
-          Want Similar Results for <span class="text-rebel-green">Your Business?</span>
-        </h2>
-        <p class="text-xl text-gray-700 mb-8">
-          Let's talk about building a complete marketing system that generates qualified leads for your business.
-        </p>
-        <a
-          href="/schedule/"
-          class="inline-flex items-center gap-3 bg-rebel-green text-white px-8 py-4 rounded-lg font-bold text-lg hover:bg-rebel-green-dark transition shadow-lg hover:shadow-xl"
-        >
-          <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z"></path>
-          </svg>
-          <span>Schedule Your Strategy Call</span>
-        </a>
-      </div>
-    </section>
-
-    <!-- Back to Results -->
-    <section class="pb-16">
-      <div class="max-w-4xl mx-auto px-6">
-        <a
-          href="/results/"
-          class="inline-flex items-center text-rebel-green font-semibold text-lg hover:underline"
-        >
-          <svg class="w-5 h-5 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 19l-7-7 7-7"></path>
-          </svg>
-          Back to All Results
-        </a>
-      </div>
-    </section>
-
-  </section>
-</Base>
+<ResultsLayout
+  title={study.data.title}
+  headline={study.data.headline}
+  clientType={study.data.clientType}
+  industry={study.data.industry}
+  description={study.data.description}
+  image={study.data.image}
+  slug={study.slug}
+  results={study.data.results}
+  timeline={study.data.timeline}
+  services={study.data.services}
+  publishDate={study.data.publishDate}
+  nextResult={nextResult}
+>
+  <Content />
+</ResultsLayout>
