@@ -3,17 +3,17 @@ title: "Stop Using Random Tactics. Start Using a Marketing Strategy."
 slug: "stop-using-random-tactics-start-using-marketing-strategy"
 description: "Random marketing tactics fail because they're not connected. Here's why roofing contractors need a complete marketing strategy instead."
 excerpt: "Most roofers can't even find their own business online. They've tried SEO, ran some ads, built a website—but nothing connects. Here's why random tactics fail and what actually works."
-publishDate: "2026-01-30T09:00:00-07:00"
+publishDate: "2026-01-29T09:00:00-07:00"
 lastModified: "2026-01-30T09:00:00-07:00"
 author: "Adam Miconi"
-image: "/path/to/image.jpg"
+image: "https://RebelApeCDN.b-cdn.net/featured-random-tactics.webp"
 canonicalUrl: "https://therebelape.com/blog/stop-using-random-tactics-start-using-marketing-strategy/"
 categories: ["Home Services Marketing"]
 tags: ["contractor marketing", "roofing marketing", "marketing strategy", "home service marketing", "lead generation"]
-draft: true
+draft: false
 ---
 
-# Stop Using Random Tactics. Start Using a Marketing Strategy.
+## Stop Using Random Tactics. Start Using a Marketing Strategy.
 
 A roofing contractor calls us. First thing he says: "I can't even find my own business on Google unless I search for it by name."
 

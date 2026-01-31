@@ -6,14 +6,14 @@ excerpt: "Every roofing contractor we audit makes at least 4 of these 7 mistakes
 publishDate: "2026-01-30T10:00:00-07:00"
 lastModified: "2026-01-30T10:00:00-07:00"
 author: "Adam Miconi"
-image: "/path/to/image.jpg"
+image: "https://RebelApeCDN.b-cdn.net/featured-why-roofing-company-not-ranking.webp"
 canonicalUrl: "https://therebelape.com/blog/why-roofing-company-not-ranking-google/"
 categories: ["SEO"]
 tags: ["roofing marketing", "SEO", "local SEO", "contractor marketing", "Google rankings"]
-draft: true
+draft: false
 ---
 
-# 7 Reasons Your Roofing Company Isn't Ranking on Google (And How to Fix Each One)
+## 7 Reasons Your Roofing Company Isn't Ranking on Google (And How to Fix Each One)
 
 Search for your company on Google. Not by name—by what you do. "Roofer [your city]" or "roof replacement [your city]."
 
