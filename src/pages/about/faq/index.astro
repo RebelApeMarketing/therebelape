@@ -2,7 +2,7 @@
 import Base from '../../../layouts/Base.astro';
 import HeroHome from '../../../components/sections/HeroHome.astro';
 import SocialProofBar from '../../../components/sections/SocialProofBar.astro';
-import WebPageSchema from '../../../components/schema/WebPageSchema.astro';
+import FAQSchema from '../../../components/schema/FAQSchema.astro';
 
 // SEO
 const title = "FAQ | Contractor Marketing Questions Answered | Rebel Ape Marketing";
@@ -11,17 +11,78 @@ const canonical = "https://therebelape.com/about/faq/";
 const image = "https://RebelApeCDN.b-cdn.net/featured-about.webp";
 const type = "website";
 const robots = "index, follow";
+
+// FAQ data for schema markup
+const faqs = [
+  {
+    question: "How much does this cost?",
+    answer: "Our Silverback Authority Method starts at $2,000/month for the complete marketing system. We also recommend at least a $1,000/month ad budget on top of that to give campaigns room to learn and optimize. Many of our contractors pay $3,000/month or more in total because they're typically getting 4x+ ROI."
+  },
+  {
+    question: "Do you require contracts?",
+    answer: "Nope. We work month-to-month. If we're not delivering results, fire us. That's how it should be. We don't need contracts to keep clients because what we do actually works."
+  },
+  {
+    question: "How long until I see results?",
+    answer: "Month 1 is foundation—we're rebuilding, setting up, and structuring your marketing for success. Month 2 we launch ads and leads start coming in. Months 3-6 everything compounds as the algorithm optimizes and SEO kicks in. Most contractors see meaningful results within 60-90 days."
+  },
+  {
+    question: "What if I can't afford $2,000/month right now?",
+    answer: "Then honestly, you're probably not ready for a complete marketing system yet. Proper contractor marketing requires proper investment: website optimization, conversion tracking, ad spend, ongoing optimization, and daily management. Cutting corners means cutting results."
+  },
+  {
+    question: "What's included in your marketing system?",
+    answer: "Everything works together: conversion-optimized website design, Google Ads and Meta Ads management, Local Service Ads setup, local SEO, Google Business Profile optimization, conversion tracking, monthly reporting, and daily campaign optimization. This isn't a la carte services—it's a complete system where every piece supports the others."
+  },
+  {
+    question: "What happens in Month 1 specifically?",
+    answer: "We're building the foundation. That means conversion optimization on your website, setting up proper tracking and CRM integration, fixing technical issues that kill conversions, and structuring your campaigns for success. Month 1 is about creating the infrastructure so when we launch ads in Month 2, they actually convert."
+  },
+  {
+    question: "How involved do I need to be?",
+    answer: "Minimally. We usually ask a couple questions upfront and need photos or a few other things to get started. After that, we handle the execution. You're a contractor, not a marketer. We execute everything for you."
+  },
+  {
+    question: "Can I just get a website or just Google Ads?",
+    answer: "Honestly, probably not. We're not set up for one-off projects because they don't deliver the results you need. A website alone doesn't generate leads without traffic. Google Ads alone don't convert without an optimized website. Everything works together—that's the point."
+  },
+  {
+    question: "Do you guarantee results?",
+    answer: "No. Guarantees are the catch—there's always something hidden in them. We can only influence Google and pull certain levers. What we can tell you: We've done this for dozens of contractors. Our clients stay with us for years. We track everything so you see exactly what's working. And we work month-to-month—if we're not delivering, fire us."
+  },
+  {
+    question: "What if I don't get leads?",
+    answer: "If leads aren't coming in, there's usually a bigger problem—something Google has flagged or something technically wrong with your website. Leads just don't happen when the marketing is set up right. If you're not getting leads, we help you identify what's wrong and fix it."
+  },
+  {
+    question: "Can you guarantee I'll rank #1 on Google?",
+    answer: "No. Ranking depends on budget, competition, your existing digital footprint, and dozens of other factors outside our control. Anyone promising #1 rankings in 30 days is either lying or using tactics that'll get you penalized. SEO is a 6-8 month process, minimum."
+  },
+  {
+    question: "What if my market is too competitive?",
+    answer: "Then we don't fight head-to-head with the big players right away. We go for a different position—different service angles, different geographic targeting, different keyword strategies—until your company and digital footprint have grown enough to play with the big kids."
+  },
+  {
+    question: "What makes you different from other marketing agencies?",
+    answer: "We build complete systems, not individual services. Most agencies sell you a website OR SEO OR Google Ads and wonder why you're not getting results. We integrate everything so it works together. We tell you the truth about timelines and what works. We're partners, not vendors."
+  },
+  {
+    question: "Why do you focus on complete systems instead of individual services?",
+    answer: "Because individual tactics don't work in isolation. A beautiful website with no traffic doesn't generate leads. Google Ads without an optimized website don't convert. SEO takes too long without ads to fill the gap. Everything needs to work together—that's what generates predictable, scalable revenue."
+  },
+  {
+    question: "Do you work with contractors outside my area?",
+    answer: "Yes. We work with contractors across the country. Local marketing isn't about being physically nearby—it's about understanding local search behavior, local competition, and how to dominate your specific service area."
+  },
+  {
+    question: "What types of contractors do you work with?",
+    answer: "Primarily home service contractors: roofers, plumbers, HVAC companies, electricians, painters, remodelers, concrete contractors, surveyors, and similar trades. We focus on service-based businesses where the average ticket is $3K+ jobs minimum, ideally $10K+."
+  }
+];
 ---
 
 <Base {title} {description} {canonical} {image} {type} {robots}>
-  <WebPageSchema
-    slot="head"
-    type="FAQPage"
-    name={title}
-    description={description}
-    url={canonical}
-    image={image}
-  />
+  <FAQSchema slot="head" faqs={faqs} />
 
   <section>
     <!-- Hero -->
