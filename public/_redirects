@@ -716,3 +716,29 @@ https://link.therebelape.com/tmp/workspace/production/common/builder-preview/loc
 # WordPress search/wordfence query strings → Homepage
 /*?wordfence_lh=* / 301!
 /*?s=* / 301!
+
+# ========================================
+# WORDPRESS LEGACY - FEEDS & WP-CONTENT
+# ========================================
+
+# RSS Feeds (no longer exist in Astro)
+/feed/ /blog/ 301!
+/feed/* /blog/ 301!
+/*/feed/ /blog/ 301!
+/category/*/feed/ /blog/ 301!
+
+# Category pages → Blog
+/category/* /blog/ 301!
+
+# WordPress uploads - return 410 Gone (content permanently removed)
+/wp-content/* / 410!
+
+# ========================================
+# SPAM/GIBBERISH ATTACK URLS
+# ========================================
+
+# Pattern-based spam URLs (random characters with common patterns)
+/*-*items/* / 410!
+/*-*etidm* / 410!
+/*-*yeti* / 410!
+/*.htm / 410!
