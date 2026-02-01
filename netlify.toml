@@ -1,3 +1,13 @@
+# Build settings
+[build]
+  publish = "dist"
+  command = "npm run build"
+
+# Functions directory
+[functions]
+  directory = "netlify/functions"
+
+# Headers
 [[headers]]
   for = "/*"
   [headers.values]

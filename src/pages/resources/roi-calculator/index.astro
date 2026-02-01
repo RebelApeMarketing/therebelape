@@ -138,6 +138,9 @@ const robots = "index, follow";
             <input type="hidden" name="bot-field" />
             <input type="hidden" name="form-name" value="roi-calculator" />
 
+            <!-- Subject field - used as submission label in Netlify dashboard -->
+            <input type="hidden" name="subject" id="hidden-subject" value="ROI Calculator Lead" />
+
             <!-- Hidden fields for calculated results -->
             <input type="hidden" name="monthly-jobs" id="hidden-monthly-jobs" />
             <input type="hidden" name="monthly-estimates" id="hidden-monthly-estimates" />
@@ -459,11 +462,51 @@ const robots = "index, follow";
     return parseFloat(str.replace(/,/g, '')) || 0;
   }
 
-  // Format input as currency
-  function formatCurrencyInput(input: HTMLInputElement): void {
-    let value = input.value.replace(/[^0-9]/g, '');
-    if (value) {
-      input.value = parseInt(value).toLocaleString('en-US');
+  // Format currency input in real-time (adds commas as you type)
+  function formatCurrencyRealTime(input: HTMLInputElement): void {
+    // Get cursor position before formatting
+    const cursorPos = input.selectionStart || 0;
+    const oldLength = input.value.length;
+
+    // Strip everything except digits
+    let digits = input.value.replace(/[^0-9]/g, '');
+
+    // Format with commas
+    if (digits) {
+      input.value = parseInt(digits).toLocaleString('en-US');
+    } else {
+      input.value = '';
+    }
+
+    // Adjust cursor position based on new length
+    const newLength = input.value.length;
+    const diff = newLength - oldLength;
+    const newCursorPos = Math.max(0, cursorPos + diff);
+    input.setSelectionRange(newCursorPos, newCursorPos);
+  }
+
+  // Format phone number as (XXX) XXX-XXXX
+  function formatPhoneNumber(input: HTMLInputElement): void {
+    // Strip everything except digits
+    let digits = input.value.replace(/[^0-9]/g, '');
+
+    // Remove leading 1 if present (country code)
+    if (digits.length > 10 && digits.startsWith('1')) {
+      digits = digits.substring(1);
+    }
+
+    // Limit to 10 digits
+    digits = digits.substring(0, 10);
+
+    // Format based on length
+    if (digits.length === 0) {
+      input.value = '';
+    } else if (digits.length <= 3) {
+      input.value = `(${digits}`;
+    } else if (digits.length <= 6) {
+      input.value = `(${digits.substring(0, 3)}) ${digits.substring(3)}`;
+    } else {
+      input.value = `(${digits.substring(0, 3)}) ${digits.substring(3, 6)}-${digits.substring(6)}`;
     }
   }
 
@@ -473,20 +516,20 @@ const robots = "index, follow";
     const avgJobSizeInput = document.getElementById('avg-job-size') as HTMLInputElement;
     const closingRateInput = document.getElementById('closing-rate') as HTMLInputElement;
     const industrySelect = document.getElementById('industry') as HTMLSelectElement;
+    const phoneInput = document.getElementById('phone') as HTMLInputElement;
     const calculateBtn = document.getElementById('calculate-btn') as HTMLButtonElement;
     const calculateBtnWrapper = document.getElementById('calculate-btn-wrapper') as HTMLDivElement;
     const resultsSection = document.getElementById('results-section') as HTMLDivElement;
     const form = document.getElementById('roi-calculator-form') as HTMLFormElement;
     const successMessage = document.getElementById('success-message') as HTMLDivElement;
 
-    // Format currency inputs on blur
+    // Format currency inputs in real-time
     [monthlyGoalInput, avgJobSizeInput].forEach(input => {
-      input.addEventListener('blur', () => formatCurrencyInput(input));
-      input.addEventListener('input', () => {
-        // Allow only numbers and commas while typing
-        input.value = input.value.replace(/[^0-9,]/g, '');
-      });
+      input.addEventListener('input', () => formatCurrencyRealTime(input));
     });
+
+    // Format phone number in real-time
+    phoneInput.addEventListener('input', () => formatPhoneNumber(phoneInput));
 
     // Closing rate: only allow numbers
     closingRateInput.addEventListener('input', () => {
@@ -568,6 +611,11 @@ const robots = "index, follow";
       const submitBtn = document.getElementById('submit-btn') as HTMLButtonElement;
       submitBtn.disabled = true;
       submitBtn.textContent = 'Sending...';
+
+      // Set subject field with name and industry for Netlify dashboard
+      const nameInput = document.getElementById('name') as HTMLInputElement;
+      const subjectField = document.getElementById('hidden-subject') as HTMLInputElement;
+      subjectField.value = `${nameInput.value} - ${industrySelect.value}`;
 
       try {
         const formData = new FormData(form);
