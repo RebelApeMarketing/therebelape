@@ -281,11 +281,16 @@ https://www.therebelape.com/about-rebel-ape-marketing/about-adam-miconi/ /about/
 /digital-marketing-case-studies/cereset-of-ogden-case-study/ /results/mental-health-franchise/ 301!
 /cereset-of-ogden-case-study/ /results/mental-health-franchise/ 301!
 
-# iFix Appliance Repair (no dedicated page yet - redirect to results)
-/ifix/ /results/ 301!
-/digital-marketing-case-studies/ifix-appliance-repair-case-study/ /results/ 301!
-/client-work/ifix/ /results/ 301!
-/our-work/client-work/ifix/ /results/ 301!
+# iFix Appliance Repair → Appliance Repair Case Study
+/ifix/ /results/appliance-repair/ 301!
+/digital-marketing-case-studies/ifix-appliance-repair-case-study/ /results/appliance-repair/ 301!
+/client-work/ifix/ /results/appliance-repair/ 301!
+/our-work/client-work/ifix/ /results/appliance-repair/ 301!
+
+# Little Vegas Chapel → Las Vegas Wedding Chapel Case Study
+/little-vegas-chapel/ /results/las-vegas-wedding-chapel/ 301!
+/vegas-chapel/ /results/las-vegas-wedding-chapel/ 301!
+/las-vegas-chapel/ /results/las-vegas-wedding-chapel/ 301!
 
 /client-work/out-there-roofing/ /results/ 301!
 
