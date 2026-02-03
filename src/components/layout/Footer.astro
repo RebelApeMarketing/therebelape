@@ -5,7 +5,7 @@ const year = new Date().getFullYear();
 <footer class="bg-zinc-900 text-white morphing-diamonds">
     <div class="max-w-7xl mx-auto px-6 py-12">
         <!-- Main Footer Content -->
-        <div class="grid grid-cols-1 md:grid-cols-4 gap-12 mb-12">
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-5 gap-12 mb-12">
             <!-- Left: About Section -->
             <div class="flex flex-col gap-6">
                 <div>
@@ -20,7 +20,7 @@ const year = new Date().getFullYear();
                 </div>
             </div>
 
-            <!-- Middle: Our Solutions -->
+            <!-- Our Solutions -->
             <div class="flex flex-col gap-4">
                 <h3 class="font-bold text-xl text-rebel-green">Our Solutions</h3>
                 <nav class="flex flex-col gap-2">
@@ -34,7 +34,19 @@ const year = new Date().getFullYear();
                 </nav>
             </div>
 
-            <!-- Middle-Right: Company -->
+            <!-- Industries -->
+            <div class="flex flex-col gap-4">
+                <h3 class="font-bold text-xl text-rebel-green">Industries</h3>
+                <nav class="flex flex-col gap-2">
+                    <a href="/industries/" class="text-gray-300 hover:text-white transition">All Industries</a>
+                    <a href="/industries/roofing/" class="text-gray-300 hover:text-white transition">Roofing</a>
+                    <a href="/industries/hvac/" class="text-gray-300 hover:text-white transition">HVAC</a>
+                    <a href="/industries/plumbing/" class="text-gray-300 hover:text-white transition">Plumbing</a>
+                    <a href="/industries/electrical/" class="text-gray-300 hover:text-white transition">Electrical</a>
+                </nav>
+            </div>
+
+            <!-- Company -->
             <div class="flex flex-col gap-4">
                 <h3 class="font-bold text-xl text-rebel-green">Company</h3>
                 <nav class="flex flex-col gap-2">
@@ -43,8 +55,8 @@ const year = new Date().getFullYear();
                     <a href="/results/" class="text-gray-300 hover:text-white transition">Results</a>
                     <a href="/contact/" class="text-gray-300 hover:text-white transition">Contact</a>
                     <a href="/locations/" class="text-gray-300 hover:text-white transition">Locations</a>
-                    <a href="/legal/privacy-policy/" class="text-gray-300 hover:text-white transition">Privacy Policy</a>
                     <a href="/resources/" class="text-gray-300 hover:text-white transition">Resources</a>
+                    <a href="/legal/privacy-policy/" class="text-gray-300 hover:text-white transition">Privacy Policy</a>
                     <a href="/legal/terms-and-conditions/" class="text-gray-300 hover:text-white transition">Terms & Conditions</a>
                 </nav>
             </div>

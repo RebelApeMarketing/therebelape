@@ -1,0 +1,230 @@
+---
+import Base from '../../layouts/Base.astro';
+import HeroHome from '../../components/sections/HeroHome.astro';
+import SocialProofBar from '../../components/sections/SocialProofBar.astro';
+import TestimonialsDefault from '../../components/testimonials/TestimonialsDefault.astro';
+import OrganizationSchema from '../../components/schema/OrganizationSchema.astro';
+import BreadcrumbSchema from '../../components/schema/BreadcrumbSchema.astro';
+
+// SEO
+const title = "Marketing for Home Service Contractors | Rebel Ape";
+const description = "Specialized marketing solutions for roofing, HVAC, plumbing, and electrical contractors. We understand your industry and know how to get your phones ringing.";
+const canonical = "https://therebelape.com/industries/";
+const image = "https://RebelApeCDN.b-cdn.net/featured-industries.webp";
+const type = "website";
+const robots = "index,follow";
+
+// Breadcrumbs for schema
+const breadcrumbs = [
+  { name: "Home", url: "https://therebelape.com/" },
+  { name: "Industries", url: "https://therebelape.com/industries/" }
+];
+
+// Industry data
+const industries = [
+  {
+    name: "Roofing",
+    slug: "roofing",
+    tagline: "Dominate Your Local Roofing Market",
+    description: "Storm chasers flooding your market? Competing against national brands? We help local roofers stand out, generate quality leads, and build a reputation that keeps the phone ringing year-round.",
+    features: [
+      "Storm damage lead campaigns",
+      "High-converting roofing websites",
+      "Review generation systems",
+      "Local SEO dominance"
+    ],
+    image: "https://RebelApeCDN.b-cdn.net/featured-roofer-marketing.webp"
+  },
+  {
+    name: "HVAC",
+    slug: "hvac",
+    tagline: "Keep Your Schedule Full Year-Round",
+    description: "Seasonal slowdowns killing your cash flow? We build marketing systems that generate consistent HVAC leads whether it's the dead of summer or middle of winter. Maintenance agreements, emergency repairs, installations—we've got you covered.",
+    features: [
+      "Seasonal campaign strategies",
+      "Emergency service ads",
+      "Maintenance agreement funnels",
+      "Equipment replacement leads"
+    ],
+    image: "https://RebelApeCDN.b-cdn.net/featured-hvac-marketing.webp"
+  },
+  {
+    name: "Plumbing",
+    slug: "plumbing",
+    tagline: "Be The First Call When Pipes Burst",
+    description: "Emergency plumbing calls go to whoever shows up first in search. We make sure that's you. From drain cleaning to full repiping projects, we help plumbers capture high-value jobs in their service area.",
+    features: [
+      "24/7 emergency ad campaigns",
+      "Service area targeting",
+      "High-ticket job targeting",
+      "Google Guaranteed setup"
+    ],
+    image: "https://RebelApeCDN.b-cdn.net/featured-plumber-marketing.webp"
+  },
+  {
+    name: "Electrical",
+    slug: "electrical",
+    tagline: "Power Up Your Lead Generation",
+    description: "Residential upgrades, commercial contracts, EV charger installations—the electrical industry is booming. We help electricians capture their share of the market with targeted campaigns that attract the right customers.",
+    features: [
+      "Panel upgrade campaigns",
+      "Commercial lead generation",
+      "EV charger installation marketing",
+      "New construction targeting"
+    ],
+    image: "https://RebelApeCDN.b-cdn.net/featured-electrical-marketing.webp"
+  }
+];
+---
+
+<Base {title} {description} {canonical} {image} {type} {robots}>
+  <!-- Schema Markup -->
+  <OrganizationSchema slot="head" />
+  <BreadcrumbSchema slot="head" breadcrumbs={breadcrumbs} />
+
+  <section>
+    <HeroHome
+      title="Marketing Built For <span class='text-rebel-green'>Your Industry</span>"
+      subtitle="We Specialize In Home Service Contractors"
+      description="Generic marketing agencies don't understand your business. We do. We've spent years learning what works for contractors—the buying cycles, the seasonal trends, the competition. That's why we only work with home service businesses."
+      buttonText="Schedule Strategy Session"
+      buttonIcon="calendar"
+      buttonHref="/schedule/"
+    />
+    <SocialProofBar />
+
+    <!-- Industries Grid -->
+    <section class="py-16 md:py-24 section-checkers">
+      <div class="max-w-7xl mx-auto px-6">
+        <div class="text-center mb-16">
+          <h2 class="text-4xl md:text-5xl font-black text-gray-900 mb-4">
+            Industries We <span class="text-rebel-green">Serve</span>
+          </h2>
+          <p class="text-lg md:text-xl text-gray-600 max-w-3xl mx-auto">
+            Four core industries. Deep expertise in each. We know your customers, your competition, and exactly what it takes to win in your market.
+          </p>
+        </div>
+
+        <div class="grid md:grid-cols-2 gap-8">
+          {industries.map((industry) => (
+            <article class="bg-white rounded-lg overflow-hidden shadow-xl hover:shadow-2xl transition-shadow duration-300">
+              <a href={`/industries/${industry.slug}/`} class="block">
+                <img
+                  src={industry.image}
+                  alt={`${industry.name} Marketing`}
+                  class="w-full h-80 object-cover"
+                />
+              </a>
+
+              <div class="p-8">
+                <div class="mb-4">
+                  <span class="bg-rebel-green text-white px-4 py-1 rounded-full text-sm font-semibold">
+                    {industry.name}
+                  </span>
+                </div>
+
+                <h3 class="text-2xl font-bold mb-2 text-gray-900">
+                  <a href={`/industries/${industry.slug}/`} class="hover:text-rebel-green transition">
+                    {industry.tagline}
+                  </a>
+                </h3>
+
+                <p class="text-gray-700 mb-6">
+                  {industry.description}
+                </p>
+
+                <ul class="space-y-2 mb-6">
+                  {industry.features.map((feature) => (
+                    <li class="flex items-center gap-2 text-gray-600">
+                      <svg class="w-5 h-5 text-rebel-green flex-shrink-0" fill="currentColor" viewBox="0 0 20 20">
+                        <path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"></path>
+                      </svg>
+                      <span>{feature}</span>
+                    </li>
+                  ))}
+                </ul>
+
+                <a
+                  href={`/industries/${industry.slug}/`}
+                  class="inline-flex items-center gap-2 text-rebel-green font-semibold hover:gap-3 transition-all group"
+                >
+                  <span>Learn More About {industry.name} Marketing</span>
+                  <svg class="w-5 h-5 group-hover:translate-x-1 transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path>
+                  </svg>
+                </a>
+              </div>
+            </article>
+          ))}
+        </div>
+      </div>
+    </section>
+
+    <!-- Why Industry Specialization Matters -->
+    <section class="py-16 md:py-24 section-slate">
+      <div class="max-w-7xl mx-auto px-6">
+        <div class="text-center mb-12">
+          <h2 class="text-4xl md:text-5xl font-black text-gray-900 mb-4">
+            Why <span class="text-rebel-green">Specialization</span> Matters
+          </h2>
+          <p class="text-lg md:text-xl text-gray-600 max-w-3xl mx-auto">
+            Generic agencies treat every business the same. We know that a roofing company's marketing needs are completely different from a plumber's.
+          </p>
+        </div>
+
+        <div class="grid md:grid-cols-3 gap-8">
+          <div class="bg-white rounded-lg shadow-xl overflow-hidden">
+            <div class="h-1 bg-rebel-green"></div>
+            <div class="p-8">
+              <h3 class="text-2xl font-bold mb-4">We Know Your Customers</h3>
+              <p class="text-gray-700">We understand how homeowners search for contractors in your industry, what questions they ask, and what makes them choose one company over another.</p>
+            </div>
+          </div>
+
+          <div class="bg-white rounded-lg shadow-xl overflow-hidden">
+            <div class="h-1 bg-rebel-green"></div>
+            <div class="p-8">
+              <h3 class="text-2xl font-bold mb-4">We Know Your Competition</h3>
+              <p class="text-gray-700">We've analyzed thousands of contractor websites and ad campaigns. We know what your competitors are doing right—and where they're leaving opportunity on the table.</p>
+            </div>
+          </div>
+
+          <div class="bg-white rounded-lg shadow-xl overflow-hidden">
+            <div class="h-1 bg-rebel-green"></div>
+            <div class="p-8">
+              <h3 class="text-2xl font-bold mb-4">We Know What Works</h3>
+              <p class="text-gray-700">After years of running campaigns for contractors, we've built proven playbooks for each industry. No guessing, no experimenting with your budget—just results.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Testimonials -->
+    <section class="py-16 md:py-24 section-checkers">
+      <TestimonialsDefault />
+    </section>
+
+    <!-- CTA Section -->
+    <section class="py-16 md:py-24 section-slate">
+      <div class="max-w-4xl mx-auto px-6 text-center">
+        <h2 class="text-4xl md:text-5xl font-bold mb-6">
+          Ready to Dominate <span class="text-rebel-green">Your Market?</span>
+        </h2>
+        <p class="text-xl text-gray-700 mb-8">
+          Let's talk about your business, your market, and how we can help you generate more qualified leads.
+        </p>
+        <a
+          href="/schedule/"
+          class="inline-flex items-center gap-3 bg-rebel-green text-white px-8 py-4 rounded-lg font-bold text-lg hover:bg-rebel-green-dark transition shadow-lg hover:shadow-xl"
+        >
+          <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z"></path>
+          </svg>
+          <span>Schedule Strategy Session</span>
+        </a>
+      </div>
+    </section>
+
+  </section>
+</Base>

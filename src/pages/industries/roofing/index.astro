@@ -1,0 +1,525 @@
+---
+import Base from '../../../layouts/Base.astro';
+import SocialProofBar from '../../../components/sections/SocialProofBar.astro';
+import CompaniesTrustUs from '../../../components/sections/CompaniesTrustUs.astro';
+import TestimonialsDefault from '../../../components/testimonials/TestimonialsDefault.astro';
+import Button from '../../../components/ui/Button.astro';
+import GreenCheck from '../../../components/ui/GreenCheck.astro';
+import OrganizationSchema from '../../../components/schema/OrganizationSchema.astro';
+import BreadcrumbSchema from '../../../components/schema/BreadcrumbSchema.astro';
+import WebPageSchema from '../../../components/schema/WebPageSchema.astro';
+
+// SEO
+const title = "Roofing Marketing | Get More Roofing Leads | Rebel Ape";
+const description = "Marketing built specifically for roofing contractors. We help roofers dominate local search, generate quality leads, and build authority in their market. No more competing with storm chasers.";
+const canonical = "https://therebelape.com/industries/roofing/";
+const image = "https://RebelApeCDN.b-cdn.net/featured-roofer-marketing.webp";
+const type = "website";
+const robots = "index, follow";
+
+// Breadcrumbs
+const breadcrumbs = [
+  { name: "Home", url: "https://therebelape.com/" },
+  { name: "Industries", url: "https://therebelape.com/industries/" },
+  { name: "Roofing", url: canonical }
+];
+
+// FAQs
+const faqs = [
+  {
+    question: "Do you work with storm restoration companies?",
+    answer: "Yes. We work with both storm restoration roofers and retail/replacement roofers. The marketing strategies differ—storm work requires speed and geographic targeting, while retail work focuses on building long-term authority. We'll customize your approach based on your business model."
+  },
+  {
+    question: "How do you handle seasonal slowdowns?",
+    answer: "We adjust your marketing strategy seasonally. During slow months, we shift focus to maintenance, repairs, and building your pipeline for busy season. During peak season, we scale up lead generation. The goal is consistent revenue year-round, not feast-or-famine cycles."
+  },
+  {
+    question: "How long before I start getting leads?",
+    answer: "With PPC and Local Service Ads, you can start getting calls within the first few weeks. SEO takes longer—typically 4-6 months before you see significant organic traffic. That's why we recommend a combined approach: paid ads for immediate leads while SEO builds long-term authority."
+  },
+  {
+    question: "What makes you different from other roofing marketing agencies?",
+    answer: "We don't just 'do marketing'—we build complete systems. Your website, ads, SEO, and reputation management all work together. Most agencies sell you piecemeal services that don't talk to each other. We build everything as an integrated system from day one."
+  },
+  {
+    question: "Do you guarantee results?",
+    answer: "We don't guarantee specific lead numbers because we can't control your market, competition, or how you handle leads. What we guarantee is our process: proven strategies, transparent reporting, and continuous optimization. Our clients typically see significant ROI within the first 90 days."
+  },
+  {
+    question: "How much should I budget for roofing marketing?",
+    answer: "It depends on your market and goals. Most of our roofing clients invest $2,000-$5,000/month in management plus ad spend. We'll give you a realistic budget recommendation based on your market size and competition during your strategy session."
+  }
+];
+---
+
+<Base {title} {description} {canonical} {image} {type} {robots}>
+  <!-- Schema Markup -->
+  <OrganizationSchema slot="head" />
+  <BreadcrumbSchema slot="head" breadcrumbs={breadcrumbs} />
+  <WebPageSchema
+    slot="head"
+    type="WebPage"
+    name={title}
+    description={description}
+    url={canonical}
+    image={image}
+  />
+
+  <section>
+    <!-- Hero Section -->
+    <section class="w-full overflow-hidden relative">
+      <div
+        class="absolute inset-0 bg-cover bg-center bg-no-repeat"
+        style="background-image: url('https://RebelApeCDN.b-cdn.net/hero-roofing-background.webp'); filter: blur(2px);"
+      ></div>
+      <div class="absolute inset-0 bg-gradient-to-b lg:bg-gradient-to-r from-black/70 via-black/50 to-black/20 z-0"></div>
+
+      <div class="max-w-7xl mx-auto px-6 relative z-10">
+        <div class="flex flex-col lg:flex-row items-end">
+          <div class="w-full lg:w-[55%] text-white text-center lg:text-left py-16 md:py-20">
+            <div class="inline-block bg-rebel-green text-white px-4 py-2 rounded-full text-sm font-bold mb-4">
+              Roofing Marketing
+            </div>
+            <h1 class="text-5xl md:text-6xl lg:text-7xl font-black leading-none mb-6">
+              Dominate Your <span class="text-rebel-green">Roofing Market</span>
+            </h1>
+
+            <h2 class="text-xl md:text-2xl font-semibold text-gray-200 mb-4">
+              Stop Competing With Storm Chasers. Start Building Authority.
+            </h2>
+
+            <p class="text-lg text-gray-300 mb-8 lg:max-w-xl">
+              We help local roofers stand out in crowded markets, generate quality leads year-round, and become <strong>the name homeowners trust</strong> when they need a roof.
+            </p>
+
+            <ul class="flex flex-wrap justify-center lg:justify-start gap-4 mb-8">
+              <li class="flex items-center gap-2 text-gray-200">
+                <span class="text-rebel-green text-xl font-bold">✓</span>
+                Storm Damage Campaigns
+              </li>
+              <li class="flex items-center gap-2 text-gray-200">
+                <span class="text-rebel-green text-xl font-bold">✓</span>
+                Year-Round Lead Generation
+              </li>
+              <li class="flex items-center gap-2 text-gray-200">
+                <span class="text-rebel-green text-xl font-bold">✓</span>
+                Local Search Dominance
+              </li>
+            </ul>
+
+            <div class="flex justify-center lg:justify-start">
+              <div class="transform scale-110 origin-center lg:origin-left">
+                <Button text="Schedule Strategy Session" icon="calendar" href="/schedule/" />
+              </div>
+            </div>
+          </div>
+
+          <div class="w-full px-[5px] flex justify-center lg:px-0 lg:w-auto lg:absolute lg:left-[55%] lg:bottom-0 lg:top-[15px] lg:right-0 lg:items-end lg:justify-start">
+            <img
+              src="https://RebelApeCDN.b-cdn.net/hero-power-duo.png"
+              alt="Rebel Ape Marketing power duo gorillas"
+              class="w-full h-auto lg:w-auto lg:max-w-none lg:h-full"
+              loading="eager"
+              fetchpriority="high"
+            />
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <link rel="preload" href="https://RebelApeCDN.b-cdn.net/hero-roofing-background.webp" as="image" />
+    <link rel="preload" href="https://RebelApeCDN.b-cdn.net/hero-power-duo.png" as="image" />
+
+    <SocialProofBar />
+
+    <!-- The Problem Section -->
+    <section class="py-16 md:py-24 section-checkers">
+      <div class="max-w-7xl mx-auto px-6">
+        <div class="grid md:grid-cols-3 gap-12 items-stretch">
+          <div class="flex flex-col justify-center md:col-span-2">
+            <h2 class="text-4xl md:text-5xl font-black text-gray-900 mb-8">
+              Why Roofing Marketing <span class="text-rebel-green">Is So Hard</span>
+            </h2>
+
+            <div class="space-y-6 text-gray-700 text-lg leading-relaxed">
+              <p>
+                You're not just competing with other local roofers. You're competing with <strong>storm chasers, national franchises, and every guy with a truck and a ladder</strong> who calls himself a roofer.
+              </p>
+
+              <p>
+                Homeowners can't tell the difference. They see 20 roofing ads on Google, 15 trucks in their neighborhood after a storm, and a mailbox full of door hangers. <strong>Everyone looks the same.</strong>
+              </p>
+
+              <p>
+                So they default to price. Or they pick whoever shows up first. Or they go with the company that seems most "legitimate"—which often means whoever has the best marketing, not the best work.
+              </p>
+
+              <div class="bg-gray-100 p-6 rounded-lg mt-6">
+                <h4 class="text-xl font-bold text-gray-900 mb-4">The Roofing Marketing Problem:</h4>
+                <ul class="space-y-3">
+                  <li class="flex gap-3 items-start">
+                    <span class="text-red-500 text-xl font-bold">✗</span>
+                    <span>Storm chasers flooding your market after every hail event</span>
+                  </li>
+                  <li class="flex gap-3 items-start">
+                    <span class="text-red-500 text-xl font-bold">✗</span>
+                    <span>National brands outspending you on ads</span>
+                  </li>
+                  <li class="flex gap-3 items-start">
+                    <span class="text-red-500 text-xl font-bold">✗</span>
+                    <span>Tire-kicker leads that waste your time</span>
+                  </li>
+                  <li class="flex gap-3 items-start">
+                    <span class="text-red-500 text-xl font-bold">✗</span>
+                    <span>Seasonal slowdowns killing your cash flow</span>
+                  </li>
+                  <li class="flex gap-3 items-start">
+                    <span class="text-red-500 text-xl font-bold">✗</span>
+                    <span>No way to prove you're different (even though you are)</span>
+                  </li>
+                </ul>
+              </div>
+
+              <p class="text-xl font-bold text-gray-900 mt-6">
+                The solution isn't more ads. It's <span class="text-rebel-green">building authority</span>—becoming the roofer everyone knows and trusts.
+              </p>
+            </div>
+          </div>
+
+          <div class="flex items-stretch">
+            <img
+              src="https://RebelApeCDN.b-cdn.net/featured-homepage.webp"
+              alt="Roofing marketing challenges"
+              class="w-full h-full object-cover rounded-lg"
+              loading="lazy"
+            />
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- The Solution Section -->
+    <section class="py-16 md:py-24 section-slate">
+      <div class="max-w-7xl mx-auto px-6">
+        <div class="text-center mb-16">
+          <h2 class="text-4xl md:text-5xl font-black text-gray-900 mb-6">
+            How We Help Roofers <span class="text-rebel-green">Dominate Their Market</span>
+          </h2>
+          <p class="text-lg md:text-xl text-gray-700 max-w-4xl mx-auto">
+            We don't just run ads. We build complete marketing systems that position you as THE roofing authority in your area—so when homeowners need a roof, they think of you first.
+          </p>
+        </div>
+
+        <div class="grid md:grid-cols-2 gap-8">
+          <div class="bg-white border border-gray-200 rounded-lg shadow-xl overflow-hidden">
+            <div class="h-1 bg-rebel-green"></div>
+            <div class="p-8">
+              <div class="flex items-center gap-3 mb-4">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" class="size-10 text-rebel-green flex-shrink-0">
+                  <path fill-rule="evenodd" d="M8.603 3.799A4.49 4.49 0 0 1 12 2.25c1.357 0 2.573.6 3.397 1.549a4.49 4.49 0 0 1 3.498 1.307 4.491 4.491 0 0 1 1.307 3.497A4.49 4.49 0 0 1 21.75 12a4.49 4.49 0 0 1-1.549 3.397 4.491 4.491 0 0 1-1.307 3.497 4.491 4.491 0 0 1-3.497 1.307A4.49 4.49 0 0 1 12 21.75a4.49 4.49 0 0 1-3.397-1.549 4.49 4.49 0 0 1-3.498-1.306 4.491 4.491 0 0 1-1.307-3.498A4.49 4.49 0 0 1 2.25 12c0-1.357.6-2.573 1.549-3.397a4.49 4.49 0 0 1 1.307-3.497 4.49 4.49 0 0 1 3.497-1.307Zm7.007 6.387a.75.75 0 1 0-1.22-.872l-3.236 4.53L9.53 12.22a.75.75 0 0 0-1.06 1.06l2.25 2.25a.75.75 0 0 0 1.14-.094l3.75-5.25Z" clip-rule="evenodd" />
+                </svg>
+                <h3 class="text-2xl font-bold">Authority-Building Websites</h3>
+              </div>
+              <p class="text-gray-700">Your website positions you as the established, trusted roofer in your area. Professional design, fast loading, conversion-optimized—built to turn visitors into calls.</p>
+            </div>
+          </div>
+
+          <div class="bg-white border border-gray-200 rounded-lg shadow-xl overflow-hidden">
+            <div class="h-1 bg-rebel-green"></div>
+            <div class="p-8">
+              <div class="flex items-center gap-3 mb-4">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" class="size-10 text-rebel-green flex-shrink-0">
+                  <path fill-rule="evenodd" d="M12 2.25c-5.385 0-9.75 4.365-9.75 9.75s4.365 9.75 9.75 9.75 9.75-4.365 9.75-9.75S17.385 2.25 12 2.25ZM12.75 6a.75.75 0 0 0-1.5 0v6c0 .414.336.75.75.75h4.5a.75.75 0 0 0 0-1.5h-3.75V6Z" clip-rule="evenodd" />
+                </svg>
+                <h3 class="text-2xl font-bold">Immediate Lead Generation</h3>
+              </div>
+              <p class="text-gray-700">Google Ads and Local Service Ads get your phone ringing now. We target homeowners actively searching for roofing services in your area—not tire-kickers, real buyers.</p>
+            </div>
+          </div>
+
+          <div class="bg-white border border-gray-200 rounded-lg shadow-xl overflow-hidden">
+            <div class="h-1 bg-rebel-green"></div>
+            <div class="p-8">
+              <div class="flex items-center gap-3 mb-4">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" class="size-10 text-rebel-green flex-shrink-0">
+                  <path fill-rule="evenodd" d="m11.54 22.351.07.04.028.016a.76.76 0 0 0 .723 0l.028-.015.071-.041a16.975 16.975 0 0 0 1.144-.742 19.58 19.58 0 0 0 2.683-2.282c1.944-1.99 3.963-4.98 3.963-8.827a8.25 8.25 0 0 0-16.5 0c0 3.846 2.02 6.837 3.963 8.827a19.58 19.58 0 0 0 2.682 2.282 16.975 16.975 0 0 0 1.145.742ZM12 13.5a3 3 0 1 0 0-6 3 3 0 0 0 0 6Z" clip-rule="evenodd" />
+                </svg>
+                <h3 class="text-2xl font-bold">Local Search Dominance</h3>
+              </div>
+              <p class="text-gray-700">SEO and Google Business Profile optimization get you ranking in the map pack and organic results. When homeowners search "roofer near me," you show up first.</p>
+            </div>
+          </div>
+
+          <div class="bg-white border border-gray-200 rounded-lg shadow-xl overflow-hidden">
+            <div class="h-1 bg-rebel-green"></div>
+            <div class="p-8">
+              <div class="flex items-center gap-3 mb-4">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" class="size-10 text-rebel-green flex-shrink-0">
+                  <path fill-rule="evenodd" d="M10.788 3.21c.448-1.077 1.976-1.077 2.424 0l2.082 5.006 5.404.434c1.164.093 1.636 1.545.749 2.305l-4.117 3.527 1.257 5.273c.271 1.136-.964 2.033-1.96 1.425L12 18.354 7.373 21.18c-.996.608-2.231-.29-1.96-1.425l1.257-5.273-4.117-3.527c-.887-.76-.415-2.212.749-2.305l5.404-.434 2.082-5.005Z" clip-rule="evenodd" />
+                </svg>
+                <h3 class="text-2xl font-bold">Review & Reputation Systems</h3>
+              </div>
+              <p class="text-gray-700">Automated review generation builds your online reputation. More 5-star reviews means more trust, higher rankings, and easier sales conversations.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Services for Roofers Section -->
+    <section class="py-16 md:py-24 section-checkers">
+      <div class="max-w-7xl mx-auto px-6">
+        <div class="text-center mb-16">
+          <h2 class="text-4xl md:text-5xl font-black text-gray-900 mb-6">
+            Marketing Services for <span class="text-rebel-green">Roofing Contractors</span>
+          </h2>
+          <p class="text-lg md:text-xl text-gray-700 max-w-4xl mx-auto">
+            Everything you need to generate consistent leads and build authority in your market.
+          </p>
+        </div>
+
+        <!-- Website + Landing Pages -->
+        <div class="grid grid-cols-1 lg:grid-cols-2 gap-12 lg:gap-16 items-center mb-20">
+          <div>
+            <img
+              src="https://RebelApeCDN.b-cdn.net/website-landers.webp"
+              alt="Roofing Website Design"
+              class="w-full rounded-lg"
+              loading="lazy"
+            />
+          </div>
+          <div>
+            <div class="inline-block bg-rebel-green text-white px-4 py-2 rounded-full text-sm font-bold mb-4">Website Design</div>
+            <h3 class="text-3xl md:text-4xl font-bold mb-6">
+              Roofing Websites That <span class="text-rebel-green">Convert</span>
+            </h3>
+            <p class="text-lg text-gray-700 mb-6">
+              Your website is your digital storefront. We build fast, professional roofing websites that establish credibility and turn visitors into phone calls.
+            </p>
+            <ul class="space-y-4 mb-6">
+              <li class="flex gap-3">
+                <GreenCheck />
+                <span class="text-gray-700">Service pages for every roofing type (shingles, metal, flat, tile)</span>
+              </li>
+              <li class="flex gap-3">
+                <GreenCheck />
+                <span class="text-gray-700">Location pages for every city you serve</span>
+              </li>
+              <li class="flex gap-3">
+                <GreenCheck />
+                <span class="text-gray-700">Storm damage landing pages ready to deploy</span>
+              </li>
+              <li class="flex gap-3">
+                <GreenCheck />
+                <span class="text-gray-700">Mobile-optimized for homeowners on their phones</span>
+              </li>
+            </ul>
+            <Button text="Learn More About Websites" icon="learn" href="/services/website-design/" />
+          </div>
+        </div>
+
+        <!-- PPC -->
+        <div class="grid grid-cols-1 lg:grid-cols-2 gap-12 lg:gap-16 items-center mb-20">
+          <div class="order-2 lg:order-1">
+            <div class="inline-block bg-rebel-green text-white px-4 py-2 rounded-full text-sm font-bold mb-4">PPC Advertising</div>
+            <h3 class="text-3xl md:text-4xl font-bold mb-6">
+              Google Ads That <span class="text-rebel-green">Generate Roofing Leads</span>
+            </h3>
+            <p class="text-lg text-gray-700 mb-6">
+              Reach homeowners the moment they search for roofing services. We manage Google Ads and Local Service Ads to maximize your lead flow and minimize wasted spend.
+            </p>
+            <ul class="space-y-4 mb-6">
+              <li class="flex gap-3">
+                <GreenCheck />
+                <span class="text-gray-700">Campaigns for roof replacement, repairs, and inspections</span>
+              </li>
+              <li class="flex gap-3">
+                <GreenCheck />
+                <span class="text-gray-700">Storm damage campaigns you can activate instantly</span>
+              </li>
+              <li class="flex gap-3">
+                <GreenCheck />
+                <span class="text-gray-700">Local Service Ads with Google Guaranteed badge</span>
+              </li>
+              <li class="flex gap-3">
+                <GreenCheck />
+                <span class="text-gray-700">Call tracking so you know exactly what's working</span>
+              </li>
+            </ul>
+            <Button text="Learn More About PPC" icon="learn" href="/services/ppc/" />
+          </div>
+          <div class="order-1 lg:order-2">
+            <img
+              src="https://rebelapecdn.b-cdn.net/ppc-google-ads.webp"
+              alt="Roofing Google Ads"
+              class="w-full rounded-lg"
+              loading="lazy"
+            />
+          </div>
+        </div>
+
+        <!-- SEO -->
+        <div class="grid grid-cols-1 lg:grid-cols-2 gap-12 lg:gap-16 items-center mb-20">
+          <div>
+            <img
+              src="https://RebelApeCDN.b-cdn.net/featured-outrank-competitors-in-google.webp"
+              alt="Roofing SEO"
+              class="w-full rounded-lg"
+              loading="lazy"
+            />
+          </div>
+          <div>
+            <div class="inline-block bg-rebel-green text-white px-4 py-2 rounded-full text-sm font-bold mb-4">SEO Services</div>
+            <h3 class="text-3xl md:text-4xl font-bold mb-6">
+              Rank #1 for <span class="text-rebel-green">"Roofer Near Me"</span>
+            </h3>
+            <p class="text-lg text-gray-700 mb-6">
+              Long-term authority building through local SEO. We optimize your website and Google Business Profile so you show up first when homeowners search for roofing services.
+            </p>
+            <ul class="space-y-4 mb-6">
+              <li class="flex gap-3">
+                <GreenCheck />
+                <span class="text-gray-700">Google Business Profile optimization</span>
+              </li>
+              <li class="flex gap-3">
+                <GreenCheck />
+                <span class="text-gray-700">Local keyword targeting for your service areas</span>
+              </li>
+              <li class="flex gap-3">
+                <GreenCheck />
+                <span class="text-gray-700">On-page SEO for all service and location pages</span>
+              </li>
+              <li class="flex gap-3">
+                <GreenCheck />
+                <span class="text-gray-700">Monthly ranking reports and progress tracking</span>
+              </li>
+            </ul>
+            <Button text="Learn More About SEO" icon="learn" href="/services/seo/" />
+          </div>
+        </div>
+
+        <!-- Google Business Profile -->
+        <div class="grid grid-cols-1 lg:grid-cols-2 gap-12 lg:gap-16 items-center">
+          <div class="order-2 lg:order-1">
+            <div class="inline-block bg-rebel-green text-white px-4 py-2 rounded-full text-sm font-bold mb-4">Google Business Profile</div>
+            <h3 class="text-3xl md:text-4xl font-bold mb-6">
+              Dominate the <span class="text-rebel-green">Map Pack</span>
+            </h3>
+            <p class="text-lg text-gray-700 mb-6">
+              When homeowners search for roofers, they look at the map. We optimize your Google Business Profile to show up in the top 3 results with stellar reviews.
+            </p>
+            <ul class="space-y-4 mb-6">
+              <li class="flex gap-3">
+                <GreenCheck />
+                <span class="text-gray-700">Complete profile optimization</span>
+              </li>
+              <li class="flex gap-3">
+                <GreenCheck />
+                <span class="text-gray-700">Review generation and management</span>
+              </li>
+              <li class="flex gap-3">
+                <GreenCheck />
+                <span class="text-gray-700">Regular posts and updates</span>
+              </li>
+              <li class="flex gap-3">
+                <GreenCheck />
+                <span class="text-gray-700">Photo optimization for roofing projects</span>
+              </li>
+            </ul>
+            <Button text="Learn More About GBP" icon="learn" href="/services/google-business-profile/" />
+          </div>
+          <div class="order-1 lg:order-2">
+            <img
+              src="https://RebelApeCDN.b-cdn.net/featured-locations.webp"
+              alt="Roofing Google Business Profile"
+              class="w-full rounded-lg"
+              loading="lazy"
+            />
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Trust Logos -->
+    <section class="py-16 md:py-24 section-slate">
+      <CompaniesTrustUs />
+    </section>
+
+    <!-- Testimonials -->
+    <section class="py-16 md:py-24 section-checkers">
+      <TestimonialsDefault />
+    </section>
+
+    <!-- FAQs Section -->
+    <section class="py-16 md:py-24 section-slate">
+      <div class="max-w-4xl mx-auto px-6">
+        <div class="text-center mb-12">
+          <h2 class="text-4xl md:text-5xl font-black text-gray-900 mb-6">
+            Roofing Marketing <span class="text-rebel-green">FAQs</span>
+          </h2>
+          <p class="text-lg text-gray-700">
+            Common questions from roofing contractors about our marketing services.
+          </p>
+        </div>
+
+        <div class="space-y-6">
+          {faqs.map((faq, index) => (
+            <div class="bg-white border border-gray-200 rounded-lg shadow-lg overflow-hidden">
+              <div class="p-6">
+                <h3 class="text-xl font-bold text-gray-900 mb-3">{faq.question}</h3>
+                <p class="text-gray-700">{faq.answer}</p>
+              </div>
+            </div>
+          ))}
+        </div>
+      </div>
+    </section>
+
+    <!-- Final CTA -->
+    <section class="py-16 md:py-24 section-checkers">
+      <div class="max-w-7xl mx-auto px-6 text-center">
+        <h2 class="text-4xl md:text-5xl font-black text-gray-900 mb-6 max-w-5xl mx-auto">
+          Ready to Dominate Your <span class="text-rebel-green">Roofing Market?</span>
+        </h2>
+        <p class="text-lg md:text-xl text-gray-700 mb-4 max-w-4xl mx-auto">
+          Stop competing with storm chasers and start building authority. Let's talk about how we can help you become THE roofing contractor in your area.
+        </p>
+        <p class="text-lg text-gray-700 mb-8 max-w-4xl mx-auto">
+          Schedule a free strategy session and we'll analyze your market, your competition, and show you exactly what it takes to dominate.
+        </p>
+
+        <div class="bg-white border border-gray-200 rounded-lg shadow-xl overflow-hidden max-w-2xl mx-auto mb-8">
+          <div class="h-1 bg-rebel-green"></div>
+          <div class="p-8">
+            <h3 class="text-xl font-bold mb-4">In Your Strategy Session, We'll Cover:</h3>
+            <ul class="text-left space-y-3 mb-6">
+              <li class="flex gap-3">
+                <GreenCheck />
+                <span class="text-gray-700">Your current marketing situation and what's not working</span>
+              </li>
+              <li class="flex gap-3">
+                <GreenCheck />
+                <span class="text-gray-700">Your local competition and opportunities in your market</span>
+              </li>
+              <li class="flex gap-3">
+                <GreenCheck />
+                <span class="text-gray-700">A customized strategy for generating more roofing leads</span>
+              </li>
+              <li class="flex gap-3">
+                <GreenCheck />
+                <span class="text-gray-700">Realistic timelines, budgets, and expected results</span>
+              </li>
+            </ul>
+            <p class="text-gray-600 italic">No pressure. No hard sell. Just an honest conversation about your business.</p>
+          </div>
+        </div>
+
+        <div class="flex justify-center">
+          <Button text="Schedule Your Strategy Session" icon="calendar" href="/schedule/" />
+        </div>
+      </div>
+    </section>
+
+  </section>
+</Base>

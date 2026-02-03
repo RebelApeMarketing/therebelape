@@ -1,0 +1,526 @@
+---
+import Base from '../../../layouts/Base.astro';
+import SocialProofBar from '../../../components/sections/SocialProofBar.astro';
+import CompaniesTrustUs from '../../../components/sections/CompaniesTrustUs.astro';
+import TestimonialsDefault from '../../../components/testimonials/TestimonialsDefault.astro';
+import Button from '../../../components/ui/Button.astro';
+import GreenCheck from '../../../components/ui/GreenCheck.astro';
+import OrganizationSchema from '../../../components/schema/OrganizationSchema.astro';
+import BreadcrumbSchema from '../../../components/schema/BreadcrumbSchema.astro';
+import WebPageSchema from '../../../components/schema/WebPageSchema.astro';
+
+// SEO
+const title = "Plumbing Marketing | Get More Plumbing Leads | Rebel Ape";
+const description = "Marketing built specifically for plumbing contractors. We help plumbers dominate local search, capture emergency calls, and build authority in their market. Be the first call when pipes burst.";
+const canonical = "https://therebelape.com/industries/plumbing/";
+const image = "https://RebelApeCDN.b-cdn.net/featured-plumber-marketing.webp";
+const type = "website";
+const robots = "index, follow";
+
+// Breadcrumbs
+const breadcrumbs = [
+  { name: "Home", url: "https://therebelape.com/" },
+  { name: "Industries", url: "https://therebelape.com/industries/" },
+  { name: "Plumbing", url: canonical }
+];
+
+// FAQs
+const faqs = [
+  {
+    question: "How do you handle emergency plumbing leads?",
+    answer: "Emergency calls are the bread and butter of plumbing. We run 24/7 ad campaigns targeting emergency searches like 'emergency plumber near me' and 'burst pipe repair.' These campaigns are optimized for speed—getting your phone ringing the moment someone has a plumbing emergency."
+  },
+  {
+    question: "Do you work with both residential and commercial plumbers?",
+    answer: "Yes. We work with residential plumbers, commercial plumbing contractors, and companies that do both. The marketing strategies differ—residential focuses on emergency response and local SEO, while commercial requires targeting property managers, GCs, and facilities managers. We'll customize your approach based on your business model."
+  },
+  {
+    question: "How long before I start getting leads?",
+    answer: "With PPC and Local Service Ads, you can start getting calls within the first few weeks. SEO takes longer—typically 4-6 months before you see significant organic traffic. That's why we recommend a combined approach: paid ads for immediate leads while SEO builds long-term authority."
+  },
+  {
+    question: "What makes you different from other plumbing marketing agencies?",
+    answer: "We don't just 'do marketing'—we build complete systems. Your website, ads, SEO, and reputation management all work together. Most agencies sell you piecemeal services that don't talk to each other. We build everything as an integrated system from day one."
+  },
+  {
+    question: "Can you help with drain cleaning and smaller jobs, or just big projects?",
+    answer: "We help with the full spectrum. Drain cleaning and smaller jobs are great for keeping crews busy and building customer relationships that lead to bigger projects. We'll create campaigns for both—quick-response ads for drain cleaning and targeted campaigns for repiping, water heater replacement, and other high-ticket services."
+  },
+  {
+    question: "How much should I budget for plumbing marketing?",
+    answer: "It depends on your market and goals. Most of our plumbing clients invest $2,000-$5,000/month in management plus ad spend. We'll give you a realistic budget recommendation based on your market size and competition during your strategy session."
+  }
+];
+---
+
+<Base {title} {description} {canonical} {image} {type} {robots}>
+  <!-- Schema Markup -->
+  <OrganizationSchema slot="head" />
+  <BreadcrumbSchema slot="head" breadcrumbs={breadcrumbs} />
+  <WebPageSchema
+    slot="head"
+    type="WebPage"
+    name={title}
+    description={description}
+    url={canonical}
+    image={image}
+  />
+
+  <section>
+    <!-- Hero Section -->
+    <section class="w-full overflow-hidden relative">
+      <div
+        class="absolute inset-0 bg-cover bg-center bg-no-repeat"
+        style="background-image: url('https://RebelApeCDN.b-cdn.net/hero-roofing-background.webp'); filter: blur(2px);"
+      ></div>
+      <div class="absolute inset-0 bg-gradient-to-b lg:bg-gradient-to-r from-black/70 via-black/50 to-black/20 z-0"></div>
+
+      <div class="max-w-7xl mx-auto px-6 relative z-10">
+        <div class="flex flex-col lg:flex-row items-end">
+          <div class="w-full lg:w-[55%] text-white text-center lg:text-left py-16 md:py-20">
+            <div class="inline-block bg-rebel-green text-white px-4 py-2 rounded-full text-sm font-bold mb-4">
+              Plumbing Marketing
+            </div>
+            <h1 class="text-5xl md:text-6xl lg:text-7xl font-black leading-none mb-6">
+              Be The First Call <span class="text-rebel-green">When Pipes Burst</span>
+            </h1>
+
+            <h2 class="text-xl md:text-2xl font-semibold text-gray-200 mb-4">
+              Capture Emergency Calls. Win High-Ticket Jobs. Dominate Your Market.
+            </h2>
+
+            <p class="text-lg text-gray-300 mb-8 lg:max-w-xl">
+              We help plumbers show up first when homeowners have emergencies, generate consistent leads for high-value services, and become <strong>the name people trust</strong> for all their plumbing needs.
+            </p>
+
+            <ul class="flex flex-wrap justify-center lg:justify-start gap-4 mb-8">
+              <li class="flex items-center gap-2 text-gray-200">
+                <span class="text-rebel-green text-xl font-bold">✓</span>
+                24/7 Emergency Campaigns
+              </li>
+              <li class="flex items-center gap-2 text-gray-200">
+                <span class="text-rebel-green text-xl font-bold">✓</span>
+                High-Ticket Lead Generation
+              </li>
+              <li class="flex items-center gap-2 text-gray-200">
+                <span class="text-rebel-green text-xl font-bold">✓</span>
+                Local Search Dominance
+              </li>
+            </ul>
+
+            <div class="flex justify-center lg:justify-start">
+              <div class="transform scale-110 origin-center lg:origin-left">
+                <Button text="Schedule Strategy Session" icon="calendar" href="/schedule/" />
+              </div>
+            </div>
+          </div>
+
+          <div class="w-full px-[5px] flex justify-center lg:px-0 lg:w-auto lg:absolute lg:left-[55%] lg:bottom-0 lg:top-[15px] lg:right-0 lg:items-end lg:justify-start">
+            <img
+              src="https://RebelApeCDN.b-cdn.net/hero-power-duo.png"
+              alt="Rebel Ape Marketing power duo gorillas"
+              class="w-full h-auto lg:w-auto lg:max-w-none lg:h-full"
+              loading="eager"
+              fetchpriority="high"
+            />
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <link rel="preload" href="https://RebelApeCDN.b-cdn.net/hero-roofing-background.webp" as="image" />
+    <link rel="preload" href="https://RebelApeCDN.b-cdn.net/hero-power-duo.png" as="image" />
+
+    <SocialProofBar />
+
+    <!-- The Problem Section -->
+    <section class="py-16 md:py-24 section-checkers">
+      <div class="max-w-7xl mx-auto px-6">
+        <div class="grid md:grid-cols-3 gap-12 items-stretch">
+          <div class="flex flex-col justify-center md:col-span-2">
+            <h2 class="text-4xl md:text-5xl font-black text-gray-900 mb-8">
+              Why Plumbing Marketing <span class="text-rebel-green">Is So Competitive</span>
+            </h2>
+
+            <div class="space-y-6 text-gray-700 text-lg leading-relaxed">
+              <p>
+                When a pipe bursts at 2 AM, homeowners don't comparison shop. They call <strong>whoever shows up first in Google.</strong> If that's not you, you're losing jobs to competitors every single day.
+              </p>
+
+              <p>
+                The plumbing market is brutal. You're competing with national franchises with massive ad budgets, discount drain cleaners racing to the bottom on price, and a dozen other local plumbers all fighting for the same emergency calls.
+              </p>
+
+              <p>
+                Most plumbers try to compete on price or just hope word-of-mouth keeps them busy. But hope isn't a strategy. And competing on price is a race to the bottom that kills your margins.
+              </p>
+
+              <div class="bg-gray-100 p-6 rounded-lg mt-6">
+                <h4 class="text-xl font-bold text-gray-900 mb-4">The Plumbing Marketing Problem:</h4>
+                <ul class="space-y-3">
+                  <li class="flex gap-3 items-start">
+                    <span class="text-red-500 text-xl font-bold">✗</span>
+                    <span>Emergency calls going to whoever ranks first</span>
+                  </li>
+                  <li class="flex gap-3 items-start">
+                    <span class="text-red-500 text-xl font-bold">✗</span>
+                    <span>National franchises outspending you on ads</span>
+                  </li>
+                  <li class="flex gap-3 items-start">
+                    <span class="text-red-500 text-xl font-bold">✗</span>
+                    <span>Discount competitors racing to the bottom on price</span>
+                  </li>
+                  <li class="flex gap-3 items-start">
+                    <span class="text-red-500 text-xl font-bold">✗</span>
+                    <span>Inconsistent lead flow—feast or famine</span>
+                  </li>
+                  <li class="flex gap-3 items-start">
+                    <span class="text-red-500 text-xl font-bold">✗</span>
+                    <span>Too many small jobs, not enough high-ticket work</span>
+                  </li>
+                </ul>
+              </div>
+
+              <p class="text-xl font-bold text-gray-900 mt-6">
+                The solution isn't cheaper prices. It's <span class="text-rebel-green">being first</span>—first in search results, first in the customer's mind, first to answer when they call.
+              </p>
+            </div>
+          </div>
+
+          <div class="flex items-stretch">
+            <img
+              src="https://RebelApeCDN.b-cdn.net/featured-homepage.webp"
+              alt="Plumbing marketing challenges"
+              class="w-full h-full object-cover rounded-lg"
+              loading="lazy"
+            />
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- The Solution Section -->
+    <section class="py-16 md:py-24 section-slate">
+      <div class="max-w-7xl mx-auto px-6">
+        <div class="text-center mb-16">
+          <h2 class="text-4xl md:text-5xl font-black text-gray-900 mb-6">
+            How We Help Plumbers <span class="text-rebel-green">Win More Jobs</span>
+          </h2>
+          <p class="text-lg md:text-xl text-gray-700 max-w-4xl mx-auto">
+            We don't just run ads. We build complete marketing systems that make you THE plumber homeowners call first—for emergencies, repairs, and big projects alike.
+          </p>
+        </div>
+
+        <div class="grid md:grid-cols-2 gap-8">
+          <div class="bg-white border border-gray-200 rounded-lg shadow-xl overflow-hidden">
+            <div class="h-1 bg-rebel-green"></div>
+            <div class="p-8">
+              <div class="flex items-center gap-3 mb-4">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" class="size-10 text-rebel-green flex-shrink-0">
+                  <path fill-rule="evenodd" d="M12 2.25c-5.385 0-9.75 4.365-9.75 9.75s4.365 9.75 9.75 9.75 9.75-4.365 9.75-9.75S17.385 2.25 12 2.25ZM12.75 6a.75.75 0 0 0-1.5 0v6c0 .414.336.75.75.75h4.5a.75.75 0 0 0 0-1.5h-3.75V6Z" clip-rule="evenodd" />
+                </svg>
+                <h3 class="text-2xl font-bold">24/7 Emergency Visibility</h3>
+              </div>
+              <p class="text-gray-700">When pipes burst at midnight, you show up first. We run around-the-clock campaigns targeting emergency plumbing searches so you capture every urgent call in your area.</p>
+            </div>
+          </div>
+
+          <div class="bg-white border border-gray-200 rounded-lg shadow-xl overflow-hidden">
+            <div class="h-1 bg-rebel-green"></div>
+            <div class="p-8">
+              <div class="flex items-center gap-3 mb-4">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" class="size-10 text-rebel-green flex-shrink-0">
+                  <path d="M10.464 8.746c.227-.18.497-.311.786-.394v2.795a2.252 2.252 0 0 1-.786-.393c-.394-.313-.546-.681-.546-1.004 0-.323.152-.691.546-1.004ZM12.75 15.662v-2.824c.347.085.664.228.921.421.427.32.579.686.579.991 0 .305-.152.671-.579.991a2.534 2.534 0 0 1-.921.42Z" />
+                  <path fill-rule="evenodd" d="M12 2.25c-5.385 0-9.75 4.365-9.75 9.75s4.365 9.75 9.75 9.75 9.75-4.365 9.75-9.75S17.385 2.25 12 2.25ZM12.75 6a.75.75 0 0 0-1.5 0v.816a3.836 3.836 0 0 0-1.72.756c-.712.566-1.112 1.35-1.112 2.178 0 .829.4 1.612 1.113 2.178.502.4 1.102.647 1.719.756v2.978a2.536 2.536 0 0 1-.921-.421l-.879-.66a.75.75 0 0 0-.9 1.2l.879.66c.533.4 1.169.645 1.821.75V18a.75.75 0 0 0 1.5 0v-.81a4.124 4.124 0 0 0 1.821-.749c.745-.559 1.179-1.344 1.179-2.191 0-.847-.434-1.632-1.179-2.191a4.122 4.122 0 0 0-1.821-.75V8.354c.29.082.559.213.786.393l.415.33a.75.75 0 0 0 .933-1.175l-.415-.33a3.836 3.836 0 0 0-1.719-.755V6Z" clip-rule="evenodd" />
+                </svg>
+                <h3 class="text-2xl font-bold">High-Ticket Job Targeting</h3>
+              </div>
+              <p class="text-gray-700">Drain cleaning pays the bills, but repiping and water heater replacements build your business. We create campaigns that attract the high-value jobs that actually grow your revenue.</p>
+            </div>
+          </div>
+
+          <div class="bg-white border border-gray-200 rounded-lg shadow-xl overflow-hidden">
+            <div class="h-1 bg-rebel-green"></div>
+            <div class="p-8">
+              <div class="flex items-center gap-3 mb-4">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" class="size-10 text-rebel-green flex-shrink-0">
+                  <path fill-rule="evenodd" d="m11.54 22.351.07.04.028.016a.76.76 0 0 0 .723 0l.028-.015.071-.041a16.975 16.975 0 0 0 1.144-.742 19.58 19.58 0 0 0 2.683-2.282c1.944-1.99 3.963-4.98 3.963-8.827a8.25 8.25 0 0 0-16.5 0c0 3.846 2.02 6.837 3.963 8.827a19.58 19.58 0 0 0 2.682 2.282 16.975 16.975 0 0 0 1.145.742ZM12 13.5a3 3 0 1 0 0-6 3 3 0 0 0 0 6Z" clip-rule="evenodd" />
+                </svg>
+                <h3 class="text-2xl font-bold">Service Area Domination</h3>
+              </div>
+              <p class="text-gray-700">SEO and Google Business Profile optimization get you ranking across your entire service area. When homeowners search "plumber near me," you show up—in every city you serve.</p>
+            </div>
+          </div>
+
+          <div class="bg-white border border-gray-200 rounded-lg shadow-xl overflow-hidden">
+            <div class="h-1 bg-rebel-green"></div>
+            <div class="p-8">
+              <div class="flex items-center gap-3 mb-4">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" class="size-10 text-rebel-green flex-shrink-0">
+                  <path fill-rule="evenodd" d="M8.603 3.799A4.49 4.49 0 0 1 12 2.25c1.357 0 2.573.6 3.397 1.549a4.49 4.49 0 0 1 3.498 1.307 4.491 4.491 0 0 1 1.307 3.497A4.49 4.49 0 0 1 21.75 12a4.49 4.49 0 0 1-1.549 3.397 4.491 4.491 0 0 1-1.307 3.497 4.491 4.491 0 0 1-3.497 1.307A4.49 4.49 0 0 1 12 21.75a4.49 4.49 0 0 1-3.397-1.549 4.49 4.49 0 0 1-3.498-1.306 4.491 4.491 0 0 1-1.307-3.498A4.49 4.49 0 0 1 2.25 12c0-1.357.6-2.573 1.549-3.397a4.49 4.49 0 0 1 1.307-3.497 4.49 4.49 0 0 1 3.497-1.307Zm7.007 6.387a.75.75 0 1 0-1.22-.872l-3.236 4.53L9.53 12.22a.75.75 0 0 0-1.06 1.06l2.25 2.25a.75.75 0 0 0 1.14-.094l3.75-5.25Z" clip-rule="evenodd" />
+                </svg>
+                <h3 class="text-2xl font-bold">Trust & Reputation Building</h3>
+              </div>
+              <p class="text-gray-700">Homeowners don't let just anyone into their home. We build your online reputation with reviews, professional branding, and authority positioning that makes you the obvious choice.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Services for Plumbers Section -->
+    <section class="py-16 md:py-24 section-checkers">
+      <div class="max-w-7xl mx-auto px-6">
+        <div class="text-center mb-16">
+          <h2 class="text-4xl md:text-5xl font-black text-gray-900 mb-6">
+            Marketing Services for <span class="text-rebel-green">Plumbing Contractors</span>
+          </h2>
+          <p class="text-lg md:text-xl text-gray-700 max-w-4xl mx-auto">
+            Everything you need to capture emergency calls, win high-ticket jobs, and build authority in your market.
+          </p>
+        </div>
+
+        <!-- Website + Landing Pages -->
+        <div class="grid grid-cols-1 lg:grid-cols-2 gap-12 lg:gap-16 items-center mb-20">
+          <div>
+            <img
+              src="https://RebelApeCDN.b-cdn.net/website-landers.webp"
+              alt="Plumbing Website Design"
+              class="w-full rounded-lg"
+              loading="lazy"
+            />
+          </div>
+          <div>
+            <div class="inline-block bg-rebel-green text-white px-4 py-2 rounded-full text-sm font-bold mb-4">Website Design</div>
+            <h3 class="text-3xl md:text-4xl font-bold mb-6">
+              Plumbing Websites That <span class="text-rebel-green">Convert</span>
+            </h3>
+            <p class="text-lg text-gray-700 mb-6">
+              Your website needs to do one thing: get the phone to ring. We build fast, professional plumbing websites that establish trust and turn visitors into calls—especially during emergencies.
+            </p>
+            <ul class="space-y-4 mb-6">
+              <li class="flex gap-3">
+                <GreenCheck />
+                <span class="text-gray-700">Click-to-call buttons prominently displayed</span>
+              </li>
+              <li class="flex gap-3">
+                <GreenCheck />
+                <span class="text-gray-700">Service pages for every plumbing service you offer</span>
+              </li>
+              <li class="flex gap-3">
+                <GreenCheck />
+                <span class="text-gray-700">Location pages for every city in your service area</span>
+              </li>
+              <li class="flex gap-3">
+                <GreenCheck />
+                <span class="text-gray-700">Mobile-optimized for homeowners searching on phones</span>
+              </li>
+            </ul>
+            <Button text="Learn More About Websites" icon="learn" href="/services/website-design/" />
+          </div>
+        </div>
+
+        <!-- PPC -->
+        <div class="grid grid-cols-1 lg:grid-cols-2 gap-12 lg:gap-16 items-center mb-20">
+          <div class="order-2 lg:order-1">
+            <div class="inline-block bg-rebel-green text-white px-4 py-2 rounded-full text-sm font-bold mb-4">PPC Advertising</div>
+            <h3 class="text-3xl md:text-4xl font-bold mb-6">
+              Google Ads That <span class="text-rebel-green">Capture Emergency Calls</span>
+            </h3>
+            <p class="text-lg text-gray-700 mb-6">
+              When someone searches "emergency plumber near me" at 2 AM, you need to be there. We manage Google Ads and Local Service Ads to capture every urgent call and high-value lead in your area.
+            </p>
+            <ul class="space-y-4 mb-6">
+              <li class="flex gap-3">
+                <GreenCheck />
+                <span class="text-gray-700">24/7 emergency plumbing campaigns</span>
+              </li>
+              <li class="flex gap-3">
+                <GreenCheck />
+                <span class="text-gray-700">High-ticket service targeting (repiping, water heaters)</span>
+              </li>
+              <li class="flex gap-3">
+                <GreenCheck />
+                <span class="text-gray-700">Local Service Ads with Google Guaranteed badge</span>
+              </li>
+              <li class="flex gap-3">
+                <GreenCheck />
+                <span class="text-gray-700">Call tracking so you know exactly what's working</span>
+              </li>
+            </ul>
+            <Button text="Learn More About PPC" icon="learn" href="/services/ppc/" />
+          </div>
+          <div class="order-1 lg:order-2">
+            <img
+              src="https://rebelapecdn.b-cdn.net/ppc-google-ads.webp"
+              alt="Plumbing Google Ads"
+              class="w-full rounded-lg"
+              loading="lazy"
+            />
+          </div>
+        </div>
+
+        <!-- SEO -->
+        <div class="grid grid-cols-1 lg:grid-cols-2 gap-12 lg:gap-16 items-center mb-20">
+          <div>
+            <img
+              src="https://RebelApeCDN.b-cdn.net/featured-outrank-competitors-in-google.webp"
+              alt="Plumbing SEO"
+              class="w-full rounded-lg"
+              loading="lazy"
+            />
+          </div>
+          <div>
+            <div class="inline-block bg-rebel-green text-white px-4 py-2 rounded-full text-sm font-bold mb-4">SEO Services</div>
+            <h3 class="text-3xl md:text-4xl font-bold mb-6">
+              Rank #1 for <span class="text-rebel-green">"Plumber Near Me"</span>
+            </h3>
+            <p class="text-lg text-gray-700 mb-6">
+              Long-term authority building through local SEO. We optimize your website and Google Business Profile so you show up first when homeowners search for plumbing services—organically, without paying per click.
+            </p>
+            <ul class="space-y-4 mb-6">
+              <li class="flex gap-3">
+                <GreenCheck />
+                <span class="text-gray-700">Google Business Profile optimization</span>
+              </li>
+              <li class="flex gap-3">
+                <GreenCheck />
+                <span class="text-gray-700">Local keyword targeting for your service areas</span>
+              </li>
+              <li class="flex gap-3">
+                <GreenCheck />
+                <span class="text-gray-700">On-page SEO for all service and location pages</span>
+              </li>
+              <li class="flex gap-3">
+                <GreenCheck />
+                <span class="text-gray-700">Monthly ranking reports and progress tracking</span>
+              </li>
+            </ul>
+            <Button text="Learn More About SEO" icon="learn" href="/services/seo/" />
+          </div>
+        </div>
+
+        <!-- Google Business Profile -->
+        <div class="grid grid-cols-1 lg:grid-cols-2 gap-12 lg:gap-16 items-center">
+          <div class="order-2 lg:order-1">
+            <div class="inline-block bg-rebel-green text-white px-4 py-2 rounded-full text-sm font-bold mb-4">Google Business Profile</div>
+            <h3 class="text-3xl md:text-4xl font-bold mb-6">
+              Dominate the <span class="text-rebel-green">Map Pack</span>
+            </h3>
+            <p class="text-lg text-gray-700 mb-6">
+              When homeowners search for plumbers, they look at the map. We optimize your Google Business Profile to show up in the top 3 results with stellar reviews that build instant trust.
+            </p>
+            <ul class="space-y-4 mb-6">
+              <li class="flex gap-3">
+                <GreenCheck />
+                <span class="text-gray-700">Complete profile optimization</span>
+              </li>
+              <li class="flex gap-3">
+                <GreenCheck />
+                <span class="text-gray-700">Review generation and management</span>
+              </li>
+              <li class="flex gap-3">
+                <GreenCheck />
+                <span class="text-gray-700">Regular posts and updates</span>
+              </li>
+              <li class="flex gap-3">
+                <GreenCheck />
+                <span class="text-gray-700">Photo optimization for completed jobs</span>
+              </li>
+            </ul>
+            <Button text="Learn More About GBP" icon="learn" href="/services/google-business-profile/" />
+          </div>
+          <div class="order-1 lg:order-2">
+            <img
+              src="https://RebelApeCDN.b-cdn.net/featured-locations.webp"
+              alt="Plumbing Google Business Profile"
+              class="w-full rounded-lg"
+              loading="lazy"
+            />
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Trust Logos -->
+    <section class="py-16 md:py-24 section-slate">
+      <CompaniesTrustUs />
+    </section>
+
+    <!-- Testimonials -->
+    <section class="py-16 md:py-24 section-checkers">
+      <TestimonialsDefault />
+    </section>
+
+    <!-- FAQs Section -->
+    <section class="py-16 md:py-24 section-slate">
+      <div class="max-w-4xl mx-auto px-6">
+        <div class="text-center mb-12">
+          <h2 class="text-4xl md:text-5xl font-black text-gray-900 mb-6">
+            Plumbing Marketing <span class="text-rebel-green">FAQs</span>
+          </h2>
+          <p class="text-lg text-gray-700">
+            Common questions from plumbing contractors about our marketing services.
+          </p>
+        </div>
+
+        <div class="space-y-6">
+          {faqs.map((faq, index) => (
+            <div class="bg-white border border-gray-200 rounded-lg shadow-lg overflow-hidden">
+              <div class="p-6">
+                <h3 class="text-xl font-bold text-gray-900 mb-3">{faq.question}</h3>
+                <p class="text-gray-700">{faq.answer}</p>
+              </div>
+            </div>
+          ))}
+        </div>
+      </div>
+    </section>
+
+    <!-- Final CTA -->
+    <section class="py-16 md:py-24 section-checkers">
+      <div class="max-w-7xl mx-auto px-6 text-center">
+        <h2 class="text-4xl md:text-5xl font-black text-gray-900 mb-6 max-w-5xl mx-auto">
+          Ready to Be The First Call <span class="text-rebel-green">When Pipes Burst?</span>
+        </h2>
+        <p class="text-lg md:text-xl text-gray-700 mb-4 max-w-4xl mx-auto">
+          Stop losing emergency calls to competitors. Let's talk about how we can help you capture every lead in your market and become THE plumber homeowners trust.
+        </p>
+        <p class="text-lg text-gray-700 mb-8 max-w-4xl mx-auto">
+          Schedule a free strategy session and we'll analyze your market, your competition, and show you exactly what it takes to dominate.
+        </p>
+
+        <div class="bg-white border border-gray-200 rounded-lg shadow-xl overflow-hidden max-w-2xl mx-auto mb-8">
+          <div class="h-1 bg-rebel-green"></div>
+          <div class="p-8">
+            <h3 class="text-xl font-bold mb-4">In Your Strategy Session, We'll Cover:</h3>
+            <ul class="text-left space-y-3 mb-6">
+              <li class="flex gap-3">
+                <GreenCheck />
+                <span class="text-gray-700">Your current marketing situation and what's not working</span>
+              </li>
+              <li class="flex gap-3">
+                <GreenCheck />
+                <span class="text-gray-700">Your local competition and opportunities in your market</span>
+              </li>
+              <li class="flex gap-3">
+                <GreenCheck />
+                <span class="text-gray-700">A customized strategy for generating more plumbing leads</span>
+              </li>
+              <li class="flex gap-3">
+                <GreenCheck />
+                <span class="text-gray-700">Realistic timelines, budgets, and expected results</span>
+              </li>
+            </ul>
+            <p class="text-gray-600 italic">No pressure. No hard sell. Just an honest conversation about your business.</p>
+          </div>
+        </div>
+
+        <div class="flex justify-center">
+          <Button text="Schedule Your Strategy Session" icon="calendar" href="/schedule/" />
+        </div>
+      </div>
+    </section>
+
+  </section>
+</Base>
