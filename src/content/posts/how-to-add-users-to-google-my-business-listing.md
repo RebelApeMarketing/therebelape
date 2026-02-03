@@ -8,7 +8,7 @@ lastModified: "2025-01-27T13:30:00-07:00"
 author: "Adam Miconi"
 image: "https://RebelApeCDN.b-cdn.net/featured-google-business-profile.webp"
 canonicalUrl: "https://therebelape.com/blog/how-to-add-users-to-google-my-business-listing/"
-categories: "Local SEO"
+categories: ["Local SEO"]
 tags: ["google business profile", "contractor marketing", "local seo", "marketing agency", "business ownership", "profile access"]
 draft: false
 ---
