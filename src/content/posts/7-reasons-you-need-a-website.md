@@ -6,7 +6,7 @@ excerpt: "Most contractors rely on word-of-mouth and stay stuck at the same reve
 publishDate: "2019-03-15T12:00:00-07:00"
 lastModified: "2026-01-14T22:00:00-07:00"
 author: "Adam Miconi"
-image: "https://RebelApeCDN.b-cdn.net/featured-why-home-service-companies-need-a-website.webp"
+image: "https://RebelApeCDN.b-cdn.net/featured-why-home-service-companies-need-a-website-v2.webp"
 canonicalUrl: "https://therebelape.com/blog/why-home-service-companies-need-a-website/"
 tags: ["website design", "conversion optimization", "contractor marketing", "roofing contractors", "home service business", "lead generation"]
 categories: ["Website Design"]
