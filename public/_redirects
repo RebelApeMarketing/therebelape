@@ -207,7 +207,7 @@ https://www.therebelape.com/about-rebel-ape-marketing/about-adam-miconi/ /about/
 # ========================================
 
 # Old plumbing marketing parent page
-/plumbing-marketing/ /locations/ 301!
+/plumbing-marketing/ /industries/plumbing/ 301!
 
 # Old marketing agencies utah
 /marketing-agencies-utah/ /locations/utah/ 301!
