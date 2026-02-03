@@ -8,7 +8,7 @@ publishDate: "2019-03-08T13:00:00-07:00"
 lastModified: "2026-02-03T10:00:00-07:00"
 image: "https://RebelApeCDN.b-cdn.net/featured-website-not-ranking-v2.webp"
 canonicalUrl: "https://therebelape.com/blog/website-is-not-ranking/"
-categories: "SEO"
+categories: ["SEO"]
 tags: ["contractor marketing", "home service marketing", "SEO", "AEO", "GEO", "website ranking"]
 draft: false
 ---
