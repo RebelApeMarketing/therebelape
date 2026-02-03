@@ -14,7 +14,18 @@ import FAQdefault from '../components/faqs/FAQdefault.astro';
 import UOMC from '../components/sections/UOMC.astro';
 import OrganizationSchema from '../components/schema/OrganizationSchema.astro';
 import WebPageSchema from '../components/schema/WebPageSchema.astro';
+import { getCollection } from 'astro:content';
 
+// Get latest 3 blog posts
+const allPosts = await getCollection('posts');
+const latestPosts = allPosts
+  .filter(post => !post.data.draft && post.data.publishDate)
+  .sort((a, b) => {
+    const dateA = a.data.publishDate ? new Date(a.data.publishDate).getTime() : 0;
+    const dateB = b.data.publishDate ? new Date(b.data.publishDate).getTime() : 0;
+    return dateB - dateA;
+  })
+  .slice(0, 3);
 
 // SEO
 const title = "Websites, Landing Pages & PPC for Contractors | Rebel Ape";
@@ -76,7 +87,74 @@ const robots = "index,follow"; // optional override
       <TestimonialsDefault />
     </section>
 
-    <section class={`py-12 md:py-16 section-slate`}>
+    <!-- Latest Blog Posts -->
+    <section class="py-12 md:py-16 section-slate">
+      <div class="max-w-7xl mx-auto px-6">
+        <div class="text-center mb-12">
+          <h2 class="text-4xl md:text-5xl font-black mb-4">Get The Latest Marketing Tips</h2>
+          <p class="text-lg text-gray-600 max-w-2xl mx-auto">
+            Stay ahead of the competition with proven strategies and insights from our team. We share what's working right now for home service businesses.
+          </p>
+        </div>
+
+        <div class="grid grid-cols-1 md:grid-cols-3 gap-8 mb-10">
+          {latestPosts.map(post => (
+            <article class="bg-white rounded-lg shadow-xl overflow-hidden hover:shadow-2xl transition-shadow duration-300">
+              {post.data.image && (
+                <a href={`/blog/${post.slug}/`}>
+                  <img
+                    src={post.data.image}
+                    alt={post.data.title}
+                    class="w-full h-48 object-cover"
+                  />
+                </a>
+              )}
+              <div class="p-6">
+                {post.data.categories && (
+                  <div class="mb-3">
+                    <span class="bg-rebel-green text-white px-3 py-1 rounded-full text-xs font-semibold">
+                      {post.data.categories[0]}
+                    </span>
+                  </div>
+                )}
+                <h3 class="text-xl font-bold mb-3 leading-tight">
+                  <a
+                    href={`/blog/${post.slug}/`}
+                    class="text-gray-900 hover:text-rebel-green transition-colors"
+                  >
+                    {post.data.title}
+                  </a>
+                </h3>
+                <p class="text-gray-600 mb-4 line-clamp-2">{post.data.description}</p>
+                <a
+                  href={`/blog/${post.slug}/`}
+                  class="inline-flex items-center text-rebel-green font-semibold hover:underline"
+                >
+                  Read Article
+                  <svg class="w-4 h-4 ml-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path>
+                  </svg>
+                </a>
+              </div>
+            </article>
+          ))}
+        </div>
+
+        <div class="text-center">
+          <a
+            href="/blog/"
+            class="inline-flex items-center justify-center px-8 py-4 bg-rebel-green text-white font-semibold rounded-lg hover:bg-green-700 transition-colors"
+          >
+            See More Marketing Tips
+            <svg class="w-5 h-5 ml-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 8l4 4m0 0l-4 4m4-4H3"></path>
+            </svg>
+          </a>
+        </div>
+      </div>
+    </section>
+
+    <section class={`py-12 md:py-16 section-checkers`}>
       <FAQdefault />
     </section>
 
