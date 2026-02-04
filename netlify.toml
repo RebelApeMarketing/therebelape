@@ -3,6 +3,19 @@
   publish = "dist"
   command = "npm run build"
 
+# Redirects - UOMC subdomain migration
+[[redirects]]
+  from = "/uomc/"
+  to = "/resources/uomc/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/uomc/thank-you/"
+  to = "/resources/uomc/thank-you/"
+  status = 301
+  force = true
+
 # Functions directory
 [functions]
   directory = "netlify/functions"

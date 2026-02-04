@@ -37,13 +37,20 @@ http://www.therebelape.com/*  https://therebelape.com/:splat  301!
 # LANDING PAGES & SUBDOMAIN REDIRECTS
 # ========================================
 
-# SUBS
-http://leads.therebelape.com/ https://uomc.therebelape.com 301!
-https://leads.therebelape.com/ https://uomc.therebelape.com 301!
-https://go.therebelape.com/checklist/ https://uomc.therebelape.com 301!
-https://go.therebelape.com/ https://uomc.therebelape.com 301!
-https://go.therebelape.com/checklist-page https://uomc.therebelape.com 301!
-https://go.therebelape.com/checklist-page832917 https://uomc.therebelape.com 301!
+# UOMC - Marketing Checklist Landing Page
+http://leads.therebelape.com/* https://therebelape.com/resources/uomc/ 301!
+https://leads.therebelape.com/* https://therebelape.com/resources/uomc/ 301!
+http://uomc.therebelape.com/* https://therebelape.com/resources/uomc/ 301!
+https://uomc.therebelape.com/* https://therebelape.com/resources/uomc/ 301!
+https://go.therebelape.com/checklist/ https://therebelape.com/resources/uomc/ 301!
+https://go.therebelape.com/checklist https://therebelape.com/resources/uomc/ 301!
+https://go.therebelape.com/ https://therebelape.com/resources/uomc/ 301!
+https://go.therebelape.com/checklist-page https://therebelape.com/resources/uomc/ 301!
+https://go.therebelape.com/checklist-page832917 https://therebelape.com/resources/uomc/ 301!
+
+# UOMC internal path redirects
+/uomc/ /resources/uomc/ 301!
+/uomc/thank-you/ /resources/uomc/thank-you/ 301!
 
 
 # SCHEDULE

@@ -55,6 +55,56 @@ const robots = "index, follow";
             allowfullscreen
           ></iframe>
         </div>
+
+        <!-- Worksheet Form -->
+        <div class="mt-12 max-w-xl mx-auto">
+          <div class="bg-white p-8 rounded-lg shadow-xl border border-gray-200">
+            <h3 class="text-2xl font-bold text-gray-900 mb-2 text-center">Get The Customer Avatar Worksheets</h3>
+            <p class="text-gray-600 mb-6 text-center">Enter your info below and we'll send you the worksheets to build your own customer avatars.</p>
+            <form
+              name="customer-avatar-worksheets"
+              method="POST"
+              data-netlify="true"
+              netlify-honeypot="bot-field"
+              action="/resources/customer-avatar/thank-you/"
+              class="space-y-4"
+            >
+              <input type="hidden" name="bot-field" />
+              <input type="hidden" name="form-name" value="customer-avatar-worksheets" />
+              <div>
+                <label for="name" class="block text-sm font-medium text-gray-700 mb-1">Name</label>
+                <input
+                  type="text"
+                  id="name"
+                  name="name"
+                  required
+                  class="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-rebel-green focus:border-rebel-green"
+                  placeholder="Your name"
+                />
+              </div>
+              <div>
+                <label for="email" class="block text-sm font-medium text-gray-700 mb-1">Email</label>
+                <input
+                  type="email"
+                  id="email"
+                  name="email"
+                  required
+                  class="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-rebel-green focus:border-rebel-green"
+                  placeholder="you@company.com"
+                />
+              </div>
+              <button
+                type="submit"
+                class="w-full bg-yellow-400 hover:bg-yellow-500 text-black font-semibold py-4 px-6 rounded-lg transition-colors duration-200 flex items-center justify-center gap-2"
+              >
+                <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 10v6m0 0l-3-3m3 3l3-3m2 8H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"></path>
+                </svg>
+                Send Me The Customer Avatar Worksheets
+              </button>
+            </form>
+          </div>
+        </div>
       </div>
     </section>
 

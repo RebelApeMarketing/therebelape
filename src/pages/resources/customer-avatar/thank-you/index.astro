@@ -1,0 +1,87 @@
+---
+import Base from '../../../../layouts/Base.astro';
+import Hero from '../../../../components/sections/Hero.astro';
+import Button from '../../../../components/ui/Button.astro';
+
+// SEO - noindex thank you pages
+const title = "Thanks! Your Worksheets Are On The Way | Rebel Ape Marketing";
+const description = "Check your inbox for the Customer Avatar Worksheets from Rebel Ape Marketing.";
+const canonical = "https://therebelape.com/resources/customer-avatar/thank-you/";
+const image = "https://RebelApeCDN.b-cdn.net/featured-customer-avatar.webp";
+const type = "website";
+const robots = "noindex, nofollow";
+---
+
+<Base {title} {description} {canonical} {image} {type} {robots}>
+  <section>
+    <!-- Hero -->
+    <Hero
+      backgroundImage="https://RebelApeCDN.b-cdn.net/bg-gorilla-direct.webp"
+      title="Thanks! <span class='text-rebel-green'>Your Worksheets Are On The Way!</span>"
+      subtitle="Check your inbox for the email from <span class='text-rebel-green'>Rebel Ape Marketing.</span>"
+      description="If it doesn't arrive in a couple of minutes, check your spam or promotions tab. Use these worksheets to build data-driven customer avatars that actually improve your marketing."
+      showScheduleButton={false}
+      fetchpriority="high"
+    />
+
+    <!-- Quick Actions -->
+    <section class="py-16 md:py-24 section-checkers">
+      <div class="max-w-4xl mx-auto px-6">
+        <div class="flex flex-col sm:flex-row gap-4 justify-center mb-16">
+          <a
+            href="/schedule/"
+            class="inline-flex items-center justify-center rounded-[10px] px-8 py-4 text-lg font-semibold text-black bg-yellow-400 shadow-sm hover:bg-yellow-500 transition transform hover:scale-105"
+          >
+            <svg class="w-5 h-5 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z"></path>
+            </svg>
+            Book A Strategy Call
+          </a>
+          <a
+            href="/blog/getting-to-know-your-customer-avatar-the-ultimate-guide-to-better-marketing/"
+            class="inline-flex items-center justify-center rounded-[10px] px-8 py-4 text-lg font-semibold text-gray-900 bg-white border-2 border-gray-300 shadow-sm hover:bg-gray-50 transition transform hover:scale-105"
+          >
+            <svg class="w-5 h-5 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"></path>
+            </svg>
+            Read The Full Guide
+          </a>
+        </div>
+
+        <!-- Two Column Layout -->
+        <div class="grid md:grid-cols-2 gap-12">
+
+          <!-- What To Do Next -->
+          <div class="bg-white p-8 rounded-lg shadow-xl border border-gray-200">
+            <h2 class="text-2xl font-bold text-gray-900 mb-6">What To Do Next</h2>
+            <ul class="space-y-4">
+              <li class="flex gap-3">
+                <span class="text-rebel-green font-bold flex-shrink-0">1.</span>
+                <span class="text-gray-700">Download the worksheets from your email</span>
+              </li>
+              <li class="flex gap-3">
+                <span class="text-rebel-green font-bold flex-shrink-0">2.</span>
+                <span class="text-gray-700">Watch the video walkthrough if you haven't already</span>
+              </li>
+              <li class="flex gap-3">
+                <span class="text-rebel-green font-bold flex-shrink-0">3.</span>
+                <span class="text-gray-700">Start with your best customers - who are they really?</span>
+              </li>
+            </ul>
+          </div>
+
+          <!-- Need A Hand -->
+          <div class="bg-white p-8 rounded-lg shadow-xl border border-gray-200">
+            <h2 class="text-2xl font-bold text-gray-900 mb-4">Want Us To Do It For You?</h2>
+            <p class="text-gray-600 mb-6">
+              Building customer avatars right takes time and data analysis. We can dig into your analytics, interview your team, and build data-driven avatars that actually move the needle.
+            </p>
+            <Button text="Schedule A Call" icon="calendar" href="/schedule/" />
+          </div>
+
+        </div>
+      </div>
+    </section>
+
+  </section>
+</Base>
