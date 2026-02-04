@@ -132,7 +132,7 @@ But here's the key: **having these elements is entry-level**. Every decent contr
 
 Here's what actually makes a contractor homepage convert: treating it like a **traffic cop** that directs different visitors to different destinations based on their needs.
 
-Look at how we approach this for roofing contractors (works the same for HVAC, plumbing, or any home service business):
+Look at how we approach this for [roofing contractors](/industries/roofing/) (works the same for [HVAC](/industries/hvac/), [plumbing](/industries/plumbing/), or any home service business):
 
 Right on the homepage, we often create two distinct pathways:
 
@@ -148,7 +148,7 @@ This is where most "proven layouts" fail. They're designed to accommodate everyo
 
 **Segment them immediately.** Let them self-select into the path that matches their need. Then deliver a page specifically optimized for that intent.
 
-We use this same approach for HVAC companies: "Do you need a new system or a repair?" For plumbers: "Is this an emergency or scheduled service?" For any contractor business with distinct service types that appeal to customers at different stages.
+We use this same approach for [HVAC companies](/industries/hvac/): "Do you need a new system or a repair?" For [plumbers](/industries/plumbing/): "Is this an emergency or scheduled service?" For any contractor business with distinct service types that appeal to customers at different stages.
 
 Your homepage's job isn't to convert everyone directly. It's to get the right people to the right place where conversion can happen.
 

@@ -53,7 +53,7 @@ It's no longer about keywords. [It's about demonstrating real expertise](https:/
 
 Let me paint you a picture of what's happening right now across the contractor industry:
 
-Thousands of roofing, HVAC, plumbing, and landscaping companies are publishing blog post #30,567 titled "5 Signs Your Roof May Be Failing" or your industry equivalent.
+Thousands of [roofing](/industries/roofing/), [HVAC](/industries/hvac/), [plumbing](/industries/plumbing/), and [electrical](/industries/electrical/) companies are publishing blog post #30,567 titled "5 Signs Your Roof May Be Failing" or your industry equivalent.
 
 The content? Identical across all of them:
 - Missing or damaged shingles
@@ -93,7 +93,7 @@ Google is actually using these blogs to:
 
 Take [our "What Is SEO" post](https://therebelape.com/blog/what-is-seo/), for example. Every agency has a "What Is SEO" blog post. Ours was generic as hell—the same recycled definitions you'd find on 10,000 other marketing sites.
 
-We rewrote it with our actual take on SEO, specific to contractors. Real examples. Our methodology. Things we've learned from running campaigns for roofing companies, plumbers, and HVAC contractors—not generic advice that applies to everyone and no one.
+We rewrote it with our actual take on SEO, specific to contractors. Real examples. Our methodology. Things we've learned from running campaigns for [roofing companies](/industries/roofing/), [plumbers](/industries/plumbing/), and [HVAC contractors](/industries/hvac/)—not generic advice that applies to everyone and no one.
 
 **The result?** That post now ranks, gets referenced by AI tools, and actually brings in leads because it demonstrates we know what we're talking about specifically for home service businesses.
 

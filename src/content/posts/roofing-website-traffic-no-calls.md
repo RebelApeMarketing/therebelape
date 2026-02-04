@@ -156,7 +156,7 @@ For example: A roofing contractor we worked with wrote a post titled "Why We Don
 
 When Google shows an AI Overview at the top of search results, it's pulling from content that answers questions directly and authoritatively.
 
-The roofing companies winning featured snippets aren't writing vague overviews. They're answering specific questions: "How long does a roof replacement take in Colorado?" "What's included in a roofing estimate?" "How do I know if I need a new roof or just repairs?"
+The [roofing companies](/industries/roofing/) winning featured snippets aren't writing vague overviews. They're answering specific questions: "How long does a roof replacement take in Colorado?" "What's included in a roofing estimate?" "How do I know if I need a new roof or just repairs?"
 
 Clear, direct, expert answers win. Everything else gets buried on page two.
 
