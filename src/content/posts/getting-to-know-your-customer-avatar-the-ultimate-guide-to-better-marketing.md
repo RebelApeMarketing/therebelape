@@ -85,7 +85,7 @@ That means you need to know:
 
 We had a land surveying company come to us wanting to target ALTA surveys - these are high-dollar commercial surveys that can be worth significantly more than residential boundary surveys. Made sense on paper: higher revenue per job, more profit potential.
 
-The problem? Everything about their existing business was positioned for residential real estate and small property surveys. Their [website](https://therebelape.com/services/website-design/), their [Google Business Profile](https://therebelape.com/services/google-business-profile/), their reviews, their messaging - all of it attracted homeowners and realtors, not commercial property developers and title companies.
+The problem? Everything about their existing business was positioned for residential real estate and small property surveys. Their [website](https://therebelape.com/services/website-design/), their [Google Business Profile](https://therebelape.com/services/seo/google-business-profile/), their reviews, their messaging - all of it attracted homeowners and realtors, not commercial property developers and title companies.
 
 ALTA surveys and residential surveys require completely different customer avatars. ALTA buyers are typically commercial entities dealing with multi-million dollar properties, complex due diligence requirements, and tight closing deadlines. Residential survey buyers are homeowners trying to understand property lines or satisfy mortgage requirements.
 

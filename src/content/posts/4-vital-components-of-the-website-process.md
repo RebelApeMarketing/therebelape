@@ -17,7 +17,7 @@ draft: false
 
 Let me guess how you got your website: Someone in your contractor network recommended their designer friend. Or maybe your nephew's roommate "does websites." They showed you a portfolio of beautiful sites, talked about responsive design and user experience, quoted you a price, and delivered something that looks professional.
 
-Six months later, you're paying for Google Ads, but your phone isn't ringing. Your website looks great, but it's not making you money.
+Six months later, you're paying for [Google Ads](/services/ppc/google-ads-management/), but your phone isn't ringing. Your website looks great, but it's not making you money.
 
 Here's the uncomfortable truth most web designers won't tell you: Your website was built for their portfolio, not for your revenue.
 
@@ -107,7 +107,7 @@ Here's where the purpose-first approach matters most. A beautiful homepage with 
 
 **What actually works for contractor websites:**
 
-**Dedicated landing pages that match your ads.** If your Google Ad says "Emergency Roof Repair in Phoenix," the landing page better be specifically about emergency roof repair in Phoenix—not your generic homepage with a paragraph about emergency services buried in the third section.
+**Dedicated [landing pages](/services/website-design/landing-pages/) that match your ads.** If your Google Ad says "Emergency Roof Repair in Phoenix," the landing page better be specifically about emergency roof repair in Phoenix—not your generic homepage with a paragraph about emergency services buried in the third section.
 
 When you send ad traffic to a generic homepage, two things happen: Your cost per click goes up (Google penalizes you for poor relevance), and your conversion rate drops (visitors don't find what they expected). We've seen clients cut their cost per lead in half just by creating dedicated landing pages that match their ad messaging.
 
@@ -115,7 +115,7 @@ When you send ad traffic to a generic homepage, two things happen: Your cost per
 
 This isn't about clever copywriting tricks. It's about understanding that when someone lands on your website, they're evaluating you against competitors. If your content is generic—if you sound exactly like every other roofer in your market—they have no reason to choose you. [Your brand consistency matters](/blog/success-business-branding/) more than you think.
 
-**Trust signals in the right places.** Reviews, certifications, years in business, insurance verification, BBB rating—[these trust elements matter](/blog/increase-website-trust/), but only if they're positioned where prospects are actually looking for reassurance. Burying them in your footer is useless. Featuring them prominently above your contact form is strategic. Your [Google Business Profile](/services/google-business-profile/) reviews should also be integrated into your website to maximize trust.
+**Trust signals in the right places.** Reviews, certifications, years in business, insurance verification, BBB rating—[these trust elements matter](/blog/increase-website-trust/), but only if they're positioned where prospects are actually looking for reassurance. Burying them in your footer is useless. Featuring them prominently above your contact form is strategic. Your [Google Business Profile](/services/seo/google-business-profile/) reviews should also be integrated into your website to maximize trust.
 
 **A clear path to conversion.** Whether it's a phone number, a contact form, or a quote request, it needs to be obvious and easy. We don't need fancy chatbots or complex multi-step forms. We need a [phone number that clicks to call on mobile](/blog/phone-number-on-your-website/) and a form that loads instantly and works on the first try.
 

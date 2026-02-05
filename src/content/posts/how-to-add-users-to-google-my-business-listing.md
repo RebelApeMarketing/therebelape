@@ -69,7 +69,7 @@ Here's what to check:
 
 **1. Who has Owner access?** There should be one clear owner—ideally you or someone in your company who isn't going anywhere. Not your nephew. Not a helpful friend. Not your agency.
 
-**2. Who has Manager access?** These are people who can do almost everything an owner can do except delete the profile or change ownership. Your agency should be here if they're handling your [Google Business Profile management](/services/google-business-profile/).
+**2. Who has Manager access?** These are people who can do almost everything an owner can do except delete the profile or change ownership. Your agency should be here if they're handling your [Google Business Profile management](/services/seo/google-business-profile/).
 
 **3. Who has Communications Manager access?** These people can only respond to reviews and messages. Limited access for team members who don't need full control.
 
@@ -99,7 +99,7 @@ When the agency owns your profile, you're renting your online presence from them
 - You have a dispute about payment or performance
 - The agency sells to a larger company and your account gets lost in transition
 
-We've taken over [Google Business Profile management](/services/google-business-profile/) for dozens of contractors who couldn't get their profiles back from previous agencies. Not because those agencies were evil—most of them transferred access when asked. But some didn't respond. Some said they'd do it "eventually." Some wanted to negotiate terms first.
+We've taken over [Google Business Profile management](/services/seo/google-business-profile/) for dozens of contractors who couldn't get their profiles back from previous agencies. Not because those agencies were evil—most of them transferred access when asked. But some didn't respond. Some said they'd do it "eventually." Some wanted to negotiate terms first.
 
 Your business shouldn't be held hostage because of an account ownership decision nobody explained to you five years ago.
 
@@ -205,7 +205,7 @@ This catches:
 
 Think of it like changing the locks when an employee leaves. Except most contractors never change the locks on their Google Business Profile.
 
-**This is what we build for contractors who are serious about lead generation.** See how we [implement this complete system](/services/google-business-profile/) to protect your local presence and maximize conversions.
+**This is what we build for contractors who are serious about lead generation.** See how we [implement this complete system](/services/seo/google-business-profile/) to protect your local presence and maximize conversions.
 
 ## What We've Learned From Taking Over Contractor Profiles
 

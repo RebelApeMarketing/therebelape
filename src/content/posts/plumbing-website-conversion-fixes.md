@@ -220,6 +220,6 @@ Whether you work with our team or another provider, the important thing is to ge
 
 Don't burn money driving traffic to a website that doesn't convert. Fix your conversion problem first, then watch your marketing ROI skyrocket.
 
-Ready to get started? Whether you want a free website audit or you're looking to implement our **Silverback Authority Method&#x2122;** to get a complete marketing system integrated into your company, [contact Rebel Ape Marketing today](/contact/). We'll help you transform your website into a conversion machine that keeps your phones ringing and your trucks rolling.
+Ready to get started? Whether you want a free website audit or you're looking to implement our **[Silverback Authority Method](/silverback-authority-method/)&#x2122;** to get a complete marketing system integrated into your company, [contact Rebel Ape Marketing today](/contact/). We'll help you transform your website into a conversion machine that keeps your phones ringing and your trucks rolling.
 
 **Schedule Your Free Lead Flow Accelerator Session - [Schedule a Strategy Session](/schedule/)**

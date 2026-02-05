@@ -17,7 +17,7 @@ draft: false
 
 A roofing contractor calls us. First thing he says: "I can't even find my own business on Google unless I search for it by name."
 
-We ask what he's tried. He's got a website—looks decent enough. Paid someone to do "some SEO" last year. Ran Facebook ads for a few months. Posted on social media occasionally. Even tried a Groupon deal once.
+We ask what he's tried. He's got a website—looks decent enough. Paid someone to do "some SEO" last year. Ran Facebook ads for a few months. Posted on [social media](/services/social-media/social-media-management/) occasionally. Even tried a Groupon deal once.
 
 Nothing stuck. Nothing generated consistent leads. His phone rings from referrals and the occasional job board lead, but he has zero control over his lead flow.
 
@@ -51,13 +51,13 @@ Let's talk about what actually happens when you hire most marketing agencies.
 
 You call them up. You say "I need more leads."
 
-They say "Great! We can build you a website for $3,000" or "We'll run Google Ads for you, $1,500/month plus ad spend" or "We'll do SEO, takes 6-8 months to see results."
+They say "Great! We can build you a website for $3,000" or "We'll run [Google Ads](/services/ppc/google-ads-management/) for you, $1,500/month plus ad spend" or "We'll do SEO, takes 6-8 months to see results."
 
 You pick one. Maybe two if you're ambitious.
 
 The website gets built. It sits there. No traffic.
 
-The ads run. They burn money because the landing page doesn't convert.
+The ads run. They burn money because the [landing page](/services/website-design/landing-pages/) doesn't convert.
 
 The SEO starts. Nothing happens for months because [your Google Business Profile is a mess](https://therebelape.com/blog/total-market-domination-with-google-business-profile/) and your website has no authority.
 
@@ -182,7 +182,7 @@ Month 3, cost per lead starts dropping. Conversion rates improve. You're getting
 
 ### Step 4: Build Authority (Months 4-6)
 
-SEO kicks in. Organic traffic grows. Your Google Business Profile starts ranking in the map pack. Reviews pile up.
+SEO kicks in. Organic traffic grows. Your [Google Business Profile](/services/seo/google-business-profile/) starts ranking in the map pack. Reviews pile up.
 
 You're not just another roofer anymore—you're the authority in your market.
 
@@ -261,7 +261,7 @@ Sending traffic to a page that doesn't convert is like hiring a sales guy who do
 
 Your Google Business Profile is how most homeowners find local roofers. If it's incomplete, has no reviews, or isn't optimized, you're fighting an uphill battle with SEO.
 
-**How to fix it:** [Optimize your Google Business Profile first](https://therebelape.com/services/google-business-profile/). Get reviews flowing. Post updates regularly. Make sure your NAP (Name, Address, Phone) is consistent across the web. Then layer in SEO.
+**How to fix it:** [Optimize your Google Business Profile first](https://therebelape.com/services/seo/google-business-profile/). Get reviews flowing. Post updates regularly. Make sure your NAP (Name, Address, Phone) is consistent across the web. Then layer in SEO.
 
 **Mistake #4: Using Generic Messaging That Sounds Like Everyone Else**
 

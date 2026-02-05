@@ -19,11 +19,11 @@ You've been roofing for 15 years. You've got a five-star Google rating. Homeowne
 
 But your website? It gets visitors and nothing happens. Zero calls. Zero form submissions. Just numbers in Google Analytics that don't translate to revenue.
 
-Meanwhile, you're spending money on Google Ads because at least those generate calls. Your organic traffic—the stuff that's supposed to be "free"—sits there doing nothing.
+Meanwhile, you're spending money on [Google Ads](/services/ppc/google-ads-management/) because at least those generate calls. Your organic traffic—the stuff that's supposed to be "free"—sits there doing nothing.
 
 This problem is getting worse, not better. And it's not because SEO is dead. It's because SEO evolved and most roofing companies (and their agencies) are still playing the old game.
 
-**TL;DR:** Most agencies will tell you to "do more SEO" or "write more blog posts." That's incomplete advice. SEO has split into three distinct strategies—SEO, AEO (Answer Engine Optimization), and GEO (Generative Engine Optimization)—and if you're only doing traditional SEO, you're missing the traffic that actually converts. Your website likely has no real offer, no clear positioning, and content that speaks to everyone (meaning no one). AI has made this worse by flooding the internet with beautifully written generic content that says nothing.
+**TL;DR:** Most agencies will tell you to "do more SEO" or "write more blog posts." That's incomplete advice. SEO has split into three distinct strategies—SEO, [AEO](/services/seo/local-seo/) (Answer Engine Optimization), and GEO (Generative Engine Optimization)—and if you're only doing traditional SEO, you're missing the traffic that actually converts. Your website likely has no real offer, no clear positioning, and content that speaks to everyone (meaning no one). AI has made this worse by flooding the internet with beautifully written generic content that says nothing.
 
 ## Why This Actually Matters for Roofing Companies
 
@@ -120,7 +120,7 @@ That's the problem. Generic content creates generic results.
 
 That voice—that specific, opinionated, authentic positioning—is what makes someone call.
 
-When we rebuilt a landing page for a roofing contractor and added clear positioning (residential re-roofs only, no patch jobs, 15-year warranty, family-owned, been roofing the same neighborhoods for 20 years), conversions jumped from 1.2% to 4.1%. Same traffic. Different message.
+When we rebuilt a [landing page](/services/website-design/landing-pages/) for a roofing contractor and added clear positioning (residential re-roofs only, no patch jobs, 15-year warranty, family-owned, been roofing the same neighborhoods for 20 years), conversions jumped from 1.2% to 4.1%. Same traffic. Different message.
 
 **This is exactly what we build for contractors who are serious about lead generation.** [See how we implement this complete system.](/services/website-design/)
 

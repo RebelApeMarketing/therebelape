@@ -134,7 +134,7 @@ Here's why everything runs through your website:
 
 **SEO** - When someone Googles "roofing contractors near me," where do they go when they click your result? Your website. If it doesn't convert them, [your SEO efforts](/services/seo/) are wasted.
 
-**Google Ads** - You're spending $3,000/month on [PPC campaigns](/services/ppc/), and when someone clicks, where do they land? Your website. If it's slow, confusing, or doesn't convert, you just burned that ad spend.
+**[Google Ads](/services/ppc/google-ads-management/)** - You're spending $3,000/month on [PPC campaigns](/services/ppc/), and when someone clicks, where do they land? Your website. If it's slow, confusing, or doesn't convert, you just burned that ad spend.
 
 **Local Service Ads** - Same story. [Google's Local Service Ads](/services/ppc/local-service-ads/) send traffic to your site. If it sucks, you're wasting money.
 
@@ -144,7 +144,7 @@ Here's why everything runs through your website:
 
 Without a solid website, every other marketing dollar you spend has a leak in it. You're paying to drive traffic to a broken funnel.
 
-We've seen contractors waste thousands on [Google Ads](/blog/how-to-improve-website-traffic-with-seo-your-complete-2025-guide/) because their landing page didn't convert. We've seen others dominate [local SEO](/blog/local-seo-services-increase-local-visibility-and-drive-more-customers/) but lose leads because their site didn't have clear calls-to-action.
+We've seen contractors waste thousands on [Google Ads](/blog/how-to-improve-website-traffic-with-seo-your-complete-2025-guide/) because their [landing page](/services/website-design/landing-pages/) didn't convert. We've seen others dominate [local SEO](/blog/local-seo-services-increase-local-visibility-and-drive-more-customers/) but lose leads because their site didn't have clear calls-to-action.
 
 Your website is the hub. Everything else is just traffic.
 
@@ -204,9 +204,9 @@ If you can't measure it, you can't improve it. Set up proper analytics so you kn
 
 Your website needs to be found. That means proper [on-page SEO](/blog/on-page-seo-tips/), fast load times, and content that answers the questions your customers are actually asking. We cover this in depth in our [SEO marketing guide for business growth](/blog/seo-marketing-guide-business-growth/).
 
-**7. Not Optimizing Your Google Business Profile**
+**7. Not Optimizing Your [Google Business Profile](/services/seo/google-business-profile/)**
 
-Your website and [Google Business Profile](/services/google-business-profile/) work together. If you're not optimizing both, you're leaving money on the table. Check out our guide to [total market domination with Google Business Profile](/blog/total-market-domination-with-google-business-profile/) and our [Google Business Profile service for plumbers](/blog/google-business-profile-for-plumbers/) (applies to all home service businesses).
+Your website and [Google Business Profile](/services/seo/google-business-profile/) work together. If you're not optimizing both, you're leaving money on the table. Check out our guide to [total market domination with Google Business Profile](/blog/total-market-domination-with-google-business-profile/) and our [Google Business Profile service for plumbers](/blog/google-business-profile-for-plumbers/) (applies to all home service businesses).
 
 ## Frequently Asked Questions
 

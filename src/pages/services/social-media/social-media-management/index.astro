@@ -1,0 +1,430 @@
+---
+import Base from '../../../../layouts/Base.astro';
+import Hero from '../../../../components/sections/Hero.astro';
+import SocialProofBar from '../../../../components/sections/SocialProofBar.astro';
+import CaseStudy from '../../../../components/sections/CaseStudy.astro';
+import TestimonialsDefault from '../../../../components/testimonials/TestimonialsDefault.astro';
+import OrganizationSchema from '../../../../components/schema/OrganizationSchema.astro';
+import ServiceSchema from '../../../../components/schema/ServiceSchema.astro';
+import BreadcrumbSchema from '../../../../components/schema/BreadcrumbSchema.astro';
+import WebPageSchema from '../../../../components/schema/WebPageSchema.astro';
+import FAQSchema from '../../../../components/schema/FAQSchema.astro';
+
+// SEO
+const title = "Social Media Management for Contractors | Rebel Ape Marketing";
+const description = "Stay visible on Facebook, Instagram, LinkedIn, and Google Business Profile. We create and post 3x per week so you stay top of mind while you focus on running jobs.";
+const canonical = "https://therebelape.com/services/social-media/social-media-management/";
+const image = "https://rebelapecdn.b-cdn.net/featured-google-business-profile-for-plumbers-office.webp";
+const type = "website";
+const robots = "index, follow";
+
+// Breadcrumbs
+const breadcrumbs = [
+  { name: "Home", url: "https://therebelape.com/" },
+  { name: "Services", url: "https://therebelape.com/services/" },
+  { name: "Social Media", url: "https://therebelape.com/services/social-media/" },
+  { name: "Social Media Management", url: canonical }
+];
+
+// FAQs
+const faqs = [
+  {
+    question: "Will social media generate leads for my business?",
+    answer: "Not directly like Google Ads. Social media is about brand awareness and staying visible\u2014keeping you top of mind when potential customers are scrolling, not actively searching. It showcases your work, builds trust, and reinforces your reputation. But if you need leads flowing now, Google Ads is the answer. Social media supports that by keeping you visible between searches."
+  },
+  {
+    question: "How many posts per week?",
+    answer: "We post 3x per week across all platforms\u2014Facebook, Instagram, LinkedIn, and Google Business Profile. That's consistent enough to stay visible without overwhelming your audience. Some contractors want more, some want less. We adjust based on your goals and capacity."
+  },
+  {
+    question: "Do I have to provide content or photos?",
+    answer: "If you have job photos or specific content you want posted, we'll use them. But you don't have to. We create custom graphics and copy for every post. If you send us photos from jobs, great\u2014we'll incorporate them. If not, we handle content creation so you're not responsible for feeding us material."
+  },
+  {
+    question: "Can I review posts before they go live?",
+    answer: "Absolutely. We send you a monthly content calendar for review and approval. You see exactly what's going live, when, and on which platforms. If something needs adjusting, we fix it before it posts. You're never surprised by what shows up on your pages."
+  },
+  {
+    question: "Do you respond to comments or messages?",
+    answer: "No. We handle posting and content creation, but we don't manage customer service interactions. Comments, messages, and reviews are yours to handle. If you want us to engage with comments, that's a separate conversation\u2014but most contractors prefer to handle customer communication themselves."
+  },
+  {
+    question: "What platforms do you post on?",
+    answer: "Facebook, Instagram, LinkedIn, and Google Business Profile. We manage all four. If you don't want to be active on a specific platform, we can skip it and focus on the ones that matter to your audience."
+  },
+  {
+    question: "How is this different from running Facebook or Instagram ads?",
+    answer: "Social media management is organic posting\u2014no ad spend, just consistent content on your pages. Facebook/Instagram ads are paid campaigns designed to generate leads. Totally different goals. If you want social ads for lead generation, that's a separate service under PPC management. Organic social media is about visibility, not direct lead flow."
+  }
+];
+---
+
+<Base {title} {description} {canonical} {image} {type} {robots}>
+  <!-- Schema Markup -->
+  <OrganizationSchema slot="head" />
+  <ServiceSchema
+    slot="head"
+    name="Social Media Management for Contractors"
+    description={description}
+    url={canonical}
+    serviceType="Social Media Marketing"
+  />
+  <BreadcrumbSchema slot="head" breadcrumbs={breadcrumbs} />
+  <WebPageSchema
+    slot="head"
+    type="WebPage"
+    name={title}
+    description={description}
+    url={canonical}
+    image={image}
+  />
+  <FAQSchema slot="head" faqs={faqs} />
+  <section>
+    <Hero
+      backgroundImage="https://RebelApeCDN.b-cdn.net/bg-gorilla-direct.webp"
+      title="Stay Visible. <span class='text-rebel-green'>Stay Top of Mind.</span>"
+      subtitle="Consistent Posting. Brand Awareness. <span class='text-rebel-green'>You Focus on Jobs.</span>"
+      description={'Social media won\'t flood your phone with leads\u2014that\'s what Google Ads is for. But it keeps you visible when customers are scrolling, showcases your work, and builds trust with people who aren\'t ready to hire yet. We post 3x per week on Facebook, Instagram, LinkedIn, and Google Business Profile so you stay top of mind without thinking about it.'}
+      features={[
+        '3x Per Week Posting',
+        '4 Platforms Managed',
+        'Custom Graphics & Copy'
+      ]}
+      buttonText="Get Started With Social Media"
+      buttonIcon="calendar"
+      buttonHref="/schedule/"
+      fetchpriority="high"
+    />
+    <SocialProofBar />
+
+    <!-- Section 1: Social Media Won't Generate Leads Like Ads. But It Keeps You Visible. -->
+    <section class="py-16 md:py-24 section-checkers">
+      <div class="max-w-7xl mx-auto px-4">
+        <div class="grid grid-cols-1 lg:grid-cols-3 gap-12 lg:gap-16 items-stretch">
+          <!-- Text: 2/3 width -->
+          <div class="order-2 lg:order-1 lg:col-span-2">
+            <h2 class="text-4xl md:text-5xl font-bold mb-6">
+              Social Media Won't Generate Leads Like Ads. <span class="text-rebel-green">But It Keeps You Visible.</span>
+            </h2>
+            <p class="text-lg text-gray-700 mb-6">
+              Social media isn't going to make your phone ring like Google Ads. It's not a direct lead generation channel for contractors. But it keeps you visible when potential customers are scrolling, showcases your work to their network, and builds trust with people who aren't ready to hire today but will be in 3-6 months.
+            </p>
+            <p class="text-lg text-gray-700 mb-8">
+              Most contractors know they should post but never do. They're too busy running jobs, or they post once, get no immediate response, and quit. Social media works when it's consistent&mdash;3x per week, every week, showing up in feeds and building brand awareness over time. We handle the posting so you stay visible without thinking about it.
+            </p>
+            <ul class="space-y-4">
+              <li class="flex gap-3">
+                <span class="text-rebel-green text-xl font-bold">&#10003;</span>
+                <span class="text-gray-700"><strong>Brand Awareness:</strong> Stay top of mind when customers are browsing, not actively searching</span>
+              </li>
+              <li class="flex gap-3">
+                <span class="text-rebel-green text-xl font-bold">&#10003;</span>
+                <span class="text-gray-700"><strong>Showcase Work:</strong> Post job photos, before/afters, team highlights to build credibility</span>
+              </li>
+              <li class="flex gap-3">
+                <span class="text-rebel-green text-xl font-bold">&#10003;</span>
+                <span class="text-gray-700"><strong>Trust Building:</strong> Consistent presence signals you're established, active, and legitimate</span>
+              </li>
+              <li class="flex gap-3">
+                <span class="text-rebel-green text-xl font-bold">&#10003;</span>
+                <span class="text-gray-700"><strong>Amplify Reviews:</strong> Share positive reviews and testimonials to reinforce reputation</span>
+              </li>
+            </ul>
+            <p class="text-lg text-gray-700 mt-8 font-semibold italic">
+              Social media is the steady drumbeat that keeps your brand present. It's not instant leads&mdash;it's long-term visibility that supports your other marketing.
+            </p>
+          </div>
+
+          <!-- Image: 1/3 width on desktop, full width on mobile -->
+          <div class="order-1 lg:order-2 flex">
+            <img
+              src="https://rebelapecdn.b-cdn.net/featured-google-business-profile-for-plumbers-office.webp"
+              alt="Social Media Management for Contractors"
+              class="w-full h-auto lg:h-full object-cover rounded-lg"
+              loading="lazy"
+              width="600"
+              height="400"
+            />
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Section 2: We Handle Posting, You Focus on Jobs -->
+    <section class="py-16 md:py-24 section-slate">
+      <div class="max-w-7xl mx-auto px-4">
+        <!-- Centered Header -->
+        <div class="text-center mb-12">
+          <h2 class="text-4xl md:text-5xl font-bold mb-6">
+            We Handle Posting, <span class="text-rebel-green">You Focus on Jobs</span>
+          </h2>
+          <p class="text-lg md:text-xl text-gray-700 max-w-4xl mx-auto">
+            We create custom graphics and copy, post 3x per week across your platforms, and keep your social presence active. You approve the content calendar, we handle everything else.
+          </p>
+        </div>
+
+        <!-- Mobile image - shown only on mobile -->
+        <div class="lg:hidden mb-8">
+          <img
+            src="https://RebelApeCDN.b-cdn.net/featured-locations.webp"
+            alt="Social Media Platforms We Manage"
+            class="w-full h-auto object-cover rounded-lg"
+            loading="lazy"
+            width="600"
+            height="400"
+          />
+        </div>
+
+        <div class="grid grid-cols-1 lg:grid-cols-3 gap-12 lg:gap-16 items-stretch">
+          <!-- Image: 1/3 width, full height - desktop only -->
+          <div class="hidden lg:flex">
+            <img
+              src="https://RebelApeCDN.b-cdn.net/featured-locations.webp"
+              alt="Social Media Platforms We Manage"
+              class="w-full h-full object-cover rounded-lg"
+              loading="lazy"
+              width="600"
+              height="400"
+            />
+          </div>
+
+          <!-- Platform Cards: 2/3 width -->
+          <div class="lg:col-span-2 space-y-4">
+            <div class="bg-white p-6 rounded-lg border-l-4 border-rebel-green shadow-2xl">
+              <h3 class="text-xl font-bold mb-2">Facebook</h3>
+              <p class="text-gray-700">
+                Your Facebook Business Page stays active with job updates, service highlights, customer testimonials, and seasonal messaging. We post consistently so your followers see you regularly and your page looks current when people check it out.
+              </p>
+            </div>
+
+            <div class="bg-white p-6 rounded-lg border-l-4 border-rebel-green shadow-2xl">
+              <h3 class="text-xl font-bold mb-2">Instagram</h3>
+              <p class="text-gray-700">
+                Visual platform for showcasing your work. Before/after photos, job progress, team highlights, and behind-the-scenes content. We create graphics and copy designed for Instagram's format and audience.
+              </p>
+            </div>
+
+            <div class="bg-white p-6 rounded-lg border-l-4 border-rebel-green shadow-2xl">
+              <h3 class="text-xl font-bold mb-2">LinkedIn</h3>
+              <p class="text-gray-700">
+                Professional presence for commercial work, industry credibility, and B2B connections. We post company updates, project highlights, and thought leadership content that positions you as an established, professional contractor.
+              </p>
+            </div>
+
+            <div class="bg-white p-6 rounded-lg border-l-4 border-rebel-green shadow-2xl">
+              <h3 class="text-xl font-bold mb-2"><a href="/services/seo/google-business-profile/" class="hover:text-rebel-green transition">Google Business Profile</a></h3>
+              <p class="text-gray-700">
+                Google Business Profile posts show up in your Google listing and can influence local search visibility. We post updates, promotions, and service highlights to keep your profile active and engaged.
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Section 3: Social Media Works Best Alongside Lead Generation -->
+    <section class="py-16 md:py-24 section-checkers">
+      <div class="max-w-7xl mx-auto px-4">
+        <div class="grid grid-cols-1 lg:grid-cols-3 gap-12 lg:gap-16 items-stretch">
+          <!-- Text: 2/3 width -->
+          <div class="order-2 lg:order-1 lg:col-span-2">
+            <h2 class="text-4xl md:text-5xl font-bold mb-6">
+              Social Media Works Best <span class="text-rebel-green">Alongside Lead Generation</span>
+            </h2>
+            <p class="text-lg text-gray-700 mb-8">
+              Social media keeps you visible. Google Ads gets leads flowing. Local SEO builds long-term authority. When all three work together, you're everywhere your customers are&mdash;whether they're actively searching or passively scrolling.
+            </p>
+            <div class="space-y-4 mb-8">
+              <div class="bg-white p-6 rounded-lg border-l-4 border-rebel-green shadow-2xl">
+                <p class="font-semibold text-gray-900 text-lg mb-2">Social Media + <a href="/services/ppc/google-ads-management/" class="text-rebel-green font-semibold hover:underline">Google Ads</a></p>
+                <p class="text-gray-700">Ads drive immediate leads. Social media keeps you top of mind for people who aren't ready to hire yet. When they finally need a contractor, they remember seeing your posts and you're the first one they call.</p>
+              </div>
+              <div class="bg-white p-6 rounded-lg border-l-4 border-rebel-green shadow-2xl">
+                <p class="font-semibold text-gray-900 text-lg mb-2">Social Media + <a href="/services/seo/local-seo/" class="text-rebel-green font-semibold hover:underline">Local SEO</a></p>
+                <p class="text-gray-700">SEO gets you showing up in search results. Social media amplifies that visibility by staying present in feeds, showcasing your work, and building brand recognition. Together, they create multi-channel awareness.</p>
+              </div>
+              <div class="bg-white p-6 rounded-lg border-l-4 border-rebel-green shadow-2xl">
+                <p class="font-semibold text-gray-900 text-lg mb-2">Social Media + Complete System (The Silverback Authority Method)</p>
+                <p class="text-gray-700">Google Ads for speed. Local SEO for authority. Social media for consistent visibility. When all three work together, you're not invisible when customers aren't actively searching. <a href="/silverback-authority-method/" class="text-rebel-green font-semibold hover:underline">Learn more about the Silverback Authority Method</a>.</p>
+              </div>
+            </div>
+            <p class="text-lg text-gray-700">
+              Social media can stand alone if you just want consistent posting. But it's most valuable when paired with lead generation channels that actually make the phone ring.
+            </p>
+          </div>
+
+          <!-- Image: 1/3 width on desktop, full width on mobile -->
+          <div class="order-1 lg:order-2 flex">
+            <img
+              src="https://RebelApeCDN.b-cdn.net/website-gorilla-square.webp"
+              alt="Social Media as Part of Complete Marketing System"
+              class="w-full h-auto lg:h-full object-cover rounded-lg shadow-2xl"
+              loading="lazy"
+              width="600"
+              height="400"
+            />
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Section 4: What's Included Every Month -->
+    <section class="py-16 md:py-24 section-slate">
+      <div class="max-w-7xl mx-auto px-4">
+        <!-- Centered Header -->
+        <div class="text-center mb-12">
+          <h2 class="text-4xl md:text-5xl font-bold mb-6">
+            What's Included <span class="text-rebel-green">Every Month</span>
+          </h2>
+          <p class="text-lg md:text-xl text-gray-700 max-w-4xl mx-auto">
+            Social media management is straightforward: we create content, post consistently, and keep your presence active. Here's the breakdown:
+          </p>
+        </div>
+
+        <!-- Grid of Services -->
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
+          <!-- Content Planning -->
+          <div class="bg-white rounded-lg shadow-lg overflow-hidden">
+            <div class="h-1 bg-rebel-green"></div>
+            <div class="p-6">
+            <h3 class="text-xl font-bold mb-4 text-gray-900">Content Planning</h3>
+            <ul class="space-y-2 text-gray-700">
+              <li class="flex gap-2 items-start">
+                <span class="text-rebel-green text-lg">&rarr;</span>
+                <span>Monthly content calendar</span>
+              </li>
+              <li class="flex gap-2 items-start">
+                <span class="text-rebel-green text-lg">&rarr;</span>
+                <span>Post topic planning</span>
+              </li>
+              <li class="flex gap-2 items-start">
+                <span class="text-rebel-green text-lg">&rarr;</span>
+                <span>Seasonal messaging</span>
+              </li>
+              <li class="flex gap-2 items-start">
+                <span class="text-rebel-green text-lg">&rarr;</span>
+                <span>Service highlights</span>
+              </li>
+              <li class="flex gap-2 items-start">
+                <span class="text-rebel-green text-lg">&rarr;</span>
+                <span>Review/approval process</span>
+              </li>
+            </ul>
+            </div>
+          </div>
+
+          <!-- Content Creation -->
+          <div class="bg-white rounded-lg shadow-lg overflow-hidden">
+            <div class="h-1 bg-rebel-green"></div>
+            <div class="p-6">
+            <h3 class="text-xl font-bold mb-4 text-gray-900">Content Creation</h3>
+            <ul class="space-y-2 text-gray-700">
+              <li class="flex gap-2 items-start">
+                <span class="text-rebel-green text-lg">&rarr;</span>
+                <span>Custom graphic design for every post</span>
+              </li>
+              <li class="flex gap-2 items-start">
+                <span class="text-rebel-green text-lg">&rarr;</span>
+                <span>Platform-optimized copy</span>
+              </li>
+              <li class="flex gap-2 items-start">
+                <span class="text-rebel-green text-lg">&rarr;</span>
+                <span>Branded visuals</span>
+              </li>
+              <li class="flex gap-2 items-start">
+                <span class="text-rebel-green text-lg">&rarr;</span>
+                <span>Hashtag research</span>
+              </li>
+              <li class="flex gap-2 items-start">
+                <span class="text-rebel-green text-lg">&rarr;</span>
+                <span>Call-to-action optimization</span>
+              </li>
+            </ul>
+            </div>
+          </div>
+
+          <!-- Platform Management -->
+          <div class="bg-white rounded-lg shadow-lg overflow-hidden">
+            <div class="h-1 bg-rebel-green"></div>
+            <div class="p-6">
+            <h3 class="text-xl font-bold mb-4 text-gray-900">Platform Management</h3>
+            <ul class="space-y-2 text-gray-700">
+              <li class="flex gap-2 items-start">
+                <span class="text-rebel-green text-lg">&rarr;</span>
+                <span>3x per week posting across all platforms</span>
+              </li>
+              <li class="flex gap-2 items-start">
+                <span class="text-rebel-green text-lg">&rarr;</span>
+                <span>Post scheduling and publishing</span>
+              </li>
+              <li class="flex gap-2 items-start">
+                <span class="text-rebel-green text-lg">&rarr;</span>
+                <span>Profile optimization</span>
+              </li>
+              <li class="flex gap-2 items-start">
+                <span class="text-rebel-green text-lg">&rarr;</span>
+                <span>Platform updates and maintenance</span>
+              </li>
+            </ul>
+            </div>
+          </div>
+
+          <!-- Performance Monitoring -->
+          <div class="bg-white rounded-lg shadow-lg overflow-hidden">
+            <div class="h-1 bg-rebel-green"></div>
+            <div class="p-6">
+            <h3 class="text-xl font-bold mb-4 text-gray-900">Performance Monitoring</h3>
+            <ul class="space-y-2 text-gray-700">
+              <li class="flex gap-2 items-start">
+                <span class="text-rebel-green text-lg">&rarr;</span>
+                <span>Engagement tracking</span>
+              </li>
+              <li class="flex gap-2 items-start">
+                <span class="text-rebel-green text-lg">&rarr;</span>
+                <span>Reach and impressions</span>
+              </li>
+              <li class="flex gap-2 items-start">
+                <span class="text-rebel-green text-lg">&rarr;</span>
+                <span>Post performance analysis</span>
+              </li>
+              <li class="flex gap-2 items-start">
+                <span class="text-rebel-green text-lg">&rarr;</span>
+                <span>Monthly reporting</span>
+              </li>
+            </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="py-16 md:py-24 section-checkers">
+      <CaseStudy />
+    </section>
+
+    <section class="py-16 md:py-24 section-slate">
+      <TestimonialsDefault />
+    </section>
+
+    <!-- FAQ Section -->
+    <section class="py-16 md:py-24 section-checkers">
+      <div class="max-w-4xl mx-auto px-4">
+        <div class="text-center mb-12">
+          <h2 class="text-4xl md:text-5xl font-bold mb-6">
+            Frequently Asked <span class="text-rebel-green">Questions</span>
+          </h2>
+        </div>
+
+        <div class="space-y-6">
+          {faqs.map((faq) => (
+            <div class="bg-white p-6 rounded-lg shadow-lg border-l-4 border-rebel-green">
+              <h3 class="text-xl font-bold mb-3 text-gray-900">{faq.question}</h3>
+              <p class="text-gray-700">{faq.answer}</p>
+            </div>
+          ))}
+        </div>
+      </div>
+    </section>
+
+  </section>
+</Base>

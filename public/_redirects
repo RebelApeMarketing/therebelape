@@ -21,6 +21,7 @@ http://www.therebelape.com/*  https://therebelape.com/:splat  301!
 # ========================================
 
 # Service page restructuring
+/services/google-business-profile/ /services/seo/google-business-profile/ 301!
 /ads/ /services/ppc/ 301!
 /services/ads/ /services/ppc/ 301!
 /website-design/ /services/website-design/ 301!

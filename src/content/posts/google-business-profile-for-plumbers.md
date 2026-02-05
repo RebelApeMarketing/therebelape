@@ -31,7 +31,7 @@ https://www.youtube.com/watch?v=knJqyfL2f-A
 
 Let me be blunt: if someone searches "plumber near me" and you're not showing up in that map pack, you're losing money. Every. Single. Day.
 
-Your [Google Business Profile](/services/google-business-profile/) isn't just a nice-to-have. It's often the first thing a homeowner sees when they're looking for a plumber. And if it looks half-finished, generic, or worse—exactly like your competitor's—they're moving on to the next guy.
+Your [Google Business Profile](/services/seo/google-business-profile/) isn't just a nice-to-have. It's often the first thing a homeowner sees when they're looking for a plumber. And if it looks half-finished, generic, or worse—exactly like your competitor's—they're moving on to the next guy.
 
 Here's what I see constantly:
 

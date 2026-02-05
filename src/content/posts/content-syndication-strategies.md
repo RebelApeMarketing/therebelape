@@ -187,7 +187,7 @@ But here's what that math actually looks like:
 - 90 seconds recording
 - 20+ pieces of content we create
 - Works for you for 6-12 months
-- Builds your [Google Business Profile](/services/google-business-profile/) authority
+- Builds your [Google Business Profile](/services/seo/google-business-profile/) authority
 - Feeds your retargeting ads
 - Establishes you as the local expert
 
@@ -283,7 +283,7 @@ Each platform has its own culture, format expectations, and audience. Respect th
 
 **Mistake #3: Creating Content Then Ignoring It**
 
-You published a great video 6 months ago that got 5,000 views. Why aren't you promoting it with ad spend? Why isn't it pinned to your [Google Business Profile](/services/google-business-profile/)?
+You published a great video 6 months ago that got 5,000 views. Why aren't you promoting it with ad spend? Why isn't it pinned to your [Google Business Profile](/services/seo/google-business-profile/)?
 
 Great content doesn't expire. If it worked once, squeeze every bit of value from it.
 

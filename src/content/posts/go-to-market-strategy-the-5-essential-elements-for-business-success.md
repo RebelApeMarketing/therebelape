@@ -65,7 +65,7 @@ For most contractors, this means:
 - A [website that converts](https://therebelape.com/services/website-design/) visitors into calls
 - [Google Ads campaigns](https://therebelape.com/services/ppc/) that generate qualified leads at a profitable cost
 - [Local SEO](https://therebelape.com/services/seo/) that captures search demand in your service area
-- A [Google Business Profile](https://therebelape.com/services/google-business-profile/) that dominates the map pack
+- A [Google Business Profile](https://therebelape.com/services/seo/google-business-profile/) that dominates the map pack
 
 These aren't sexy consultant deliverables. They're simple systems that generate leads when you need them.
 

@@ -23,7 +23,7 @@ Now search for your competitors. Same problem.
 
 Every roofing contractor we audit makes at least 4 of these 7 mistakes. Some make all 7. Here's what's actually killing your rankings—and exactly how to fix each one.
 
-**TL;DR:** Most roofing companies don't rank because of fixable technical issues, generic content, missing local SEO, slow websites, and lack of topical authority. Here are the 7 most common reasons contractors stay invisible on Google and the specific fixes for each.
+**TL;DR:** Most roofing companies don't rank because of fixable technical issues, generic content, missing [local SEO](/services/seo/local-seo/), slow websites, and lack of topical authority. Here are the 7 most common reasons contractors stay invisible on Google and the specific fixes for each.
 
 ## Why Most Roofing Contractors Don't Rank (The Real Problem)
 
@@ -70,7 +70,7 @@ For roofing contractors, the Map Pack (the 3 businesses that show up with the ma
 
 Most roofing contractors we work with aren't in the Map Pack because:
 
-- Their Google Business Profile is incomplete or unverified
+- Their [Google Business Profile](/services/seo/google-business-profile/) is incomplete or unverified
 - They have no reviews (or all 1-star reviews)
 - Their NAP (Name, Address, Phone) is inconsistent across the web
 - They're not actively managing their profile

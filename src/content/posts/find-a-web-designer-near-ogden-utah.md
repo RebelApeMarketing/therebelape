@@ -89,7 +89,7 @@ Here's what that means:
 
 **A website should answer questions.** Before someone picks up the phone to call you, they're doing research. Your website should address their concerns, demonstrate your expertise, and [build trust](/blog/increase-website-trust/) before you ever talk to them. That's what we mean by "pre-sales mechanism."
 
-**A website should track everything.** We need to know if the traffic is coming from your [Google Business Profile](/services/google-business-profile/), from [paid ads](/services/ppc/), from organic search, or from social media. We need to know which pages people visit before they call. We need to know what's working so we can do more of it.
+**A website should track everything.** We need to know if the traffic is coming from your [Google Business Profile](/services/seo/google-business-profile/), from [paid ads](/services/ppc/), from organic search, or from social media. We need to know which pages people visit before they call. We need to know what's working so we can do more of it.
 
 **A website should be part of something bigger.** The website itself is just one piece. Where's your [SEO](/services/seo/) strategy to get organic traffic? Where are your ads driving qualified leads? What's your [social media presence](/blog/social-media-marketing-business-impact/) doing to build brand recognition? How are you capturing and nurturing leads?
 
@@ -134,7 +134,7 @@ We hear this constantly. Here's the truth: if you can't afford to market your we
 
 That's not being harsh - it's just math. A $10,000 website that sits idle is a $10,000 expense. A $6,000 website plus $4,000 in initial marketing that generates even one good commercial roofing job is revenue-positive.
 
-Start small if you need to. Maybe you begin with just a [Google Business Profile optimization](/services/google-business-profile/) and some basic [local SEO](/blog/local-seo-services-increase-local-visibility-and-drive-more-customers/). Maybe you run a small test [PPC campaign](/services/ppc/) to see what messaging works. But you need something beyond the website itself.
+Start small if you need to. Maybe you begin with just a [Google Business Profile optimization](/services/seo/google-business-profile/) and some basic [local SEO](/blog/local-seo-services-increase-local-visibility-and-drive-more-customers/). Maybe you run a small test [PPC campaign](/services/ppc/) to see what messaging works. But you need something beyond the website itself.
 
 **"My competitor just has a simple website and they're doing fine."**
 
@@ -178,7 +178,7 @@ The website is the hub. But a hub without spokes is just a useless wheel.
 Let's say you hire someone (us or anyone else) to build you a great website. Now what?
 
 ### Month 1-2: Foundation
-- Get your [Google Business Profile](/services/google-business-profile/) fully optimized
+- Get your [Google Business Profile](/services/seo/google-business-profile/) fully optimized
 - Set up call tracking so you know when the website generates calls
 - Install analytics and [conversion tracking](/blog/our-secret-to-tracking-success-and-making-marketing-predictable/)
 - Create or update all business collateral with the new URL

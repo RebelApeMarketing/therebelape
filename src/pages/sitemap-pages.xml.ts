@@ -14,10 +14,14 @@ export const GET: APIRoute = async ({ site }) => {
     { path: "/services/", changefreq: "monthly", priority: 0.8 },
 
     { path: "/services/website-design/", changefreq: "monthly", priority: 0.8 },
+    { path: "/services/website-design/landing-pages/", changefreq: "monthly", priority: 0.7 },
     { path: "/services/seo/", changefreq: "monthly", priority: 0.8 },
     { path: "/services/ppc/", changefreq: "monthly", priority: 0.8 },
     { path: "/services/ppc/local-service-ads/", changefreq: "monthly", priority: 0.7 },
-    { path: "/services/google-business-profile/", changefreq: "monthly", priority: 0.8 },
+    { path: "/services/ppc/google-ads-management/", changefreq: "monthly", priority: 0.7 },
+    { path: "/services/seo/google-business-profile/", changefreq: "monthly", priority: 0.8 },
+    { path: "/services/seo/local-seo/", changefreq: "monthly", priority: 0.7 },
+    { path: "/services/social-media/social-media-management/", changefreq: "monthly", priority: 0.7 },
 
     { path: "/blog/", changefreq: "weekly", priority: 0.9 },
 

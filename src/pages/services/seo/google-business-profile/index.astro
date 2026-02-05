@@ -1,19 +1,19 @@
 ---
-import Base from '../../../layouts/Base.astro';
-import Hero from '../../../components/sections/Hero.astro';
-import SocialProofBar from '../../../components/sections/SocialProofBar.astro';
-import CaseStudy from '../../../components/sections/CaseStudy.astro';
-import TestimonialsDefault from '../../../components/testimonials/TestimonialsDefault.astro';
-import OrganizationSchema from '../../../components/schema/OrganizationSchema.astro';
-import ServiceSchema from '../../../components/schema/ServiceSchema.astro';
-import BreadcrumbSchema from '../../../components/schema/BreadcrumbSchema.astro';
-import WebPageSchema from '../../../components/schema/WebPageSchema.astro';
-import FAQSchema from '../../../components/schema/FAQSchema.astro';
+import Base from '../../../../layouts/Base.astro';
+import Hero from '../../../../components/sections/Hero.astro';
+import SocialProofBar from '../../../../components/sections/SocialProofBar.astro';
+import CaseStudy from '../../../../components/sections/CaseStudy.astro';
+import TestimonialsDefault from '../../../../components/testimonials/TestimonialsDefault.astro';
+import OrganizationSchema from '../../../../components/schema/OrganizationSchema.astro';
+import ServiceSchema from '../../../../components/schema/ServiceSchema.astro';
+import BreadcrumbSchema from '../../../../components/schema/BreadcrumbSchema.astro';
+import WebPageSchema from '../../../../components/schema/WebPageSchema.astro';
+import FAQSchema from '../../../../components/schema/FAQSchema.astro';
 
 // SEO
 const title = "Google Business Profile Management | Rebel Ape";
 const description = "Optimize your Google Business Profile to dominate local search and Google Maps. More visibility, more reviews, more customers calling you.";
-const canonical = "https://therebelape.com/services/google-business-profile/";
+const canonical = "https://therebelape.com/services/seo/google-business-profile/";
 const image = "https://RebelApeCDN.b-cdn.net/featured-google-business-profile.webp";
 const type = "website";
 const robots = "index, follow";
@@ -22,6 +22,7 @@ const robots = "index, follow";
 const breadcrumbs = [
   { name: "Home", url: "https://therebelape.com/" },
   { name: "Services", url: "https://therebelape.com/services/" },
+  { name: "SEO", url: "https://therebelape.com/services/seo/" },
   { name: "Google Business Profile", url: canonical }
 ];
 
@@ -237,16 +238,16 @@ const faqs = [
             </p>
             <div class="space-y-4 mb-8">
               <div class="bg-white p-6 rounded-lg border-l-4 border-[#32C55F] shadow-2xl">
-                <p class="font-semibold text-gray-900 text-lg mb-2">GBP + Website</p>
+                <p class="font-semibold text-gray-900 text-lg mb-2">GBP + <a href="/services/website-design/" class="text-rebel-green font-semibold hover:underline">Website</a></p>
                 <p class="text-gray-700">When your website and GBP both rank, you own more real estate on page 1. Searchers see your business multiple times, building recognition and trust. Your website converts the click, your GBP builds the credibility.</p>
               </div>
               <div class="bg-white p-6 rounded-lg border-l-4 border-[#32C55F] shadow-2xl">
-                <p class="font-semibold text-gray-900 text-lg mb-2">GBP + Ads</p>
+                <p class="font-semibold text-gray-900 text-lg mb-2">GBP + <a href="/services/ppc/google-ads-management/" class="text-rebel-green font-semibold hover:underline">Ads</a></p>
                 <p class="text-gray-700">Running ads without an optimized GBP is leaving money on the table. People click your ad, then check your reviews before calling. If your profile looks neglected, they bounce. If it's dialed in, they convert.</p>
               </div>
               <div class="bg-white p-6 rounded-lg border-l-4 border-[#32C55F] shadow-2xl">
-                <p class="font-semibold text-gray-900 text-lg mb-2">All Three Together</p>
-                <p class="text-gray-700">Website converts. Ads drive immediate traffic. GBP builds trust and ranks organically. When they all work together, your cost per lead drops, your close rate increases, and you dominate local search from every angle.</p>
+                <p class="font-semibold text-gray-900 text-lg mb-2">All Three Together (The Silverback Authority Method)</p>
+                <p class="text-gray-700">Website converts. Ads drive immediate traffic. GBP builds trust and ranks organically. When they all work together, your cost per lead drops and you dominate local search from every angle. <a href="/silverback-authority-method/" class="text-rebel-green font-semibold hover:underline">Learn more about the Silverback Authority Method</a>.</p>
               </div>
             </div>
           </div>

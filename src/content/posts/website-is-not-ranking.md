@@ -31,7 +31,7 @@ For contractors, this is expensive. You're not selling a $20 product. You're sel
 
 The problem is getting worse, not better. The number of contractors competing online in any given market has exploded. And at the same time, the amount of generic content being pumped out by AI has hit levels nobody has ever seen before. So even if you have a website, even if it's decent, it can get completely buried under a mountain of content that all says the same thing.
 
-Understanding [what SEO actually is](/blog/what-is-seo/) is a good starting point. But this post goes further than that. We're going to talk about why SEO alone isn't cutting it anymore, what AEO and GEO are and why they matter for your business, and what we actually do when a contractor comes to us with this exact problem.
+Understanding [what SEO actually is](/blog/what-is-seo/) is a good starting point. But this post goes further than that. We're going to talk about why SEO alone isn't cutting it anymore, what [AEO](/services/seo/local-seo/) and GEO are and why they matter for your business, and what we actually do when a contractor comes to us with this exact problem.
 
 ## The Quickest Way to Know If Your Site Has a Problem
 
@@ -142,7 +142,7 @@ This is the big one. If your content is generic, it needs to change. Start with 
 You can do this yourself if you have the time and the skill. But it's not a weekend project. It takes real effort to write content that's specific enough to stand out. And if you're already working 50 or 60 hours a week in the field, finding that time is hard. [A well-built contractor website with the right content behind it](/services/website-design/) is the single most valuable marketing asset you can have.
 
 **Phase 3: Build your digital footprint.**
-A website sitting alone on the internet with no signals pointing to it isn't going to rank. You need [a Google Business Profile that's actually optimized](/services/google-business-profile/), not just claimed. You need [reviews from real customers](/blog/online-reviews/). You need some presence in local directories and citations that are relevant to your trade. These aren't flashy. They're foundational.
+A website sitting alone on the internet with no signals pointing to it isn't going to rank. You need [a Google Business Profile that's actually optimized](/services/seo/google-business-profile/), not just claimed. You need [reviews from real customers](/blog/online-reviews/). You need some presence in local directories and citations that are relevant to your trade. These aren't flashy. They're foundational.
 
 **Phase 4: Stay on top of it.**
 This is where most contractors fall off. They get things set up and then ignore it. But the landscape keeps changing. Google keeps updating. AI tools keep evolving. You need to check in regularly, look at what's working and what isn't, and adjust. [Local SEO isn't a one-time project](/blog/local-seo-services-increase-local-visibility-and-drive-more-customers/). It's ongoing.
@@ -159,7 +159,7 @@ Most contractors try to handle it themselves and come to us after burning throug
 
 **Mistake 3: Never updating old content.** A page you wrote in 2019 that made sense then might be actively working against you now. Google's standards have changed. [Content that doesn't meet current helpfulness standards gets deprioritized](/blog/on-page-seo-tips/). Old content that isn't updated is a liability.
 
-**Mistake 4: Ignoring your Google Business Profile.** For local contractors, your [GBP is one of the most powerful ranking signals you have](/services/google-business-profile/). If it's not fully built out with photos, service descriptions, and regular activity, you're leaving a major piece of the puzzle on the table.
+**Mistake 4: Ignoring your Google Business Profile.** For local contractors, your [GBP is one of the most powerful ranking signals you have](/services/seo/google-business-profile/). If it's not fully built out with photos, service descriptions, and regular activity, you're leaving a major piece of the puzzle on the table.
 
 **Mistake 5: Not telling your story.** This one comes up over and over. Contractors have decades of experience. They've seen things, done things, solved problems that nobody else has. If none of that shows up on your website, your content looks exactly like everyone else's. [Stock photos and generic copy don't build trust](/blog/pitfalls-of-stock-photography-for-website-images/). Real stories do.
 

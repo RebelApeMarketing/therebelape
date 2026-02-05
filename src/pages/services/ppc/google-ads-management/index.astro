@@ -1,0 +1,454 @@
+---
+import Base from '../../../../layouts/Base.astro';
+import Hero from '../../../../components/sections/Hero.astro';
+import SocialProofBar from '../../../../components/sections/SocialProofBar.astro';
+import CaseStudy from '../../../../components/sections/CaseStudy.astro';
+import TestimonialsDefault from '../../../../components/testimonials/TestimonialsDefault.astro';
+import OrganizationSchema from '../../../../components/schema/OrganizationSchema.astro';
+import ServiceSchema from '../../../../components/schema/ServiceSchema.astro';
+import BreadcrumbSchema from '../../../../components/schema/BreadcrumbSchema.astro';
+import WebPageSchema from '../../../../components/schema/WebPageSchema.astro';
+import FAQSchema from '../../../../components/schema/FAQSchema.astro';
+
+// SEO
+const title = "Google Ads Management for Contractors | Rebel Ape";
+const description = "Get qualified leads fast with Google Search Ads. We build dedicated landing pages, optimize continuously, and give you full control over your budget and messaging. No wasted clicks.";
+const canonical = "https://therebelape.com/services/ppc/google-ads-management/";
+const image = "https://rebelapecdn.b-cdn.net/featured-google-business-profile-for-plumbers-office.webp";
+const type = "website";
+const robots = "index, follow";
+
+// Breadcrumbs
+const breadcrumbs = [
+  { name: "Home", url: "https://therebelape.com/" },
+  { name: "Services", url: "https://therebelape.com/services/" },
+  { name: "PPC", url: "https://therebelape.com/services/ppc/" },
+  { name: "Google Ads Management", url: canonical }
+];
+
+// FAQs
+const faqs = [
+  {
+    question: "How long does it take to see results from Google Ads?",
+    answer: "Month 1 is setup and foundation—building landing pages, configuring campaigns, and setting up tracking. Leads can start flowing within 2-4 weeks, but the algorithm is still learning. Month 2 is when leads really start coming in, though cost per lead might be higher as Google optimizes. Month 3+ is when everything compounds—cost per lead drops, lead quality improves, and the system becomes predictable. Contractors who quit in month 2 never see the compounding results that happen after the learning phase."
+  },
+  {
+    question: "What's a realistic budget for Google Ads?",
+    answer: "We typically recommend $1,000-$2,000/month in ad spend for contractors, depending on your market and competition. That gives Google enough data to learn and optimize without burning through your budget too quickly. Lower budgets can work, but it takes longer for the algorithm to gather enough conversion data. Higher budgets accelerate learning and increase lead volume, but only if your capacity can handle it."
+  },
+  {
+    question: "Why didn't Google Ads work for me before?",
+    answer: "Usually one of three reasons: (1) You quit before the algorithm had time to learn (month 2 is rough, month 3+ is where it pays off), (2) You didn't have enough budget for Google to gather meaningful conversion data, or (3) Your landing page or website didn't convert, so you were paying for clicks that went nowhere. We fix all three by building dedicated landing pages, optimizing consistently, and giving the system time to work."
+  },
+  {
+    question: "Can I pause Google Ads if I get too busy?",
+    answer: "Absolutely. You can pause campaigns anytime and restart when you're ready for more leads. Some contractors run ads seasonally or only when their schedule has openings. The downside: when you pause for extended periods, the algorithm has to relearn when you turn it back on. But if your calendar is full, pausing makes sense."
+  },
+  {
+    question: "Do I still need LSA if I have Google Ads?",
+    answer: "Yes. LSA and Google Ads attract different types of leads and occupy different sections of search results. LSA gives you premium placement with the Google Guaranteed badge and pay-per-lead pricing. Google Ads gives you volume control, messaging flexibility, and the ability to scale infinitely. Running both means you dominate the top section and control your lead flow from multiple angles."
+  },
+  {
+    question: "What if I'm getting clicks but no conversions?",
+    answer: "That's a landing page problem, not a Google Ads problem. If your website or landing page doesn't convert, all the traffic in the world won't help. That's why we build dedicated landing pages for every campaign—fast load times, clear calls-to-action, and messaging designed specifically to turn clicks into calls. We also track conversion rates religiously and optimize based on real user behavior."
+  }
+];
+---
+
+<Base {title} {description} {canonical} {image} {type} {robots}>
+  <!-- Schema Markup -->
+  <OrganizationSchema slot="head" />
+  <ServiceSchema
+    slot="head"
+    name="Google Ads Management for Contractors"
+    description={description}
+    url={canonical}
+    serviceType="Advertising Management"
+  />
+  <BreadcrumbSchema slot="head" breadcrumbs={breadcrumbs} />
+  <WebPageSchema
+    slot="head"
+    type="WebPage"
+    name={title}
+    description={description}
+    url={canonical}
+    image={image}
+  />
+  <FAQSchema slot="head" faqs={faqs} />
+  <section>
+    <Hero
+      backgroundImage="https://RebelApeCDN.b-cdn.net/bg-gorilla-direct.webp"
+      title="Show Up When They're Searching. <span class='text-rebel-green'>Control Your Lead Flow.</span>"
+      subtitle="Fast Results. Full Control. <span class='text-rebel-green'>Conversion-Optimized Landing Pages.</span>"
+      description="Google Ads puts you in front of people actively searching for your services <strong>right now.</strong> Unlike organic SEO that takes months or Local Service Ads where Google controls everything, with Google Ads <strong>you control the budget, the messaging, and the targeting.</strong> And with dedicated landing pages built for conversion, you're not just getting clicks—you're getting qualified leads that actually turn into jobs."
+      features={[
+        'Dedicated Conversion-Focused Landing Pages',
+        'Ongoing Campaign Optimization',
+        'Full Budget and Targeting Control'
+      ]}
+      buttonText="Get Started With Google Ads"
+      buttonIcon="calendar"
+      buttonHref="/schedule/"
+      fetchpriority="high"
+    />
+    <SocialProofBar />
+
+    <!-- Section 1: You Control Everything -->
+    <section class="py-16 md:py-24 section-checkers">
+      <div class="max-w-7xl mx-auto px-4">
+        <div class="grid grid-cols-1 lg:grid-cols-3 gap-12 lg:gap-16 items-stretch">
+          <!-- Text: 2/3 width -->
+          <div class="order-2 lg:order-1 lg:col-span-2">
+            <h2 class="text-4xl md:text-5xl font-bold mb-6">
+              Most Contractors Don't Realize <span class="text-rebel-green">How Much Control They Actually Have</span>
+            </h2>
+            <p class="text-lg text-gray-700 mb-6">
+              When contractors think "Google Ads," they usually think "expensive clicks that don't convert." That's because most agencies set up campaigns, point them at a generic website, and wonder why nothing happens. Or they run ads for a couple weeks, don't see instant results, and declare it doesn't work.
+            </p>
+            <p class="text-lg text-gray-700 mb-8">
+              Here's what they're missing: Google Ads gives you complete control over who sees your ads, what messaging they see, and where they land when they click. You control the budget down to the dollar. You control which services to promote and which to turn off. And when done right—with dedicated landing pages built specifically for conversion—Google Ads becomes your most predictable lead source.
+            </p>
+            <ul class="space-y-4">
+              <li class="flex gap-3">
+                <span class="text-rebel-green text-xl font-bold">&#10003;</span>
+                <span class="text-gray-700"><strong>Full Control:</strong> Set your budget, choose your service areas, adjust targeting whenever you want</span>
+              </li>
+              <li class="flex gap-3">
+                <span class="text-rebel-green text-xl font-bold">&#10003;</span>
+                <span class="text-gray-700"><strong>Fast Results:</strong> Leads can start flowing within weeks (not months like SEO)</span>
+              </li>
+              <li class="flex gap-3">
+                <span class="text-rebel-green text-xl font-bold">&#10003;</span>
+                <span class="text-gray-700"><strong>Dedicated Landing Pages:</strong> Every campaign gets a conversion-optimized page, not just traffic to your homepage</span>
+              </li>
+            </ul>
+          </div>
+
+          <!-- Image: 1/3 width on desktop, full width on mobile -->
+          <div class="order-1 lg:order-2 flex">
+            <img
+              src="https://rebelapecdn.b-cdn.net/featured-google-business-profile-for-plumbers-office.webp"
+              alt="Google Ads Management for Contractors"
+              class="w-full h-auto lg:h-full object-cover rounded-lg"
+              loading="lazy"
+              width="600"
+              height="400"
+            />
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Section 2: Our Process: Setup, Optimize, Compound -->
+    <section class="py-16 md:py-24 section-slate">
+      <div class="max-w-7xl mx-auto px-4">
+        <!-- Centered Header -->
+        <div class="text-center mb-12">
+          <h2 class="text-4xl md:text-5xl font-bold mb-6">
+            Our Process: <span class="text-rebel-green">Setup, Optimize, Compound</span>
+          </h2>
+          <p class="text-lg md:text-xl text-gray-700 max-w-4xl mx-auto">
+            Most contractors who "tried Google Ads" either quit too early or never had the right foundation. The problem isn't Google Ads—it's poor targeting, no landing pages, and quitting before the algorithm learns. We build everything around one goal: making your phone ring with qualified leads.
+          </p>
+        </div>
+
+        <!-- Mobile image - shown only on mobile -->
+        <div class="lg:hidden mb-8">
+          <img
+            src="https://RebelApeCDN.b-cdn.net/featured-locations.webp"
+            alt="Google Ads Setup and Optimization Process"
+            class="w-full h-auto object-cover rounded-lg"
+            loading="lazy"
+            width="600"
+            height="400"
+          />
+        </div>
+
+        <div class="grid grid-cols-1 lg:grid-cols-3 gap-12 lg:gap-16 items-stretch">
+          <!-- Image: 1/3 width, full height - desktop only -->
+          <div class="hidden lg:flex">
+            <img
+              src="https://RebelApeCDN.b-cdn.net/featured-locations.webp"
+              alt="Google Ads Setup and Optimization Process"
+              class="w-full h-full object-cover rounded-lg"
+              loading="lazy"
+              width="600"
+              height="400"
+            />
+          </div>
+
+          <!-- Process Cards: 2/3 width -->
+          <div class="lg:col-span-2 space-y-4">
+            <div class="bg-white p-6 rounded-lg border-l-4 border-rebel-green shadow-2xl">
+              <h3 class="text-xl font-bold mb-2">Month 1: Foundation & Setup</h3>
+              <p class="text-gray-700">
+                We build the infrastructure first—conversion-optimized landing pages, tracking setup, campaign structure, and targeting strategy. We also set up conversion tracking so you know exactly which keywords, ads, and campaigns are generating actual leads (not just clicks).
+              </p>
+            </div>
+
+            <div class="bg-white p-6 rounded-lg border-l-4 border-rebel-green shadow-2xl">
+              <h3 class="text-xl font-bold mb-2">Month 2: Launch & Algorithm Training</h3>
+              <p class="text-gray-700">
+                Ads go live and leads start flowing. Month 2 can be rough—Google's algorithm is still learning who clicks, who converts, and who's wasting your money. Cost per lead might be higher because Google hasn't optimized yet. Contractors who quit here never see what happens next.
+              </p>
+            </div>
+
+            <div class="bg-white p-6 rounded-lg border-l-4 border-rebel-green shadow-2xl">
+              <h3 class="text-xl font-bold mb-2">Month 3+: Optimization & Compounding</h3>
+              <p class="text-gray-700">
+                This is where it gets good. Google's algorithm has enough data to know who converts. Cost per lead drops. Lead quality improves. The ones who stick with it see consistent, scalable lead flow that they can control and predict.
+              </p>
+            </div>
+
+            <div class="bg-white p-6 rounded-lg border-l-4 border-rebel-green shadow-2xl">
+              <h3 class="text-xl font-bold mb-2">Landing Page Optimization</h3>
+              <p class="text-gray-700">
+                Every campaign gets a dedicated landing page built for conversion. Not your homepage. Not a generic contact page. A focused, fast-loading page with one goal: get them to call you.
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Section 3: Google Ads Works Best As Part of Your Complete System -->
+    <section class="py-16 md:py-24 section-checkers">
+      <div class="max-w-7xl mx-auto px-4">
+        <div class="grid grid-cols-1 lg:grid-cols-3 gap-12 lg:gap-16 items-stretch">
+          <!-- Text: 2/3 width -->
+          <div class="order-2 lg:order-1 lg:col-span-2">
+            <h2 class="text-4xl md:text-5xl font-bold mb-6">
+              Google Ads Works Best <span class="text-rebel-green">As Part of Your Complete System</span>
+            </h2>
+            <p class="text-lg text-gray-700 mb-8">
+              Google Ads is powerful on its own, but when you combine it with Local Service Ads and organic SEO, you own search results from top to bottom.
+            </p>
+            <div class="space-y-4 mb-8">
+              <div class="bg-white p-6 rounded-lg border-l-4 border-rebel-green shadow-2xl">
+                <p class="font-semibold text-gray-900 text-lg mb-2">Google Ads + <a href="/services/ppc/local-service-ads/" class="text-rebel-green font-semibold hover:underline">LSA</a></p>
+                <p class="text-gray-700">LSA gives you premium placement with the Google Guaranteed badge. Google Ads appears right below. Run both and you own multiple spots on page 1.</p>
+              </div>
+              <div class="bg-white p-6 rounded-lg border-l-4 border-rebel-green shadow-2xl">
+                <p class="font-semibold text-gray-900 text-lg mb-2">Google Ads + <a href="/services/seo/local-seo/" class="text-rebel-green font-semibold hover:underline">SEO</a>/<a href="/services/seo/google-business-profile/" class="text-rebel-green font-semibold hover:underline">GBP</a></p>
+                <p class="text-gray-700">When your paid ads, Map Pack listing, and organic rankings all show up, customers see you everywhere and assume you're the market leader—because you are.</p>
+              </div>
+              <div class="bg-white p-6 rounded-lg border-l-4 border-rebel-green shadow-2xl">
+                <p class="font-semibold text-gray-900 text-lg mb-2">All Three Together (The Silverback Authority Method)</p>
+                <p class="text-gray-700">Google Ads for speed. LSA for trust. SEO for long-term authority. When all three work together, you're not dependent on any single channel. <a href="/silverback-authority-method/" class="text-rebel-green font-semibold hover:underline">Learn more about the Silverback Authority Method</a>.</p>
+              </div>
+            </div>
+          </div>
+
+          <!-- Image: 1/3 width on desktop, full width on mobile -->
+          <div class="order-1 lg:order-2 flex">
+            <img
+              src="https://RebelApeCDN.b-cdn.net/website-gorilla-square.webp"
+              alt="Complete Search Domination System"
+              class="w-full h-auto lg:h-full object-cover rounded-lg shadow-2xl"
+              loading="lazy"
+              width="600"
+              height="400"
+            />
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Section 4: What We Handle Every Month -->
+    <section class="py-16 md:py-24 section-slate">
+      <div class="max-w-7xl mx-auto px-4">
+        <!-- Centered Header -->
+        <div class="text-center mb-12">
+          <h2 class="text-4xl md:text-5xl font-bold mb-6">
+            What We Handle <span class="text-rebel-green">Every Month</span>
+          </h2>
+          <p class="text-lg md:text-xl text-gray-700 max-w-4xl mx-auto">
+            Google Ads isn't "set it and forget it." Here's exactly what we do every month to keep your campaigns generating quality leads:
+          </p>
+        </div>
+
+        <!-- Grid of Services -->
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+          <!-- Initial Setup & Landing Pages -->
+          <div class="bg-white rounded-lg shadow-lg overflow-hidden">
+            <div class="h-1 bg-rebel-green"></div>
+            <div class="p-6">
+            <h3 class="text-xl font-bold mb-4 text-gray-900">Initial Setup & Landing Pages</h3>
+            <ul class="space-y-2 text-gray-700">
+              <li class="flex gap-2 items-start">
+                <span class="text-rebel-green text-lg">&rarr;</span>
+                <span>Campaign structure and targeting strategy</span>
+              </li>
+              <li class="flex gap-2 items-start">
+                <span class="text-rebel-green text-lg">&rarr;</span>
+                <span>Keyword research and selection</span>
+              </li>
+              <li class="flex gap-2 items-start">
+                <span class="text-rebel-green text-lg">&rarr;</span>
+                <span>Ad copy creation and testing</span>
+              </li>
+              <li class="flex gap-2 items-start">
+                <span class="text-rebel-green text-lg">&rarr;</span>
+                <span>Dedicated landing page design and development</span>
+              </li>
+              <li class="flex gap-2 items-start">
+                <span class="text-rebel-green text-lg">&rarr;</span>
+                <span>Conversion tracking setup</span>
+              </li>
+              <li class="flex gap-2 items-start">
+                <span class="text-rebel-green text-lg">&rarr;</span>
+                <span>Call tracking integration</span>
+              </li>
+              <li class="flex gap-2 items-start">
+                <span class="text-rebel-green text-lg">&rarr;</span>
+                <span>Budget and bid strategy setup</span>
+              </li>
+            </ul>
+            </div>
+          </div>
+
+          <!-- Campaign Management & Optimization -->
+          <div class="bg-white rounded-lg shadow-lg overflow-hidden">
+            <div class="h-1 bg-rebel-green"></div>
+            <div class="p-6">
+            <h3 class="text-xl font-bold mb-4 text-gray-900">Campaign Management & Optimization</h3>
+            <ul class="space-y-2 text-gray-700">
+              <li class="flex gap-2 items-start">
+                <span class="text-rebel-green text-lg">&rarr;</span>
+                <span>Bid adjustments</span>
+              </li>
+              <li class="flex gap-2 items-start">
+                <span class="text-rebel-green text-lg">&rarr;</span>
+                <span>Keyword performance monitoring</span>
+              </li>
+              <li class="flex gap-2 items-start">
+                <span class="text-rebel-green text-lg">&rarr;</span>
+                <span>Search term analysis and negative keyword additions</span>
+              </li>
+              <li class="flex gap-2 items-start">
+                <span class="text-rebel-green text-lg">&rarr;</span>
+                <span>Ad copy testing and optimization</span>
+              </li>
+              <li class="flex gap-2 items-start">
+                <span class="text-rebel-green text-lg">&rarr;</span>
+                <span>Budget pacing and allocation</span>
+              </li>
+              <li class="flex gap-2 items-start">
+                <span class="text-rebel-green text-lg">&rarr;</span>
+                <span>Quality Score monitoring</span>
+              </li>
+              <li class="flex gap-2 items-start">
+                <span class="text-rebel-green text-lg">&rarr;</span>
+                <span>Competitor analysis</span>
+              </li>
+            </ul>
+            </div>
+          </div>
+
+          <!-- Landing Page Optimization -->
+          <div class="bg-white rounded-lg shadow-lg overflow-hidden">
+            <div class="h-1 bg-rebel-green"></div>
+            <div class="p-6">
+            <h3 class="text-xl font-bold mb-4 text-gray-900">Landing Page Optimization</h3>
+            <ul class="space-y-2 text-gray-700">
+              <li class="flex gap-2 items-start">
+                <span class="text-rebel-green text-lg">&rarr;</span>
+                <span>Conversion rate tracking</span>
+              </li>
+              <li class="flex gap-2 items-start">
+                <span class="text-rebel-green text-lg">&rarr;</span>
+                <span>A/B testing (headlines, CTAs, layouts)</span>
+              </li>
+              <li class="flex gap-2 items-start">
+                <span class="text-rebel-green text-lg">&rarr;</span>
+                <span>Page speed optimization</span>
+              </li>
+              <li class="flex gap-2 items-start">
+                <span class="text-rebel-green text-lg">&rarr;</span>
+                <span>Mobile responsiveness checks</span>
+              </li>
+              <li class="flex gap-2 items-start">
+                <span class="text-rebel-green text-lg">&rarr;</span>
+                <span>Form optimization</span>
+              </li>
+              <li class="flex gap-2 items-start">
+                <span class="text-rebel-green text-lg">&rarr;</span>
+                <span>User behavior analysis</span>
+              </li>
+            </ul>
+            </div>
+          </div>
+
+          <!-- Performance Reporting -->
+          <div class="bg-white rounded-lg shadow-lg overflow-hidden md:col-span-2 lg:col-span-3">
+            <div class="h-1 bg-rebel-green"></div>
+            <div class="p-6">
+            <h3 class="text-xl font-bold mb-4 text-gray-900">Performance Reporting</h3>
+            <div class="grid grid-cols-1 md:grid-cols-3 gap-x-8 gap-y-2">
+              <ul class="space-y-2 text-gray-700">
+                <li class="flex gap-2 items-start">
+                  <span class="text-rebel-green text-lg">&rarr;</span>
+                  <span>Monthly lead reports</span>
+                </li>
+                <li class="flex gap-2 items-start">
+                  <span class="text-rebel-green text-lg">&rarr;</span>
+                  <span>Cost-per-lead tracking</span>
+                </li>
+              </ul>
+              <ul class="space-y-2 text-gray-700">
+                <li class="flex gap-2 items-start">
+                  <span class="text-rebel-green text-lg">&rarr;</span>
+                  <span>Conversion rate metrics</span>
+                </li>
+                <li class="flex gap-2 items-start">
+                  <span class="text-rebel-green text-lg">&rarr;</span>
+                  <span>Keyword performance analysis</span>
+                </li>
+              </ul>
+              <ul class="space-y-2 text-gray-700">
+                <li class="flex gap-2 items-start">
+                  <span class="text-rebel-green text-lg">&rarr;</span>
+                  <span>ROI by campaign</span>
+                </li>
+                <li class="flex gap-2 items-start">
+                  <span class="text-rebel-green text-lg">&rarr;</span>
+                  <span>Budget utilization reports</span>
+                </li>
+              </ul>
+            </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="py-16 md:py-24 section-checkers">
+      <CaseStudy />
+    </section>
+
+    <section class="py-16 md:py-24 section-slate">
+      <TestimonialsDefault />
+    </section>
+
+    <!-- FAQ Section -->
+    <section class="py-16 md:py-24 section-checkers">
+      <div class="max-w-4xl mx-auto px-4">
+        <div class="text-center mb-12">
+          <h2 class="text-4xl md:text-5xl font-bold mb-6">
+            Frequently Asked <span class="text-rebel-green">Questions</span>
+          </h2>
+        </div>
+
+        <div class="space-y-6">
+          {faqs.map((faq) => (
+            <div class="bg-white p-6 rounded-lg shadow-lg border-l-4 border-rebel-green">
+              <h3 class="text-xl font-bold mb-3 text-gray-900">{faq.question}</h3>
+              <p class="text-gray-700">{faq.answer}</p>
+            </div>
+          ))}
+        </div>
+      </div>
+    </section>
+
+  </section>
+</Base>

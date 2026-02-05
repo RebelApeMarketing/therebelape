@@ -124,7 +124,7 @@ Google's algorithm has gotten significantly better at understanding:
 
 **Topical authority**: Google wants to see depth across related topics. One great roofing page won't cut it — you need comprehensive coverage that shows you actually know your stuff.
 
-**Entity recognition**: Google understands businesses as entities. Your [Google Business Profile](/services/google-business-profile/), reviews, citations, and brand mentions all feed into your authority.
+**Entity recognition**: Google understands businesses as entities. Your [Google Business Profile](/services/seo/google-business-profile/), reviews, citations, and brand mentions all feed into your authority.
 
 This is why keyword-stuffed content doesn't work anymore. Google's looking for sites that demonstrate actual expertise and serve user intent — not sites that game the system.
 
@@ -199,7 +199,7 @@ That means:
 - Optimizing for "[service] near me" and geo-specific terms
 - Building authority through local citations and reviews
 - Creating location-specific service pages
-- Leveraging your [Google Business Profile](/services/google-business-profile/) as a ranking signal
+- Leveraging your [Google Business Profile](/services/seo/google-business-profile/) as a ranking signal
 
 We've seen contractors obsess over ranking #1 nationally while their local competitor with better local SEO takes all the leads.
 

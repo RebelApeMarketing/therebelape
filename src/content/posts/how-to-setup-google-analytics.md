@@ -33,7 +33,7 @@ That client eventually understood: 2,000 real local impressions beat 15,000 vani
 
 ## Why Knowing Where Leads Come From Actually Matters
 
-You're spending money on marketing. Google Ads. SEO. Maybe a truck wrap or yard signs. Possibly Local Service Ads or Facebook campaigns. Each month you write checks or swipe the card.
+You're spending money on marketing. [Google Ads](/services/ppc/google-ads-management/). SEO. Maybe a truck wrap or yard signs. Possibly [Local Service Ads](/services/ppc/local-service-ads/) or Facebook campaigns. Each month you write checks or swipe the card.
 
 Now answer this: Which of those marketing channels is actually putting money in your pocket?
 
@@ -43,7 +43,7 @@ Most contractors we talk to can't answer that question with any confidence. They
 
 That's a problem. Because when you don't know what's working, you can't double down on it. And you can't kill what's wasting your money.
 
-In our work with contractors, we've seen companies spending $3,000 a month on Google Ads while their actual leads were coming from [SEO](/services/seo/) and referrals. We've seen contractors assume their [website](/services/website-design/) wasn't working when the real problem was their ad landing pages had zero conversion optimization.
+In our work with contractors, we've seen companies spending $3,000 a month on Google Ads while their actual leads were coming from [SEO](/services/seo/) and referrals. We've seen contractors assume their [website](/services/website-design/) wasn't working when the real problem was their ad [landing pages](/services/website-design/landing-pages/) had zero conversion optimization.
 
 Google Analytics - when set up properly - answers the question that matters: Where are my leads actually coming from?
 

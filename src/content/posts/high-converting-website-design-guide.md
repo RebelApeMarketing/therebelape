@@ -30,7 +30,7 @@ Before we dive in, let's get specific. When we talk about conversion, we mean:
 - Appointment bookings
 
 **For our roofing clients, we're typically seeing:**
-- 25% conversion rate on landing page traffic (industry average is [2-5% for most services](https://www.wordstream.com/blog/ws/2014/03/17/what-is-a-good-conversion-rate))
+- 25% conversion rate on [landing page](/services/website-design/landing-pages/) traffic (industry average is [2-5% for most services](https://www.wordstream.com/blog/ws/2014/03/17/what-is-a-good-conversion-rate))
 - 17% click-through rates on ads (some campaigns hit industry standard of 5%, but our best performers crush it)
 - Average of $120,000 in revenue generated over 8 months from our marketing
 
@@ -171,7 +171,7 @@ Quick reality check: nobody converts on the first visit anymore. The old marketi
 
 **What this means for your website:**
 Your site needs to look and feel consistent with:
-- Your Google Ads
+- Your [Google Ads](/services/ppc/google-ads-management/)
 - Your Facebook/Instagram presence  
 - Your truck wraps and yard signs
 - Your uniforms

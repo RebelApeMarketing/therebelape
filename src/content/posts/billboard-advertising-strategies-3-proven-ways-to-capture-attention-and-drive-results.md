@@ -21,7 +21,7 @@ That's the question I get from contractors who've hit a certain revenue level an
 
 Here's what I tell them: Both fears are valid. I've seen billboard campaigns generate massive ROI for contractors, and I've seen them burn through marketing budgets faster than a bonfire burns through gasoline. The difference between the two isn't luck. It's strategy, timing, and honest assessment of whether you're actually ready for billboard advertising.
 
-**TL;DR:** Billboards can work for home service contractors, but only as supplemental marketing after your website, SEO, and Google Ads are already delivering consistent leads. Start with low-cost digital billboards to test messaging, focus on pain points rather than brand awareness, and understand that tracking ROI is nearly impossible—most people forget your custom URL by the time they pass the sign, but they remember your company name when they need you.
+**TL;DR:** Billboards can work for home service contractors, but only as supplemental marketing after your website, SEO, and [Google Ads](/services/ppc/google-ads-management/) are already delivering consistent leads. Start with low-cost digital billboards to test messaging, focus on pain points rather than brand awareness, and understand that tracking ROI is nearly impossible—most people forget your custom URL by the time they pass the sign, but they remember your company name when they need you.
 
 ## Why Most Contractors Are Right to Be Skeptical About Billboards
 
@@ -78,7 +78,7 @@ If you're serious about testing billboard advertising without betting the farm, 
 Before spending a single dollar on billboards, audit your existing marketing:
 
 - Is your [website actually converting visitors into leads](https://therebelape.com/services/website-design/)?
-- Is your [Google Business Profile optimized](https://therebelape.com/services/google-business-profile/) and generating reviews?
+- Is your [Google Business Profile optimized](https://therebelape.com/services/seo/google-business-profile/) and generating reviews?
 - Are your [Google Ads delivering consistent, profitable leads](https://therebelape.com/services/ppc/)?
 - Is your [SEO driving organic traffic and phone calls](https://therebelape.com/blog/seo-marketing-guide-business-growth/)?
 
@@ -191,7 +191,7 @@ If your website is mediocre, your SEO is non-existent, and you're hoping billboa
 
 ## Ready to Build a Complete Marketing System That Actually Generates Leads?
 
-At Rebel Ape Marketing, we don't just help contractors with billboards. We build complete, conversion-optimized marketing systems that include [website design](https://therebelape.com/services/website-design/), [SEO](https://therebelape.com/services/seo/), [Google Ads](https://therebelape.com/services/ppc/), [Google Business Profile optimization](https://therebelape.com/services/google-business-profile/), and yes—strategic billboard campaigns when the timing is right.
+At Rebel Ape Marketing, we don't just help contractors with billboards. We build complete, conversion-optimized marketing systems that include [website design](https://therebelape.com/services/website-design/), [SEO](https://therebelape.com/services/seo/), [Google Ads](https://therebelape.com/services/ppc/), [Google Business Profile optimization](https://therebelape.com/services/seo/google-business-profile/), and yes—strategic billboard campaigns when the timing is right.
 
 But we always start with the foundation. Because billboards don't fix broken marketing systems. They expose more people to them.
 

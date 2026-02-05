@@ -25,7 +25,7 @@ Two years later, he's pulling in $50,000 per month. He just cleared $500,000 in 
 
 Here's exactly how we helped him build a marketing system that replaced his salary, then multiplied it.
 
-**TL;DR:** A surveying contractor went from employed to business owner to $500K in revenue in just two years using our Silverback Authority Method. Month one: built the foundation while still employed. Month two: launched ads and started getting calls. Month three: quit his job. Month four: started hiring. He now attributes 80-90% of his leads to the marketing system we built, with leads costing around $100 and a 40% close rate.
+**TL;DR:** A surveying contractor went from employed to business owner to $500K in revenue in just two years using our [Silverback Authority Method](/silverback-authority-method/). Month one: built the foundation while still employed. Month two: launched ads and started getting calls. Month three: quit his job. Month four: started hiring. He now attributes 80-90% of his leads to the marketing system we built, with leads costing around $100 and a 40% close rate.
 
 ## Why Most Contractors Never Make the Leap
 
@@ -45,7 +45,7 @@ But he asked the right question: "What if there's a proven system that actually 
 
 When contractors do try to invest in marketing, they almost always get sold the same broken approach:
 
-"We'll build you a beautiful website and run some Google Ads."
+"We'll build you a beautiful website and run some [Google Ads](/services/ppc/google-ads-management/)."
 
 That's not a marketing system. That's two disconnected tactics that might accidentally work if you're lucky.
 
@@ -69,7 +69,7 @@ Here's what we actually built for this surveying startup:
 
 We didn't just build "a surveying company." We built a surveying company that solves a specific problem: legally binding surveys with documentation so precise that cities accept them the first time and they last forever.
 
-That positioning became the foundation of everything—website copy, ad messaging, [Google Business Profile optimization](https://therebelape.com/services/google-business-profile/), and sales conversations.
+That positioning became the foundation of everything—website copy, ad messaging, [Google Business Profile optimization](https://therebelape.com/services/seo/google-business-profile/), and sales conversations.
 
 Most contractors skip this step and wonder why their marketing feels generic. Your messaging has to differentiate you from every other company doing the same work. If you can't articulate why someone should call you instead of your competitor, neither can your website or your ads.
 
@@ -83,7 +83,7 @@ That meant:
 - Trust signals strategically placed
 - Fast load times (because mobile searchers won't wait)
 - Brand video that builds credibility and authority
-- Service-specific landing pages (more on this in a moment)
+- Service-specific [landing pages](/services/website-design/landing-pages/) (more on this in a moment)
 
 The website wasn't designed to win awards. It was designed to [generate leads](https://therebelape.com/blog/lead-generation-best-practices-master-conversion-strategies-for-2025/).
 
@@ -114,7 +114,7 @@ We completely rebuilt the [Google Business Profile](https://therebelape.com/blog
 - Photo optimization
 - Review generation system setup
 
-For local contractors, your Google Business Profile is often your second-biggest lead source after your website. Most contractors treat it like an afterthought. We treat it like a lead generation machine.
+For local contractors, your [Google Business Profile](/services/seo/google-business-profile/) is often your second-biggest lead source after your website. Most contractors treat it like an afterthought. We treat it like a lead generation machine.
 
 ### Phase 2: Launch (Month 2 - Ads Go Live, Still Employed)
 

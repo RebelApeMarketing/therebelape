@@ -15,7 +15,7 @@ draft: false
 
 ## How to Outrank Your Competitors in 2026: Why Technical SEO Isn't Enough Anymore
 
-Your competitors' websites have the same page speed scores you do. Their title tags are optimized. They're mobile-friendly. They have Google Business Profiles with reviews. They're running the exact same technical SEO checklist your marketing agency is running for you.
+Your competitors' websites have the same page speed scores you do. Their title tags are optimized. They're mobile-friendly. They have [Google Business Profiles](/services/seo/google-business-profile/) with reviews. They're running the exact same technical SEO checklist your marketing agency is running for you.
 
 So why are you surprised when you're fighting for position #4 while your competitor sits at #2?
 
@@ -276,7 +276,7 @@ Our [high-converting website design guide](/blog/high-converting-website-design-
 
 Most contractor leads come from Google Business Profile, not organic website rankings. Yet contractors spend 90% of their SEO budget on website optimization and ignore their GBP.
 
-**The fix:** Treat your Google Business Profile as your primary local search asset. Our [Google Business Profile service](/services/google-business-profile/) handles the complete optimization - reviews, posts, Q&A, photos, and all the ranking factors specific to GBP.
+**The fix:** Treat your Google Business Profile as your primary local search asset. Our [Google Business Profile service](/services/seo/google-business-profile/) handles the complete optimization - reviews, posts, Q&A, photos, and all the ranking factors specific to GBP.
 
 We wrote an entire guide on [Google Business Profile for contractors](/blog/total-market-domination-with-google-business-profile/) because this is where local rankings are actually won.
 

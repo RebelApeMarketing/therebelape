@@ -21,7 +21,7 @@ Most marketing agencies would have told him to pump the brakes. "Let's build you
 
 We told him the opposite.
 
-Week 1: We defined his minimum viable offer and identified his audience. Week 2: We built a landing page. Week 3: His ads were running. 
+Week 1: We defined his minimum viable offer and identified his audience. Week 2: We built a [landing page](/services/website-design/landing-pages/). Week 3: His ads were running. 
 
 No finalized brand guidelines. No complete website. No social media strategy. Just an offer, a landing page, and traffic.
 
@@ -75,7 +75,7 @@ Most marketing agencies will sell you a comprehensive "foundation building" pack
 Define your brand essence, create your visual identity, develop your messaging framework, establish your positioning. Cost: $5,000-$15,000.
 
 **Month 2-3: Digital Presence**
-Set up Google Business Profile, Bing Places, Apple Business Connect, Yelp, Facebook, Instagram, YouTube. Optimize every profile. Create content for each platform. Cost: $3,000-$8,000.
+Set up [Google Business Profile](/services/seo/google-business-profile/), Bing Places, Apple Business Connect, Yelp, Facebook, Instagram, YouTube. Optimize every profile. Create content for each platform. Cost: $3,000-$8,000.
 
 **Month 3-4: Website Development**
 Custom website design with all the bells and whistles. Every page perfect. Every image professional. Every word optimized. Cost: $8,000-$25,000.
@@ -91,7 +91,7 @@ After six months and $30,000-$60,000+ invested, you're "ready" to generate leads
 
 The problem? That approach assumes perfect market knowledge before any market testing. It's building the entire house before you know if you can afford the mortgage.
 
-And here's what they won't tell you: By the time you've spent six months "getting ready," your competitor who started with a basic landing page and Google Ads in week 3 has already generated $150,000-$300,000 in revenue and has real market data showing what actually works.
+And here's what they won't tell you: By the time you've spent six months "getting ready," your competitor who started with a basic landing page and [Google Ads](/services/ppc/google-ads-management/) in week 3 has already generated $150,000-$300,000 in revenue and has real market data showing what actually works.
 
 We've seen this play out dozens of times with contractors who come to us after trying the "build everything first" approach. They're frustrated, cash-strapped, and still don't have the market feedback they need because they've been planning instead of testing. 
 
@@ -175,7 +175,7 @@ This is when we finalize logos, color schemes, brand guidelines—but we're doin
 
 We expand the landing page into a complete website, building it around the offers and messages we now know convert. We're not guessing what services to highlight. We know from the data. For more on this approach, see our guide on [when to delegate marketing to experts](https://therebelape.com/blog/when-to-delegate-marketing-to-experts/).
 
-At the same time, we optimize your [Google Business Profile](https://therebelape.com/services/google-business-profile/) strategically—not just the basic setup, but full optimization. We're adding services based on what's actually converting. We're using photos that showcase your real work. We're writing descriptions that match your proven messaging. We're building reviews around your actual differentiators.
+At the same time, we optimize your [Google Business Profile](https://therebelape.com/services/seo/google-business-profile/) strategically—not just the basic setup, but full optimization. We're adding services based on what's actually converting. We're using photos that showcase your real work. We're writing descriptions that match your proven messaging. We're building reviews around your actual differentiators.
 
 This matters enormously for long-term local visibility, and starting it in month two means it's working while we build everything else. For contractors in specific industries like plumbing, our [Google Business Profile strategies for plumbers](https://therebelape.com/blog/google-business-profile-for-plumbers/) show how powerful this becomes once you have the foundation.
 

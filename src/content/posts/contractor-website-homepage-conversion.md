@@ -33,7 +33,7 @@ But here's what most contractor homepages do: generic hero image of a truck, vag
 
 Here's something most contractors don't realize: if your homepage is the only page showing up in Google search results, you have a bigger problem than homepage design. You have an authority and site structure problem.
 
-When someone searches "emergency roof leak repair near me," they shouldn't land on your homepage at all. They should land on a dedicated emergency repair page optimized for that exact intent. When someone searches "roofing company reviews," your [Google Business Profile](/services/google-business-profile/) should appear, or a page specifically showcasing reviews and testimonials.
+When someone searches "emergency roof leak repair near me," they shouldn't land on your homepage at all. They should land on a dedicated emergency repair page optimized for that exact intent. When someone searches "roofing company reviews," your [Google Business Profile](/services/seo/google-business-profile/) should appear, or a page specifically showcasing reviews and testimonials.
 
 Your homepage ranking for everything means Google doesn't understand your site hierarchy. It means you haven't built topical authority through comprehensive content. It means your [SEO strategy](/services/seo/) isn't creating the depth you need to capture different search intents with different pages.
 
@@ -284,7 +284,7 @@ Sounding exactly like every competitor. "Quality workmanship since 1987." "Profe
 
 **Q: How do I know if my homepage is actually the problem vs. other marketing issues?**
 
-Check your analytics. If you're getting decent traffic but low conversion, your homepage (or conversion path) is likely the problem. If you're getting almost no traffic, you have a visibility problem - [SEO](/services/seo/), [paid ads](/services/ppc/), or [Google Business Profile](/services/google-business-profile/) need work before optimizing the homepage matters. If you're getting leads but they're low quality or not converting to jobs, you might have a positioning problem or targeting issue that's attracting the wrong prospects. Start with the data to diagnose where the actual bottleneck is.
+Check your analytics. If you're getting decent traffic but low conversion, your homepage (or conversion path) is likely the problem. If you're getting almost no traffic, you have a visibility problem - [SEO](/services/seo/), [paid ads](/services/ppc/), or [Google Business Profile](/services/seo/google-business-profile/) need work before optimizing the homepage matters. If you're getting leads but they're low quality or not converting to jobs, you might have a positioning problem or targeting issue that's attracting the wrong prospects. Start with the data to diagnose where the actual bottleneck is.
 
 **Q: What conversion rate should I expect from a contractor homepage?**
 

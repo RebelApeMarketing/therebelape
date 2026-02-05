@@ -31,7 +31,7 @@ While you might still be playing phone tag with prospects and manually sending f
 
 **Follow Up Instantly**: Automated sequences that respond to form submissions and [lead magnet downloads](https://therebelape.com/blog/lead-generation-best-practices-master-conversion-strategies-for-2025/) within seconds, not hours or days.
 
-**Dominate Search Results**: [AI-powered SEO](https://therebelape.com/blog/what-is-seo/) and Answer Engine Optimization (AEO) that gets their content found when customers search for solutions and gets their business chosen over yours.
+**Dominate Search Results**: [AI-powered SEO](https://therebelape.com/blog/what-is-seo/) and Answer Engine Optimization ([AEO](/services/seo/local-seo/)) that gets their content found when customers search for solutions and gets their business chosen over yours.
 
 **Automate Lead Nurturing**: Sophisticated follow-up campaigns that use both email and SMS to stay top-of-mind until prospects are ready to buy.
 
@@ -168,7 +168,7 @@ Most home service companies see positive ROI within the first 30 days. If you're
 
 At Rebel Ape Marketing, we've helped home service companies—from roofing contractors to HVAC specialists—implement AI systems that capture more leads, convert more prospects, and free up owners to focus on growing their business instead of just managing it.
 
-Our [Silverback Authority Method](https://therebelape.com/services/) has proven effective across multiple verticals—from roofing and plumbing to landscaping and electrical work. We've even helped businesses in unique niches like Vegas wedding chapels and appliance repair companies dominate their local markets.
+Our [Silverback Authority Method](/silverback-authority-method/) has proven effective across multiple verticals—from roofing and plumbing to landscaping and electrical work. We've even helped businesses in unique niches like Vegas wedding chapels and appliance repair companies dominate their local markets.
 
 **Book a free strategy session today.** We'll audit your current lead generation and follow-up processes, identify the gaps your competitors are exploiting, and show you exactly how our AI-powered marketing framework can transform your business. [Learn more about our approach to creating high-converting websites](https://therebelape.com/blog/high-converting-website-design-guide/) and [testing strategies that drive explosive growth](https://therebelape.com/blog/marketing-testing-strategy-drive-explosive-growth-in-2025/).
 

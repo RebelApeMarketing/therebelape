@@ -1,0 +1,286 @@
+---
+import Base from '../../../../layouts/Base.astro';
+import Hero from '../../../../components/sections/Hero.astro';
+import SocialProofBar from '../../../../components/sections/SocialProofBar.astro';
+import CaseStudy from '../../../../components/sections/CaseStudy.astro';
+import TestimonialsDefault from '../../../../components/testimonials/TestimonialsDefault.astro';
+import OrganizationSchema from '../../../../components/schema/OrganizationSchema.astro';
+import ServiceSchema from '../../../../components/schema/ServiceSchema.astro';
+import BreadcrumbSchema from '../../../../components/schema/BreadcrumbSchema.astro';
+import WebPageSchema from '../../../../components/schema/WebPageSchema.astro';
+import FAQSchema from '../../../../components/schema/FAQSchema.astro';
+
+// SEO
+const title = "Landing Pages for Contractors | Rebel Ape Marketing";
+const description = "Stop sending ad traffic to your homepage. We build conversion-focused landing pages designed for one goal: turn paid clicks into phone calls. Message match, single CTA, no distractions.";
+const canonical = "https://therebelape.com/services/website-design/landing-pages/";
+const image = "https://rebelapecdn.b-cdn.net/featured-google-business-profile-for-plumbers-office.webp";
+const type = "website";
+const robots = "index, follow";
+
+// Breadcrumbs
+const breadcrumbs = [
+  { name: "Home", url: "https://therebelape.com/" },
+  { name: "Services", url: "https://therebelape.com/services/" },
+  { name: "Website Design", url: "https://therebelape.com/services/website-design/" },
+  { name: "Landing Pages", url: canonical }
+];
+
+// FAQs
+const faqs = [
+  {
+    question: "Why can't I just use my homepage for ads?",
+    answer: "Your homepage is built for education and navigation\u2014showing all your services, giving visitors multiple paths to explore. That's great for organic traffic. But when someone clicks your ad with specific intent and lands on a homepage with twelve different CTAs, they get confused and bounce. A landing page removes all distractions and focuses on one goal: get them to call you. Better focus = better conversion rates."
+  },
+  {
+    question: "What's the difference between a landing page and a service page?",
+    answer: "Service pages are educational\u2014they explain what you do, how it works, why it matters. Landing pages are conversion-focused\u2014they assume the visitor is already interested (they clicked your ad) and push them toward one action. Service pages have navigation and multiple CTAs. Landing pages strip away distractions."
+  },
+  {
+    question: "How long does it take to build a landing page?",
+    answer: "Typically 1-2 weeks. If it's part of a Google Ads campaign setup, it's built during Month 1 alongside the ad campaign. Standalone projects can turn around faster\u2014sometimes as quick as a week if content and approvals move fast."
+  },
+  {
+    question: "Can you build multiple landing pages for different campaigns?",
+    answer: "Absolutely. If you're running ads for emergency services, new construction, and residential repairs, each should have its own landing page with messaging that matches the ad. Better message match = better conversion rates."
+  },
+  {
+    question: "Do you write the landing page copy or do I?",
+    answer: "We write it. Landing page copy is different from website copy\u2014shorter, more direct, conversion-focused. We research your market, understand the campaign goal, and write copy designed to convert. You review and approve before it goes live."
+  },
+  {
+    question: "How do you track conversions?",
+    answer: "We set up conversion tracking so you know exactly how many calls and form submissions the landing page generates. If you have a CRM, we integrate it so leads flow directly into your system. We also track user behavior\u2014scroll depth, button clicks, form interactions\u2014so we can optimize based on real data."
+  },
+  {
+    question: "What if my landing page isn't converting well?",
+    answer: "That's where A/B testing comes in. We test different headlines, CTAs, button colors, form lengths\u2014whatever might be holding back conversions. We monitor performance and optimize continuously until conversion rates improve. If the landing page is part of ongoing ads management, this optimization is included."
+  }
+];
+---
+
+<Base {title} {description} {canonical} {image} {type} {robots}>
+  <!-- Schema Markup -->
+  <OrganizationSchema slot="head" />
+  <ServiceSchema
+    slot="head"
+    name="Landing Pages for Contractors"
+    description={description}
+    url={canonical}
+    serviceType="Web Design"
+  />
+  <BreadcrumbSchema slot="head" breadcrumbs={breadcrumbs} />
+  <WebPageSchema
+    slot="head"
+    type="WebPage"
+    name={title}
+    description={description}
+    url={canonical}
+    image={image}
+  />
+  <FAQSchema slot="head" faqs={faqs} />
+  <section>
+    <Hero
+      backgroundImage="https://RebelApeCDN.b-cdn.net/bg-gorilla-direct.webp"
+      title="Your Homepage Is Killing Your Ad Conversions. <span class='text-rebel-green'>We Fix That.</span>"
+      subtitle="Message Match. Single CTA. <span class='text-rebel-green'>Conversion-First Design.</span>"
+      description={'Stop sending paid traffic to your homepage. When someone clicks your ad looking for emergency roof repair and lands on a page with twelve different CTAs and links to your blog, they bounce. Landing pages are built for one goal: convert the visitor who just clicked your ad. No distractions. Just conversions.'}
+      features={[
+        'Dedicated Pages for Every Ad Campaign',
+        'A/B Testing & Continuous Optimization',
+        'CRM Integration & Conversion Tracking'
+      ]}
+      buttonText="Get Conversion-Focused Landing Pages"
+      buttonIcon="calendar"
+      buttonHref="/schedule/"
+      fetchpriority="high"
+    />
+    <SocialProofBar />
+
+    <!-- Section 1: Most Contractors Send Ad Traffic To The Wrong Place -->
+    <section class="py-16 md:py-24 section-checkers">
+      <div class="max-w-7xl mx-auto px-4">
+        <div class="grid grid-cols-1 lg:grid-cols-3 gap-12 lg:gap-16 items-stretch">
+          <!-- Text: 2/3 width -->
+          <div class="order-2 lg:order-1 lg:col-span-2">
+            <h2 class="text-4xl md:text-5xl font-bold mb-6">
+              Most Contractors Send Ad Traffic <span class="text-rebel-green">To The Wrong Place</span>
+            </h2>
+            <p class="text-lg text-gray-700 mb-6">
+              Your homepage is built for education and navigation&mdash;showing all your services, telling your story, building trust over time. That's great for organic traffic. But when someone clicks your ad looking for emergency roof repair and lands on a page with twelve different CTAs, they bounce. A landing page is different. One specific goal: convert the visitor who just clicked your paid ad. No navigation pulling them away. Just a focused message that matches the ad, a clear call-to-action, and nothing else getting in the way.
+            </p>
+            <p class="text-lg text-gray-700 mb-8">
+              If your ad click-through rate is good but your conversion rate sucks, your landing page is the problem. When you're paying $30-80 per click, you can't afford to send traffic to a page that wasn't built to convert.
+            </p>
+            <ul class="space-y-4">
+              <li class="flex gap-3">
+                <span class="text-rebel-green text-xl font-bold">&#10003;</span>
+                <span class="text-gray-700"><strong>Message Match:</strong> Landing page copy matches exactly what the ad promised&mdash;no confusion</span>
+              </li>
+              <li class="flex gap-3">
+                <span class="text-rebel-green text-xl font-bold">&#10003;</span>
+                <span class="text-gray-700"><strong>Single CTA:</strong> One clear action (call us, fill out form) instead of twelve different options</span>
+              </li>
+              <li class="flex gap-3">
+                <span class="text-rebel-green text-xl font-bold">&#10003;</span>
+                <span class="text-gray-700"><strong>No Navigation:</strong> Can't get distracted by other pages&mdash;they convert or bounce</span>
+              </li>
+              <li class="flex gap-3">
+                <span class="text-rebel-green text-xl font-bold">&#10003;</span>
+                <span class="text-gray-700"><strong>Conversion-First Design:</strong> Every element exists to drive the phone call, nothing else</span>
+              </li>
+            </ul>
+          </div>
+
+          <!-- Image: 1/3 width on desktop, full width on mobile -->
+          <div class="order-1 lg:order-2 flex">
+            <img
+              src="https://rebelapecdn.b-cdn.net/featured-google-business-profile-for-plumbers-office.webp"
+              alt="Landing Pages for Contractors"
+              class="w-full h-auto lg:h-full object-cover rounded-lg"
+              loading="lazy"
+              width="600"
+              height="400"
+            />
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Section 2: Our Process: Design, Test, Optimize -->
+    <section class="py-16 md:py-24 section-slate">
+      <div class="max-w-7xl mx-auto px-4">
+        <!-- Centered Header -->
+        <div class="text-center mb-12">
+          <h2 class="text-4xl md:text-5xl font-bold mb-6">
+            Our Process: <span class="text-rebel-green">Design, Test, Optimize</span>
+          </h2>
+          <p class="text-lg md:text-xl text-gray-700 max-w-4xl mx-auto">
+            Most agencies build a landing page and call it done. We build it, test it, and optimize it continuously. A 2% improvement in conversion rate means 2% more leads for the same ad spend. That compounds fast.
+          </p>
+        </div>
+
+        <!-- Mobile image - shown only on mobile -->
+        <div class="lg:hidden mb-8">
+          <img
+            src="https://RebelApeCDN.b-cdn.net/featured-locations.webp"
+            alt="Landing Page Design and Optimization Process"
+            class="w-full h-auto object-cover rounded-lg"
+            loading="lazy"
+            width="600"
+            height="400"
+          />
+        </div>
+
+        <div class="grid grid-cols-1 lg:grid-cols-3 gap-12 lg:gap-16 items-stretch">
+          <!-- Image: 1/3 width, full height - desktop only -->
+          <div class="hidden lg:flex">
+            <img
+              src="https://RebelApeCDN.b-cdn.net/featured-locations.webp"
+              alt="Landing Page Design and Optimization Process"
+              class="w-full h-full object-cover rounded-lg"
+              loading="lazy"
+              width="600"
+              height="400"
+            />
+          </div>
+
+          <!-- Process Cards: 2/3 width -->
+          <div class="lg:col-span-2 space-y-4">
+            <div class="bg-white p-6 rounded-lg border-l-4 border-rebel-green shadow-2xl">
+              <h3 class="text-xl font-bold mb-2">Research & Strategy</h3>
+              <p class="text-gray-700">
+                Before we design anything, we understand the campaign goal. Emergency services? New construction? Residential vs commercial? The landing page copy and design need to match the specific intent of the traffic hitting it. We also analyze competitor landing pages to see what's working in your market.
+              </p>
+            </div>
+
+            <div class="bg-white p-6 rounded-lg border-l-4 border-rebel-green shadow-2xl">
+              <h3 class="text-xl font-bold mb-2">Conversion-First Design</h3>
+              <p class="text-gray-700">
+                Every element is designed around one goal: get them to call. Strong headline that matches the ad. Clear value proposition. Trust signals. Single, prominent CTA. Form or phone number above the fold. No navigation menu. Mobile-optimized because most contractor searches happen on phones. CRM integration so leads flow directly into your system.
+              </p>
+            </div>
+
+            <div class="bg-white p-6 rounded-lg border-l-4 border-rebel-green shadow-2xl">
+              <h3 class="text-xl font-bold mb-2">A/B Testing & Optimization</h3>
+              <p class="text-gray-700">
+                Once live, we test components to improve conversion rates. Different headlines. Button colors. Form length. CTA copy. Testimonial placement. Over thousands of clicks, a 1-2% conversion rate improvement means dozens of extra leads for the same ad budget.
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Section 3: Landing Pages Work Best As Part of Your Ad Campaigns -->
+    <section class="py-16 md:py-24 section-checkers">
+      <div class="max-w-7xl mx-auto px-4">
+        <div class="grid grid-cols-1 lg:grid-cols-3 gap-12 lg:gap-16 items-stretch">
+          <!-- Text: 2/3 width -->
+          <div class="order-2 lg:order-1 lg:col-span-2">
+            <h2 class="text-4xl md:text-5xl font-bold mb-6">
+              Landing Pages Work Best <span class="text-rebel-green">As Part of Your Ad Campaigns</span>
+            </h2>
+            <p class="text-lg text-gray-700 mb-8">
+              Landing pages aren't standalone marketing tools&mdash;they're designed to work with paid traffic. Each campaign should have a dedicated landing page that matches the ad copy and intent. Emergency roofing ad? Emergency roofing landing page. Message match = better conversion rates.
+            </p>
+            <div class="space-y-4 mb-8">
+              <div class="bg-white p-6 rounded-lg border-l-4 border-rebel-green shadow-2xl">
+                <p class="font-semibold text-gray-900 text-lg mb-2">Landing Pages + <a href="/services/ppc/google-ads-management/" class="text-rebel-green font-semibold hover:underline">Google Ads</a></p>
+                <p class="text-gray-700">Google Ads drive targeted traffic. Landing pages convert that traffic. When the ad copy, landing page headline, and CTA all align, conversion rates skyrocket.</p>
+              </div>
+              <div class="bg-white p-6 rounded-lg border-l-4 border-rebel-green shadow-2xl">
+                <p class="font-semibold text-gray-900 text-lg mb-2">Landing Pages + Complete System (The Silverback Authority Method)</p>
+                <p class="text-gray-700">Google Ads and LSA get traffic flowing. Landing pages convert that traffic into calls. SEO builds long-term authority. When everything works together, you're not wasting ad spend on pages that don't convert. <a href="/silverback-authority-method/" class="text-rebel-green font-semibold hover:underline">Learn more about the Silverback Authority Method</a>.</p>
+              </div>
+            </div>
+            <p class="text-lg text-gray-700">
+              Landing pages can be standalone projects if you're running ads elsewhere. But they're most powerful when integrated into your complete marketing system.
+            </p>
+          </div>
+
+          <!-- Image: 1/3 width on desktop, full width on mobile -->
+          <div class="order-1 lg:order-2 flex">
+            <img
+              src="https://RebelApeCDN.b-cdn.net/website-gorilla-square.webp"
+              alt="Landing Pages as Part of Complete Marketing System"
+              class="w-full h-auto lg:h-full object-cover rounded-lg shadow-2xl"
+              loading="lazy"
+              width="600"
+              height="400"
+            />
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="py-16 md:py-24 section-slate">
+      <CaseStudy />
+    </section>
+
+    <section class="py-16 md:py-24 section-checkers">
+      <TestimonialsDefault />
+    </section>
+
+    <!-- FAQ Section -->
+    <section class="py-16 md:py-24 section-slate">
+      <div class="max-w-4xl mx-auto px-4">
+        <div class="text-center mb-12">
+          <h2 class="text-4xl md:text-5xl font-bold mb-6">
+            Frequently Asked <span class="text-rebel-green">Questions</span>
+          </h2>
+        </div>
+
+        <div class="space-y-6">
+          {faqs.map((faq) => (
+            <div class="bg-white p-6 rounded-lg shadow-lg border-l-4 border-rebel-green">
+              <h3 class="text-xl font-bold mb-3 text-gray-900">{faq.question}</h3>
+              <p class="text-gray-700">{faq.answer}</p>
+            </div>
+          ))}
+        </div>
+      </div>
+    </section>
+
+  </section>
+</Base>

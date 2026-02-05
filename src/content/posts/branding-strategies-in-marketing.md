@@ -80,7 +80,7 @@ Then - and only then - did branding become valuable. Because at that point, it h
 
 Start with the basics. Get a decent logo from a professional designer. Not a $10,000 brand identity package - just a solid, professional mark that represents your business. Then focus everything else on [building a website that converts](/services/website-design/), [ranking in local search](/services/seo/), and [generating qualified leads](/blog/lead-generation-best-practices-master-conversion-strategies-for-2025/).
 
-One of our roofing clients started with a logo his brother-in-law designed in PowerPoint. It wasn't great, but it was fine. He focused on dialing in his sales process, his [Google Business Profile](/services/google-business-profile/), and his [PPC campaigns](/services/ppc/). Eighteen months later, when he was doing seven figures, we helped him redesign his brand identity.
+One of our roofing clients started with a logo his brother-in-law designed in PowerPoint. It wasn't great, but it was fine. He focused on dialing in his sales process, his [Google Business Profile](/services/seo/google-business-profile/), and his [PPC campaigns](/services/ppc/). Eighteen months later, when he was doing seven figures, we helped him redesign his brand identity.
 
 By then, he knew exactly who he served, what they valued, and what made them choose him. The rebrand reflected that understanding. It reinforced trust signals that were already working.
 
