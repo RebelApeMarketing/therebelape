@@ -208,8 +208,16 @@ exports.handler = async (event) => {
       // ========== TRUST & PROOF (auto-scan portion) ==========
 
       // Testimonials/Reviews (5 pts)
-      const testimonialKeywords = /testimonial|review|what our (customer|client)|feedback|rating|star[s]?\b|★|google\s*review/i;
-      const hasTestimonials = testimonialKeywords.test(html.raw);
+      // Must match specific testimonial patterns, not just the word "review" which appears everywhere
+      const testimonialPatterns = /\btestimonials?\b/i.test(html.raw);
+      const customerReviews = /\b(customer|client|homeowner)\s+reviews?\b/i.test(html.raw);
+      const whatTheySay = /what\s+our\s+(customer|client)s?\s+(say|think|are\s+saying)/i.test(html.raw);
+      const starRatings = /\b\d[.\d]*[\s-]?stars?\s*(rating|review)?s?\b/i.test(html.raw) || /★|⭐/.test(html.raw);
+      const googleReviews = /google\s*reviews?\b/i.test(html.raw);
+      const reviewSchema = /reviewBody|aggregateRating|itemReviewed/i.test(html.raw);
+      const reviewWidget = /trustpilot|birdeye|podium|reviewbuzz|grade\.us|getjobber.*review/i.test(html.raw);
+      const testimonialStructure = /<blockquote/i.test(html.raw) && /\b(customer|client|homeowner|resident|thank|great\s+job|highly\s+recommend)\b/i.test(html.raw);
+      const hasTestimonials = testimonialPatterns || customerReviews || whatTheySay || starRatings || googleReviews || reviewSchema || reviewWidget || testimonialStructure;
       results.checks.testimonials = {
         score: hasTestimonials ? 5 : 0,
         maxScore: 5,
@@ -330,12 +338,13 @@ exports.handler = async (event) => {
         results.checks.mobileResponsive.details = 'Google confirms the site is mobile-friendly';
       }
     } else {
+      // PageSpeed API failed — give neutral score, don't penalize the user
       results.checks.pageSpeed = {
-        score: 2,
+        score: 3,
         maxScore: 5,
-        passed: false,
+        passed: true,
         performanceScore: null,
-        details: 'Could not retrieve PageSpeed data — try again or check if the URL is publicly accessible'
+        details: 'Google PageSpeed data unavailable — score based on other signals. Run Google\'s free PageSpeed test directly at pagespeed.web.dev for detailed results.'
       };
     }
 
@@ -448,46 +457,56 @@ async function fetchAndAnalyzeHTML(url) {
   }
 }
 
-// Fetch Google PageSpeed Insights data
+// Fetch Google PageSpeed Insights data (with 1 retry)
 async function fetchPageSpeedData(url) {
-  const controller = new AbortController();
-  const timeout = setTimeout(() => controller.abort(), 30000);
-
-  try {
-    // Use API key if available for higher rate limits
-    const apiKey = process.env.PAGESPEED_API_KEY;
-    let apiUrl = `https://www.googleapis.com/pagespeedonline/v5/runPagespeed?url=${encodeURIComponent(url)}&strategy=mobile&category=PERFORMANCE&category=ACCESSIBILITY`;
-    if (apiKey) {
-      apiUrl += `&key=${apiKey}`;
-    }
-
-    const response = await fetch(apiUrl, {
-      signal: controller.signal
-    });
-
-    if (!response.ok) {
-      throw new Error(`PageSpeed API returned ${response.status}`);
-    }
-
-    const data = await response.json();
-
-    const lighthouse = data.lighthouseResult;
-    if (!lighthouse) return null;
-
-    const categories = lighthouse.categories || {};
-    const audits = lighthouse.audits || {};
-
-    return {
-      performanceScore: categories.performance?.score || 0,
-      lcp: audits['largest-contentful-paint']?.displayValue || 'N/A',
-      fid: audits['max-potential-fid']?.displayValue || audits['total-blocking-time']?.displayValue || 'N/A',
-      cls: audits['cumulative-layout-shift']?.displayValue || 'N/A',
-      mobileUsability: true
-    };
-  } catch (error) {
-    console.error('PageSpeed API error:', error.message);
-    return null;
-  } finally {
-    clearTimeout(timeout);
+  const apiKey = process.env.PAGESPEED_API_KEY;
+  let apiUrl = `https://www.googleapis.com/pagespeedonline/v5/runPagespeed?url=${encodeURIComponent(url)}&strategy=mobile&category=PERFORMANCE&category=ACCESSIBILITY`;
+  if (apiKey) {
+    apiUrl += `&key=${apiKey}`;
   }
+
+  for (let attempt = 0; attempt < 2; attempt++) {
+    const controller = new AbortController();
+    const timeout = setTimeout(() => controller.abort(), 30000);
+
+    try {
+      if (attempt > 0) {
+        await new Promise(r => setTimeout(r, 2000)); // wait 2s before retry
+      }
+
+      const response = await fetch(apiUrl, {
+        signal: controller.signal
+      });
+
+      if (!response.ok) {
+        throw new Error(`PageSpeed API returned ${response.status}`);
+      }
+
+      const data = await response.json();
+
+      const lighthouse = data.lighthouseResult;
+      if (!lighthouse) {
+        clearTimeout(timeout);
+        continue; // retry
+      }
+
+      const categories = lighthouse.categories || {};
+      const audits = lighthouse.audits || {};
+
+      clearTimeout(timeout);
+      return {
+        performanceScore: categories.performance?.score || 0,
+        lcp: audits['largest-contentful-paint']?.displayValue || 'N/A',
+        fid: audits['max-potential-fid']?.displayValue || audits['total-blocking-time']?.displayValue || 'N/A',
+        cls: audits['cumulative-layout-shift']?.displayValue || 'N/A',
+        mobileUsability: true
+      };
+    } catch (error) {
+      console.error(`PageSpeed API attempt ${attempt + 1} error:`, error.message);
+      clearTimeout(timeout);
+      // continue to retry
+    }
+  }
+
+  return null; // both attempts failed
 }
