@@ -646,9 +646,13 @@ const robots = "index, follow";
           if (currentQuestion <= totalQuestions) {
             showQuestion(currentQuestion);
           } else {
-            // All questions answered — hide question area, show waiting message if scan isn't done
+            // All questions answered
             questionsComplete = true;
             const questionsArea = document.getElementById('questions-area') as HTMLDivElement;
+
+            // Finish the progress bar (it was capped at 85%)
+            finishProgressBar();
+
             if (scanComplete) {
               checkIfReady();
             } else {
@@ -660,8 +664,30 @@ const robots = "index, follow";
     });
 
     // --- SCANNING PROGRESS SIMULATION ---
+    // Progress bar caps at 85% until questions are answered, then completes to 100%.
+    let progressInterval: ReturnType<typeof setInterval> | null = null;
+    let progressPaused = false;
+
+    function finishProgressBar() {
+      // Called when questions are complete — animate from current to 100%
+      if (progressPaused && progressInterval === null) {
+        let progress = 85;
+        progressInterval = setInterval(() => {
+          progress += 1;
+          if (progress > 100) progress = 100;
+          scanProgressBar.style.width = progress + '%';
+          scanPercent.textContent = progress + '%';
+          if (progress >= 100) {
+            clearInterval(progressInterval!);
+            progressInterval = null;
+          }
+        }, 60);
+      }
+    }
+
     function simulateScanProgress(callback: () => void) {
       let progress = 0;
+      progressPaused = false;
       const steps = [
         { at: 10, check: 'speed', status: 'active' as const },
         { at: 30, check: 'speed', status: 'done' as const },
@@ -670,14 +696,31 @@ const robots = "index, follow";
         { at: 55, check: 'trust', status: 'active' as const },
         { at: 75, check: 'trust', status: 'done' as const },
         { at: 75, check: 'technical', status: 'active' as const },
-        { at: 95, check: 'technical', status: 'done' as const },
+        { at: 85, check: 'technical', status: 'done' as const },
       ];
 
       // Show first question immediately
       showQuestion(1);
 
-      const interval = setInterval(() => {
+      progressInterval = setInterval(() => {
         progress += 1;
+
+        // Cap at 85% until questions are complete
+        if (progress >= 85 && !questionsComplete) {
+          progress = 85;
+          progressPaused = true;
+          clearInterval(progressInterval!);
+          progressInterval = null;
+          scanProgressBar.style.width = '85%';
+          scanPercent.textContent = '85%';
+          // Trigger any remaining checklist steps
+          steps.forEach(step => {
+            if (step.at <= 85) updateChecklistItem(step.check, step.status);
+          });
+          callback();
+          return;
+        }
+
         if (progress > 100) progress = 100;
 
         scanProgressBar.style.width = progress + '%';
@@ -691,10 +734,11 @@ const robots = "index, follow";
         });
 
         if (progress >= 100) {
-          clearInterval(interval);
+          clearInterval(progressInterval!);
+          progressInterval = null;
           callback();
         }
-      }, 200); // 20 seconds total (100 steps * 200ms)
+      }, 200); // ~17 seconds to 85% (85 steps * 200ms)
     }
 
     // --- SCORING LOGIC FOR QUESTIONS ---
