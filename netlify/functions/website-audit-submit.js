@@ -49,12 +49,17 @@ exports.handler = async (event) => {
       pageSpeed: 'Page Speed',
       ssl: 'SSL Certificate',
       brokenLinks: 'Broken Links',
+      faqSection: 'FAQ Section',
       phoneVisible: 'Phone Number Visible',
       clickToCall: 'Click-to-Call on Mobile',
-      contactForm: 'Contact Form Present',
+      contactForm: 'Contact Form / Contact Page',
       clearCTAs: 'Clear Calls to Action',
+      servicesCatalog: 'Services Catalog',
       testimonials: 'Testimonials/Reviews',
-      credentials: 'Credentials Visible'
+      resultsOutcomes: 'Results/Outcomes',
+      credentials: 'Credentials Visible',
+      aboutPage: 'About / Team Page',
+      googleBusiness: 'Google Business Profile'
     };
 
     for (const [key, label] of Object.entries(checkLabels)) {
@@ -152,7 +157,8 @@ exports.handler = async (event) => {
         topIssues: (topIssues || []).map(i => i.name).join(', '),
         runningAds: questionAnswers?.runningAds || 'Unknown',
         hasPhotos: questionAnswers?.brandedPhotos || 'Unknown',
-        messagingQuality: questionAnswers?.messaging || 'Unknown',
+        problemSolution: questionAnswers?.problemSolution || 'Unknown',
+        whyUs: questionAnswers?.whyUs || 'Unknown',
         source: 'Website Audit Tool',
         tags: 'Website Audit,Resources Lead'
       };
@@ -193,12 +199,17 @@ function getFixSuggestion(checkName) {
     'Page Speed': 'Compress your images (use WebP format), minimize JavaScript, and consider a CDN. A slow site kills conversions — every second of load time costs you leads.',
     'SSL Certificate': 'Install an SSL certificate (most hosts offer free ones through Let\'s Encrypt). Without it, browsers show a "Not Secure" warning that scares away customers.',
     'Broken Links': 'Audit your links and fix or remove any that lead to 404 pages. Broken links hurt SEO and make your business look neglected.',
+    'FAQ Section': 'Add an FAQ section answering the top 5-10 questions homeowners ask before hiring. This reduces friction, builds trust, and helps SEO.',
     'Phone Number Visible': 'Put your phone number in the header of every page. Make it large, visible, and impossible to miss. This is the #1 conversion driver for contractors.',
     'Click-to-Call on Mobile': 'Wrap your phone number in a tel: link so mobile visitors can tap to call. Over 60% of contractor site visits are on mobile.',
-    'Contact Form Present': 'Add a simple contact form above the fold. Name, phone, email, and a brief description of the job. Don\'t ask for too much — every field reduces submissions.',
+    'Contact Form / Contact Page': 'Add a simple contact form or a prominent link to your contact/scheduling page. Make it easy to reach you — don\'t make visitors hunt.',
     'Clear Calls to Action': 'Add clear, action-oriented buttons: "Get Free Estimate," "Schedule Inspection," "Call Now." Avoid vague CTAs like "Learn More" or "Submit."',
+    'Services Catalog': 'Create individual pages for each service you offer. This helps SEO, helps visitors find exactly what they need, and positions you as a specialist.',
     'Testimonials/Reviews': 'Add 3-5 real customer testimonials with names and locations. Better yet, embed your Google reviews. Social proof is one of the strongest conversion drivers.',
-    'Credentials Visible': 'Display your licenses, certifications, insurance, BBB rating, and years in business prominently. Homeowners need to trust you before they call.'
+    'Results/Outcomes': 'Show specific results — case studies, before/after photos, project counts, or stats. Homeowners want to see proof you deliver.',
+    'Credentials Visible': 'Display your licenses, certifications, insurance, BBB rating, and years in business prominently. Homeowners need to trust you before they call.',
+    'About / Team Page': 'Create a dedicated About page with your story, team photos, and company history. Homeowners hire people, not logos — let them see who they\'re working with.',
+    'Google Business Profile': 'Add a Google Maps embed or link to your Google Business Profile on your site. This is a powerful local trust signal and helps customers find and review you.'
   };
   return fixes[checkName] || 'Address this issue to improve your website\'s effectiveness.';
 }
@@ -314,7 +325,7 @@ function buildLeadNotificationEmail({ name, email, phone, website, score, grade,
         <tr><td style="padding: 12px; color: #6b7280;">Grade:</td><td style="padding: 12px; color: #111827;">${gradeMessage}</td></tr>
         <tr><td style="padding: 12px; color: #6b7280;">Technical:</td><td style="padding: 12px; color: #111827;">${scores?.technical || 0}/25</td></tr>
         <tr><td style="padding: 12px; color: #6b7280;">Conversion:</td><td style="padding: 12px; color: #111827;">${scores?.conversion || 0}/25</td></tr>
-        <tr><td style="padding: 12px; color: #6b7280;">Hero/Messaging:</td><td style="padding: 12px; color: #111827;">${scores?.hero || 0}/25</td></tr>
+        <tr><td style="padding: 12px; color: #6b7280;">Content/Messaging:</td><td style="padding: 12px; color: #111827;">${scores?.content || 0}/25</td></tr>
         <tr><td style="padding: 12px; color: #6b7280;">Trust Signals:</td><td style="padding: 12px; color: #111827;">${scores?.trust || 0}/25</td></tr>
       </table>
 
@@ -326,11 +337,12 @@ function buildLeadNotificationEmail({ name, email, phone, website, score, grade,
 
       <h3 style="margin: 0 0 15px 0; color: #374151;">Question Answers</h3>
       <table width="100%" style="background-color: #f8fafc; border-radius: 8px;">
-        <tr><td style="padding: 8px 12px; color: #6b7280;">Running Ads:</td><td style="padding: 8px 12px; color: #111827;">${questionAnswers?.runningAds || 'N/A'}</td></tr>
-        <tr><td style="padding: 8px 12px; color: #6b7280;">Branded Photos:</td><td style="padding: 8px 12px; color: #111827;">${questionAnswers?.brandedPhotos || 'N/A'}</td></tr>
         <tr><td style="padding: 8px 12px; color: #6b7280;">Hero Promise:</td><td style="padding: 8px 12px; color: #111827;">${questionAnswers?.heroPromise || 'N/A'}</td></tr>
         <tr><td style="padding: 8px 12px; color: #6b7280;">CTA Above Fold:</td><td style="padding: 8px 12px; color: #111827;">${questionAnswers?.ctaAboveFold || 'N/A'}</td></tr>
-        <tr><td style="padding: 8px 12px; color: #6b7280;">Messaging:</td><td style="padding: 8px 12px; color: #111827;">${questionAnswers?.messaging || 'N/A'}</td></tr>
+        <tr><td style="padding: 8px 12px; color: #6b7280;">Problem & Solution:</td><td style="padding: 8px 12px; color: #111827;">${questionAnswers?.problemSolution || 'N/A'}</td></tr>
+        <tr><td style="padding: 8px 12px; color: #6b7280;">Why Us:</td><td style="padding: 8px 12px; color: #111827;">${questionAnswers?.whyUs || 'N/A'}</td></tr>
+        <tr><td style="padding: 8px 12px; color: #6b7280;">Branded Photos:</td><td style="padding: 8px 12px; color: #111827;">${questionAnswers?.brandedPhotos || 'N/A'}</td></tr>
+        <tr><td style="padding: 8px 12px; color: #6b7280;">Running Ads:</td><td style="padding: 8px 12px; color: #111827;">${questionAnswers?.runningAds || 'N/A'}</td></tr>
       </table>
     </td></tr>
   </table>

@@ -6,7 +6,7 @@ import Button from '../../../components/ui/Button.astro';
 
 // SEO
 const title = "Free Website Audit for Contractors | Rebel Ape Marketing";
-const description = "Get an honest, automated audit of your contractor website. We check the 14 things that actually matter for conversions — and tell you how to fix them. No sales pitch.";
+const description = "Get an honest, automated audit of your contractor website. We check the 20 things that actually matter for conversions — and tell you how to fix them. No sales pitch.";
 const canonical = "https://therebelape.com/resources/website-audit/";
 const image = "https://RebelApeCDN.b-cdn.net/resources-website-audit.webp";
 const type = "website";
@@ -21,7 +21,7 @@ const robots = "index, follow";
       subtitle="This One Actually Tells You What's Broken — And How to Fix It"
       description="They tell you your site is broken (shocking, right?) and then try to sell you a $15K rebuild. This tool actually checks the things that matter for contractor websites and gives you real answers — whether you hire us or not."
       features={[
-        '14 Real Conversion Checks',
+        '20 Real Conversion Checks',
         'Honest Scoring System',
         'Actionable Fix List'
       ]}
@@ -162,7 +162,7 @@ const robots = "index, follow";
               <div id="questions-area">
                 <p class="text-sm font-semibold text-gray-500 uppercase tracking-wide mb-6">Quick Questions While We Scan</p>
 
-                <!-- Question 1 -->
+                <!-- Question 1: Hero Promise -->
                 <div class="question-card" data-question="1">
                   <h4 class="text-lg font-bold text-gray-900 mb-4">Does your hero section make a specific promise or is it generic?</h4>
                   <div class="space-y-3">
@@ -182,14 +182,12 @@ const robots = "index, follow";
                     </label>
                     <label class="flex items-start gap-3 p-3 rounded-lg border-2 border-slate-200 hover:border-[#32C55F] cursor-pointer transition-colors question-option">
                       <input type="radio" name="q-hero" value="unsure" class="mt-1 accent-[#069c4b]" />
-                      <div>
-                        <span class="font-semibold text-gray-900">Not sure what a hero section is</span>
-                      </div>
+                      <div><span class="font-semibold text-gray-900">Not sure what a hero section is</span></div>
                     </label>
                   </div>
                 </div>
 
-                <!-- Question 2 -->
+                <!-- Question 2: CTA Above Fold -->
                 <div class="question-card hidden" data-question="2">
                   <h4 class="text-lg font-bold text-gray-900 mb-4">Is there a clear offer above the fold?</h4>
                   <div class="space-y-3">
@@ -202,40 +200,66 @@ const robots = "index, follow";
                     </label>
                     <label class="flex items-start gap-3 p-3 rounded-lg border-2 border-slate-200 hover:border-[#32C55F] cursor-pointer transition-colors question-option">
                       <input type="radio" name="q-cta" value="no" class="mt-1 accent-[#069c4b]" />
-                      <div>
-                        <span class="font-semibold text-gray-900">No or buried below the fold</span>
-                      </div>
+                      <div><span class="font-semibold text-gray-900">No or buried below the fold</span></div>
                     </label>
                     <label class="flex items-start gap-3 p-3 rounded-lg border-2 border-slate-200 hover:border-[#32C55F] cursor-pointer transition-colors question-option">
                       <input type="radio" name="q-cta" value="unsure" class="mt-1 accent-[#069c4b]" />
-                      <div>
-                        <span class="font-semibold text-gray-900">Not sure</span>
-                      </div>
-                    </label>
-                  </div>
-                </div>
-
-                <!-- Question 3 -->
-                <div class="question-card hidden" data-question="3">
-                  <h4 class="text-lg font-bold text-gray-900 mb-4">Are you currently running paid ads to this website?</h4>
-                  <div class="space-y-3">
-                    <label class="flex items-start gap-3 p-3 rounded-lg border-2 border-slate-200 hover:border-[#32C55F] cursor-pointer transition-colors question-option">
-                      <input type="radio" name="q-ads" value="yes" class="mt-1 accent-[#069c4b]" />
-                      <div><span class="font-semibold text-gray-900">Yes</span></div>
-                    </label>
-                    <label class="flex items-start gap-3 p-3 rounded-lg border-2 border-slate-200 hover:border-[#32C55F] cursor-pointer transition-colors question-option">
-                      <input type="radio" name="q-ads" value="no" class="mt-1 accent-[#069c4b]" />
-                      <div><span class="font-semibold text-gray-900">No</span></div>
-                    </label>
-                    <label class="flex items-start gap-3 p-3 rounded-lg border-2 border-slate-200 hover:border-[#32C55F] cursor-pointer transition-colors question-option">
-                      <input type="radio" name="q-ads" value="unsure" class="mt-1 accent-[#069c4b]" />
                       <div><span class="font-semibold text-gray-900">Not sure</span></div>
                     </label>
                   </div>
                 </div>
 
-                <!-- Question 4 -->
+                <!-- Question 3: Problem & Solution -->
+                <div class="question-card hidden" data-question="3">
+                  <h4 class="text-lg font-bold text-gray-900 mb-4">Does your website clearly explain the problem you solve and how you solve it?</h4>
+                  <div class="space-y-3">
+                    <label class="flex items-start gap-3 p-3 rounded-lg border-2 border-slate-200 hover:border-[#32C55F] cursor-pointer transition-colors question-option">
+                      <input type="radio" name="q-problem" value="yes" class="mt-1 accent-[#069c4b]" />
+                      <div>
+                        <span class="font-semibold text-gray-900">Yes — we address specific problems and show our solution</span>
+                        <span class="block text-sm text-gray-500">e.g., "Leaking roof? We'll have it fixed in 48 hours."</span>
+                      </div>
+                    </label>
+                    <label class="flex items-start gap-3 p-3 rounded-lg border-2 border-slate-200 hover:border-[#32C55F] cursor-pointer transition-colors question-option">
+                      <input type="radio" name="q-problem" value="partial" class="mt-1 accent-[#069c4b]" />
+                      <div>
+                        <span class="font-semibold text-gray-900">Somewhat — we list services but don't frame them around customer problems</span>
+                      </div>
+                    </label>
+                    <label class="flex items-start gap-3 p-3 rounded-lg border-2 border-slate-200 hover:border-[#32C55F] cursor-pointer transition-colors question-option">
+                      <input type="radio" name="q-problem" value="no" class="mt-1 accent-[#069c4b]" />
+                      <div><span class="font-semibold text-gray-900">No — mostly generic language about who we are</span></div>
+                    </label>
+                  </div>
+                </div>
+
+                <!-- Question 4: Why Us / Differentiation -->
                 <div class="question-card hidden" data-question="4">
+                  <h4 class="text-lg font-bold text-gray-900 mb-4">Does your website differentiate why someone should choose you over competitors?</h4>
+                  <div class="space-y-3">
+                    <label class="flex items-start gap-3 p-3 rounded-lg border-2 border-slate-200 hover:border-[#32C55F] cursor-pointer transition-colors question-option">
+                      <input type="radio" name="q-whyus" value="yes" class="mt-1 accent-[#069c4b]" />
+                      <div>
+                        <span class="font-semibold text-gray-900">Yes — clear, specific differentiators</span>
+                        <span class="block text-sm text-gray-500">e.g., specific guarantees, unique process, proprietary method</span>
+                      </div>
+                    </label>
+                    <label class="flex items-start gap-3 p-3 rounded-lg border-2 border-slate-200 hover:border-[#32C55F] cursor-pointer transition-colors question-option">
+                      <input type="radio" name="q-whyus" value="generic" class="mt-1 accent-[#069c4b]" />
+                      <div>
+                        <span class="font-semibold text-gray-900">Generic — "quality," "experienced," "trusted"</span>
+                        <span class="block text-sm text-gray-500">Every competitor says the same thing</span>
+                      </div>
+                    </label>
+                    <label class="flex items-start gap-3 p-3 rounded-lg border-2 border-slate-200 hover:border-[#32C55F] cursor-pointer transition-colors question-option">
+                      <input type="radio" name="q-whyus" value="none" class="mt-1 accent-[#069c4b]" />
+                      <div><span class="font-semibold text-gray-900">No "Why Us" section at all</span></div>
+                    </label>
+                  </div>
+                </div>
+
+                <!-- Question 5: Branded Photos -->
+                <div class="question-card hidden" data-question="5">
                   <h4 class="text-lg font-bold text-gray-900 mb-4">Do you have branded photos of your team or trucks?</h4>
                   <div class="space-y-3">
                     <label class="flex items-start gap-3 p-3 rounded-lg border-2 border-slate-200 hover:border-[#32C55F] cursor-pointer transition-colors question-option">
@@ -253,20 +277,21 @@ const robots = "index, follow";
                   </div>
                 </div>
 
-                <!-- Question 5 -->
-                <div class="question-card hidden" data-question="5">
-                  <h4 class="text-lg font-bold text-gray-900 mb-4">Does your messaging talk about specific problems you solve?</h4>
+                <!-- Question 6: Running Ads (informational, not scored) -->
+                <div class="question-card hidden" data-question="6">
+                  <h4 class="text-lg font-bold text-gray-900 mb-4">Are you currently running paid ads to this website?</h4>
+                  <p class="text-sm text-gray-500 mb-4">This helps us understand your situation — it doesn't affect your score.</p>
                   <div class="space-y-3">
                     <label class="flex items-start gap-3 p-3 rounded-lg border-2 border-slate-200 hover:border-[#32C55F] cursor-pointer transition-colors question-option">
-                      <input type="radio" name="q-messaging" value="specific" class="mt-1 accent-[#069c4b]" />
-                      <div><span class="font-semibold text-gray-900">Yes, we address specific customer pain points</span></div>
+                      <input type="radio" name="q-ads" value="yes" class="mt-1 accent-[#069c4b]" />
+                      <div><span class="font-semibold text-gray-900">Yes</span></div>
                     </label>
                     <label class="flex items-start gap-3 p-3 rounded-lg border-2 border-slate-200 hover:border-[#32C55F] cursor-pointer transition-colors question-option">
-                      <input type="radio" name="q-messaging" value="generic" class="mt-1 accent-[#069c4b]" />
-                      <div><span class="font-semibold text-gray-900">Mostly generic "quality craftsmanship" language</span></div>
+                      <input type="radio" name="q-ads" value="no" class="mt-1 accent-[#069c4b]" />
+                      <div><span class="font-semibold text-gray-900">No</span></div>
                     </label>
                     <label class="flex items-start gap-3 p-3 rounded-lg border-2 border-slate-200 hover:border-[#32C55F] cursor-pointer transition-colors question-option">
-                      <input type="radio" name="q-messaging" value="unsure" class="mt-1 accent-[#069c4b]" />
+                      <input type="radio" name="q-ads" value="unsure" class="mt-1 accent-[#069c4b]" />
                       <div><span class="font-semibold text-gray-900">Not sure</span></div>
                     </label>
                   </div>
@@ -332,19 +357,19 @@ const robots = "index, follow";
               <div id="checks-conversion" class="p-5 space-y-3"></div>
             </div>
 
-            <!-- Hero Section -->
+            <!-- Content & Messaging -->
             <div class="bg-white rounded-xl shadow-lg overflow-hidden mb-6">
               <div class="flex items-center justify-between p-5 bg-slate-50 border-b border-slate-200">
-                <h4 class="text-lg font-bold text-gray-900">Hero &amp; Messaging</h4>
-                <span id="cat-hero" class="text-lg font-bold text-[#069c4b]">0/25</span>
+                <h4 class="text-lg font-bold text-gray-900">Content &amp; Messaging</h4>
+                <span id="cat-content" class="text-lg font-bold text-[#069c4b]">0/25</span>
               </div>
-              <div id="checks-hero" class="p-5 space-y-3"></div>
+              <div id="checks-content" class="p-5 space-y-3"></div>
             </div>
 
-            <!-- Trust Signals -->
+            <!-- Trust & Proof -->
             <div class="bg-white rounded-xl shadow-lg overflow-hidden mb-6">
               <div class="flex items-center justify-between p-5 bg-slate-50 border-b border-slate-200">
-                <h4 class="text-lg font-bold text-gray-900">Trust Signals</h4>
+                <h4 class="text-lg font-bold text-gray-900">Trust &amp; Proof</h4>
                 <span id="cat-trust" class="text-lg font-bold text-[#069c4b]">0/25</span>
               </div>
               <div id="checks-trust" class="p-5 space-y-3"></div>
@@ -498,7 +523,7 @@ const robots = "index, follow";
     let scanResults: any = null;
     let questionAnswers: Record<string, string> = {};
     let currentQuestion = 1;
-    const totalQuestions = 5;
+    const totalQuestions = 6;
 
     // --- DOM REFS ---
     const stepInput = document.getElementById('step-input') as HTMLDivElement;
@@ -610,9 +635,10 @@ const robots = "index, follow";
         // Store answer
         if (name === 'q-hero') questionAnswers.heroPromise = value;
         else if (name === 'q-cta') questionAnswers.ctaAboveFold = value;
-        else if (name === 'q-ads') questionAnswers.runningAds = value;
+        else if (name === 'q-problem') questionAnswers.problemSolution = value;
+        else if (name === 'q-whyus') questionAnswers.whyUs = value;
         else if (name === 'q-photos') questionAnswers.brandedPhotos = value;
-        else if (name === 'q-messaging') questionAnswers.messaging = value;
+        else if (name === 'q-ads') questionAnswers.runningAds = value;
 
         // Visual feedback then advance
         setTimeout(() => {
@@ -673,40 +699,46 @@ const robots = "index, follow";
 
     // --- SCORING LOGIC FOR QUESTIONS ---
     function calculateQuestionScores() {
-      let heroScore = 0;
-      let trustPhotoScore = 0;
+      let contentScore = 0;  // Content & Messaging (25 pts from questions)
+      let trustQuestionScore = 0;  // Trust additions (10 pts from questions)
 
-      // Hero promise (8 pts)
-      if (questionAnswers.heroPromise === 'specific') heroScore += 8;
-      else if (questionAnswers.heroPromise === 'generic') heroScore += 3;
+      // Content & Messaging (5 checks, 5 pts each = 25 pts)
 
-      // CTA above fold (9 pts)
-      if (questionAnswers.ctaAboveFold === 'yes') heroScore += 9;
-      else if (questionAnswers.ctaAboveFold === 'unsure') heroScore += 4;
+      // Hero promise (5 pts)
+      if (questionAnswers.heroPromise === 'specific') contentScore += 5;
+      else if (questionAnswers.heroPromise === 'generic') contentScore += 2;
 
-      // Messaging addresses problems (8 pts)
-      if (questionAnswers.messaging === 'specific') heroScore += 8;
-      else if (questionAnswers.messaging === 'generic') heroScore += 3;
+      // CTA above fold (5 pts)
+      if (questionAnswers.ctaAboveFold === 'yes') contentScore += 5;
+      else if (questionAnswers.ctaAboveFold === 'unsure') contentScore += 2;
 
-      // Branded photos (9 pts) — goes to trust
-      if (questionAnswers.brandedPhotos === 'yes') trustPhotoScore = 9;
-      else if (questionAnswers.brandedPhotos === 'some') trustPhotoScore = 5;
+      // Problem & Solution (5 pts)
+      if (questionAnswers.problemSolution === 'yes') contentScore += 5;
+      else if (questionAnswers.problemSolution === 'partial') contentScore += 2;
 
-      return { heroScore, trustPhotoScore };
+      // Why Us / Differentiation (5 pts)
+      if (questionAnswers.whyUs === 'yes') contentScore += 5;
+      else if (questionAnswers.whyUs === 'generic') contentScore += 2;
+
+      // Branded photos (5 pts) — goes to content since it's about site content quality
+      if (questionAnswers.brandedPhotos === 'yes') contentScore += 5;
+      else if (questionAnswers.brandedPhotos === 'some') contentScore += 2;
+
+      return { contentScore, trustQuestionScore };
     }
 
     // --- RENDER RESULTS ---
     function renderResults() {
       if (!scanResults) return;
 
-      const { heroScore, trustPhotoScore } = calculateQuestionScores();
+      const { contentScore, trustQuestionScore } = calculateQuestionScores();
 
       // Adjust scores
-      scanResults.scores.hero = heroScore;
-      scanResults.scores.trust += trustPhotoScore;
+      scanResults.scores.content = contentScore;
+      scanResults.scores.trust += trustQuestionScore;
 
       // Recalculate total
-      scanResults.totalScore = scanResults.scores.technical + scanResults.scores.conversion + scanResults.scores.hero + scanResults.scores.trust;
+      scanResults.totalScore = scanResults.scores.technical + scanResults.scores.conversion + scanResults.scores.content + scanResults.scores.trust;
 
       // Cap at 100
       if (scanResults.totalScore > 100) scanResults.totalScore = 100;
@@ -778,38 +810,44 @@ const robots = "index, follow";
       // Category scores
       (document.getElementById('cat-technical') as HTMLSpanElement).textContent = `${scanResults.scores.technical}/25`;
       (document.getElementById('cat-conversion') as HTMLSpanElement).textContent = `${scanResults.scores.conversion}/25`;
-      (document.getElementById('cat-hero') as HTMLSpanElement).textContent = `${scanResults.scores.hero}/25`;
+      (document.getElementById('cat-content') as HTMLSpanElement).textContent = `${scanResults.scores.content}/25`;
       (document.getElementById('cat-trust') as HTMLSpanElement).textContent = `${scanResults.scores.trust}/25`;
 
-      // Render individual checks
+      // Render individual checks — Technical
       renderCheckGroup('checks-technical', [
         { key: 'mobileResponsive', label: 'Mobile Responsive' },
         { key: 'pageSpeed', label: 'Page Speed' },
         { key: 'ssl', label: 'SSL Certificate' },
-        { key: 'brokenLinks', label: 'Broken Links' }
+        { key: 'brokenLinks', label: 'Broken Links' },
+        { key: 'faqSection', label: 'FAQ Section' }
       ]);
 
+      // Conversion
       renderCheckGroup('checks-conversion', [
         { key: 'phoneVisible', label: 'Phone Number Visible' },
         { key: 'clickToCall', label: 'Click-to-Call on Mobile' },
-        { key: 'contactForm', label: 'Contact Form Present' },
-        { key: 'clearCTAs', label: 'Clear CTAs' }
+        { key: 'contactForm', label: 'Contact Form / Contact Page' },
+        { key: 'clearCTAs', label: 'Clear CTAs' },
+        { key: 'servicesCatalog', label: 'Services Catalog' }
       ]);
 
-      // Hero checks from questions
-      const heroContainer = document.getElementById('checks-hero') as HTMLDivElement;
-      heroContainer.innerHTML = '';
-      renderQuestionCheck(heroContainer, 'Hero Promise', questionAnswers.heroPromise, 8, { specific: 8, generic: 3, unsure: 0 });
-      renderQuestionCheck(heroContainer, 'CTA Above Fold', questionAnswers.ctaAboveFold, 9, { yes: 9, unsure: 4, no: 0 });
-      renderQuestionCheck(heroContainer, 'Problem-Focused Messaging', questionAnswers.messaging, 8, { specific: 8, generic: 3, unsure: 0 });
+      // Content & Messaging (all from questions)
+      const contentContainer = document.getElementById('checks-content') as HTMLDivElement;
+      contentContainer.innerHTML = '';
+      renderQuestionCheck(contentContainer, 'Hero Promise', questionAnswers.heroPromise, 5, { specific: 5, generic: 2, unsure: 0 });
+      renderQuestionCheck(contentContainer, 'CTA Above Fold', questionAnswers.ctaAboveFold, 5, { yes: 5, unsure: 2, no: 0 });
+      renderQuestionCheck(contentContainer, 'Problem & Solution', questionAnswers.problemSolution, 5, { yes: 5, partial: 2, no: 0 });
+      renderQuestionCheck(contentContainer, 'Why Us / Differentiation', questionAnswers.whyUs, 5, { yes: 5, generic: 2, none: 0 });
+      renderQuestionCheck(contentContainer, 'Branded Photos', questionAnswers.brandedPhotos, 5, { yes: 5, some: 2, no: 0 });
 
-      // Trust checks
+      // Trust & Proof (all auto-scan)
       renderCheckGroup('checks-trust', [
-        { key: 'testimonials', label: 'Testimonials/Reviews' },
-        { key: 'credentials', label: 'Credentials Visible' }
+        { key: 'testimonials', label: 'Testimonials / Reviews' },
+        { key: 'resultsOutcomes', label: 'Results / Outcomes' },
+        { key: 'credentials', label: 'Credentials Visible' },
+        { key: 'aboutPage', label: 'About / Team Page' },
+        { key: 'googleBusiness', label: 'Google Business Profile' }
       ]);
-      const trustContainer = document.getElementById('checks-trust') as HTMLDivElement;
-      renderQuestionCheck(trustContainer, 'Branded Photos', questionAnswers.brandedPhotos, 9, { yes: 9, some: 5, no: 0 });
 
       // Set hidden form fields
       (document.getElementById('hidden-audit-url') as HTMLInputElement).value = scanResults.url;
@@ -935,7 +973,7 @@ const robots = "index, follow";
       (document.getElementById('score-number') as HTMLSpanElement).textContent = '0';
       (document.getElementById('top-issues-list') as HTMLDivElement).innerHTML = '';
       (document.getElementById('top-issues-section') as HTMLDivElement).classList.add('hidden');
-      ['checks-technical', 'checks-conversion', 'checks-hero', 'checks-trust'].forEach(id => {
+      ['checks-technical', 'checks-conversion', 'checks-content', 'checks-trust'].forEach(id => {
         (document.getElementById(id) as HTMLDivElement).innerHTML = '';
       });
 
@@ -967,18 +1005,23 @@ const robots = "index, follow";
             url,
             hostname: new URL(url).hostname,
             checks: {
-              mobileResponsive: { score: 0, maxScore: 7, passed: false, details: 'Could not scan — site may be blocking automated requests' },
-              pageSpeed: { score: 0, maxScore: 7, passed: false, details: 'Could not retrieve PageSpeed data' },
+              mobileResponsive: { score: 0, maxScore: 5, passed: false, details: 'Could not scan — site may be blocking automated requests' },
+              pageSpeed: { score: 0, maxScore: 5, passed: false, details: 'Could not retrieve PageSpeed data' },
               ssl: { score: url.startsWith('https') ? 5 : 0, maxScore: 5, passed: url.startsWith('https'), details: url.startsWith('https') ? 'HTTPS detected' : 'Not using HTTPS' },
-              brokenLinks: { score: 3, maxScore: 6, passed: false, details: 'Could not fully scan links' },
-              phoneVisible: { score: 0, maxScore: 7, passed: false, details: 'Could not scan page content' },
-              clickToCall: { score: 0, maxScore: 6, passed: false, details: 'Could not scan page content' },
-              contactForm: { score: 0, maxScore: 6, passed: false, details: 'Could not scan page content' },
-              clearCTAs: { score: 0, maxScore: 6, passed: false, details: 'Could not scan page content' },
-              testimonials: { score: 0, maxScore: 8, passed: false, details: 'Could not scan page content' },
-              credentials: { score: 0, maxScore: 8, passed: false, details: 'Could not scan page content' }
+              brokenLinks: { score: 0, maxScore: 5, passed: false, details: 'Could not fully scan links' },
+              faqSection: { score: 0, maxScore: 5, passed: false, details: 'Could not scan page content' },
+              phoneVisible: { score: 0, maxScore: 5, passed: false, details: 'Could not scan page content' },
+              clickToCall: { score: 0, maxScore: 5, passed: false, details: 'Could not scan page content' },
+              contactForm: { score: 0, maxScore: 5, passed: false, details: 'Could not scan page content' },
+              clearCTAs: { score: 0, maxScore: 5, passed: false, details: 'Could not scan page content' },
+              servicesCatalog: { score: 0, maxScore: 5, passed: false, details: 'Could not scan page content' },
+              testimonials: { score: 0, maxScore: 5, passed: false, details: 'Could not scan page content' },
+              resultsOutcomes: { score: 0, maxScore: 5, passed: false, details: 'Could not scan page content' },
+              credentials: { score: 0, maxScore: 5, passed: false, details: 'Could not scan page content' },
+              aboutPage: { score: 0, maxScore: 5, passed: false, details: 'Could not scan page content' },
+              googleBusiness: { score: 0, maxScore: 5, passed: false, details: 'Could not scan page content' }
             },
-            scores: { technical: url.startsWith('https') ? 8 : 3, conversion: 0, hero: 0, trust: 0 },
+            scores: { technical: url.startsWith('https') ? 5 : 0, conversion: 0, content: 0, trust: 0 },
             totalScore: 0,
             topIssues: [{ name: 'Scan Blocked', details: 'We couldn\'t fully scan your site. This might mean you have security measures in place (good!) but we can only give you partial results.', category: 'Technical' }]
           };
