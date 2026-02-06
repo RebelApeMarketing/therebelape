@@ -590,6 +590,16 @@ const robots = "index, follow";
       }
     }
 
+    // Track readiness for results
+    let scanComplete = false;
+    let questionsComplete = false;
+
+    function checkIfReady() {
+      if (scanComplete && questionsComplete) {
+        renderResults();
+      }
+    }
+
     // Auto-advance when an answer is selected
     document.querySelectorAll('.question-option input[type="radio"]').forEach(radio => {
       radio.addEventListener('change', (e) => {
@@ -609,6 +619,15 @@ const robots = "index, follow";
           currentQuestion++;
           if (currentQuestion <= totalQuestions) {
             showQuestion(currentQuestion);
+          } else {
+            // All questions answered — hide question area, show waiting message if scan isn't done
+            questionsComplete = true;
+            const questionsArea = document.getElementById('questions-area') as HTMLDivElement;
+            if (scanComplete) {
+              checkIfReady();
+            } else {
+              questionsArea.innerHTML = '<div class="text-center py-6"><p class="text-lg font-semibold text-gray-700">Thanks! Finishing up the scan...</p></div>';
+            }
           }
         }, 400);
       });
@@ -628,6 +647,9 @@ const robots = "index, follow";
         { at: 95, check: 'technical', status: 'done' as const },
       ];
 
+      // Show first question immediately
+      showQuestion(1);
+
       const interval = setInterval(() => {
         progress += 1;
         if (progress > 100) progress = 100;
@@ -635,19 +657,12 @@ const robots = "index, follow";
         scanProgressBar.style.width = progress + '%';
         scanPercent.textContent = progress + '%';
 
-        // Trigger checklist steps
+        // Trigger checklist steps only — questions advance on user answer
         steps.forEach(step => {
           if (progress === step.at) {
             updateChecklistItem(step.check, step.status);
           }
         });
-
-        // Show questions at intervals
-        if (progress === 15 && currentQuestion === 1) showQuestion(1);
-        if (progress === 30 && currentQuestion <= 2) { if (currentQuestion < 2) currentQuestion = 2; showQuestion(2); }
-        if (progress === 50 && currentQuestion <= 3) { if (currentQuestion < 3) currentQuestion = 3; showQuestion(3); }
-        if (progress === 65 && currentQuestion <= 4) { if (currentQuestion < 4) currentQuestion = 4; showQuestion(4); }
-        if (progress === 80 && currentQuestion <= 5) { if (currentQuestion < 5) currentQuestion = 5; showQuestion(5); }
 
         if (progress >= 100) {
           clearInterval(interval);
@@ -927,9 +942,9 @@ const robots = "index, follow";
       // Show scanning step
       showStep('scanning');
 
-      // Start scan API call and progress animation in parallel
-      let scanComplete = false;
-      let progressComplete = false;
+      // Reset completion flags
+      scanComplete = false;
+      questionsComplete = false;
 
       const scanPromise = fetch('/.netlify/functions/website-audit-scan', {
         method: 'POST',
@@ -943,7 +958,7 @@ const robots = "index, follow";
           }
           scanResults = data;
           scanComplete = true;
-          if (progressComplete) renderResults();
+          checkIfReady();
         })
         .catch(err => {
           console.error('Scan failed:', err);
@@ -968,12 +983,12 @@ const robots = "index, follow";
             topIssues: [{ name: 'Scan Blocked', details: 'We couldn\'t fully scan your site. This might mean you have security measures in place (good!) but we can only give you partial results.', category: 'Technical' }]
           };
           scanComplete = true;
-          if (progressComplete) renderResults();
+          checkIfReady();
         });
 
       simulateScanProgress(() => {
-        progressComplete = true;
-        if (scanComplete) renderResults();
+        // Progress bar done — scan API may still be running, that's fine.
+        // Results only show when both scan + questions are complete.
       });
     });
 
