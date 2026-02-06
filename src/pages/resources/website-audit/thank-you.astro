@@ -1,0 +1,81 @@
+---
+import Base from '../../../layouts/Base.astro';
+import Hero from '../../../components/sections/Hero.astro';
+import Button from '../../../components/ui/Button.astro';
+
+// SEO
+const title = "Your Website Audit Report Is On The Way | Rebel Ape Marketing";
+const description = "Check your email for your full website audit report with prioritized action steps and examples.";
+const canonical = "https://therebelape.com/resources/website-audit/thank-you/";
+const type = "website";
+const robots = "noindex, nofollow";
+---
+
+<Base {title} {description} {canonical} {type} {robots}>
+  <section>
+    <section class="py-16 md:py-24 section-checkers">
+      <div class="max-w-3xl mx-auto px-4">
+        <div class="bg-white rounded-2xl shadow-2xl overflow-hidden">
+          <div class="h-2 bg-[#32C55F]"></div>
+          <div class="p-8 md:p-12 text-center">
+
+            <!-- Success Icon -->
+            <div class="w-20 h-20 bg-[#32C55F] rounded-full flex items-center justify-center mx-auto mb-8">
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" class="w-10 h-10 text-white">
+                <path fill-rule="evenodd" d="M19.916 4.626a.75.75 0 0 1 .208 1.04l-9 13.5a.75.75 0 0 1-1.154.114l-6-6a.75.75 0 0 1 1.06-1.06l5.353 5.353 8.493-12.74a.75.75 0 0 1 1.04-.207Z" clip-rule="evenodd" />
+              </svg>
+            </div>
+
+            <h1 class="text-4xl md:text-5xl font-black text-gray-900 mb-4">
+              Check Your Email
+            </h1>
+            <p class="text-lg text-gray-600 mb-8 max-w-xl mx-auto">
+              We just sent your full website audit report. Here's what's in it:
+            </p>
+
+            <div class="text-left max-w-md mx-auto mb-10">
+              <ul class="space-y-4">
+                <li class="flex gap-3">
+                  <span class="text-[#32C55F] text-xl font-bold flex-shrink-0">&#10003;</span>
+                  <span class="text-gray-700">Complete breakdown of all 14 checks</span>
+                </li>
+                <li class="flex gap-3">
+                  <span class="text-[#32C55F] text-xl font-bold flex-shrink-0">&#10003;</span>
+                  <span class="text-gray-700">Prioritized action steps (fix this first, then this, then this)</span>
+                </li>
+                <li class="flex gap-3">
+                  <span class="text-[#32C55F] text-xl font-bold flex-shrink-0">&#10003;</span>
+                  <span class="text-gray-700">Specific instructions for how to fix each issue</span>
+                </li>
+                <li class="flex gap-3">
+                  <span class="text-[#32C55F] text-xl font-bold flex-shrink-0">&#10003;</span>
+                  <span class="text-gray-700">What "good" looks like for each area</span>
+                </li>
+              </ul>
+            </div>
+
+            <div class="border-t-2 border-slate-100 pt-8 mb-8">
+              <h2 class="text-2xl font-bold text-gray-900 mb-3">
+                Want Help Actually Fixing This Stuff?
+              </h2>
+              <p class="text-gray-600 mb-6 max-w-lg mx-auto">
+                Schedule a free strategy call and let's talk about your specific situation. We'll walk through your audit results together and map out a plan.
+              </p>
+              <Button text="Schedule a Strategy Call" icon="calendar" href="/schedule/" />
+            </div>
+
+            <div class="flex flex-col sm:flex-row gap-4 justify-center mt-6">
+              <a href="/resources/website-audit/" class="text-[#069c4b] hover:text-[#057a3b] font-semibold underline underline-offset-4">
+                Scan Another Website
+              </a>
+              <span class="hidden sm:inline text-gray-300">|</span>
+              <a href="/resources/" class="text-[#069c4b] hover:text-[#057a3b] font-semibold underline underline-offset-4">
+                View More Resources
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+  </section>
+</Base>
