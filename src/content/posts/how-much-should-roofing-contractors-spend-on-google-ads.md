@@ -8,7 +8,7 @@ lastModified: "2026-02-07T09:00:00-07:00"
 author: "Adam Miconi"
 image: "https://RebelApeCDN.b-cdn.net/featured-google-ads-budget.webp"
 canonicalUrl: "https://therebelape.com/blog/how-much-should-roofing-contractors-spend-on-google-ads/"
-category: "PPC"
+categories: ["PPC"]
 tags: ["roofing marketing", "Google Ads", "PPC strategy", "contractor marketing", "lead generation"]
 draft: false
 ---
