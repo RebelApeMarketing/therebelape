@@ -1,0 +1,33 @@
+---
+const year = new Date().getFullYear();
+---
+
+<footer class="bg-zinc-900 text-white">
+    <div class="max-w-7xl mx-auto px-6 py-8">
+        <!-- Gorilla Icon -->
+        <div class="flex justify-center mb-6">
+            <img
+                src="https://RebelApeCDN.b-cdn.net/brand-rebel-ape-icon-white.svg"
+                alt="Rebel Ape Marketing"
+                width="80"
+                class="opacity-80"
+            />
+        </div>
+
+        <!-- Divider -->
+        <div class="border-t border-gray-700 pt-6">
+            <div class="flex flex-col sm:flex-row items-center justify-between gap-4">
+                <!-- Copyright Left -->
+                <p class="text-gray-400 text-sm">
+                    &copy; {year} Rebel Ape Marketing. All Rights Reserved.
+                </p>
+
+                <!-- Legal Links Right -->
+                <nav class="flex items-center gap-4">
+                    <a href="/legal/privacy-policy/" class="text-gray-400 text-sm hover:text-white transition">Privacy Policy</a>
+                    <a href="/legal/terms-and-conditions/" class="text-gray-400 text-sm hover:text-white transition">Terms & Conditions</a>
+                </nav>
+            </div>
+        </div>
+    </div>
+</footer>

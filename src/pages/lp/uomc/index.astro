@@ -1,5 +1,5 @@
 ---
-import Base from '../../../layouts/Base.astro';
+import LandingPage from '../../../layouts/LandingPage.astro';
 import SocialProofBar from '../../../components/sections/SocialProofBar.astro';
 import CaseStudy from '../../../components/sections/CaseStudy.astro';
 import TestimonialsDefault from '../../../components/testimonials/TestimonialsDefault.astro';
@@ -10,13 +10,13 @@ import Button from '../../../components/ui/Button.astro';
 // SEO
 const title = "Roofing Marketing Checklist | Generate Consistent Roofing Leads";
 const description = "Download the free Roofing Marketing Checklist and turn visitors into booked inspections and replacements. Fix conversion leaks, rank in local maps, and grow consistently.";
-const canonical = "https://therebelape.com/resources/uomc/";
+const canonical = "https://therebelape.com/lp/uomc/";
 const image = "https://RebelApeCDN.b-cdn.net/uomc-featured-image.webp";
 const type = "website";
-const robots = "index, follow";
+const robots = "noindex, nofollow";
 ---
 
-<Base {title} {description} {canonical} {image} {type} {robots}>
+<LandingPage {title} {description} {canonical} {image} {type} {robots}>
   <!-- Schema Markup -->
   <OrganizationSchema slot="head" />
   <WebPageSchema
@@ -100,21 +100,21 @@ const robots = "index, follow";
             </div>
 
             <!-- Checkmarks -->
-            <p class="flex flex-col md:flex-row gap-3 md:space-x-4 text-md justify-center lg:justify-start items-center text-center">
+            <p class="flex flex-row gap-3 space-x-4 text-md justify-center lg:justify-start items-center">
               <span class="inline-block">
                 <span class="text-rebel-green mr-2">✓</span> Fix Conversion Leaks
               </span>
               <span class="inline-block">
                 <span class="text-rebel-green mr-2">✓</span> Rank in Local Maps
               </span>
-              <span class="inline-block">
+              <span class="hidden lg:inline-block">
                 <span class="text-rebel-green mr-2">✓</span> Grow Consistently
               </span>
             </p>
           </div>
 
           <!-- Right side: Booklet image with padding -->
-          <div class="w-full lg:w-[45%] flex justify-center lg:justify-end items-center py-6">
+          <div class="w-full lg:w-[45%] flex justify-center lg:justify-end items-center pt-2 pb-6 lg:py-10">
             <img
               src="https://RebelApeCDN.b-cdn.net/uomc-book.webp"
               alt="Ultimate Roofing Marketing Checklist"
@@ -292,16 +292,16 @@ const robots = "index, follow";
               <p class="text-gray-600 mb-6 text-center">Simply fill out the form, and we'll email it to you.</p>
 
               <form
-                name="uomc-signup"
+                name="uomc-lp"
                 method="POST"
                 data-netlify="true"
                 netlify-honeypot="bot-field"
-                action="/resources/uomc/thank-you/"
+                action="/lp/uomc/thank-you/"
                 class="space-y-4"
               >
                 <!-- Honeypot field for spam protection -->
                 <input type="hidden" name="bot-field" />
-                <input type="hidden" name="form-name" value="uomc-signup" />
+                <input type="hidden" name="form-name" value="uomc-lp" />
 
                 <div>
                   <label for="name" class="block text-sm font-medium text-gray-900 mb-2">
@@ -374,4 +374,4 @@ const robots = "index, follow";
     </section>
 
   </section>
-</Base>
+</LandingPage>

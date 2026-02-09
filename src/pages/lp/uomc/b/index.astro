@@ -1,22 +1,22 @@
 ---
-import Base from '../../../layouts/Base.astro';
-import SocialProofBar from '../../../components/sections/SocialProofBar.astro';
-import CaseStudy from '../../../components/sections/CaseStudy.astro';
-import TestimonialsDefault from '../../../components/testimonials/TestimonialsDefault.astro';
-import OrganizationSchema from '../../../components/schema/OrganizationSchema.astro';
-import WebPageSchema from '../../../components/schema/WebPageSchema.astro';
-import Button from '../../../components/ui/Button.astro';
+import LandingPage from '../../../../layouts/LandingPage.astro';
+import SocialProofBar from '../../../../components/sections/SocialProofBar.astro';
+import CaseStudy from '../../../../components/sections/CaseStudy.astro';
+import TestimonialsDefault from '../../../../components/testimonials/TestimonialsDefault.astro';
+import OrganizationSchema from '../../../../components/schema/OrganizationSchema.astro';
+import WebPageSchema from '../../../../components/schema/WebPageSchema.astro';
+import Button from '../../../../components/ui/Button.astro';
 
 // SEO
 const title = "Roofing Marketing Checklist | Generate Consistent Roofing Leads";
 const description = "Download the free Roofing Marketing Checklist and turn visitors into booked inspections and replacements. Fix conversion leaks, rank in local maps, and grow consistently.";
-const canonical = "https://therebelape.com/resources/uomc/";
+const canonical = "https://therebelape.com/lp/uomc/b/";
 const image = "https://RebelApeCDN.b-cdn.net/uomc-featured-image.webp";
 const type = "website";
-const robots = "index, follow";
+const robots = "noindex, nofollow";
 ---
 
-<Base {title} {description} {canonical} {image} {type} {robots}>
+<LandingPage {title} {description} {canonical} {image} {type} {robots}>
   <!-- Schema Markup -->
   <OrganizationSchema slot="head" />
   <WebPageSchema
@@ -131,8 +131,6 @@ const robots = "index, follow";
     <link rel="preload" href="https://RebelApeCDN.b-cdn.net/hero-roofing-background.webp" as="image" />
     <link rel="preload" href="https://RebelApeCDN.b-cdn.net/uomc-book.webp" as="image" />
 
-    <SocialProofBar />
-
     <!-- What You Get Section - Side by Side -->
     <section class="py-16 md:py-24 section-checkers">
       <div class="max-w-7xl mx-auto px-6">
@@ -212,30 +210,15 @@ const robots = "index, follow";
               </div>
             </div>
 
-            <!-- CTA Button -->
-            <div class="pt-4">
-              <a href="#get-checklist" class="inline-flex items-center justify-center rounded-[10px] px-8 py-4 text-lg md:text-xl font-semibold text-black bg-yellow-400 shadow-sm hover:bg-yellow-500 transition transform hover:scale-105">
-                Yes, Send Me My Free Checklist
-              </a>
-            </div>
+
           </div>
 
         </div>
       </div>
     </section>
 
-    <!-- Testimonials -->
-    <section class="py-16 md:py-24 section-slate">
-      <TestimonialsDefault />
-    </section>
-
-    <!-- Case Studies -->
-    <section class="py-16 md:py-24 section-checkers">
-      <CaseStudy />
-    </section>
-
     <!-- Final CTA with Form -->
-    <section id="get-checklist" class="pt-16 md:pt-24 pb-0 section-slate overflow-hidden">
+    <section id="get-checklist" class="pt-16 md:pt-24 pb-16 md:pb-24 section-slate overflow-hidden">
       <div class="max-w-7xl mx-auto px-6">
         <div class="grid grid-cols-1 lg:grid-cols-5 gap-12 items-start">
 
@@ -292,16 +275,16 @@ const robots = "index, follow";
               <p class="text-gray-600 mb-6 text-center">Simply fill out the form, and we'll email it to you.</p>
 
               <form
-                name="uomc-signup"
+                name="uomc-lp-b"
                 method="POST"
                 data-netlify="true"
                 netlify-honeypot="bot-field"
-                action="/resources/uomc/thank-you/"
+                action="/lp/uomc/thank-you/"
                 class="space-y-4"
               >
                 <!-- Honeypot field for spam protection -->
                 <input type="hidden" name="bot-field" />
-                <input type="hidden" name="form-name" value="uomc-signup" />
+                <input type="hidden" name="form-name" value="uomc-lp-b" />
 
                 <div>
                   <label for="name" class="block text-sm font-medium text-gray-900 mb-2">
@@ -362,16 +345,7 @@ const robots = "index, follow";
         </div>
       </div>
 
-      <!-- Full Width Spread Image - No padding bottom, touches section bottom -->
-      <div class="w-full max-w-7xl mx-auto mt-12">
-        <img
-          src="https://RebelApeCDN.b-cdn.net/uomc-booklet-spread-trans.webp"
-          alt="UOMC Booklet Spread"
-          class="w-full"
-          loading="lazy"
-        />
-      </div>
     </section>
 
   </section>
-</Base>
+</LandingPage>
