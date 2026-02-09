@@ -1,5 +1,5 @@
 ---
-title: "The Two-Phase Contractor Marketing System: Revenue Now, Authority Later"
+title: "Contractors Should Not Use The Marketing Maturity Model"
 slug: "two-phase-marketing-system"
 description: "Most contractors build their marketing backwards. Here's why starting with ads before your brand is perfect gets you to revenue faster—and builds better authority."
 excerpt: "Most agencies make contractors spend months building their 'foundation' before generating a single lead. Here's why that's backwards—and what to do instead."
