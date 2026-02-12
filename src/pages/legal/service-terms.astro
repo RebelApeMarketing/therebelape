@@ -1,0 +1,22 @@
+---
+import Base from '../../layouts/Base.astro';
+import ServiceTermsContent from '../../content/pages/service-terms.md';
+
+// SEO — noindex, nofollow: this page is only shared via direct link
+const title = "Service Agreement Terms | Rebel Ape Marketing";
+const description = "Service Agreement Terms for Rebel Ape Marketing clients. Covers engagement terms, fees, termination, website ownership, and more.";
+const canonical = "https://therebelape.com/legal/service-terms/";
+const image = "https://RebelApeCDN.b-cdn.net/featured-terms-and-conditions.webp";
+const type = "website";
+const robots = "noindex, nofollow";
+---
+
+<Base {title} {description} {canonical} {image} {type} {robots}>
+
+  <section class={`py-12 md:py-16 section-checkers`}>
+    <article class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 prose prose-slate">
+      <ServiceTermsContent />
+    </article>
+  </section>
+
+</Base>
