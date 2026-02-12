@@ -24,7 +24,7 @@ Rebel Ape reserves the right to adjust monthly fees with 45 days written notice 
 
 ## 4. Ad Spend
 
-Client is responsible for all advertising spend paid directly to advertising platforms (Google Ads, Meta, etc.). Ad budgets are separate from Rebel Ape's management fees and are outlined in the Program Overview.
+Client is responsible for all advertising spend paid directly to advertising platforms (Google Ads, Meta, etc.). Ad budgets are separate from Rebel Ape's management fees and are outlined in the Program Overview. Each advertising platform maintains its own terms of service, billing policies, and account requirements that are independent of this Agreement. Client is responsible for reviewing and complying with those terms.
 
 Ad campaigns launch once setup is complete — typically 2-3 weeks after kickoff, depending on platform approval and verification processes. Client is not billed for ad spend until campaigns are live.
 
@@ -44,7 +44,7 @@ Client authorizes Rebel Ape to:
 
 Client consents to the placement of tracking phone numbers on Client's website and marketing materials, and to the recording of all calls routed through those tracking numbers.
 
-Tracking numbers remain active during the term of this Agreement. Upon termination, and provided Client has paid all fees in full, Rebel Ape will port tracking numbers to Client at no additional cost within a reasonable timeframe.
+Tracking numbers remain active for 30 days following termination to allow Client to port them to the provider of their choice. Any fees associated with porting or activating numbers with a new provider are the responsibility of the Client.
 
 ## 7. Pay-Per-Click Campaigns & Intellectual Property
 
@@ -56,17 +56,15 @@ Client may review campaign performance through reports and shared screen session
 
 ## 8. Website Ownership & Hosting
 
-**During the Agreement:** Rebel Ape hosts Client's website on our servers at no additional charge as part of the active Agreement. Email hosting is not included. If Client requires email hosting (email@yourdomain.com), that can be configured through Client's IT provider or a provider recommended by Rebel Ape at an additional cost paid directly to that provider.
+**During the Agreement:** Rebel Ape typically transfers Client's website to our managed servers as part of onboarding, unless there is a strong technical reason to keep the website on its current host. In some cases, the migration process may cause brief downtime or minor disruptions while the transfer is completed. Website hosting on Rebel Ape's servers is included at no additional charge during the term of the Agreement. Email hosting is not included. If Client requires email hosting (email@yourdomain.com), that can be configured through Client's IT provider or a provider recommended by Rebel Ape at an additional cost paid directly to that provider.
 
-**Website Ownership — Month-to-Month Clients:** Client's setup fee covers the cost of website development. The website is Client's property from day one. Upon termination, Client may take their website files as outlined in Section 10.
+**Website Ownership — Month-to-Month Clients:** The website becomes Client's property once development is complete. Upon termination, Client may take their website files as outlined in Section 10.
 
 **Website Ownership — 12-Month Commitment Clients:** Because the setup fee was waived, Client earns ownership of the website upon completion of all 12 monthly payments. If Client terminates before completing 12 months of payments, website ownership is addressed in Section 10.
 
 ## 9. Content Updates & Design Changes
 
-Unless otherwise specified in the Program Overview, Client is entitled to a set number of content update requests per month as outlined in their program. Requests beyond the included amount will be billed at Rebel Ape's standard hourly rate.
-
-If Client requests changes that amount to a substantial revision (50% or more of the original scope), Rebel Ape reserves the right to submit a revised proposal for approval before proceeding.
+Unless otherwise specified in the Program Overview, Client is entitled to a set number of content update requests per month as outlined in their program. If Client requests revisions beyond the agreed-upon scope, additional revisions will be charged at Rebel Ape's current hourly rate. Contact Rebel Ape for details.
 
 ## 10. Termination & Transition
 
@@ -81,7 +79,7 @@ If Client requests changes that amount to a substantial revision (50% or more of
 - **(i)** Pay Rebel Ape $50/month for continued hosting.
 - **(ii)** Request a complete backup of website files and database to migrate independently or through Client's own IT provider.
 
-If Client has not migrated within 30 days and has not arranged continued hosting, Rebel Ape reserves the right to remove the website from our servers without notice or liability.
+If Client has not migrated within 30 days and has not arranged continued hosting, all website files, hosting, applications, advertising accounts, call tracking numbers, and any other assets managed by Rebel Ape will be permanently deleted from our platforms and are not recoverable.
 
 **Post-Termination Responsibility:** Once the website is transferred, Client or their third-party provider assumes full responsibility for the website, including but not limited to WordPress updates, plugin compatibility, hosting, security, and ongoing functionality. Rebel Ape is not liable for any issues arising after transfer.
 
@@ -89,7 +87,7 @@ If Client has not migrated within 30 days and has not arranged continued hosting
 
 Client acknowledges and agrees to the following:
 
-- **(i)** Rebel Ape does not and cannot guarantee specific search engine rankings, lead volumes, or revenue outcomes. Marketing results depend on numerous factors outside of Rebel Ape's control, including but not limited to market conditions, competition, search engine algorithm changes, and Client's own business operations.
+- **(i)** Rebel Ape does not and cannot guarantee specific search engine rankings, lead volumes, or revenue outcomes. Marketing results depend on numerous factors outside of Rebel Ape's control, including but not limited to market conditions, competition, search engine algorithm changes, and Client's own business operations such as sales processes, close rates, and customer experience.
 - **(ii)** Search engines may change algorithms, drop listings, or alter ranking criteria at any time without notice.
 - **(iii)** SEO results typically take 6-8 months to compound. PPC results begin once campaigns launch but improve over time as campaigns are optimized.
 - **(iv)** Rebel Ape will use commercially reasonable efforts to deliver the best possible results within Client's budget and market conditions, and will communicate transparently about what is and isn't working.
@@ -126,8 +124,3 @@ Rebel Ape shall not be liable for delays or failure to perform due to circumstan
 By paying your first invoice, Client acknowledges that they have read and agree to these Service Agreement Terms and the Program Overview provided by Rebel Ape Marketing.
 
 **No signature is required. Payment constitutes acceptance.**
-
----
-
-Rebel Ape Marketing LLC
-[therebelape.com/legal/service-terms/](/legal/service-terms/)
