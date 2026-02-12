@@ -1,8 +1,12 @@
 ---
 import Base from '../../layouts/Base.astro';
+import Hero from '../../components/sections/Hero.astro';
+import SocialProofBar from '../../components/sections/SocialProofBar.astro';
+import Button from '../../components/ui/Button.astro';
 
+// SEO
 const title = "Legal | Rebel Ape Marketing";
-const description = "Terms of Service, Privacy Policy, and legal information for Rebel Ape Marketing services.";
+const description = "Terms and Conditions, Privacy Policy, and legal information for Rebel Ape Marketing. Transparent policies written like humans — no legalese, no surprises.";
 const canonical = "https://therebelape.com/legal/";
 const image = "https://RebelApeCDN.b-cdn.net/bg-gorilla-direct.webp";
 const type = "website";
@@ -10,111 +14,97 @@ const robots = "index, follow";
 ---
 
 <Base {title} {description} {canonical} {image} {type} {robots}>
-  <!-- Header -->
-  <section class="py-16 bg-slate-900">
-    <div class="max-w-4xl mx-auto px-6 text-center">
-      <h1 class="text-4xl md:text-5xl font-black text-white mb-4">Legal</h1>
-      <p class="text-xl text-gray-300">Terms of Service, Privacy Policy, and important legal information</p>
+  <section>
+    <Hero
+      title="The <span class='text-rebel-green'>Legal Stuff</span>"
+      subtitle="Transparent. Straightforward. <span class='text-rebel-green'>No BS.</span>"
+      description="We keep our policies clear and our expectations honest. Here's where you'll find everything you need to know about how we handle your data and the rules of working together."
+      features={[
+        'Terms & Conditions',
+        'Privacy Policy',
+        'Written Like Humans'
+      ]}
+      buttonText="Schedule Strategy Session"
+      buttonIcon="calendar"
+      buttonHref="/schedule/"
+      fetchpriority="high"
+    />
+    <SocialProofBar />
+  </section>
+
+  <!-- Intro -->
+  <section class="py-16 md:py-24 section-checkers">
+    <div class="max-w-4xl mx-auto px-4 text-center">
+      <h2 class="text-3xl md:text-4xl font-bold mb-6">
+        We Believe in <span class="text-rebel-green">Transparency</span>
+      </h2>
+      <p class="text-lg text-gray-700">
+        Nobody likes reading legal pages. We get it. But these documents exist to protect both of us and to make sure we're on the same page from day one. We've written them in plain language so you actually know what you're agreeing to.
+      </p>
     </div>
   </section>
 
-  <!-- Legal Content -->
-  <section class="py-16 bg-white">
-    <div class="max-w-4xl mx-auto px-6">
-      
-      <!-- Terms of Service -->
-      <div class="mb-16">
-        <h2 class="text-3xl font-black mb-6">Terms of Service</h2>
-        <p class="text-sm text-gray-500 mb-6">Last Updated: January 2026</p>
-        
-        <div class="prose prose-lg max-w-none">
-          <h3 class="text-2xl font-bold mb-4">1. Agreement to Terms</h3>
-          <p class="mb-6 text-gray-700">By accessing or using Rebel Ape Marketing's services, you agree to be bound by these Terms of Service. If you disagree with any part of these terms, you may not access our services.</p>
+  <!-- Terms and Conditions: Text Left, Image Right -->
+  <section class="py-16 md:py-24 section-slate">
+    <div class="max-w-7xl mx-auto px-4">
+      <div class="grid grid-cols-1 lg:grid-cols-3 gap-12 lg:gap-16 items-stretch">
+        <!-- Text: 2/3 width -->
+        <div class="order-2 lg:order-1 lg:col-span-2 flex flex-col justify-center">
+          <h2 class="text-4xl md:text-5xl font-bold mb-6">
+            <span class="text-rebel-green">Terms & Conditions</span>
+          </h2>
+          <p class="text-lg text-gray-700 mb-6">
+            The rules of engagement for using our website and services. Covers everything from intellectual property and payment terms to liability, dispute resolution, and what happens if things don't work out. No surprises — just clear expectations for both sides.
+          </p>
+          <div>
+            <Button text="Read Terms & Conditions" href="/legal/terms-and-conditions/" icon="arrow-right" />
+          </div>
+        </div>
 
-          <h3 class="text-2xl font-bold mb-4">2. Services</h3>
-          <p class="mb-6 text-gray-700">Rebel Ape Marketing provides digital marketing services including but not limited to landing page development, Google Ads management, Meta Ads management, and marketing consulting for home service companies.</p>
-
-          <h3 class="text-2xl font-bold mb-4">3. Client Responsibilities</h3>
-          <p class="mb-4 text-gray-700">Clients agree to:</p>
-          <ul class="list-disc pl-6 mb-6 text-gray-700 space-y-2">
-            <li>Provide accurate and timely information required for service delivery</li>
-            <li>Review and approve deliverables within agreed-upon timeframes</li>
-            <li>Maintain active communication throughout the engagement</li>
-            <li>Pay invoices according to agreed payment terms</li>
-          </ul>
-
-          <h3 class="text-2xl font-bold mb-4">4. Payment Terms</h3>
-          <p class="mb-6 text-gray-700">Payment terms are outlined in individual service agreements. Late payments may result in suspension of services. All fees are non-refundable unless otherwise specified in writing.</p>
-
-          <h3 class="text-2xl font-bold mb-4">5. Intellectual Property</h3>
-          <p class="mb-6 text-gray-700">Upon full payment, clients receive ownership of custom work created specifically for them. Rebel Ape Marketing retains rights to pre-existing templates, frameworks, and methodologies. We reserve the right to showcase client work in our portfolio unless otherwise agreed in writing.</p>
-
-          <h3 class="text-2xl font-bold mb-4">6. Service Performance</h3>
-          <p class="mb-6 text-gray-700">While we work diligently to achieve optimal results, Rebel Ape Marketing does not guarantee specific outcomes, rankings, or ROI. Marketing performance depends on multiple factors including market conditions, competition, and client cooperation.</p>
-
-          <h3 class="text-2xl font-bold mb-4">7. Termination</h3>
-          <p class="mb-6 text-gray-700">Either party may terminate services with 30 days written notice. Clients are responsible for payment of all services rendered up to the termination date. Early termination fees may apply as outlined in individual service agreements.</p>
-
-          <h3 class="text-2xl font-bold mb-4">8. Limitation of Liability</h3>
-          <p class="mb-6 text-gray-700">Rebel Ape Marketing's liability is limited to the amount paid for services in the preceding 12 months. We are not liable for indirect, incidental, or consequential damages.</p>
+        <!-- Image: 1/3 width -->
+        <div class="order-1 lg:order-2 flex">
+          <img
+            src="https://RebelApeCDN.b-cdn.net/featured-terms-and-conditions.webp"
+            alt="Rebel Ape Marketing Terms and Conditions"
+            class="w-full h-auto lg:h-full object-cover rounded-lg"
+            loading="lazy"
+            width="600"
+            height="400"
+          />
         </div>
       </div>
+    </div>
+  </section>
 
-      <!-- Privacy Policy -->
-      <div class="mb-16 pt-16 border-t border-gray-200">
-        <h2 class="text-3xl font-black mb-6">Privacy Policy</h2>
-        <p class="text-sm text-gray-500 mb-6">Last Updated: January 2026</p>
-        
-        <div class="prose prose-lg max-w-none">
-          <h3 class="text-2xl font-bold mb-4">Information We Collect</h3>
-          <p class="mb-4 text-gray-700">We collect information that you provide directly to us, including:</p>
-          <ul class="list-disc pl-6 mb-6 text-gray-700 space-y-2">
-            <li>Name, email address, phone number, and company information</li>
-            <li>Payment and billing information</li>
-            <li>Communications between you and Rebel Ape Marketing</li>
-            <li>Website analytics and usage data</li>
-          </ul>
+  <!-- Privacy Policy: Image Left, Text Right -->
+  <section class="py-16 md:py-24 section-checkers">
+    <div class="max-w-7xl mx-auto px-4">
+      <div class="grid grid-cols-1 lg:grid-cols-3 gap-12 lg:gap-16 items-stretch">
+        <!-- Image: 1/3 width -->
+        <div class="order-1 lg:order-1 flex">
+          <img
+            src="https://RebelApeCDN.b-cdn.net/featured-privacy-policy.webp"
+            alt="Rebel Ape Marketing Privacy Policy"
+            class="w-full h-auto lg:h-full object-cover rounded-lg"
+            loading="lazy"
+            width="600"
+            height="400"
+          />
+        </div>
 
-          <h3 class="text-2xl font-bold mb-4">How We Use Your Information</h3>
-          <p class="mb-4 text-gray-700">We use collected information to:</p>
-          <ul class="list-disc pl-6 mb-6 text-gray-700 space-y-2">
-            <li>Provide, maintain, and improve our services</li>
-            <li>Process transactions and send related information</li>
-            <li>Send technical notices and support messages</li>
-            <li>Communicate about services, offers, and updates</li>
-            <li>Monitor and analyze trends and usage</li>
-          </ul>
-
-          <h3 class="text-2xl font-bold mb-4">Information Sharing</h3>
-          <p class="mb-6 text-gray-700">We do not sell your personal information. We may share information with service providers who assist in our operations, or as required by law. All third parties are bound by confidentiality obligations.</p>
-
-          <h3 class="text-2xl font-bold mb-4">Data Security</h3>
-          <p class="mb-6 text-gray-700">We implement appropriate security measures to protect your personal information. However, no method of transmission over the Internet is 100% secure, and we cannot guarantee absolute security.</p>
-
-          <h3 class="text-2xl font-bold mb-4">Your Rights</h3>
-          <p class="mb-6 text-gray-700">You have the right to access, correct, or delete your personal information. Contact us at your request email to exercise these rights.</p>
-
-          <h3 class="text-2xl font-bold mb-4">Cookies</h3>
-          <p class="mb-6 text-gray-700">We use cookies and similar tracking technologies to track activity on our website. You can instruct your browser to refuse cookies, though some features may not function properly.</p>
+        <!-- Text: 2/3 width -->
+        <div class="order-2 lg:order-2 lg:col-span-2 flex flex-col justify-center">
+          <h2 class="text-4xl md:text-5xl font-bold mb-6">
+            <span class="text-rebel-green">Privacy Policy</span>
+          </h2>
+          <p class="text-lg text-gray-700 mb-6">
+            How we collect, use, and protect your personal information. We don't sell your data, we don't spam you, and we don't play games with your privacy. This policy breaks down exactly what we collect, why we collect it, and what your rights are.
+          </p>
+          <div>
+            <Button text="Read Privacy Policy" href="/legal/privacy-policy/" icon="arrow-right" />
+          </div>
         </div>
       </div>
-
-      <!-- Disclaimer -->
-      <div class="pt-16 border-t border-gray-200">
-        <h2 class="text-3xl font-black mb-6">Disclaimer</h2>
-        
-        <div class="prose prose-lg max-w-none">
-          <p class="mb-6 text-gray-700">The information provided on this website and through our services is for general informational purposes only. All information is provided in good faith, however we make no representation or warranty of any kind regarding the accuracy, adequacy, validity, reliability, or completeness of any information.</p>
-
-          <p class="mb-6 text-gray-700">Your use of our services and reliance on any information is solely at your own risk. We are not liable for any losses or damages in connection with the use of our services.</p>
-
-          <h3 class="text-2xl font-bold mb-4 mt-8">Contact Information</h3>
-          <p class="mb-2 text-gray-700"><strong>Rebel Ape Marketing</strong></p>
-          <p class="mb-2 text-gray-700">North Ogden, Utah</p>
-          <p class="mb-6 text-gray-700">For legal inquiries, please contact us through our website contact form.</p>
-        </div>
-      </div>
-
     </div>
   </section>
 
