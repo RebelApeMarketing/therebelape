@@ -65,8 +65,9 @@ const year = new Date().getFullYear();
             <!-- Right: Contact Form -->
             <div class="flex flex-col gap-4">
                 <h3 class="font-bold text-xl text-rebel-green">Get In Touch</h3>
-                <form name="contact" data-netlify="true" class="flex flex-col gap-3">
-                    <input 
+                <form name="contact" data-netlify="true" netlify-honeypot="bot-field" class="flex flex-col gap-3">
+                    <input type="hidden" name="bot-field" />
+                    <input
                         type="text" 
                         name="name" 
                         placeholder="Your Name" 
