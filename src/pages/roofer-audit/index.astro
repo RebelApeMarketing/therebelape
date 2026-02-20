@@ -1,7 +1,6 @@
 ---
 import LandingPage from '../../layouts/LandingPage.astro';
-import CaseStudy from '../../components/sections/CaseStudy.astro';
-import TestimonialsDefault from '../../components/testimonials/TestimonialsDefault.astro';
+import Stars from '../../components/ui/Stars.astro';
 
 const canonical = "https://therebelape.com/roofer-audit/";
 const title = "Free Roofing Marketing Audit | Rebel Ape";
@@ -38,7 +37,7 @@ const robots = "noindex,nofollow";
         </div>
 
         <!-- Row 2: Left = hook + gorillas, Right = form -->
-        <div class="flex flex-col lg:flex-row items-start">
+        <div id="audit-form" class="flex flex-col lg:flex-row items-start">
 
           <!-- Left: Hook text + gorillas -->
           <div class="w-full lg:w-[55%] flex flex-col text-white text-center lg:text-left pt-4 pb-0">
@@ -259,7 +258,7 @@ const robots = "noindex,nofollow";
           <p class="text-gray-500 uppercase tracking-widest text-sm font-bold mb-1">Total Value</p>
           <p class="text-8xl font-black text-gray-900 leading-none mb-2">$1,196</p>
           <p class="text-3xl md:text-4xl font-black text-rebel-green mb-8">We're Offering This To You Free of Charge</p>
-          <a href="#" onclick="window.scrollTo({top:0,behavior:'smooth'});return false;"
+          <a href="#audit-form"
             class="inline-flex items-center justify-center rounded-xl px-10 py-5 text-xl font-bold text-black bg-yellow-400 hover:bg-yellow-500 transition transform hover:scale-105 shadow-sm">
             Apply For My Free Audit →
           </a>
@@ -313,7 +312,7 @@ const robots = "noindex,nofollow";
           <p class="text-lg text-gray-600 max-w-xl mx-auto mb-8">
             Your market. Your website. Your service area. Not a generic checklist — a specific plan for what it would take to own the top spot in your area.
           </p>
-          <a href="#" onclick="window.scrollTo({top:0,behavior:'smooth'});return false;"
+          <a href="#audit-form"
             class="inline-flex items-center justify-center rounded-xl px-10 py-5 text-xl font-bold text-black bg-yellow-400 hover:bg-yellow-500 transition transform hover:scale-105 shadow-sm">
             Apply For My Free Audit →
           </a>
@@ -325,12 +324,125 @@ const robots = "noindex,nofollow";
 
     <!-- TESTIMONIALS -->
     <section class="py-16 md:py-24 section-checkers">
-      <TestimonialsDefault />
+      <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+        <div class="text-center mb-16">
+          <h2 class="text-4xl md:text-5xl font-black text-gray-900 mb-4">
+            Real Reviews From Real Roofers
+          </h2>
+          <p class="text-lg md:text-xl text-gray-600 max-w-2xl mx-auto">
+            See what roofing contractors say about working with Rebel Ape.
+          </p>
+        </div>
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
+
+          <!-- Review 1 -->
+          <div class="bg-white rounded-lg shadow-2xl overflow-hidden border border-gray-200">
+            <div class="h-1 bg-rebel-green"></div>
+            <div class="p-8">
+              <div class="mb-6"><Stars /></div>
+              <p class="text-gray-700 mb-6">
+                "Once we switched to Rebel Ape the leads started pouring in. We used another local company before and paid almost double the cost with little to no results."
+              </p>
+              <p class="text-sm font-bold text-gray-900">— Clayton Erekson</p>
+            </div>
+          </div>
+
+          <!-- Review 2 -->
+          <div class="bg-white rounded-lg shadow-2xl overflow-hidden border border-gray-200">
+            <div class="h-1 bg-rebel-green"></div>
+            <div class="p-8">
+              <div class="mb-6"><Stars /></div>
+              <p class="text-gray-700 mb-6">
+                "Adam and the Rebel Ape team will not disappoint. Working with them is like printing money."
+              </p>
+              <p class="text-sm font-bold text-gray-900">— Brian Miller</p>
+            </div>
+          </div>
+
+          <!-- Review 3 -->
+          <div class="bg-white rounded-lg shadow-2xl overflow-hidden border border-gray-200">
+            <div class="h-1 bg-rebel-green"></div>
+            <div class="p-8">
+              <div class="mb-6"><Stars /></div>
+              <p class="text-gray-700 mb-6">
+                "Been in business for a few years and tried a few SEO guys who either disappear or don't follow through. Adam at Rebel Ape is different."
+              </p>
+              <p class="text-sm font-bold text-gray-900">— Michael Kelly</p>
+            </div>
+          </div>
+
+          <!-- Review 4 -->
+          <div class="bg-white rounded-lg shadow-2xl overflow-hidden border border-gray-200">
+            <div class="h-1 bg-rebel-green"></div>
+            <div class="p-8">
+              <div class="mb-6"><Stars /></div>
+              <p class="text-gray-700 mb-6">
+                "We have been working with Rebel Ape marketing for almost a year now. Great communication and good strategies."
+              </p>
+              <p class="text-sm font-bold text-gray-900">— Jose Perez</p>
+            </div>
+          </div>
+
+        </div>
+      </div>
     </section>
 
-    <!-- CASE STUDIES -->
+    <!-- CASE STUDY -->
     <section class="py-16 md:py-24 section-slate">
-      <CaseStudy />
+      <div class="max-w-4xl mx-auto px-6">
+        <div class="text-center mb-12">
+          <h2 class="text-4xl md:text-5xl font-black text-gray-900 mb-4">
+            Real Results From a Real Roofer
+          </h2>
+          <p class="text-lg md:text-xl text-gray-600 max-w-2xl mx-auto">
+            Here's what happens when a roofing company stops guessing and builds a real system.
+          </p>
+        </div>
+
+        <div class="bg-white border border-gray-200 rounded-2xl shadow-xl overflow-hidden">
+          <div class="h-1.5 bg-rebel-green"></div>
+          <div class="p-8 md:p-10">
+
+            <div class="mb-8">
+              <h3 class="text-2xl font-black text-gray-900 mb-1">Roofing Company</h3>
+              <p class="text-sm text-gray-500">Northern Utah — 8-Month Engagement</p>
+            </div>
+
+            <div class="grid grid-cols-2 md:grid-cols-4 gap-6 mb-8">
+              <div class="border-l-4 border-rebel-green pl-4">
+                <p class="text-xs text-gray-500 uppercase tracking-wide mb-1">Qualified Calls</p>
+                <p class="text-4xl font-black text-gray-900">583</p>
+                <p class="text-xs text-gray-500">over 8 months</p>
+              </div>
+              <div class="border-l-4 border-rebel-green pl-4">
+                <p class="text-xs text-gray-500 uppercase tracking-wide mb-1">Avg / Month</p>
+                <p class="text-4xl font-black text-gray-900">73</p>
+                <p class="text-xs text-gray-500">qualified calls</p>
+              </div>
+              <div class="border-l-4 border-rebel-green pl-4">
+                <p class="text-xs text-gray-500 uppercase tracking-wide mb-1">Traffic Growth</p>
+                <p class="text-4xl font-black text-gray-900">60%</p>
+                <p class="text-xs text-gray-500">year over year</p>
+              </div>
+              <div class="border-l-4 border-rebel-green pl-4">
+                <p class="text-xs text-gray-500 uppercase tracking-wide mb-1">Close Rate</p>
+                <p class="text-4xl font-black text-gray-900">69%</p>
+                <p class="text-xs text-gray-500">on high-intent leads</p>
+              </div>
+            </div>
+
+            <p class="text-gray-600 text-base mb-8">
+              This roofing contractor was stuck relying on referrals and door-to-door canvassing with no predictable way to scale. After building a full multi-channel lead generation system — Google Ads, Local Service Ads, and SEO — they went from inconsistent months to 70+ qualified calls per month and #1 rankings across their local search terms.
+            </p>
+
+            <a href="#audit-form"
+              class="inline-flex items-center justify-center rounded-xl px-8 py-4 text-base font-bold text-black bg-yellow-400 hover:bg-yellow-500 transition transform hover:scale-105 shadow-sm">
+              Get Results Like This →
+            </a>
+
+          </div>
+        </div>
+      </div>
     </section>
 
     <!-- FINAL CTA SECTION -->
@@ -375,7 +487,7 @@ const robots = "noindex,nofollow";
             <span>Walk away knowing exactly what a complete system would cost and what results to expect</span>
           </li>
         </ul>
-        <a href="#" onclick="window.scrollTo({top:0,behavior:'smooth'});return false;"
+        <a href="#audit-form"
           class="inline-flex items-center justify-center rounded-xl px-8 py-4 text-lg font-bold text-black bg-yellow-400 hover:bg-yellow-500 transition transform hover:scale-105 shadow-sm">
           Apply For My Free Audit →
         </a>
