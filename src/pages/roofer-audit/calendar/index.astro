@@ -1,0 +1,35 @@
+---
+import LandingPage from '../../../layouts/LandingPage.astro';
+import HeroCalendar from '../../../components/sections/HeroCalendar.astro';
+
+const canonical = "https://therebelape.com/roofer-audit/calendar/";
+const title = "Book Your Roofing Audit | Rebel Ape";
+const description = "Pick your time for your free roofing marketing audit with Rebel Ape. 45 minutes with Adam — no fluff, no pitch.";
+const image = "https://RebelApeCDN.b-cdn.net/featured-homepage.webp";
+const type = "website";
+const robots = "noindex,nofollow";
+---
+
+<LandingPage {title} {description} {canonical} {image} {type} {robots}>
+
+  <HeroCalendar />
+
+  <!-- CALENDAR EMBED -->
+  <section class="section-checkers py-12 md:py-16">
+    <div class="max-w-5xl mx-auto px-4">
+      <div class="text-center mb-10 lg:mb-2">
+        <h2 class="text-4xl md:text-5xl font-black text-gray-900 mb-3">
+          Grab a Time That <span class="text-rebel-green">Works for You</span>
+        </h2>
+        <p class="text-lg text-gray-600 max-w-2xl mx-auto">
+          Pick any open slot below. We'll come prepared with a full breakdown of your market, your competitors, and exactly what it would take to dominate your area online.
+        </p>
+      </div>
+      <iframe src="https://link.therebelape.com/widget/booking/xRvtdzEOitXNDFGaafYL" style="width: 100%;border:none;overflow: hidden;" scrolling="no" id="xRvtdzEOitXNDFGaafYL_1771548895548"></iframe><br><script src="https://link.therebelape.com/js/form_embed.js" type="text/javascript"></script>
+      <p class="text-center text-sm text-gray-400 mt-6">
+        You'll receive a confirmation email immediately after booking.
+      </p>
+    </div>
+  </section>
+
+</LandingPage>

@@ -1,0 +1,111 @@
+---
+import LandingPage from '../../../../layouts/LandingPage.astro';
+import Hero from '../../../../components/sections/Hero.astro';
+
+const canonical = "https://therebelape.com/roofer-audit/calendar/thank-you/";
+const title = "You're Booked! | Rebel Ape";
+const description = "Your roofing marketing audit is confirmed. We'll see you soon.";
+const image = "https://RebelApeCDN.b-cdn.net/featured-homepage.webp";
+const type = "website";
+const robots = "noindex,nofollow";
+---
+
+<LandingPage {title} {description} {canonical} {image} {type} {robots}>
+
+  <!-- Hero -->
+  <Hero
+    backgroundImage="https://RebelApeCDN.b-cdn.net/hero-roofing-background.webp"
+    title="You're Booked. <span class='text-rebel-green'>We'll Be Ready.</span>"
+    subtitle="Check your inbox for your confirmation and calendar invite."
+    description="We'll research your market, pull your competitors, and come prepared with real data — so we can make every minute of your 45 minutes count."
+    showScheduleButton={false}
+    fetchpriority="high"
+  />
+
+  <!-- What Happens Next -->
+  <section class="py-16 md:py-24 section-checkers">
+    <div class="max-w-4xl mx-auto px-6">
+
+      <!-- Confirmation Cards -->
+      <div class="grid md:grid-cols-3 gap-6 mb-16">
+
+        <div class="bg-white rounded-xl shadow-xl overflow-hidden">
+          <div class="h-1.5 bg-rebel-green"></div>
+          <div class="p-6 text-center">
+            <div class="w-10 h-10 rounded-full bg-rebel-green flex items-center justify-center mx-auto mb-3">
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" class="w-6 h-6 text-white">
+                <path fill-rule="evenodd" d="M19.916 4.626a.75.75 0 0 1 .208 1.04l-9 13.5a.75.75 0 0 1-1.154.114l-6-6a.75.75 0 0 1 1.06-1.06l5.353 5.353 8.493-12.74a.75.75 0 0 1 1.04-.207Z" clip-rule="evenodd" />
+              </svg>
+            </div>
+            <p class="font-bold text-gray-900 text-sm">Confirmation sent to your email</p>
+          </div>
+        </div>
+
+        <div class="bg-white rounded-xl shadow-xl overflow-hidden">
+          <div class="h-1.5 bg-rebel-green"></div>
+          <div class="p-6 text-center">
+            <div class="w-10 h-10 rounded-full bg-rebel-green flex items-center justify-center mx-auto mb-3">
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" class="w-6 h-6 text-white">
+                <path fill-rule="evenodd" d="M19.916 4.626a.75.75 0 0 1 .208 1.04l-9 13.5a.75.75 0 0 1-1.154.114l-6-6a.75.75 0 0 1 1.06-1.06l5.353 5.353 8.493-12.74a.75.75 0 0 1 1.04-.207Z" clip-rule="evenodd" />
+              </svg>
+            </div>
+            <p class="font-bold text-gray-900 text-sm">We'll research your market before the call</p>
+          </div>
+        </div>
+
+        <div class="bg-white rounded-xl shadow-xl overflow-hidden">
+          <div class="h-1.5 bg-rebel-green"></div>
+          <div class="p-6 text-center">
+            <div class="w-10 h-10 rounded-full bg-rebel-green flex items-center justify-center mx-auto mb-3">
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" class="w-6 h-6 text-white">
+                <path fill-rule="evenodd" d="M19.916 4.626a.75.75 0 0 1 .208 1.04l-9 13.5a.75.75 0 0 1-1.154.114l-6-6a.75.75 0 0 1 1.06-1.06l5.353 5.353 8.493-12.74a.75.75 0 0 1 1.04-.207Z" clip-rule="evenodd" />
+              </svg>
+            </div>
+            <p class="font-bold text-gray-900 text-sm">45 minutes with Adam — no fluff, no filler</p>
+          </div>
+        </div>
+
+      </div>
+
+      <!-- Two Column -->
+      <div class="grid md:grid-cols-2 gap-12">
+
+        <!-- What to expect -->
+        <div class="bg-white p-8 rounded-lg shadow-xl border border-gray-200">
+          <h2 class="text-2xl font-bold text-gray-900 mb-6">What To Expect On The Call</h2>
+          <ul class="space-y-4">
+            <li class="flex gap-3">
+              <span class="text-rebel-green font-bold flex-shrink-0">1.</span>
+              <span class="text-gray-700">A live look at what your top competitor is doing online to win jobs</span>
+            </li>
+            <li class="flex gap-3">
+              <span class="text-rebel-green font-bold flex-shrink-0">2.</span>
+              <span class="text-gray-700">An honest breakdown of your current marketing — what's working and what isn't</span>
+            </li>
+            <li class="flex gap-3">
+              <span class="text-rebel-green font-bold flex-shrink-0">3.</span>
+              <span class="text-gray-700">A written action plan you keep — with or without us</span>
+            </li>
+          </ul>
+        </div>
+
+        <!-- Need to reschedule -->
+        <div class="bg-white p-8 rounded-lg shadow-xl border border-gray-200">
+          <h2 class="text-2xl font-bold text-gray-900 mb-4">Need To Reschedule?</h2>
+          <p class="text-gray-600 mb-6">
+            No problem. Use the link in your confirmation email to pick a new time. Questions before the call? Reach us directly.
+          </p>
+          <a
+            href="tel:+14352460700"
+            class="inline-flex items-center justify-center rounded-[10px] px-8 py-4 text-lg font-semibold text-black bg-yellow-400 shadow-sm hover:bg-yellow-500 transition transform hover:scale-105"
+          >
+            Call (435) 246-0700
+          </a>
+        </div>
+
+      </div>
+
+    </div>
+  </section>
+
+</LandingPage>
