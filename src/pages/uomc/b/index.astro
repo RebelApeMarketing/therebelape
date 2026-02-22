@@ -1,16 +1,16 @@
 ---
-import LandingPage from '../../../../layouts/LandingPage.astro';
-import SocialProofBar from '../../../../components/sections/SocialProofBar.astro';
-import CaseStudy from '../../../../components/sections/CaseStudy.astro';
-import TestimonialsDefault from '../../../../components/testimonials/TestimonialsDefault.astro';
-import OrganizationSchema from '../../../../components/schema/OrganizationSchema.astro';
-import WebPageSchema from '../../../../components/schema/WebPageSchema.astro';
-import Button from '../../../../components/ui/Button.astro';
+import LandingPage from '../../../layouts/LandingPage.astro';
+import SocialProofBar from '../../../components/sections/SocialProofBar.astro';
+import CaseStudy from '../../../components/sections/CaseStudy.astro';
+import TestimonialsDefault from '../../../components/testimonials/TestimonialsDefault.astro';
+import OrganizationSchema from '../../../components/schema/OrganizationSchema.astro';
+import WebPageSchema from '../../../components/schema/WebPageSchema.astro';
+import Button from '../../../components/ui/Button.astro';
 
 // SEO
 const title = "Roofing Marketing Checklist | Generate Consistent Roofing Leads";
 const description = "Download the free Roofing Marketing Checklist and turn visitors into booked inspections and replacements. Fix conversion leaks, rank in local maps, and grow consistently.";
-const canonical = "https://therebelape.com/lp/uomc/b/";
+const canonical = "https://therebelape.com/uomc/b/";
 const image = "https://RebelApeCDN.b-cdn.net/featured-uomc.webp";
 const type = "website";
 const robots = "noindex, nofollow";
@@ -287,13 +287,13 @@ const robots = "noindex, nofollow";
                 <input type="hidden" name="form-name" value="uomc-lp-b" />
 
                 <div>
-                  <label for="name" class="block text-sm font-medium text-gray-900 mb-2">
+                  <label for="full_name" class="block text-sm font-medium text-gray-900 mb-2">
                     Full Name <span class="text-red-600">*</span>
                   </label>
                   <input
                     type="text"
-                    id="name"
-                    name="name"
+                    id="full_name"
+                    name="full_name"
                     required
                     class="w-full px-4 py-3 bg-white border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-rebel-green focus:border-transparent"
                     placeholder="John Doe"
@@ -315,13 +315,13 @@ const robots = "noindex, nofollow";
                 </div>
 
                 <div>
-                  <label for="company" class="block text-sm font-medium text-gray-900 mb-2">
+                  <label for="company_name" class="block text-sm font-medium text-gray-900 mb-2">
                     Company Name
                   </label>
                   <input
                     type="text"
-                    id="company"
-                    name="company"
+                    id="company_name"
+                    name="company_name"
                     class="w-full px-4 py-3 bg-white border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-rebel-green focus:border-transparent"
                     placeholder="ABC Roofing"
                   />

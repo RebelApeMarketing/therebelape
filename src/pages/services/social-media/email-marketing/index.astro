@@ -1,0 +1,131 @@
+---
+import Base from '../../../../layouts/Base.astro';
+import Hero from '../../../../components/sections/Hero.astro';
+import SocialProofBar from '../../../../components/sections/SocialProofBar.astro';
+import CaseStudy from '../../../../components/sections/CaseStudy.astro';
+import TestimonialsDefault from '../../../../components/testimonials/TestimonialsDefault.astro';
+import OrganizationSchema from '../../../../components/schema/OrganizationSchema.astro';
+import ServiceSchema from '../../../../components/schema/ServiceSchema.astro';
+import BreadcrumbSchema from '../../../../components/schema/BreadcrumbSchema.astro';
+import WebPageSchema from '../../../../components/schema/WebPageSchema.astro';
+import FAQSchema from '../../../../components/schema/FAQSchema.astro';
+
+// SEO
+const title = "Email Marketing for Contractors | Rebel Ape Marketing";
+const description = "Stay top of mind with past customers and nurture leads with email marketing built for contractors. Automated follow-ups, seasonal campaigns, and review requests that drive repeat business.";
+const canonical = "https://therebelape.com/services/social-media/email-marketing/";
+const image = "https://rebelapecdn.b-cdn.net/featured-google-business-profile-for-plumbers-office.webp";
+const type = "website";
+const robots = "index, follow";
+
+// Breadcrumbs
+const breadcrumbs = [
+  { name: "Home", url: "https://therebelape.com/" },
+  { name: "Services", url: "https://therebelape.com/services/" },
+  { name: "Social Media", url: "https://therebelape.com/services/social-media/" },
+  { name: "Email Marketing", url: canonical }
+];
+
+// FAQs
+const faqs = [
+  {
+    question: "Does email marketing actually work for contractors?",
+    answer: "Yes—when it's done right. Email marketing isn't about spamming inboxes. It's about staying top of mind with past customers so they call you first next time, nurturing leads who aren't ready to book yet, and automating review requests after completed jobs. Most contractors leave money on the table by never following up with past customers."
+  },
+  {
+    question: "What kind of emails do you send?",
+    answer: "We build campaigns around what actually drives revenue for contractors: post-job follow-ups and review requests, seasonal maintenance reminders, promotional offers for slow periods, lead nurture sequences for people who inquired but didn't book, and newsletters that keep your brand top of mind. Everything is automated so you don't have to think about it."
+  },
+  {
+    question: "How do you build my email list?",
+    answer: "We help you capture emails from your website visitors, past customers, and leads through forms, landing pages, and CRM integration. We don't buy email lists—that's spam and it doesn't work. A list of 500 past customers who know your work is worth more than 50,000 random emails."
+  },
+  {
+    question: "Will people unsubscribe or mark my emails as spam?",
+    answer: "Some will—that's normal and healthy. Unsubscribes keep your list clean. The key is sending relevant, valuable content at the right frequency. We don't blast daily emails. We send targeted campaigns to the right segments at the right time. A well-managed email list has open rates of 30-50% for contractors—far above the industry average."
+  }
+];
+---
+
+<Base {title} {description} {canonical} {image} {type} {robots}>
+  <!-- Schema Markup -->
+  <OrganizationSchema slot="head" />
+  <ServiceSchema
+    slot="head"
+    name="Email Marketing for Contractors"
+    description={description}
+    url={canonical}
+    serviceType="Email Marketing"
+  />
+  <BreadcrumbSchema slot="head" breadcrumbs={breadcrumbs} />
+  <WebPageSchema
+    slot="head"
+    type="WebPage"
+    name={title}
+    description={description}
+    url={canonical}
+    image={image}
+  />
+  <FAQSchema slot="head" faqs={faqs} />
+  <section>
+    <Hero
+      backgroundImage="https://RebelApeCDN.b-cdn.net/bg-gorilla-direct.webp"
+      title="Stay Top of Mind. <span class='text-rebel-green'>Drive Repeat Business.</span>"
+      subtitle="Automated Follow-Ups. Seasonal Campaigns. <span class='text-rebel-green'>Review Requests.</span>"
+      description="Your past customers are your most valuable asset. Email marketing keeps you in front of them so they call you first—not the guy they found on Google. Automated campaigns that run in the background while you focus on the work."
+      features={[
+        'Automated Post-Job Follow-Ups & Review Requests',
+        'Seasonal Maintenance Reminder Campaigns',
+        'Lead Nurture Sequences for Unconverted Leads'
+      ]}
+      buttonText="Start Email Marketing"
+      buttonIcon="calendar"
+      buttonHref="/schedule/"
+      fetchpriority="high"
+    />
+    <SocialProofBar />
+
+    <!-- Placeholder: Main content sections will go here -->
+    <section class="py-16 md:py-24 section-checkers">
+      <div class="max-w-7xl mx-auto px-4">
+        <div class="text-center">
+          <h2 class="text-4xl md:text-5xl font-bold mb-6">
+            Content <span class="text-rebel-green">Coming Soon</span>
+          </h2>
+          <p class="text-lg text-gray-700 max-w-3xl mx-auto">
+            This page is being built out with detailed information about our email marketing service. In the meantime, <a href="/schedule/" class="text-rebel-green font-semibold hover:underline">schedule a call</a> to learn how email marketing can help you drive repeat business and nurture leads.
+          </p>
+        </div>
+      </div>
+    </section>
+
+    <section class="py-16 md:py-24 section-slate">
+      <CaseStudy />
+    </section>
+
+    <section class="py-16 md:py-24 section-checkers">
+      <TestimonialsDefault />
+    </section>
+
+    <!-- FAQ Section -->
+    <section class="py-16 md:py-24 section-slate">
+      <div class="max-w-4xl mx-auto px-4">
+        <div class="text-center mb-12">
+          <h2 class="text-4xl md:text-5xl font-bold mb-6">
+            Frequently Asked <span class="text-rebel-green">Questions</span>
+          </h2>
+        </div>
+
+        <div class="space-y-6">
+          {faqs.map((faq) => (
+            <div class="bg-white p-6 rounded-lg shadow-lg border-l-4 border-rebel-green">
+              <h3 class="text-xl font-bold mb-3 text-gray-900">{faq.question}</h3>
+              <p class="text-gray-700">{faq.answer}</p>
+            </div>
+          ))}
+        </div>
+      </div>
+    </section>
+
+  </section>
+</Base>

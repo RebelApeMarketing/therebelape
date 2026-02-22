@@ -1,0 +1,131 @@
+---
+import Base from '../../../../layouts/Base.astro';
+import Hero from '../../../../components/sections/Hero.astro';
+import SocialProofBar from '../../../../components/sections/SocialProofBar.astro';
+import CaseStudy from '../../../../components/sections/CaseStudy.astro';
+import TestimonialsDefault from '../../../../components/testimonials/TestimonialsDefault.astro';
+import OrganizationSchema from '../../../../components/schema/OrganizationSchema.astro';
+import ServiceSchema from '../../../../components/schema/ServiceSchema.astro';
+import BreadcrumbSchema from '../../../../components/schema/BreadcrumbSchema.astro';
+import WebPageSchema from '../../../../components/schema/WebPageSchema.astro';
+import FAQSchema from '../../../../components/schema/FAQSchema.astro';
+
+// SEO
+const title = "Call Tracking for Contractors | Rebel Ape Marketing";
+const description = "Know exactly which marketing channels are driving your phone calls. Call tracking gives you the data to stop wasting money on what's not working and double down on what is.";
+const canonical = "https://therebelape.com/services/ppc/call-tracking/";
+const image = "https://rebelapecdn.b-cdn.net/featured-google-business-profile-for-plumbers-office.webp";
+const type = "website";
+const robots = "index, follow";
+
+// Breadcrumbs
+const breadcrumbs = [
+  { name: "Home", url: "https://therebelape.com/" },
+  { name: "Services", url: "https://therebelape.com/services/" },
+  { name: "PPC", url: "https://therebelape.com/services/ppc/" },
+  { name: "Call Tracking", url: canonical }
+];
+
+// FAQs
+const faqs = [
+  {
+    question: "What is call tracking and why do I need it?",
+    answer: "Call tracking assigns unique phone numbers to each marketing channel—Google Ads, SEO, Local Service Ads, your website—so you know exactly which channel generated each call. Without it, you're guessing where your leads come from. With it, you can see which channels are actually driving revenue and stop wasting money on what's not working."
+  },
+  {
+    question: "Will call tracking change my business phone number?",
+    answer: "No. Your real business number stays the same. Call tracking uses forwarding numbers that route to your existing line. Customers call the tracking number, it forwards to you instantly, and you answer like normal. The only difference is now you have data on where that call came from."
+  },
+  {
+    question: "Can I listen to recorded calls?",
+    answer: "Yes. Call recording is included so you can review calls for quality, train your team, and verify that leads are being handled properly. You can also use recordings to identify which types of calls convert into jobs—giving you insight into what's actually driving revenue, not just phone rings."
+  },
+  {
+    question: "How does call tracking work with Google Ads?",
+    answer: "Call tracking integrates directly with Google Ads to show you which keywords, ads, and campaigns are generating phone calls. This lets us optimize your ad spend based on actual calls and booked jobs—not just clicks. It's the difference between knowing someone clicked your ad and knowing they called and booked a $15,000 job."
+  }
+];
+---
+
+<Base {title} {description} {canonical} {image} {type} {robots}>
+  <!-- Schema Markup -->
+  <OrganizationSchema slot="head" />
+  <ServiceSchema
+    slot="head"
+    name="Call Tracking for Contractors"
+    description={description}
+    url={canonical}
+    serviceType="Call Tracking"
+  />
+  <BreadcrumbSchema slot="head" breadcrumbs={breadcrumbs} />
+  <WebPageSchema
+    slot="head"
+    type="WebPage"
+    name={title}
+    description={description}
+    url={canonical}
+    image={image}
+  />
+  <FAQSchema slot="head" faqs={faqs} />
+  <section>
+    <Hero
+      backgroundImage="https://RebelApeCDN.b-cdn.net/bg-gorilla-direct.webp"
+      title="Know Exactly Where <span class='text-rebel-green'>Every Call Comes From.</span>"
+      subtitle="Call Attribution. Call Recording. <span class='text-rebel-green'>Data-Driven Decisions.</span>"
+      description="Stop guessing which marketing channels are working. Call tracking shows you exactly which ads, keywords, and campaigns are driving real phone calls—so you can cut what's wasting money and scale what's working."
+      features={[
+        'Per-Channel Call Attribution',
+        'Call Recording & Quality Monitoring',
+        'Google Ads & SEO Integration'
+      ]}
+      buttonText="Start Tracking Your Calls"
+      buttonIcon="calendar"
+      buttonHref="/schedule/"
+      fetchpriority="high"
+    />
+    <SocialProofBar />
+
+    <!-- Placeholder: Main content sections will go here -->
+    <section class="py-16 md:py-24 section-checkers">
+      <div class="max-w-7xl mx-auto px-4">
+        <div class="text-center">
+          <h2 class="text-4xl md:text-5xl font-bold mb-6">
+            Content <span class="text-rebel-green">Coming Soon</span>
+          </h2>
+          <p class="text-lg text-gray-700 max-w-3xl mx-auto">
+            This page is being built out with detailed information about our call tracking service. In the meantime, <a href="/schedule/" class="text-rebel-green font-semibold hover:underline">schedule a call</a> to learn how call tracking can help you make smarter marketing decisions.
+          </p>
+        </div>
+      </div>
+    </section>
+
+    <section class="py-16 md:py-24 section-slate">
+      <CaseStudy />
+    </section>
+
+    <section class="py-16 md:py-24 section-checkers">
+      <TestimonialsDefault />
+    </section>
+
+    <!-- FAQ Section -->
+    <section class="py-16 md:py-24 section-slate">
+      <div class="max-w-4xl mx-auto px-4">
+        <div class="text-center mb-12">
+          <h2 class="text-4xl md:text-5xl font-bold mb-6">
+            Frequently Asked <span class="text-rebel-green">Questions</span>
+          </h2>
+        </div>
+
+        <div class="space-y-6">
+          {faqs.map((faq) => (
+            <div class="bg-white p-6 rounded-lg shadow-lg border-l-4 border-rebel-green">
+              <h3 class="text-xl font-bold mb-3 text-gray-900">{faq.question}</h3>
+              <p class="text-gray-700">{faq.answer}</p>
+            </div>
+          ))}
+        </div>
+      </div>
+    </section>
+
+  </section>
+</Base>

@@ -1,0 +1,134 @@
+---
+import Base from '../../../layouts/Base.astro';
+import Hero from '../../../components/sections/Hero.astro';
+import SocialProofBar from '../../../components/sections/SocialProofBar.astro';
+import CaseStudy from '../../../components/sections/CaseStudy.astro';
+import TestimonialsDefault from '../../../components/testimonials/TestimonialsDefault.astro';
+import OrganizationSchema from '../../../components/schema/OrganizationSchema.astro';
+import ServiceSchema from '../../../components/schema/ServiceSchema.astro';
+import BreadcrumbSchema from '../../../components/schema/BreadcrumbSchema.astro';
+import WebPageSchema from '../../../components/schema/WebPageSchema.astro';
+import FAQSchema from '../../../components/schema/FAQSchema.astro';
+
+// SEO
+const title = "Branding for Contractors | Rebel Ape Marketing";
+const description = "Stand out from every other contractor in your market. We build brands that look professional, communicate trust, and make customers choose you over the competition.";
+const canonical = "https://therebelape.com/services/branding/";
+const image = "https://rebelapecdn.b-cdn.net/featured-google-business-profile-for-plumbers-office.webp";
+const type = "website";
+const robots = "index, follow";
+
+// Breadcrumbs
+const breadcrumbs = [
+  { name: "Home", url: "https://therebelape.com/" },
+  { name: "Services", url: "https://therebelape.com/services/" },
+  { name: "Branding", url: canonical }
+];
+
+// FAQs
+const faqs = [
+  {
+    question: "Why does branding matter for contractors?",
+    answer: "Because customers judge your business before they ever talk to you. Your logo, truck wrap, website, and marketing materials are the first impression. A professional brand communicates trust, quality, and reliability. A cheap-looking brand tells customers you cut corners—even if your work is excellent. Branding is the difference between being seen as a professional operation and just another guy with a truck."
+  },
+  {
+    question: "I already have a logo. Do I need branding?",
+    answer: "A logo is one piece of branding, not the whole thing. Branding includes your visual identity (logo, colors, typography), your messaging and positioning, and how everything looks and feels across your website, ads, trucks, uniforms, and print materials. If your logo was made in 2012 on a freelance site and your marketing materials look inconsistent, it's time for a brand refresh."
+  },
+  {
+    question: "What branding services do you offer?",
+    answer: "We offer logo design, graphic design for marketing materials, brand identity development, and brand guidelines that ensure consistency across everything. Whether you need a complete rebrand or just professional marketing materials, we build brands that make contractors look like the established, trustworthy businesses they are."
+  },
+  {
+    question: "How long does a branding project take?",
+    answer: "A logo design typically takes 2-3 weeks from kickoff to final delivery. A full brand identity package with guidelines, templates, and collateral takes 4-6 weeks. We work with you through a collaborative process—you're not getting a logo emailed to you with no context. You get a brand system built around your positioning."
+  },
+  {
+    question: "Can you work with my existing brand?",
+    answer: "Absolutely. Not every contractor needs a full rebrand. Sometimes you just need professional marketing materials, updated graphics, or a brand refresh that modernizes what you already have. We'll assess where you are and recommend only what you actually need—no upselling you on a $10,000 rebrand when a $2,000 refresh will do."
+  }
+];
+---
+
+<Base {title} {description} {canonical} {image} {type} {robots}>
+  <!-- Schema Markup -->
+  <OrganizationSchema slot="head" />
+  <ServiceSchema
+    slot="head"
+    name="Branding for Contractors"
+    description={description}
+    url={canonical}
+    serviceType="Branding"
+  />
+  <BreadcrumbSchema slot="head" breadcrumbs={breadcrumbs} />
+  <WebPageSchema
+    slot="head"
+    type="WebPage"
+    name={title}
+    description={description}
+    url={canonical}
+    image={image}
+  />
+  <FAQSchema slot="head" faqs={faqs} />
+  <section>
+    <Hero
+      backgroundImage="https://RebelApeCDN.b-cdn.net/bg-gorilla-direct.webp"
+      title="Look Like the Pro You Are. <span class='text-rebel-green'>Not Just Another Guy With a Truck.</span>"
+      subtitle="Logo Design. Brand Identity. <span class='text-rebel-green'>Marketing Materials.</span>"
+      description="Your brand is the first thing customers judge—before they read a single review or hear your price. We build brands that communicate trust, professionalism, and quality so customers choose you over the competition."
+      features={[
+        'Professional Logo Design',
+        'Brand Identity & Guidelines',
+        'Marketing Materials & Graphic Design'
+      ]}
+      buttonText="Build Your Brand"
+      buttonIcon="calendar"
+      buttonHref="/schedule/"
+      fetchpriority="high"
+    />
+    <SocialProofBar />
+
+    <!-- Placeholder: Main content sections will go here -->
+    <section class="py-16 md:py-24 section-checkers">
+      <div class="max-w-7xl mx-auto px-4">
+        <div class="text-center">
+          <h2 class="text-4xl md:text-5xl font-bold mb-6">
+            Content <span class="text-rebel-green">Coming Soon</span>
+          </h2>
+          <p class="text-lg text-gray-700 max-w-3xl mx-auto">
+            This page is being built out with detailed information about our branding services. In the meantime, <a href="/schedule/" class="text-rebel-green font-semibold hover:underline">schedule a call</a> to learn how professional branding can set your business apart.
+          </p>
+        </div>
+      </div>
+    </section>
+
+    <section class="py-16 md:py-24 section-slate">
+      <CaseStudy />
+    </section>
+
+    <section class="py-16 md:py-24 section-checkers">
+      <TestimonialsDefault />
+    </section>
+
+    <!-- FAQ Section -->
+    <section class="py-16 md:py-24 section-slate">
+      <div class="max-w-4xl mx-auto px-4">
+        <div class="text-center mb-12">
+          <h2 class="text-4xl md:text-5xl font-bold mb-6">
+            Frequently Asked <span class="text-rebel-green">Questions</span>
+          </h2>
+        </div>
+
+        <div class="space-y-6">
+          {faqs.map((faq) => (
+            <div class="bg-white p-6 rounded-lg shadow-lg border-l-4 border-rebel-green">
+              <h3 class="text-xl font-bold mb-3 text-gray-900">{faq.question}</h3>
+              <p class="text-gray-700">{faq.answer}</p>
+            </div>
+          ))}
+        </div>
+      </div>
+    </section>
+
+  </section>
+</Base>

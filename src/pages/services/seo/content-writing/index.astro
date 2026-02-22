@@ -1,0 +1,131 @@
+---
+import Base from '../../../../layouts/Base.astro';
+import Hero from '../../../../components/sections/Hero.astro';
+import SocialProofBar from '../../../../components/sections/SocialProofBar.astro';
+import CaseStudy from '../../../../components/sections/CaseStudy.astro';
+import TestimonialsDefault from '../../../../components/testimonials/TestimonialsDefault.astro';
+import OrganizationSchema from '../../../../components/schema/OrganizationSchema.astro';
+import ServiceSchema from '../../../../components/schema/ServiceSchema.astro';
+import BreadcrumbSchema from '../../../../components/schema/BreadcrumbSchema.astro';
+import WebPageSchema from '../../../../components/schema/WebPageSchema.astro';
+import FAQSchema from '../../../../components/schema/FAQSchema.astro';
+
+// SEO
+const title = "SEO Content Writing for Contractors | Rebel Ape Marketing";
+const description = "Brand-voice content that ranks and converts. We write blog posts, service pages, and location pages built for humans, search engines, and AI-powered answer engines.";
+const canonical = "https://therebelape.com/services/seo/content-writing/";
+const image = "https://rebelapecdn.b-cdn.net/featured-google-business-profile-for-plumbers-office.webp";
+const type = "website";
+const robots = "index, follow";
+
+// Breadcrumbs
+const breadcrumbs = [
+  { name: "Home", url: "https://therebelape.com/" },
+  { name: "Services", url: "https://therebelape.com/services/" },
+  { name: "SEO", url: "https://therebelape.com/services/seo/" },
+  { name: "Content Writing", url: canonical }
+];
+
+// FAQs
+const faqs = [
+  {
+    question: "What kind of content do you write?",
+    answer: "We write blog posts, service pages, location pages, and FAQ content specifically for contractors. Everything is built around your brand voice and positioning—not generic keyword-stuffed articles that read like they were written by a content farm."
+  },
+  {
+    question: "How is your content different from other SEO agencies?",
+    answer: "Most agencies churn out generic, AI-generated content with no brand voice. We write content that sounds like your company, addresses real customer questions, and is optimized for both traditional search engines and AI-powered answer engines (AEO). Every piece is human-guided and built around your positioning."
+  },
+  {
+    question: "How often do you publish content?",
+    answer: "Publishing frequency depends on your plan and goals. Most clients get 2-4 pieces of content per month—a mix of blog posts, service pages, and location pages. Consistency matters more than volume. We'd rather publish 2 great pieces per month than 8 mediocre ones."
+  },
+  {
+    question: "What is Answer Engine Optimization (AEO)?",
+    answer: "AEO is optimizing your content to show up in AI-powered search tools like ChatGPT, Perplexity, Google's AI Overviews, and voice assistants. As search evolves beyond traditional Google results, AEO ensures your business is the answer when AI tools respond to user queries. We build content that feeds both traditional search engines and AI platforms."
+  }
+];
+---
+
+<Base {title} {description} {canonical} {image} {type} {robots}>
+  <!-- Schema Markup -->
+  <OrganizationSchema slot="head" />
+  <ServiceSchema
+    slot="head"
+    name="SEO Content Writing for Contractors"
+    description={description}
+    url={canonical}
+    serviceType="Content Writing"
+  />
+  <BreadcrumbSchema slot="head" breadcrumbs={breadcrumbs} />
+  <WebPageSchema
+    slot="head"
+    type="WebPage"
+    name={title}
+    description={description}
+    url={canonical}
+    image={image}
+  />
+  <FAQSchema slot="head" faqs={faqs} />
+  <section>
+    <Hero
+      backgroundImage="https://RebelApeCDN.b-cdn.net/bg-gorilla-direct.webp"
+      title="Content That Ranks. <span class='text-rebel-green'>Content That Converts.</span>"
+      subtitle="Blog Posts. Service Pages. Location Pages. <span class='text-rebel-green'>Answer Engine Optimized.</span>"
+      description="Generic content doesn't rank and doesn't convert. We write brand-voice content built around your positioning—optimized for Google, AI answer engines, and the real humans who need to hire you."
+      features={[
+        'Brand-Voice Content (Not Generic AI Slop)',
+        'Optimized for Search + AI Answer Engines',
+        'Blog Posts, Service Pages & Location Pages'
+      ]}
+      buttonText="Get Content That Works"
+      buttonIcon="calendar"
+      buttonHref="/schedule/"
+      fetchpriority="high"
+    />
+    <SocialProofBar />
+
+    <!-- Placeholder: Main content sections will go here -->
+    <section class="py-16 md:py-24 section-checkers">
+      <div class="max-w-7xl mx-auto px-4">
+        <div class="text-center">
+          <h2 class="text-4xl md:text-5xl font-bold mb-6">
+            Content <span class="text-rebel-green">Coming Soon</span>
+          </h2>
+          <p class="text-lg text-gray-700 max-w-3xl mx-auto">
+            This page is being built out with detailed information about our SEO content writing service. In the meantime, <a href="/schedule/" class="text-rebel-green font-semibold hover:underline">schedule a call</a> to learn how brand-voice content can drive organic leads for your business.
+          </p>
+        </div>
+      </div>
+    </section>
+
+    <section class="py-16 md:py-24 section-slate">
+      <CaseStudy />
+    </section>
+
+    <section class="py-16 md:py-24 section-checkers">
+      <TestimonialsDefault />
+    </section>
+
+    <!-- FAQ Section -->
+    <section class="py-16 md:py-24 section-slate">
+      <div class="max-w-4xl mx-auto px-4">
+        <div class="text-center mb-12">
+          <h2 class="text-4xl md:text-5xl font-bold mb-6">
+            Frequently Asked <span class="text-rebel-green">Questions</span>
+          </h2>
+        </div>
+
+        <div class="space-y-6">
+          {faqs.map((faq) => (
+            <div class="bg-white p-6 rounded-lg shadow-lg border-l-4 border-rebel-green">
+              <h3 class="text-xl font-bold mb-3 text-gray-900">{faq.question}</h3>
+              <p class="text-gray-700">{faq.answer}</p>
+            </div>
+          ))}
+        </div>
+      </div>
+    </section>
+
+  </section>
+</Base>

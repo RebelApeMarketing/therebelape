@@ -1,0 +1,131 @@
+---
+import Base from '../../../../layouts/Base.astro';
+import Hero from '../../../../components/sections/Hero.astro';
+import SocialProofBar from '../../../../components/sections/SocialProofBar.astro';
+import CaseStudy from '../../../../components/sections/CaseStudy.astro';
+import TestimonialsDefault from '../../../../components/testimonials/TestimonialsDefault.astro';
+import OrganizationSchema from '../../../../components/schema/OrganizationSchema.astro';
+import ServiceSchema from '../../../../components/schema/ServiceSchema.astro';
+import BreadcrumbSchema from '../../../../components/schema/BreadcrumbSchema.astro';
+import WebPageSchema from '../../../../components/schema/WebPageSchema.astro';
+import FAQSchema from '../../../../components/schema/FAQSchema.astro';
+
+// SEO
+const title = "Directory Listing Management for Contractors | Rebel Ape Marketing";
+const description = "Get your business listed accurately across every major directory. We manage your NAP consistency, build citations, and ensure your business shows up everywhere customers are searching.";
+const canonical = "https://therebelape.com/services/seo/directory-listing-management/";
+const image = "https://rebelapecdn.b-cdn.net/featured-google-business-profile-for-plumbers-office.webp";
+const type = "website";
+const robots = "index, follow";
+
+// Breadcrumbs
+const breadcrumbs = [
+  { name: "Home", url: "https://therebelape.com/" },
+  { name: "Services", url: "https://therebelape.com/services/" },
+  { name: "SEO", url: "https://therebelape.com/services/seo/" },
+  { name: "Directory Listing Management", url: canonical }
+];
+
+// FAQs
+const faqs = [
+  {
+    question: "What is directory listing management?",
+    answer: "Directory listing management ensures your business information (name, address, phone number) is accurate and consistent across all major online directories like Google, Bing, Yelp, Apple Maps, and industry-specific platforms. Inconsistent or outdated listings confuse search engines and cost you rankings."
+  },
+  {
+    question: "Why do directory listings matter for SEO?",
+    answer: "Search engines use directory listings (citations) as trust signals. The more consistent and accurate your business information is across the web, the more confident Google is in showing your business in search results and the Map Pack. Inconsistent NAP data is one of the most common reasons contractors struggle with local rankings."
+  },
+  {
+    question: "How many directories do you manage?",
+    answer: "We manage listings across all major directories including Google Business Profile, Bing Places, Apple Maps, Yelp, Facebook, and dozens of industry-specific and local directories. The exact number depends on your industry and service area, but we typically manage 50+ listings per client."
+  },
+  {
+    question: "What happens if my listings are inconsistent?",
+    answer: "Inconsistent listings (different phone numbers, old addresses, misspelled business names) confuse search engines and reduce your local rankings. They also confuse potential customers who may call the wrong number or show up at the wrong address. We audit and fix all inconsistencies as part of our management service."
+  }
+];
+---
+
+<Base {title} {description} {canonical} {image} {type} {robots}>
+  <!-- Schema Markup -->
+  <OrganizationSchema slot="head" />
+  <ServiceSchema
+    slot="head"
+    name="Directory Listing Management for Contractors"
+    description={description}
+    url={canonical}
+    serviceType="Directory Listing Management"
+  />
+  <BreadcrumbSchema slot="head" breadcrumbs={breadcrumbs} />
+  <WebPageSchema
+    slot="head"
+    type="WebPage"
+    name={title}
+    description={description}
+    url={canonical}
+    image={image}
+  />
+  <FAQSchema slot="head" faqs={faqs} />
+  <section>
+    <Hero
+      backgroundImage="https://RebelApeCDN.b-cdn.net/bg-gorilla-direct.webp"
+      title="Your Business. <span class='text-rebel-green'>Every Directory. Accurate Everywhere.</span>"
+      subtitle="Citation Building. NAP Consistency. <span class='text-rebel-green'>Local Authority Signals.</span>"
+      description="Directory listings are the foundation of local SEO. When your business name, address, and phone number are consistent across every major directory, search engines trust you more—and rank you higher. We manage your listings so you don't have to."
+      features={[
+        'Major Directory Coverage (Google, Bing, Yelp, Apple Maps)',
+        'NAP Consistency Monitoring & Cleanup',
+        'Industry-Specific Citation Building'
+      ]}
+      buttonText="Get Your Listings Right"
+      buttonIcon="calendar"
+      buttonHref="/schedule/"
+      fetchpriority="high"
+    />
+    <SocialProofBar />
+
+    <!-- Placeholder: Main content sections will go here -->
+    <section class="py-16 md:py-24 section-checkers">
+      <div class="max-w-7xl mx-auto px-4">
+        <div class="text-center">
+          <h2 class="text-4xl md:text-5xl font-bold mb-6">
+            Content <span class="text-rebel-green">Coming Soon</span>
+          </h2>
+          <p class="text-lg text-gray-700 max-w-3xl mx-auto">
+            This page is being built out with detailed information about our directory listing management service. In the meantime, <a href="/schedule/" class="text-rebel-green font-semibold hover:underline">schedule a call</a> to learn how we can get your business listed accurately everywhere that matters.
+          </p>
+        </div>
+      </div>
+    </section>
+
+    <section class="py-16 md:py-24 section-slate">
+      <CaseStudy />
+    </section>
+
+    <section class="py-16 md:py-24 section-checkers">
+      <TestimonialsDefault />
+    </section>
+
+    <!-- FAQ Section -->
+    <section class="py-16 md:py-24 section-slate">
+      <div class="max-w-4xl mx-auto px-4">
+        <div class="text-center mb-12">
+          <h2 class="text-4xl md:text-5xl font-bold mb-6">
+            Frequently Asked <span class="text-rebel-green">Questions</span>
+          </h2>
+        </div>
+
+        <div class="space-y-6">
+          {faqs.map((faq) => (
+            <div class="bg-white p-6 rounded-lg shadow-lg border-l-4 border-rebel-green">
+              <h3 class="text-xl font-bold mb-3 text-gray-900">{faq.question}</h3>
+              <p class="text-gray-700">{faq.answer}</p>
+            </div>
+          ))}
+        </div>
+      </div>
+    </section>
+
+  </section>
+</Base>

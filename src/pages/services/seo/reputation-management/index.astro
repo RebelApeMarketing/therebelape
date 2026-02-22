@@ -1,0 +1,131 @@
+---
+import Base from '../../../../layouts/Base.astro';
+import Hero from '../../../../components/sections/Hero.astro';
+import SocialProofBar from '../../../../components/sections/SocialProofBar.astro';
+import CaseStudy from '../../../../components/sections/CaseStudy.astro';
+import TestimonialsDefault from '../../../../components/testimonials/TestimonialsDefault.astro';
+import OrganizationSchema from '../../../../components/schema/OrganizationSchema.astro';
+import ServiceSchema from '../../../../components/schema/ServiceSchema.astro';
+import BreadcrumbSchema from '../../../../components/schema/BreadcrumbSchema.astro';
+import WebPageSchema from '../../../../components/schema/WebPageSchema.astro';
+import FAQSchema from '../../../../components/schema/FAQSchema.astro';
+
+// SEO
+const title = "Reputation Management for Contractors | Rebel Ape Marketing";
+const description = "Protect and grow your online reputation. We help contractors generate more reviews, manage their star ratings, and build the trust signals that drive more leads from search.";
+const canonical = "https://therebelape.com/services/seo/reputation-management/";
+const image = "https://rebelapecdn.b-cdn.net/featured-google-business-profile-for-plumbers-office.webp";
+const type = "website";
+const robots = "index, follow";
+
+// Breadcrumbs
+const breadcrumbs = [
+  { name: "Home", url: "https://therebelape.com/" },
+  { name: "Services", url: "https://therebelape.com/services/" },
+  { name: "SEO", url: "https://therebelape.com/services/seo/" },
+  { name: "Reputation Management", url: canonical }
+];
+
+// FAQs
+const faqs = [
+  {
+    question: "Why do online reviews matter so much?",
+    answer: "Reviews are one of the top ranking factors for the Google Map Pack. More importantly, they're the first thing potential customers look at before calling. A contractor with 150 five-star reviews will get more calls than one with 12 reviews—even if the 12-review contractor ranks higher. Reviews build trust, improve rankings, and directly increase lead volume."
+  },
+  {
+    question: "Can you remove negative reviews?",
+    answer: "We can't remove legitimate negative reviews—Google doesn't allow that. What we can do is help you respond professionally, flag reviews that violate Google's policies for removal, and most importantly, generate enough positive reviews that the occasional negative one doesn't tank your rating. The best defense against bad reviews is a steady stream of great ones."
+  },
+  {
+    question: "How do you help generate more reviews?",
+    answer: "We set up review generation campaigns that make it easy for happy customers to leave reviews. This includes automated review request sequences, direct links to your Google review page, and strategies for asking at the right time. Most contractors don't have a review problem—they have a review asking problem."
+  },
+  {
+    question: "What star rating do I need to be competitive?",
+    answer: "For most contractor categories, you want to be at 4.5 stars or above with a healthy volume of reviews. But star rating alone isn't enough—review volume and recency matter too. A 5.0 rating with 8 reviews from 2 years ago is less compelling than a 4.7 with 200 reviews, many from the last few months."
+  }
+];
+---
+
+<Base {title} {description} {canonical} {image} {type} {robots}>
+  <!-- Schema Markup -->
+  <OrganizationSchema slot="head" />
+  <ServiceSchema
+    slot="head"
+    name="Reputation Management for Contractors"
+    description={description}
+    url={canonical}
+    serviceType="Reputation Management"
+  />
+  <BreadcrumbSchema slot="head" breadcrumbs={breadcrumbs} />
+  <WebPageSchema
+    slot="head"
+    type="WebPage"
+    name={title}
+    description={description}
+    url={canonical}
+    image={image}
+  />
+  <FAQSchema slot="head" faqs={faqs} />
+  <section>
+    <Hero
+      backgroundImage="https://RebelApeCDN.b-cdn.net/bg-gorilla-direct.webp"
+      title="Your Reputation Is Your Revenue. <span class='text-rebel-green'>Protect It.</span>"
+      subtitle="Review Generation. Star Rating Management. <span class='text-rebel-green'>Trust Signals That Convert.</span>"
+      description="Customers check your reviews before they call. Your star rating, review volume, and how you respond to feedback directly impact how many leads you get. We help you build and protect the online reputation that drives revenue."
+      features={[
+        'Review Generation Campaigns',
+        'Star Rating Monitoring & Strategy',
+        'Professional Review Response Management'
+      ]}
+      buttonText="Build Your Reputation"
+      buttonIcon="calendar"
+      buttonHref="/schedule/"
+      fetchpriority="high"
+    />
+    <SocialProofBar />
+
+    <!-- Placeholder: Main content sections will go here -->
+    <section class="py-16 md:py-24 section-checkers">
+      <div class="max-w-7xl mx-auto px-4">
+        <div class="text-center">
+          <h2 class="text-4xl md:text-5xl font-bold mb-6">
+            Content <span class="text-rebel-green">Coming Soon</span>
+          </h2>
+          <p class="text-lg text-gray-700 max-w-3xl mx-auto">
+            This page is being built out with detailed information about our reputation management service. In the meantime, <a href="/schedule/" class="text-rebel-green font-semibold hover:underline">schedule a call</a> to learn how we can help you generate more reviews and protect your online reputation.
+          </p>
+        </div>
+      </div>
+    </section>
+
+    <section class="py-16 md:py-24 section-slate">
+      <CaseStudy />
+    </section>
+
+    <section class="py-16 md:py-24 section-checkers">
+      <TestimonialsDefault />
+    </section>
+
+    <!-- FAQ Section -->
+    <section class="py-16 md:py-24 section-slate">
+      <div class="max-w-4xl mx-auto px-4">
+        <div class="text-center mb-12">
+          <h2 class="text-4xl md:text-5xl font-bold mb-6">
+            Frequently Asked <span class="text-rebel-green">Questions</span>
+          </h2>
+        </div>
+
+        <div class="space-y-6">
+          {faqs.map((faq) => (
+            <div class="bg-white p-6 rounded-lg shadow-lg border-l-4 border-rebel-green">
+              <h3 class="text-xl font-bold mb-3 text-gray-900">{faq.question}</h3>
+              <p class="text-gray-700">{faq.answer}</p>
+            </div>
+          ))}
+        </div>
+      </div>
+    </section>
+
+  </section>
+</Base>

@@ -1,0 +1,131 @@
+---
+import Base from '../../../../layouts/Base.astro';
+import Hero from '../../../../components/sections/Hero.astro';
+import SocialProofBar from '../../../../components/sections/SocialProofBar.astro';
+import CaseStudy from '../../../../components/sections/CaseStudy.astro';
+import TestimonialsDefault from '../../../../components/testimonials/TestimonialsDefault.astro';
+import OrganizationSchema from '../../../../components/schema/OrganizationSchema.astro';
+import ServiceSchema from '../../../../components/schema/ServiceSchema.astro';
+import BreadcrumbSchema from '../../../../components/schema/BreadcrumbSchema.astro';
+import WebPageSchema from '../../../../components/schema/WebPageSchema.astro';
+import FAQSchema from '../../../../components/schema/FAQSchema.astro';
+
+// SEO
+const title = "Graphic Design for Contractors | Rebel Ape Marketing";
+const description = "Professional marketing materials that match your brand. Business cards, truck wraps, yard signs, door hangers, and digital assets designed to make your business look established and trustworthy.";
+const canonical = "https://therebelape.com/services/branding/graphic-design/";
+const image = "https://rebelapecdn.b-cdn.net/featured-google-business-profile-for-plumbers-office.webp";
+const type = "website";
+const robots = "index, follow";
+
+// Breadcrumbs
+const breadcrumbs = [
+  { name: "Home", url: "https://therebelape.com/" },
+  { name: "Services", url: "https://therebelape.com/services/" },
+  { name: "Branding", url: "https://therebelape.com/services/branding/" },
+  { name: "Graphic Design", url: canonical }
+];
+
+// FAQs
+const faqs = [
+  {
+    question: "What kind of graphic design do you do for contractors?",
+    answer: "We design everything a contractor needs to look professional: business cards, truck and van wraps, yard signs, door hangers, estimate templates, social media graphics, ad creatives, flyers, and digital assets. Everything is designed to match your brand identity so your marketing looks consistent and professional across every touchpoint."
+  },
+  {
+    question: "Can you design truck wraps?",
+    answer: "Yes. Truck wraps are one of the highest-ROI marketing investments a contractor can make—your trucks are mobile billboards driving through your service area every day. We design wraps that are clean, professional, and easy to read at a glance. We work with your wrap installer to ensure the design prints and installs correctly."
+  },
+  {
+    question: "Do I need a logo before ordering graphic design?",
+    answer: "Ideally, yes. Your logo is the foundation of all your marketing materials. If you don't have a professional logo yet, we can start with logo design and then build your marketing materials around it. If you already have a logo you're happy with, we'll work with it to create cohesive materials."
+  },
+  {
+    question: "How fast can you turn around design projects?",
+    answer: "Most single-piece projects (business card, yard sign, social media template) take 3-5 business days. Larger projects like truck wraps or multi-piece collateral packages take 1-2 weeks. Rush turnaround is available when you need it. We'll always give you a clear timeline upfront."
+  }
+];
+---
+
+<Base {title} {description} {canonical} {image} {type} {robots}>
+  <!-- Schema Markup -->
+  <OrganizationSchema slot="head" />
+  <ServiceSchema
+    slot="head"
+    name="Graphic Design for Contractors"
+    description={description}
+    url={canonical}
+    serviceType="Graphic Design"
+  />
+  <BreadcrumbSchema slot="head" breadcrumbs={breadcrumbs} />
+  <WebPageSchema
+    slot="head"
+    type="WebPage"
+    name={title}
+    description={description}
+    url={canonical}
+    image={image}
+  />
+  <FAQSchema slot="head" faqs={faqs} />
+  <section>
+    <Hero
+      backgroundImage="https://RebelApeCDN.b-cdn.net/bg-gorilla-direct.webp"
+      title="Marketing Materials That <span class='text-rebel-green'>Look Like You Mean Business.</span>"
+      subtitle="Truck Wraps. Business Cards. Yard Signs. <span class='text-rebel-green'>Everything You Need.</span>"
+      description="Every piece of marketing material is a chance to look professional—or look cheap. We design business cards, truck wraps, yard signs, door hangers, and digital assets that match your brand and make your business look like the established operation it is."
+      features={[
+        'Truck Wraps, Yard Signs & Door Hangers',
+        'Business Cards & Estimate Templates',
+        'Social Media Graphics & Ad Creatives'
+      ]}
+      buttonText="Get Professional Design"
+      buttonIcon="calendar"
+      buttonHref="/schedule/"
+      fetchpriority="high"
+    />
+    <SocialProofBar />
+
+    <!-- Placeholder: Main content sections will go here -->
+    <section class="py-16 md:py-24 section-checkers">
+      <div class="max-w-7xl mx-auto px-4">
+        <div class="text-center">
+          <h2 class="text-4xl md:text-5xl font-bold mb-6">
+            Content <span class="text-rebel-green">Coming Soon</span>
+          </h2>
+          <p class="text-lg text-gray-700 max-w-3xl mx-auto">
+            This page is being built out with detailed information about our graphic design service. In the meantime, <a href="/schedule/" class="text-rebel-green font-semibold hover:underline">schedule a call</a> to learn how professional design can elevate your marketing materials.
+          </p>
+        </div>
+      </div>
+    </section>
+
+    <section class="py-16 md:py-24 section-slate">
+      <CaseStudy />
+    </section>
+
+    <section class="py-16 md:py-24 section-checkers">
+      <TestimonialsDefault />
+    </section>
+
+    <!-- FAQ Section -->
+    <section class="py-16 md:py-24 section-slate">
+      <div class="max-w-4xl mx-auto px-4">
+        <div class="text-center mb-12">
+          <h2 class="text-4xl md:text-5xl font-bold mb-6">
+            Frequently Asked <span class="text-rebel-green">Questions</span>
+          </h2>
+        </div>
+
+        <div class="space-y-6">
+          {faqs.map((faq) => (
+            <div class="bg-white p-6 rounded-lg shadow-lg border-l-4 border-rebel-green">
+              <h3 class="text-xl font-bold mb-3 text-gray-900">{faq.question}</h3>
+              <p class="text-gray-700">{faq.answer}</p>
+            </div>
+          ))}
+        </div>
+      </div>
+    </section>
+
+  </section>
+</Base>

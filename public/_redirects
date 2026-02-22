@@ -114,19 +114,22 @@ https://www.therebelape.com/about-rebel-ape-marketing/about-adam-miconi/ /about/
 /marketing-resources/ /resources/ 301!
 
 # UOMC - Marketing Checklist Landing Page
-http://leads.therebelape.com/* https://therebelape.com/resources/uomc/ 301!
-https://leads.therebelape.com/* https://therebelape.com/resources/uomc/ 301!
-http://uomc.therebelape.com/* https://therebelape.com/resources/uomc/ 301!
-https://uomc.therebelape.com/* https://therebelape.com/resources/uomc/ 301!
-https://go.therebelape.com/checklist/ https://therebelape.com/resources/uomc/ 301!
-https://go.therebelape.com/checklist https://therebelape.com/resources/uomc/ 301!
-https://go.therebelape.com/ https://therebelape.com/resources/uomc/ 301!
-https://go.therebelape.com/checklist-page https://therebelape.com/resources/uomc/ 301!
-https://go.therebelape.com/checklist-page832917 https://therebelape.com/resources/uomc/ 301!
+http://leads.therebelape.com/* https://therebelape.com/uomc/ 301!
+https://leads.therebelape.com/* https://therebelape.com/uomc/ 301!
+http://uomc.therebelape.com/* https://therebelape.com/uomc/ 301!
+https://uomc.therebelape.com/* https://therebelape.com/uomc/ 301!
+https://go.therebelape.com/checklist/ https://therebelape.com/uomc/ 301!
+https://go.therebelape.com/checklist https://therebelape.com/uomc/ 301!
+https://go.therebelape.com/ https://therebelape.com/uomc/ 301!
+https://go.therebelape.com/checklist-page https://therebelape.com/uomc/ 301!
+https://go.therebelape.com/checklist-page832917 https://therebelape.com/uomc/ 301!
 
-# UOMC internal path redirects
-/uomc/ /resources/uomc/ 301!
-/uomc/thank-you/ /resources/uomc/thank-you/ 301!
+# UOMC - Redirect old paths to new /uomc/ location
+/lp/uomc/ /uomc/ 301!
+/lp/uomc/b/ /uomc/b/ 301!
+/lp/uomc/thank-you/ /uomc/thank-you/ 301!
+/resources/uomc/ /uomc/ 301!
+/resources/uomc/thank-you/ /uomc/thank-you/ 301!
 
 # ==========================================================================
 #
@@ -210,8 +213,8 @@ https://www.therebelape.com/services/website-design /services/website-design/ 30
 /seo/ /services/seo/ 301!
 /seo/local-seo-analysis/ /services/seo/ 301!
 
-# SEO - Misrouted URL (logo questionnaire pointing to SEO)
-/marketing-agencies-utah/logo-design-for-business/logo-design-questionnaire/ /services/seo/ 301!
+# SEO - Misrouted URL (logo questionnaire - now points to branding)
+/marketing-agencies-utah/logo-design-for-business/logo-design-questionnaire/ /services/branding/logo-design/ 301!
 
 # ========================================
 # PPC / ADS / LSA
@@ -272,103 +275,103 @@ https://www.therebelape.com/services/website-design /services/website-design/ 30
 # ========================================
 
 # EMAIL MARKETING - Old Marketing Services URLs
-/marketing-services/email-marketing/ / 301!
+/marketing-services/email-marketing/ /services/social-media/email-marketing/ 301!
 
 # EMAIL MARKETING - Old Plumber URLs
-/plumber-marketing-services/plumber-email-marketing/ / 301!
-/services/plumber-email-marketing/ /services/ 301!
+/plumber-marketing-services/plumber-email-marketing/ /services/social-media/email-marketing/ 301!
+/services/plumber-email-marketing/ /services/social-media/email-marketing/ 301!
 
 # ========================================
 # CALL TRACKING / PHONE TRACKING
 # ========================================
 
 # CALL TRACKING - Old Marketing Services URLs
-/marketing-services/call-tracking/ / 301!
+/marketing-services/call-tracking/ /services/ppc/call-tracking/ 301!
 
 # CALL TRACKING - Old Plumber URLs
-/plumber-marketing-services/plumber-call-tracking/ / 301!
-/services/plumber-call-tracking/ /services/ 301!
+/plumber-marketing-services/plumber-call-tracking/ /services/ppc/call-tracking/ 301!
+/services/plumber-call-tracking/ /services/ppc/call-tracking/ 301!
 
 # ========================================
 # REPUTATION MANAGEMENT
 # ========================================
 
 # REPUTATION MANAGEMENT - Old Marketing Services URLs
-/marketing-services/reputation-management/ / 301!
+/marketing-services/reputation-management/ /services/seo/reputation-management/ 301!
 
 # REPUTATION MANAGEMENT - Old Plumber URLs
-/plumber-marketing-services/plumber-reputation-management/ / 301!
-/services/plumber-reputation-management/ /services/ 301!
+/plumber-marketing-services/plumber-reputation-management/ /services/seo/reputation-management/ 301!
+/services/plumber-reputation-management/ /services/seo/reputation-management/ 301!
 
 # ========================================
 # DIRECTORY LISTING MANAGEMENT
 # ========================================
 
 # DIRECTORY LISTINGS - Old Marketing Services URLs
-/marketing-services/directory-listing-management/ / 301!
+/marketing-services/directory-listing-management/ /services/seo/directory-listing-management/ 301!
 
 # DIRECTORY LISTINGS - Old Plumber URLs
-/plumber-marketing-services/plumber-directory-listing-management/ / 301!
-/services/plumber-directory-listing-management/ /services/ 301!
+/plumber-marketing-services/plumber-directory-listing-management/ /services/seo/directory-listing-management/ 301!
+/services/plumber-directory-listing-management/ /services/seo/directory-listing-management/ 301!
 
 # ========================================
 # LOGO DESIGN
 # ========================================
 
 # LOGO DESIGN - Old Marketing Services URLs
-/marketing-services/logo-design-service/ / 301!
-/marketing-services/logo-design-service/logo-design-examples/ / 301!
-/marketing-services/logo-design-service/logo-design-questionnaire/ / 301!
-/logo-design-questionnaire/ / 301!
+/marketing-services/logo-design-service/ /services/branding/logo-design/ 301!
+/marketing-services/logo-design-service/logo-design-examples/ /services/branding/logo-design/ 301!
+/marketing-services/logo-design-service/logo-design-questionnaire/ /services/branding/logo-design/ 301!
+/logo-design-questionnaire/ /services/branding/logo-design/ 301!
 
 # LOGO DESIGN - Old Plumber URLs
-/plumber-marketing-services/logo-design-service/ / 301!
-/plumber-marketing-services/plumber-logo-design-service/ / 301!
-/plumber-marketing-services/plumber-logo-design-service/plumber-logo-design-examples/ / 301!
-/plumber-marketing-services/plumber-logo-design-service/logo-design-questionnaire/ / 301!
-/services/plumber-logo-design/ /services/ 301!
-/plumber-logo-design/ /services/ 301!
+/plumber-marketing-services/logo-design-service/ /services/branding/logo-design/ 301!
+/plumber-marketing-services/plumber-logo-design-service/ /services/branding/logo-design/ 301!
+/plumber-marketing-services/plumber-logo-design-service/plumber-logo-design-examples/ /services/branding/logo-design/ 301!
+/plumber-marketing-services/plumber-logo-design-service/logo-design-questionnaire/ /services/branding/logo-design/ 301!
+/services/plumber-logo-design/ /services/branding/logo-design/ 301!
+/plumber-logo-design/ /services/branding/logo-design/ 301!
 
 # LOGO DESIGN - Old Service URLs
-/services/logo-design/logo-designs-gallery/ /services/ 301!
+/services/logo-design/logo-designs-gallery/ /services/branding/logo-design/ 301!
 
 # LOGO DESIGN - Old Location-Specific URLs
-/marketing-agencies-utah/logo-design-for-business/local-logo-designer-in-roy-city-utah/ / 301!
-/marketing-agencies-utah/logo-design-for-business/local-logo-designer-in-south-ogden-utah/ / 301!
+/marketing-agencies-utah/logo-design-for-business/local-logo-designer-in-roy-city-utah/ /services/branding/logo-design/ 301!
+/marketing-agencies-utah/logo-design-for-business/local-logo-designer-in-south-ogden-utah/ /services/branding/logo-design/ 301!
 
 # ========================================
 # GRAPHIC DESIGN
 # ========================================
 
 # GRAPHIC DESIGN - Old Marketing Services URLs
-/marketing-services/graphic-design-service/ / 301!
-/marketing-services/graphic-design-service/graphic-design-examples/ / 301!
-/graphic-design-gallery/ / 301!
+/marketing-services/graphic-design-service/ /services/branding/graphic-design/ 301!
+/marketing-services/graphic-design-service/graphic-design-examples/ /services/branding/graphic-design/ 301!
+/graphic-design-gallery/ /services/branding/graphic-design/ 301!
 
 # GRAPHIC DESIGN - Old Plumber URLs
-/plumber-marketing-services/graphic-design-service/ / 301!
-/plumber-marketing-services/plumber-graphic-design-service/ / 301!
-/plumber-marketing-services/plumber-graphic-design-service/plumber-graphic-design-examples/ / 301!
-/services/plumber-graphic-design/ /services/ 301!
-/plumber-graphic-design/ /services/ 301!
+/plumber-marketing-services/graphic-design-service/ /services/branding/graphic-design/ 301!
+/plumber-marketing-services/plumber-graphic-design-service/ /services/branding/graphic-design/ 301!
+/plumber-marketing-services/plumber-graphic-design-service/plumber-graphic-design-examples/ /services/branding/graphic-design/ 301!
+/services/plumber-graphic-design/ /services/branding/graphic-design/ 301!
+/plumber-graphic-design/ /services/branding/graphic-design/ 301!
 
 # GRAPHIC DESIGN - WWW Subdomain
-https://www.therebelape.com/services/graphic-design/ /services/ 301!
-https://www.therebelape.com/services/graphic-design /services/ 301!
+https://www.therebelape.com/services/graphic-design/ /services/branding/graphic-design/ 301!
+https://www.therebelape.com/services/graphic-design /services/branding/graphic-design/ 301!
 
 # ========================================
 # CONTENT WRITING
 # ========================================
 
 # CONTENT WRITING - Old Marketing Services URLs
-/marketing-services/content-writing-service/ / 301!
+/marketing-services/content-writing-service/ /services/seo/content-writing/ 301!
 
 # CONTENT WRITING - Old Plumber URLs
-/plumber-marketing-services/plumber-content-writing-service/ / 301!
-/services/plumber-content-writing/ /services/ 301!
+/plumber-marketing-services/plumber-content-writing-service/ /services/seo/content-writing/ 301!
+/services/plumber-content-writing/ /services/seo/content-writing/ 301!
 
 # CONTENT WRITING - Old Root URLs
-/content-writing/ / 301!
+/content-writing/ /services/seo/content-writing/ 301!
 /content-marketing/ /blog/ 301!
 
 # ========================================
@@ -383,7 +386,7 @@ https://www.therebelape.com/services/graphic-design /services/ 301!
 # ========================================
 
 # BRAND DEVELOPMENT - Old Root URLs
-/brand-development/ / 301!
+/brand-development/ /services/branding/ 301!
 
 # ========================================
 # MARKETING SERVICES (General)

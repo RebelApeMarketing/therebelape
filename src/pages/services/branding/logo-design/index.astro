@@ -1,0 +1,390 @@
+---
+import Base from '../../../../layouts/Base.astro';
+import Hero from '../../../../components/sections/Hero.astro';
+import SocialProofBar from '../../../../components/sections/SocialProofBar.astro';
+import CaseStudy from '../../../../components/sections/CaseStudy.astro';
+import TestimonialsDefault from '../../../../components/testimonials/TestimonialsDefault.astro';
+import OrganizationSchema from '../../../../components/schema/OrganizationSchema.astro';
+import ServiceSchema from '../../../../components/schema/ServiceSchema.astro';
+import BreadcrumbSchema from '../../../../components/schema/BreadcrumbSchema.astro';
+import WebPageSchema from '../../../../components/schema/WebPageSchema.astro';
+import FAQSchema from '../../../../components/schema/FAQSchema.astro';
+
+// SEO
+const title = "Logo Design for Contractors | Professional Brand Identity | Rebel Ape";
+const description = "Custom logo design built for contractors — designed to work on trucks, hats, signs, websites, and everywhere your brand shows up. Not AI. Not templates. Yours.";
+const canonical = "https://therebelape.com/services/branding/logo-design/";
+const image = "https://rebelapecdn.b-cdn.net/featured-google-business-profile-for-plumbers-office.webp";
+const type = "website";
+const robots = "index, follow";
+
+// Breadcrumbs
+const breadcrumbs = [
+  { name: "Home", url: "https://therebelape.com/" },
+  { name: "Services", url: "https://therebelape.com/services/" },
+  { name: "Branding", url: "https://therebelape.com/services/branding/" },
+  { name: "Logo Design", url: canonical }
+];
+
+// FAQs
+const faqs = [
+  {
+    question: "How long does the logo design process take?",
+    answer: "Typically 2-4 weeks from our brand discovery meeting to final delivery. That depends on how quickly we move through revisions, but we don't rush it. A logo you'll use for the next decade is worth getting right."
+  },
+  {
+    question: "What if I don't like any of the concepts?",
+    answer: "That's what the brand discovery meeting is for — we dig deep into what you want before we design anything. But if the initial concepts miss the mark, we go back to the drawing board. The revisions exist to dial it in. We're not done until you've got a logo that represents your business."
+  },
+  {
+    question: "Can't I just use AI to generate a logo?",
+    answer: "You can. But AI doesn't think about where your logo needs to work — embroidered on a hat, on a truck at highway speed, on a yard sign from across the street. It also doesn't know that three of your competitors used the same prompt. If you want something that actually functions as a brand asset across every application, you need a designer who thinks about those things."
+  },
+  {
+    question: "Why not just use a cheap freelance marketplace?",
+    answer: "Bargain marketplace designers sell templates with your name swapped in. You're not getting a custom logo — you're getting a version of something that's been sold to dozens of other businesses. And when you need modifications for a specific application, that designer is long gone."
+  },
+  {
+    question: "Do I own the logo when it's done?",
+    answer: "Yes. Full ownership and usage rights transfer to you upon final approval and payment. The logo is yours to use however and wherever you want."
+  },
+  {
+    question: "What if I already have a logo but it needs updating?",
+    answer: "We do logo refreshes too. Sometimes a business doesn't need a complete rebrand — they need their existing logo cleaned up, modernized, and made to work across all the formats and applications they need. We can talk about what makes sense for your situation."
+  }
+];
+---
+
+<Base {title} {description} {canonical} {image} {type} {robots}>
+  <!-- Schema Markup -->
+  <OrganizationSchema slot="head" />
+  <ServiceSchema
+    slot="head"
+    name="Logo Design for Contractors"
+    description={description}
+    url={canonical}
+    serviceType="Logo Design"
+  />
+  <BreadcrumbSchema slot="head" breadcrumbs={breadcrumbs} />
+  <WebPageSchema
+    slot="head"
+    type="WebPage"
+    name={title}
+    description={description}
+    url={canonical}
+    image={image}
+  />
+  <FAQSchema slot="head" faqs={faqs} />
+  <section>
+    <Hero
+      backgroundImage="https://RebelApeCDN.b-cdn.net/bg-gorilla-direct.webp"
+      title="A Logo That Works <span class='text-rebel-green'>Everywhere Your Business Shows Up</span>"
+      subtitle="On a truck at 60mph. Embroidered on a hat. On a yard sign from 30 feet. <span class='text-rebel-green'>Your logo has to work in all of them.</span>"
+      description="Not just look good on a screen. Your logo goes on trucks, hats, yard signs, business cards, websites, and crew uniforms. It needs to look professional at every size and in every context — and it needs to represent where your business is going, not where it's been."
+      features={[
+        'Designed for Real-World Use, Not Just Screens',
+        'Multiple File Formats for Every Application',
+        "Built to Represent Where You're Going, Not Where You've Been"
+      ]}
+      buttonText="Schedule Strategy Session"
+      buttonIcon="calendar"
+      buttonHref="/schedule/"
+      fetchpriority="high"
+    />
+    <SocialProofBar />
+
+    <!-- Section 3: The Problem / Truth Section -->
+    <section class="py-16 md:py-24 section-checkers">
+      <div class="max-w-7xl mx-auto px-4">
+        <div class="grid grid-cols-1 lg:grid-cols-3 gap-12 lg:gap-16 items-stretch">
+          <!-- Text: 2/3 width -->
+          <div class="order-2 lg:order-1 lg:col-span-2">
+            <h2 class="text-4xl md:text-5xl font-bold mb-6">
+              Your Logo Is the First Thing People Judge. <span class="text-rebel-green">Most Contractors Get It Wrong.</span>
+            </h2>
+            <p class="text-lg text-gray-700 mb-6">
+              Before a homeowner ever reads your reviews, visits your website, or hears your pitch — they see your logo. It's on the truck parked in their neighbor's driveway. It's on the yard sign they drive past. It's in the Google search results next to your competitors. And it either says "established professional" or "just some guy with a truck." Most contractors either don't have a real logo, or they have something they grabbed off the internet and changed the text on. That worked when they were starting out — but now they're bidding on bigger jobs, hiring crews, building a reputation, and their brand doesn't match where they're headed.
+            </p>
+            <p class="text-lg text-gray-700 mb-6">
+              Then there are the shortcuts that make it worse. AI-generated logos that look identical to three other roofers in your market because you all typed the same prompt. Cheap freelancer logos that are templates sold to 50 other businesses with different text swapped in. You think it's unique. It's not. And the "designer" disappeared the second you paid.
+            </p>
+            <p class="text-lg text-gray-700">
+              The real cost isn't what you paid for a bad logo — it's every impression that logo makes while it's out there representing you. Every truck wrap, every business card, every yard sign telling potential customers this company doesn't take itself seriously enough to invest in how they look.
+            </p>
+          </div>
+
+          <!-- Image: 1/3 width on desktop, full width on mobile -->
+          <div class="order-1 lg:order-2 flex">
+            <img
+              src="https://RebelApeCDN.b-cdn.net/featured-seo.webp"
+              alt="Contractor logo design that works everywhere"
+              class="w-full h-auto lg:h-full object-cover rounded-lg"
+              loading="lazy"
+              width="600"
+              height="400"
+            />
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Section 4: Our Process -->
+    <section class="py-16 md:py-24 section-slate">
+      <div class="max-w-7xl mx-auto px-4">
+        <!-- Centered Header -->
+        <div class="text-center mb-12">
+          <h2 class="text-4xl md:text-5xl font-bold mb-6">
+            How We Build a Logo That Actually <span class="text-rebel-green">Represents Your Business</span>
+          </h2>
+          <p class="text-lg md:text-xl text-gray-700 max-w-4xl mx-auto">
+            This isn't a template. It's not AI-generated. And it's not a designer who's never thought about where a contractor's logo actually lives in the real world.
+          </p>
+        </div>
+
+        <!-- Mobile image - shown only on mobile -->
+        <div class="lg:hidden mb-8">
+          <img
+            src="https://RebelApeCDN.b-cdn.net/featured-locations.webp"
+            alt="Logo design process for contractors"
+            class="w-full h-auto object-cover rounded-lg"
+            loading="lazy"
+            width="600"
+            height="400"
+          />
+        </div>
+
+        <div class="grid grid-cols-1 lg:grid-cols-3 gap-12 lg:gap-16 items-stretch">
+          <!-- Image: 1/3 width, full height - desktop only -->
+          <div class="hidden lg:flex">
+            <img
+              src="https://RebelApeCDN.b-cdn.net/featured-locations.webp"
+              alt="Logo design process for contractors"
+              class="w-full h-full object-cover rounded-lg"
+              loading="lazy"
+              width="600"
+              height="400"
+            />
+          </div>
+
+          <!-- Process Cards: 2/3 width -->
+          <div class="lg:col-span-2 space-y-4">
+            <div class="bg-white p-6 rounded-lg border-l-4 border-[#32C55F] shadow-2xl">
+              <h3 class="text-xl font-bold mb-2">Brand Discovery Meeting</h3>
+              <p class="text-gray-700">
+                We start with a conversation — not a questionnaire you fill out and hope someone reads. We learn your business, your market, what you want your brand to say, and where you're headed. This meeting shapes everything that comes next.
+              </p>
+            </div>
+
+            <div class="bg-white p-6 rounded-lg border-l-4 border-[#32C55F] shadow-2xl">
+              <h3 class="text-xl font-bold mb-2">Concept Development</h3>
+              <p class="text-gray-700">
+                Based on what we learn, we develop logo concepts built around your actual brand — not generic construction imagery slapped together. Every concept is designed to work across real-world applications: vehicle wraps, embroidery, signage, digital, print. If it doesn't work at every size and on every surface, it doesn't make the cut.
+              </p>
+            </div>
+
+            <div class="bg-white p-6 rounded-lg border-l-4 border-[#32C55F] shadow-2xl">
+              <h3 class="text-xl font-bold mb-2">Presentation & Refinement</h3>
+              <p class="text-gray-700">
+                We don't email you a file and hope you like it. We walk you through each concept in a professional presentation — showing you the logo in multiple color variations, on different backgrounds, and in real-world mockup applications. We talk through what works, what represents your brand, and what needs adjustment. You get three rounds of revisions to dial it in.
+              </p>
+            </div>
+
+            <div class="bg-white p-6 rounded-lg border-l-4 border-[#32C55F] shadow-2xl">
+              <h3 class="text-xl font-bold mb-2">Final Delivery</h3>
+              <p class="text-gray-700">
+                When the logo is approved, you get everything you need: vector files for print and large-format applications, raster files for digital use, multiple color variations, and organized file delivery you can hand directly to your printer, wrap company, or embroiderer.
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Section 5: Why Not AI or Bargain Marketplace -->
+    <section class="py-16 md:py-24 section-checkers">
+      <div class="max-w-7xl mx-auto px-4">
+        <div class="text-center mb-12">
+          <h2 class="text-4xl md:text-5xl font-bold mb-6">
+            Why a $50 Marketplace Logo and an AI-Generated Logo <span class="text-rebel-green">Both Fail Contractors</span>
+          </h2>
+          <p class="text-lg md:text-xl text-gray-700 max-w-4xl mx-auto">
+            These are legitimate questions. AI is getting better. Cheap freelance marketplaces exist. So why spend more?
+          </p>
+        </div>
+
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-8 mb-12">
+          <!-- The AI Problem -->
+          <div class="bg-white p-8 rounded-lg shadow-2xl border-l-4 border-[#32C55F]">
+            <h3 class="text-2xl font-bold mb-4">The AI Problem</h3>
+            <p class="text-gray-700 mb-4">
+              AI can generate a logo in seconds. It can even make it look decent on a screen. But it can't think about your business. It doesn't know that your logo needs to read clean embroidered on a dark polo. It doesn't know that fine detail lines disappear on a yard sign at 30 feet.
+            </p>
+            <p class="text-gray-700">
+              It doesn't know that your competitor three towns over used the same prompt and now you look like his satellite office. AI generates images. It doesn't build brands.
+            </p>
+          </div>
+
+          <!-- The Bargain Marketplace Problem -->
+          <div class="bg-white p-8 rounded-lg shadow-2xl border-l-4 border-[#32C55F]">
+            <h3 class="text-2xl font-bold mb-4">The Bargain Marketplace Problem</h3>
+            <p class="text-gray-700 mb-4">
+              That $50 "custom" logo from a freelance marketplace? It's a template. The designer swapped your business name into a layout they've sold dozens of times. You don't own the concept — you own a version of it.
+            </p>
+            <p class="text-gray-700">
+              And when you need it modified for a truck wrap or scaled up for a banner, good luck finding the original designer. They've already moved on to the next $50 job.
+            </p>
+          </div>
+        </div>
+
+        <!-- What You Actually Need -->
+        <div class="bg-white p-8 rounded-lg shadow-2xl border-l-4 border-[#32C55F] max-w-4xl mx-auto">
+          <h3 class="text-2xl font-bold mb-4 text-center">What You Actually Need</h3>
+          <p class="text-gray-700 text-lg text-center">
+            A logo designed specifically for your business, by someone who understands where contractor logos actually live — not just on screens, but on trucks, hats, shirts, signs, and business cards. Designed to scale from a favicon to a billboard. Designed to be yours, with full rights and every file format you'll ever need.
+          </p>
+        </div>
+      </div>
+    </section>
+
+    <!-- Section 6: What You're Actually Getting -->
+    <section class="py-16 md:py-24 section-slate">
+      <div class="max-w-7xl mx-auto px-4">
+        <div class="text-center mb-16">
+          <h2 class="text-4xl md:text-5xl font-bold mb-4">
+            What You're Actually <span class="text-rebel-green">Getting</span>
+          </h2>
+        </div>
+
+        <!-- Deliverables Grid -->
+        <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
+          <!-- Brand Discovery -->
+          <div class="bg-white border border-gray-200 rounded-lg shadow-xl overflow-hidden">
+            <div class="h-1 bg-rebel-green"></div>
+            <div class="p-6">
+              <h3 class="text-xl font-bold mb-4">Brand Discovery</h3>
+              <ul class="space-y-2 text-gray-700">
+                <li class="flex gap-2 items-start">
+                  <span class="text-[#32C55F]">→</span>
+                  <span>In-depth brand strategy meeting</span>
+                </li>
+                <li class="flex gap-2 items-start">
+                  <span class="text-[#32C55F]">→</span>
+                  <span>Color palette direction</span>
+                </li>
+                <li class="flex gap-2 items-start">
+                  <span class="text-[#32C55F]">→</span>
+                  <span>Style and concept exploration</span>
+                </li>
+                <li class="flex gap-2 items-start">
+                  <span class="text-[#32C55F]">→</span>
+                  <span>Competitive landscape review</span>
+                </li>
+              </ul>
+            </div>
+          </div>
+
+          <!-- Logo Design -->
+          <div class="bg-white border border-gray-200 rounded-lg shadow-xl overflow-hidden">
+            <div class="h-1 bg-rebel-green"></div>
+            <div class="p-6">
+              <h3 class="text-xl font-bold mb-4">Logo Design</h3>
+              <ul class="space-y-2 text-gray-700">
+                <li class="flex gap-2 items-start">
+                  <span class="text-[#32C55F]">→</span>
+                  <span>Custom logo concepts (not templates, not AI)</span>
+                </li>
+                <li class="flex gap-2 items-start">
+                  <span class="text-[#32C55F]">→</span>
+                  <span>Professional presentation walkthrough</span>
+                </li>
+                <li class="flex gap-2 items-start">
+                  <span class="text-[#32C55F]">→</span>
+                  <span>Three rounds of revisions</span>
+                </li>
+                <li class="flex gap-2 items-start">
+                  <span class="text-[#32C55F]">→</span>
+                  <span>Multiple color variations (full color, black, white, reversed)</span>
+                </li>
+              </ul>
+            </div>
+          </div>
+
+          <!-- Final Files -->
+          <div class="bg-white border border-gray-200 rounded-lg shadow-xl overflow-hidden">
+            <div class="h-1 bg-rebel-green"></div>
+            <div class="p-6">
+              <h3 class="text-xl font-bold mb-4">Final Files</h3>
+              <ul class="space-y-2 text-gray-700">
+                <li class="flex gap-2 items-start">
+                  <span class="text-[#32C55F]">→</span>
+                  <span>Vector formats: AI, EPS, PDF (for print, wraps, signage)</span>
+                </li>
+                <li class="flex gap-2 items-start">
+                  <span class="text-[#32C55F]">→</span>
+                  <span>Raster formats: PNG, JPG (for web, social, digital)</span>
+                </li>
+                <li class="flex gap-2 items-start">
+                  <span class="text-[#32C55F]">→</span>
+                  <span>Organized file package ready for any vendor</span>
+                </li>
+                <li class="flex gap-2 items-start">
+                  <span class="text-[#32C55F]">→</span>
+                  <span>Full ownership and usage rights upon completion</span>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Section 7: Connection to the Bigger Picture -->
+    <section class="py-12 section-checkers">
+      <div class="max-w-4xl mx-auto px-4">
+        <h2 class="text-4xl md:text-5xl font-bold mb-6 text-center">
+          Your Logo Is Just <span class="text-rebel-green">the Start</span>
+        </h2>
+        <p class="text-lg text-gray-700 mb-6 text-center">
+          Your logo goes on everything — and when we say everything, we mean every piece of your marketing. Your website header. Your Google Ads. Your Google Business Profile. Your social media. Your truck. Your crew's shirts. Your yard signs.
+        </p>
+        <p class="text-lg text-gray-700 text-center">
+          When we build your marketing system through the <a href="/silverback-authority-method/" class="text-rebel-green font-semibold hover:underline">Silverback Authority Method</a>, having a professional logo means everything launches looking like one cohesive, established brand from day one. Not a patchwork of mismatched design that screams "I'm figuring this out as I go." <a href="/services/branding/" class="text-rebel-green font-semibold hover:underline">Explore our full branding services</a>.
+        </p>
+      </div>
+    </section>
+
+    <!-- Case Study Section -->
+    <section class="py-16 md:py-24 section-slate">
+      <CaseStudy />
+    </section>
+
+    <!-- Testimonials Section -->
+    <section class="py-16 md:py-24 section-checkers">
+      <TestimonialsDefault />
+    </section>
+
+    <!-- FAQ Section -->
+    <section class="py-16 md:py-24 section-slate">
+      <div class="max-w-4xl mx-auto px-4">
+        <div class="text-center mb-12">
+          <h2 class="text-4xl md:text-5xl font-bold mb-4">
+            Frequently Asked <span class="text-rebel-green">Questions</span>
+          </h2>
+        </div>
+
+        <div class="space-y-6">
+          {faqs.map((faq) => (
+            <div class="bg-white border border-gray-200 rounded-lg shadow-lg overflow-hidden">
+              <div class="h-1 bg-rebel-green"></div>
+              <div class="p-6">
+                <h3 class="text-xl font-bold mb-3">{faq.question}</h3>
+                <p class="text-gray-700">{faq.answer}</p>
+              </div>
+            </div>
+          ))}
+        </div>
+      </div>
+    </section>
+
+  </section>
+</Base>
