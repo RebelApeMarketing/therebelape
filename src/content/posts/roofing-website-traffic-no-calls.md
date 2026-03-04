@@ -54,7 +54,7 @@ For example: A roofing contractor we worked with was getting 400 visitors per mo
 
 The traffic was real. The targeting was wrong.
 
-**Want to run a complete audit on your website?** Download the [Ultimate Online Marketing Checklist](https://uomc.therebelape.com/)—it's the same 50+ points we check in every contractor campaign audit, and it'll show you exactly where leads are leaking.
+**Want to run a complete audit on your website?** Download the [Ultimate Online Marketing Checklist](/blueprint/)—it's the same 50+ points we check in every contractor campaign audit, and it'll show you exactly where leads are leaking.
 
 ## What Most Agencies Get Wrong About This Problem
 
@@ -204,7 +204,7 @@ We run a comprehensive technical audit looking at everything from crawlability t
 
 **Step 6: Positioning Audit**
 
-We check positioning using the same framework we teach clients. You can grab our [Ultimate Online Marketing Checklist](https://uomc.therebelape.com/) and run through this yourself—it's the exact audit we use to evaluate whether a roofing website has clear positioning, a real offer, and messaging that converts.
+We check positioning using the same framework we teach clients. You can grab our [Ultimate Online Marketing Checklist](/blueprint/) and run through this yourself—it's the exact audit we use to evaluate whether a roofing website has clear positioning, a real offer, and messaging that converts.
 
 This process typically reveals 8-15 specific issues. Some are quick fixes. Some require rebuilding entire sections of the site. But at least you know what's actually broken instead of guessing.
 
@@ -234,7 +234,7 @@ But here's what you can do:
 
 ### Step 1: Audit Your Current State
 
-Download the [Ultimate Online Marketing Checklist](https://uomc.therebelape.com/) and go through every section. This will show you exactly where you stand on positioning, messaging, technical SEO, and conversion optimization.
+Download the [Ultimate Online Marketing Checklist](/blueprint/) and go through every section. This will show you exactly where you stand on positioning, messaging, technical SEO, and conversion optimization.
 
 Be honest about what you find. Most roofing websites fail on positioning first, technical SEO second, and content quality third.
 
@@ -365,7 +365,7 @@ Your roofing website gets traffic but no calls because one (or all) of these is 
 
 Most agencies will tell you to write more blog posts. We're telling you to fix your positioning first, rebuild your core content second, and build topical authority third. In that order.
 
-You could do this yourself. We've laid out the process in this post and across our website. Download the [Ultimate Online Marketing Checklist](https://uomc.therebelape.com/), run through it honestly, and start fixing what's broken.
+You could do this yourself. We've laid out the process in this post and across our website. Download the [Ultimate Online Marketing Checklist](/blueprint/), run through it honestly, and start fixing what's broken.
 
 Or if reading this made you realize you don't have time for this—especially after a hard day installing shingles in the middle of winter—that's what we're here for.
 

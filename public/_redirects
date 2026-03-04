@@ -113,23 +113,26 @@ https://www.therebelape.com/about-rebel-ape-marketing/about-adam-miconi/ /about/
 # Resources
 /marketing-resources/ /resources/ 301!
 
-# UOMC - Marketing Checklist Landing Page
-http://leads.therebelape.com/* https://therebelape.com/uomc/ 301!
-https://leads.therebelape.com/* https://therebelape.com/uomc/ 301!
-http://uomc.therebelape.com/* https://therebelape.com/uomc/ 301!
-https://uomc.therebelape.com/* https://therebelape.com/uomc/ 301!
-https://go.therebelape.com/checklist/ https://therebelape.com/uomc/ 301!
-https://go.therebelape.com/checklist https://therebelape.com/uomc/ 301!
-https://go.therebelape.com/ https://therebelape.com/uomc/ 301!
-https://go.therebelape.com/checklist-page https://therebelape.com/uomc/ 301!
-https://go.therebelape.com/checklist-page832917 https://therebelape.com/uomc/ 301!
+# Blueprint - Marketing Blueprint Landing Page
+http://leads.therebelape.com/* https://therebelape.com/blueprint/ 301!
+https://leads.therebelape.com/* https://therebelape.com/blueprint/ 301!
+http://uomc.therebelape.com/* https://therebelape.com/blueprint/ 301!
+https://uomc.therebelape.com/* https://therebelape.com/blueprint/ 301!
+https://go.therebelape.com/checklist/ https://therebelape.com/blueprint/ 301!
+https://go.therebelape.com/checklist https://therebelape.com/blueprint/ 301!
+https://go.therebelape.com/ https://therebelape.com/blueprint/ 301!
+https://go.therebelape.com/checklist-page https://therebelape.com/blueprint/ 301!
+https://go.therebelape.com/checklist-page832917 https://therebelape.com/blueprint/ 301!
 
-# UOMC - Redirect old paths to new /uomc/ location
-/lp/uomc/ /uomc/ 301!
-/lp/uomc/b/ /uomc/b/ 301!
-/lp/uomc/thank-you/ /uomc/thank-you/ 301!
-/resources/uomc/ /uomc/ 301!
-/resources/uomc/thank-you/ /uomc/thank-you/ 301!
+# Blueprint - Redirect old paths to new /blueprint/ location
+/uomc/ /blueprint/ 301!
+/uomc/b/ /blueprint/b/ 301!
+/uomc/thank-you/ /blueprint/thank-you/ 301!
+/lp/uomc/ /blueprint/ 301!
+/lp/uomc/b/ /blueprint/b/ 301!
+/lp/uomc/thank-you/ /blueprint/thank-you/ 301!
+/resources/uomc/ /blueprint/ 301!
+/resources/uomc/thank-you/ /blueprint/thank-you/ 301!
 
 # ==========================================================================
 #

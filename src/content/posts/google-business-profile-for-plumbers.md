@@ -209,7 +209,7 @@ And if your current agency isn't doing this? Fire them and find someone who will
 
 We specialize in [local SEO for home service companies](/services/seo/)—and we actually know what we're doing. If you want us to audit your Google Business Profile and show you what's missing, [schedule a call](https://therebelape.com/schedule/) or give us a shout at **(801) 917-4310**.
 
-Or if you want to DIY this, download our [Ultimate Online Marketing Checklist](https://uomc.therebelape.com/) and start fixing it yourself. Either way, stop leaving money on the table.
+Or if you want to DIY this, download our [Ultimate Online Marketing Checklist](/blueprint/) and start fixing it yourself. Either way, stop leaving money on the table.
 
 ## FAQs About Google Business Profiles for Plumbers
 

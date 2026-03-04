@@ -57,7 +57,7 @@ Here's the fix: Replace at least your hero image with an actual photo from one o
 
 Authenticity beats polish when it comes to trust. A real photo of your actual team tells visitors "this is who shows up" way better than a stock photo of people who don't work for you.
 
-**Want the complete audit checklist?** Download the [Ultimate Online Marketing Checklist](https://uomc.therebelape.com/) to see all 50+ optimization opportunities we check in every contractor website audit.
+**Want the complete audit checklist?** Download the [Ultimate Online Marketing Checklist](/blueprint/) to see all 50+ optimization opportunities we check in every contractor website audit.
 
 ## What Most Agencies Tell Contractors (And Why It Fails)
 

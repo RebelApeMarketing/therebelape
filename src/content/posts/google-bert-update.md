@@ -57,7 +57,7 @@ Example of BERT-friendly content: "The average roof replacement in Northern Utah
 
 What Google sees: Specific. Regional expertise. Actually answers the question.
 
-**Want to run this audit on your entire website?** [Download the Ultimate Online Marketing Checklist](https://uomc.therebelape.com/) - it includes the same 50+ points we check when auditing contractor websites for content quality and search performance.
+**Want to run this audit on your entire website?** [Download the Ultimate Online Marketing Checklist](/blueprint/) - it includes the same 50+ points we check when auditing contractor websites for content quality and search performance.
 
 ## What Most Agencies Told You About BERT (And Why They Were Wrong)
 
@@ -307,4 +307,4 @@ The good news? Fixing this isn't complicated. Write naturally. Answer real quest
 
 Your 2018 SEO strategy was built for a search engine that doesn't exist anymore. Time to adapt.
 
-**Ready to audit your website and fix your keyword-stuffed content?** [Download the Ultimate Online Marketing Checklist](https://uomc.therebelape.com/) to see all 50+ optimization points we check, or [schedule a call](/schedule/) to talk about updating your site's content strategy for how search actually works in 2026.
+**Ready to audit your website and fix your keyword-stuffed content?** [Download the Ultimate Online Marketing Checklist](/blueprint/) to see all 50+ optimization points we check, or [schedule a call](/schedule/) to talk about updating your site's content strategy for how search actually works in 2026.

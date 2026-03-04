@@ -65,7 +65,7 @@ Before you spend another dollar on branding, websites, or content, answer these 
 
 If you can't answer all three questions clearly and specifically, you're not ready for the full brand buildout. You're ready for Phase 1.
 
-**Want to see where else your marketing might be leaking leads? [Download the Ultimate Online Marketing Checklist](https://uomc.therebelape.com/)—it's the same 50+ points we audit in every contractor campaign.**
+**Want to see where else your marketing might be leaking leads? [Download the Ultimate Online Marketing Checklist](/blueprint/)—it's the same 50+ points we audit in every contractor campaign.**
 
 ## What Most Agencies Tell Contractors (And Why It Delays Revenue)
 

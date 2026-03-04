@@ -103,7 +103,7 @@ If you can swap your company name with theirs and the message still works word-f
 
 If someone calls and you don't know whether they found you through Google, saw your ad, got a referral, or found you some other way—you don't have tracking. [And without tracking, you can't optimize anything](https://therebelape.com/blog/our-secret-to-tracking-success-and-making-marketing-predictable/).
 
-**Want to audit your entire marketing system?** Download the [Ultimate Online Marketing Checklist](https://uomc.therebelape.com/)—it covers all 50+ elements we check in every roofing contractor campaign.
+**Want to audit your entire marketing system?** Download the [Ultimate Online Marketing Checklist](/blueprint/)—it covers all 50+ elements we check in every roofing contractor campaign.
 
 ## What Most Agencies Get Wrong About Marketing for Roofers
 

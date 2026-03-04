@@ -43,7 +43,7 @@ When everyone has the same technical foundation, those factors stop being differ
 
 The contractors we work with typically come to us after trying this approach and getting frustrated. They paid an SEO agency $1,500/month for 12 months. Rankings improved from page 4 to page 2. Traffic went up slightly. Leads... stayed flat. Because technical optimization alone doesn't create the differentiation that drives conversions.
 
-Want to see where your entire marketing system might be leaking leads? [Download the Ultimate Online Marketing Checklist](https://uomc.therebelape.com/) - it covers the 50+ elements we audit in every contractor campaign, including the positioning factors most agencies ignore.
+Want to see where your entire marketing system might be leaking leads? [Download the Ultimate Online Marketing Checklist](/blueprint/) - it covers the 50+ elements we audit in every contractor campaign, including the positioning factors most agencies ignore.
 
 ## The Evolution of SEO: From Keywords to Authority
 
@@ -141,7 +141,7 @@ This is baseline. This gets you in the game. But this alone won't beat competito
 
 We audit these elements for every client, but we're not pretending this is where the magic happens. It's hygiene, not strategy.
 
-If you want to see the complete technical checklist we use, [download the Ultimate Online Marketing Checklist](https://uomc.therebelape.com/). It covers all 50+ technical and strategic elements we audit.
+If you want to see the complete technical checklist we use, [download the Ultimate Online Marketing Checklist](/blueprint/). It covers all 50+ technical and strategic elements we audit.
 
 ### Phase 2: Content Authority (The Real Differentiator)
 
@@ -329,4 +329,4 @@ This isn't faster or easier than the old technical checklist approach. But it ac
 
 If you're ready to stop fighting the technical SEO arms race and start building real differentiation in your market, [schedule a strategy call](/schedule/) and we'll show you exactly how we'd position your business to outrank the competition.
 
-Or if you want to start with the technical audit first, [download the Ultimate Online Marketing Checklist](https://uomc.therebelape.com/) to see all 50+ elements we check in every contractor campaign - both the technical factors and the strategic positioning elements most agencies ignore.
+Or if you want to start with the technical audit first, [download the Ultimate Online Marketing Checklist](/blueprint/) to see all 50+ elements we check in every contractor campaign - both the technical factors and the strategic positioning elements most agencies ignore.

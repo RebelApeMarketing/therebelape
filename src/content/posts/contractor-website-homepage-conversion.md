@@ -65,7 +65,7 @@ What the AI *can't* tell you is whether your messaging resonates with your marke
 
 The AI can tell you *what* elements you have. It can't tell you if they're working.
 
-**Want to run this audit on your entire marketing system?** Download the [Ultimate Online Marketing Checklist](https://uomc.therebelape.com/) - it's the same 50+ optimization points we check in every contractor campaign audit, including homepage conversion elements that most contractors completely miss.
+**Want to run this audit on your entire marketing system?** Download the [Ultimate Online Marketing Checklist](/blueprint/) - it's the same 50+ optimization points we check in every contractor campaign audit, including homepage conversion elements that most contractors completely miss.
 
 ## What Most Agencies Get Wrong About Homepage Design
 

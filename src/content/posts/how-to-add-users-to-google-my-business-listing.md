@@ -77,7 +77,7 @@ Here's what to check:
 
 If you can't access your Google Business Profile at all, or if you don't know the email address it's tied to, stop reading and figure that out first. Everything else we're about to discuss doesn't matter if you can't get into your own account.
 
-**Want to see what else might be leaking leads?** Download the [Ultimate Online Marketing Checklist](https://uomc.therebelape.com/)—it's the same 50+ points we check when auditing contractor marketing systems.
+**Want to see what else might be leaking leads?** Download the [Ultimate Online Marketing Checklist](/blueprint/)—it's the same 50+ points we check when auditing contractor marketing systems.
 
 ## What Most Agencies Get Wrong About Profile Ownership
 

@@ -43,7 +43,7 @@ You can request an audit from us if you want the full picture. We run one on eve
 
 The point is, don't guess. Don't assume it's fine because your designer said it was optimized. Find out what's actually going on first. Everything else in this post builds on what you find there.
 
-Ready to see the full list of things we check when we audit a contractor's marketing? [Download the Ultimate Online Marketing Checklist](https://uomc.therebelape.com/). It's the same 50+ point checklist we use on every site.
+Ready to see the full list of things we check when we audit a contractor's marketing? [Download the Ultimate Online Marketing Checklist](/blueprint/). It's the same 50+ point checklist we use on every site.
 
 ## What Most Agencies Get Wrong About Ranking
 
